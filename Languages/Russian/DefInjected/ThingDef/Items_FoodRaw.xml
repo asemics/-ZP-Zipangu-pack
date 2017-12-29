@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <R_SeasonedMeat.label>Приправленное мясо</R_SeasonedMeat.label>
+  <R_SeasonedMeat.description>Мясо с приправой. Его можно есть сырым и приготовленным.</R_SeasonedMeat.description>
+
+  <R_FreezeMochi.label>Замороженные моти</R_FreezeMochi.label>
+  <R_FreezeMochi.description>Моти, которые можно хранить в течение длительного времени. Их можно есть сырыми и приготовленными.</R_FreezeMochi.description>
+
+  <ZP_RiceBranPickled.label>Nukaduke</ZP_RiceBranPickled.label>
+  <ZP_RiceBranPickled.description>A preserved meal made vegetables in Nuka(rice bran).\nYou can eat raw this, and make for cooking.</ZP_RiceBranPickled.description>
+
+  <ZP_DriedFish.label>Dried fish</ZP_DriedFish.label>
+  <ZP_DriedFish.description>A preserved food dried to keep raw fish from decaying.\nYou can eat raw this, and make for cooking.</ZP_DriedFish.description>
+
+  <ZP_FermentedSoybeans.label>Natto</ZP_FermentedSoybeans.label>
+  <ZP_FermentedSoybeans.description>Fermented Japanese food fermented Soybean with Bacillus Natto. \nYou can eat raw this, and make for cooking.</ZP_FermentedSoybeans.description>
+
+
+</LanguageData>

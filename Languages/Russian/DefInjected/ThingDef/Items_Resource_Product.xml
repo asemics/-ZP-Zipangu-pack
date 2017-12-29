@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<!-- 燃料 -->
+	<Momigalite.label>Момигалит</Momigalite.label>
+	<Momigalite.description>Может использоваться в качестве топлива.</Momigalite.description>
+	<FuelStraw.label>Топливная солома</FuelStraw.label>
+	<FuelStraw.description>Может использоваться в качестве топлива.</FuelStraw.description>
+	<!-- 米俵 -->
+	<StrawRiceBag_RawRice.label>Соломенная рисовая сумка (рис)</StrawRiceBag_RawRice.label>
+	<StrawRiceBag_RawRice.description>Тут много риса. Кроме того, он может быть продан как особый продукт.</StrawRiceBag_RawRice.description>
+	<StrawRiceBag_RiceMomi.label>StrawRiceBag(Momi)</StrawRiceBag_RiceMomi.label>
+	<StrawRiceBag_RiceMomi.description>This is a collection of much Momi in one. Also, it can be sold as a special product.</StrawRiceBag_RiceMomi.description>
+	<StrawRiceBag_BrownRice.label>StrawRiceBag(Brown Rice)</StrawRiceBag_BrownRice.label>
+	<StrawRiceBag_BrownRice.description>This is a collection of much Brown Rice in one. Also, it can be sold at higher price as a special product.</StrawRiceBag_BrownRice.description>
+	<StrawRiceBag_WhiteRice.label>StrawRiceBag(White rice)</StrawRiceBag_WhiteRice.label>
+	<StrawRiceBag_WhiteRice.description>This is a collection of much White Rice in one.Also, it can be sold at much higher price as a special product.</StrawRiceBag_WhiteRice.description>
+	<!-- 肥料 -->
+	<R_Compost.label>Compost</R_Compost.label>
+	<R_Compost.description>Fertilizer to use when paddy field construction.</R_Compost.description>
+	<ZP_Earthworm.label>Earthworm</ZP_Earthworm.label>
+	<ZP_Earthworm.description>This is necessary for fish food and soil improvement.</ZP_Earthworm.description>
+	<ZP_Mud.label>Mud</ZP_Mud.label>
+	<ZP_Mud.description>This is necessary for soil improvement.</ZP_Mud.description>
+	<!-- 飼料 -->
+	<Manger.label>Manger</Manger.label>
+	<Manger.description>Livestock feed (high nutrient)</Manger.description>
+	<PetFood.label>Pet Food</PetFood.label>
+	<PetFood.description>Pet food perfect for livestock feed.</PetFood.description>
+	<ZP_FishFood.label>Fish food</ZP_FishFood.label>
+	<ZP_FishFood.description>Food of fish made by mixing rice bran and potatoes with water.\n Animals can eat this too.</ZP_FishFood.description>
+	<TatamiStraw.label>Building straw</TatamiStraw.label>
+	<TatamiStraw.description>Processed straw for building materials.</TatamiStraw.description>
+	<TatamiG.label>Tatami(1quire)</TatamiG.label>
+	<TatamiG.description>Tatami of 1 quire size.</TatamiG.description>
+</LanguageData>

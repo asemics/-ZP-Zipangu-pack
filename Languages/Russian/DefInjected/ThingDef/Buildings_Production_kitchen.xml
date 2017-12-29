@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Messtin.label>Messtin</Messtin.label>
+  <Messtin.description>It is used for cooking rice and simple cooking. Cooking speed is reduced by 30%, because there is only a minimum of equipment.</Messtin.description>
+  <Messtin_Blueprint.label>Messtin (blueprint)</Messtin_Blueprint.label>
+  <Messtin_Blueprint_Install.label>Messtin (blueprint)</Messtin_Blueprint_Install.label>
+  <Messtin_Frame.label>Messtin (building)</Messtin_Frame.label>
+  <Messtin_Frame.description>It is used for cooking rice and simple cooking. Cooking speed is reduced by 30%, because there is only a minimum of equipment.</Messtin_Frame.description>
+
+  <IronPot.label>Iron pot</IronPot.label>
+  <IronPot.description>A convenient cooking table when cooking rice or making soup.</IronPot.description>
+  <IronPot_Blueprint.label>Iron pot (blueprint)</IronPot_Blueprint.label>
+  <IronPot_Blueprint_Install.label>Iron pot (blueprint)</IronPot_Blueprint_Install.label>
+  <IronPot_Frame.label>Iron pot (building)</IronPot_Frame.label>
+  <IronPot_Frame.description>A convenient cooking table when cooking rice or making soup.</IronPot_Frame.description>
+
+  <RiceCooker.label>Rice cooker</RiceCooker.label>
+  <RiceCooker.description>A convenient cooking table when cooking rice or making soup. Because it already has the latest cookware cooking speed is increased 30%.</RiceCooker.description>
+  <RiceCooker_Blueprint.label>Rice cooker (blueprint)</RiceCooker_Blueprint.label>
+  <RiceCooker_Blueprint_Install.label>Rice cooker (blueprint)</RiceCooker_Blueprint_Install.label>
+  <RiceCooker_Frame.label>Rice cooker (building)</RiceCooker_Frame.label>
+  <RiceCooker_Frame.description>A convenient cooking table when cooking rice or making soup. Because it already has the latest cookware cooking speed is increased 30%.</RiceCooker_Frame.description>
+
+  <CookingTable.label>Cooking table</CookingTable.label>
+  <CookingTable.description>Cooking table for preparing.\nSpecializing in seasoning and food processing.</CookingTable.description>
+  <CookingTable_Blueprint.label>Cooking table(blueprint)</CookingTable_Blueprint.label>
+  <CookingTable_Blueprint_Install.label>Cooking table(blueprint)</CookingTable_Blueprint_Install.label>
+  <CookingTable_Frame.label>Cooking table(building)</CookingTable_Frame.label>
+  <CookingTable_Frame.description>Cooking table for preparing.\nSpecializing in seasoning and food processing.</CookingTable_Frame.description>
+
+  <PestleAndMortar.label>Kineusu</PestleAndMortar.label>
+  <PestleAndMortar.description>Kine(Pestle) and Usu(mortar) for making mochi. You can make mochi in large quantities.</PestleAndMortar.description>
+  <PestleAndMortar_Blueprint.label>Kineusu(blueprint)</PestleAndMortar_Blueprint.label>
+  <PestleAndMortar_Blueprint_Install.label>Kineusu (blueprint)</PestleAndMortar_Blueprint_Install.label>
+  <PestleAndMortar_Frame.label>Kineusu(building)</PestleAndMortar_Frame.label>
+  <PestleAndMortar_Frame.description>Kine(Pestle) and Usu(mortar) for making mochi. You can make mochi in large quantities.</PestleAndMortar_Frame.description>
+
+  <Nukadoko.label>Nukadoko</Nukadoko.label>
+  <Nukadoko.description>A large bottle that can make a large amount of Nukaduke(rice bran pickles) that are preserved foods.</Nukadoko.description>
+  <Nukadoko_Blueprint.label>Nukadoko(blueprint)</Nukadoko_Blueprint.label>
+  <Nukadoko_Blueprint_Install.label>Nukadoko(blueprint)</Nukadoko_Blueprint_Install.label>
+  <Nukadoko_Frame.label>Nukadoko(building)</Nukadoko_Frame.label>
+  <Nukadoko_Frame.description>A large bottle that can make a large amount of Nukaduke(rice bran pickles) that are preserved foods.</Nukadoko_Frame.description>
+
+
+</LanguageData>

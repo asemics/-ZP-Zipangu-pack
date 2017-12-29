@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<!-- 簡単+0 イナゴの佃煮+1 -->
+	<R_AteTukudani.stages.0.label>I ate Tsukudani of insects</R_AteTukudani.stages.0.label>
+	<R_AteTukudani.stages.0.description>Parhaps I can eat these if I close eyes...?</R_AteTukudani.stages.0.description>
+	<!-- B級グルメ+3 -->
+	<AteMealSimpleB.stages.0.label>I ate cheap but tasty local food !!</AteMealSimpleB.stages.0.label>
+	<AteMealSimpleB.stages.0.description>I am happy to eat cheap but tasty local food.</AteMealSimpleB.stages.0.description>
+	<!-- B級グルメ+3 白米+3 -->
+	<R_AteMealSimpleB.stages.0.label>I ate cheap but tasty local food !!</R_AteMealSimpleB.stages.0.label>
+	<R_AteMealSimpleB.stages.0.description>I am happy to eat cheap but tasty local food made from white rice.</R_AteMealSimpleB.stages.0.description>
+	<!-- 簡単+0 白米+3 -->
+	<R_AteMealSimple.stages.0.label>Я съел(а) восхитительный белый рис!!</R_AteMealSimple.stages.0.label>
+	<R_AteMealSimple.stages.0.description>Я доволен(а) употреблением домашнего белого риса.</R_AteMealSimple.stages.0.description>
+	<!-- 手の込んだ+5 白米+3 -->
+	<R_AteMealFine.stages.0.label>Я съел(а) восхитительный белый рис!!</R_AteMealFine.stages.0.label>
+	<R_AteMealFine.stages.0.description>Я доволен(а) употреблением домашнего белого риса.</R_AteMealFine.stages.0.description>
+	<!-- 豪華+10 白米+5 -->
+	<R_MealLavish.stages.0.label>Я съел(а) восхитительный белый рис!!</R_MealLavish.stages.0.label>
+	<R_MealLavish.stages.0.description>Я доволен(а) употреблением щедрой еды из очень вкусного домашнего белого риса.</R_MealLavish.stages.0.description>
+	<R_CurryRice.stages.0.label>Карри и рис - лучшее!</R_CurryRice.stages.0.label>
+	<R_CurryRice.stages.0.description>Это слишком роскошно, чтобы наслаждаться разными вкусами каждый день, если мы меняем ингредиенты или едим как есть.</R_CurryRice.stages.0.description>
+	<!-- 調味料 -->
+	<R_SeasoningDebuff.stages.0.label>Позволь мне есть еду... пожалуйста...</R_SeasoningDebuff.stages.0.label>
+	<R_SeasoningDebuff.stages.0.description>Еда - это только приправы, это слишком грустно...</R_SeasoningDebuff.stages.0.description>
+	<R_Syrupbuff.stages.0.label>Ну вот, вы крадете и едите рисовый сироп</R_Syrupbuff.stages.0.label>
+	<R_Syrupbuff.stages.0.description>Рисовый сироп, который лижут, чтобы не быть обнаруженным, - это захватывающая сладость!</R_Syrupbuff.stages.0.description>
+</LanguageData>

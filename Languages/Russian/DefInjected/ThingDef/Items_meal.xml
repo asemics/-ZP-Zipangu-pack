@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <BR_Gohan.label>Гохан(BR)</BR_Gohan.label>
+  <BR_Gohan.description>Давайте наслаждаться вкусом риса, не говоря уже о том, что я хочу гарниры!!</BR_Gohan.description>
+
+  <WR_Gohan.label>Гохан</WR_Gohan.label>
+  <WR_Gohan.description>Очень люблю белый рис.</WR_Gohan.description>
+
+  <BR_TKG.label>ТКГ(BR)</BR_TKG.label>
+  <BR_TKG.description>Дьявол. Положите «безопасные» сырые яйца и сделайте вкусный рис еще более вкусным.</BR_TKG.description>
+
+  <WR_TKG.label>ТКГ</WR_TKG.label>
+  <WR_TKG.description>Дьявол. Положите «безопасные» сырые яйца и сделайте вкусный рис еще более вкусным.</WR_TKG.description>
+
+  <BR_Onigiri.label>Онигири(BR)</BR_Onigiri.label>
+  <BR_Onigiri.description>Коричневые рисовые шарики с соленым вкусом, которые можно съесть в любом месте.</BR_Onigiri.description>
+
+  <WR_Onigiri.label>Онигири</WR_Onigiri.label>
+  <WR_Onigiri.description>Белые рисовые шарики с соленым вкусом, которые можно съесть в любом месте.</WR_Onigiri.description>
+
+  <BR_Bento.label>Бэнто(BR)</BR_Bento.label>
+  <BR_Bento.description>Бенто из коричневого риса, который можно съесть в любом месте.</BR_Bento.description>
+
+  <WR_Bento.label>Бэнто</WR_Bento.label>
+  <WR_Bento.description>Бенто из белого риса, который можно съесть в любом месте.</WR_Bento.description>
+
+  <BR_Jubako.label>Осечи(BR)</BR_Jubako.label>
+  <BR_Jubako.description>Щедрый бенто из коричневого риса, который можно съесть в любом месте.</BR_Jubako.description>
+
+  <WR_Jubako.label>Осечи</WR_Jubako.label>
+  <WR_Jubako.description>Щедрый бенто из белого риса, который можно съесть в любом месте.</WR_Jubako.description>
+
+  <BR_Gyudon.label>Гюдон(BR)</BR_Gyudon.label>
+  <BR_Gyudon.description>Чаша с большим количеством мяса на коричневом рисе.</BR_Gyudon.description>
+
+  <WR_Gyudon.label>Гюдон</WR_Gyudon.label>
+  <WR_Gyudon.description>Чаша с большим количеством мяса на белом рисе.</WR_Gyudon.description>
+
+  <WR_JPCurryRice.label>Японское карри</WR_JPCurryRice.label>
+  <WR_JPCurryRice.description>В некоторых странах каждый любит очаровательный рис карри, поэтому он будет бессмысленно воевать с тем, как есть и с какими ингредиентами.</WR_JPCurryRice.description>
+
+  <Tukudani.label>Tsukudani of insects</Tukudani.label>
+  <Tukudani.description>Food that boiled insect meat that should normally be thrown away sweetly with sugar and Soy sauce.</Tukudani.description>
+
+  <ZP_WRSushi.label>Sushi</ZP_WRSushi.label>
+  <ZP_WRSushi.description>Traditional Japanese cuisine with fresh fish fillet on top of vinegared rice.</ZP_WRSushi.description>
+
+  <ZP_Sasimi.label>Sashimi</ZP_Sasimi.label>
+  <ZP_Sasimi.description>Cut the fresh raw fish in a size easy to eat and assorted on the dish.</ZP_Sasimi.description>
+
+  <ZP_SaltGrilledFish.label>Salt-grilled fish</ZP_SaltGrilledFish.label>
+  <ZP_SaltGrilledFish.description>Salted fish was skewered and baked with direct flame. A dish that you can enjoy the taste of baked fish.</ZP_SaltGrilledFish.description>
+
+  <ZP_SteamedFish.label>Boiled fish</ZP_SteamedFish.label>
+  <ZP_SteamedFish.description>Food boiled lightly and then seasoned with seasoning and boiled fish.</ZP_SteamedFish.description>
+
+
+</LanguageData>

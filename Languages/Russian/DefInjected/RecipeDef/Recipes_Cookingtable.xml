@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 味付け肉 -->
+
+  <MakeR_SeasonedMeat5.label>Seasoned meat(5)</MakeR_SeasonedMeat5.label>
+  <MakeR_SeasonedMeat5.description>Eliminate the smell with seasoning, make seasoned meat with slightly enhanced nutrients and preservability.</MakeR_SeasonedMeat5.description>
+  <MakeR_SeasonedMeat5.jobString>Make seasoned meat.</MakeR_SeasonedMeat5.jobString>
+
+  <MakeR_SeasonedMeat20.label>Seasoned meat(20)</MakeR_SeasonedMeat20.label>
+  <MakeR_SeasonedMeat20.description>Eliminate the smell with seasoning, make seasoned meat with slightly enhanced nutrients and preservability.</MakeR_SeasonedMeat20.description>
+  <MakeR_SeasonedMeat20.jobString>Make seasoned meat.</MakeR_SeasonedMeat20.jobString>
+
+  <MakeR_SeasonedMeat50.label>Seasoned meat(50)</MakeR_SeasonedMeat50.label>
+  <MakeR_SeasonedMeat50.description>Eliminate the smell with seasoning, make seasoned meat with slightly enhanced nutrients and preservability.</MakeR_SeasonedMeat50.description>
+  <MakeR_SeasonedMeat50.jobString>Make seasoned meat.</MakeR_SeasonedMeat50.jobString>
+
+  <CookFreezeMochi10.label>Freeze mochi(10)</CookFreezeMochi10.label>
+  <CookFreezeMochi10.description>Make a Frozen mochi that can be stored for a long time by soaking mochis in water and freezing it, then drying it with cold wind.</CookFreezeMochi10.description>
+  <CookFreezeMochi10.jobString>Make a frozen mochi.</CookFreezeMochi10.jobString>
+
+
+  <!-- 凍り餅 -->
+
+  <CookFreezeMochi20.label>Freeze mochi(20)</CookFreezeMochi20.label>
+  <CookFreezeMochi20.description>Make a Frozen mochi that can be stored for a long time by soaking mochis in water and freezing it, then drying it with cold wind.</CookFreezeMochi20.description>
+  <CookFreezeMochi20.jobString>Make a frozen mochi.</CookFreezeMochi20.jobString>
+
+  <CookFreezeMochi50.label>Freeze mochi(50)</CookFreezeMochi50.label>
+  <CookFreezeMochi50.description>Make a Frozen mochi that can be stored for a long time by soaking mochis in water and freezing it, then drying it with cold wind.</CookFreezeMochi50.description>
+  <CookFreezeMochi50.jobString>Make a frozen mochi.</CookFreezeMochi50.jobString>
+
+  <CookFreezeMochi100.label>Freeze mochi(100)</CookFreezeMochi100.label>
+  <CookFreezeMochi100.description>Make a Frozen mochi that can be stored for a long time by soaking mochis in water and freezing it, then drying it with cold wind.</CookFreezeMochi100.description>
+  <CookFreezeMochi100.jobString>Make a frozen mochi.</CookFreezeMochi100.jobString>
+
+
+  <!-- ぬか漬け -->
+
+  <CookRiceBranPickled10.label>Nukaduke(10)</CookRiceBranPickled10.label>
+  <CookRiceBranPickled10.description>Make Nukadoko(pasted rice bran) with rice bran and salt. Immerse vegetables.</CookRiceBranPickled10.description>
+  <CookRiceBranPickled10.jobString>Making Nukaduke</CookRiceBranPickled10.jobString>
+
+  <CookRiceBranPickled20.label>Nukaduke(20)</CookRiceBranPickled20.label>
+  <CookRiceBranPickled20.description>Make Nukadoko(pasted rice bran) with rice bran and salt. Immerse vegetables.</CookRiceBranPickled20.description>
+  <CookRiceBranPickled20.jobString>Making Nukaduke</CookRiceBranPickled20.jobString>
+
+  <CookRiceBranPickled50.label>Nukaduke(50)</CookRiceBranPickled50.label>
+  <CookRiceBranPickled50.description>Make Nukadoko(pasted rice bran) with rice bran and salt. Immerse vegetables.</CookRiceBranPickled50.description>
+  <CookRiceBranPickled50.jobString>Nukaduke</CookRiceBranPickled50.jobString>
+
+
+  <!-- 納豆 -->
+
+  <CookFermentedSoybeans10.label>Natto(10)</CookFermentedSoybeans10.label>
+  <CookFermentedSoybeans10.description>Wrap the soybeans in straw and make natto.</CookFermentedSoybeans10.description>
+  <CookFermentedSoybeans10.jobString>Making Natto</CookFermentedSoybeans10.jobString>
+
+  <CookFermentedSoybeans20.label>Natto(20)</CookFermentedSoybeans20.label>
+  <CookFermentedSoybeans20.description>Wrap the soybeans in straw and make natto.</CookFermentedSoybeans20.description>
+  <CookFermentedSoybeans20.jobString>Making Natto</CookFermentedSoybeans20.jobString>
+
+  <CookFermentedSoybeans50.label>Natto(50)</CookFermentedSoybeans50.label>
+  <CookFermentedSoybeans50.description>Wrap the soybeans in straw and make natto.</CookFermentedSoybeans50.description>
+  <CookFermentedSoybeans50.jobString>Making Natto</CookFermentedSoybeans50.jobString>
+
+  <CookDriedFish10.label>Dried fish(10)</CookDriedFish10.label>
+  <CookDriedFish10.description>Dry raw fish to long last</CookDriedFish10.description>
+  <CookDriedFish10.jobString>making Dried fish</CookDriedFish10.jobString>
+
+  <CookDriedFish20.label>Dried fish(20)</CookDriedFish20.label>
+  <CookDriedFish20.description>Dry raw fish to long last</CookDriedFish20.description>
+  <CookDriedFish20.jobString>making Dried fish</CookDriedFish20.jobString>
+
+  <CookDriedFish50.label>making Dried fish(50)</CookDriedFish50.label>
+  <CookDriedFish50.description>Dry raw fish to long last</CookDriedFish50.description>
+  <CookDriedFish50.jobString>making Dried fish</CookDriedFish50.jobString>
+
+
+</LanguageData>

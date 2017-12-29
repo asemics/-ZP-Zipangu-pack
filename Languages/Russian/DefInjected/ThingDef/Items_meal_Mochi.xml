@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <R_RoastedMochi.label>Жареные моти</R_RoastedMochi.label>
+  <R_RoastedMochi.description>Это просто испеченные мочи, без начинки.</R_RoastedMochi.description>
+
+  <R_ThreeColoredDumplings.label>Три цветных клецки</R_ThreeColoredDumplings.label>
+  <R_ThreeColoredDumplings.description>Немного сладкие клецки. Хотя существуют различные теории, красный представляет собой весну, которая является символом цветущей сакуры, белый представляет собой зиму, которая является символом снега, а зеленый представляет собой лето, которое является символом пышных зеленых насаждений.
+  Причина, почему нет пельменей, представляющих осень, исходит от японской каламбура, что не будучи осенью (Акинай) никогда не скучает по еде, поэтому бизнес (Акиная) будет процветать.</R_ThreeColoredDumplings.description>
+
+  <R_VinegarMochi.label>Уксусные моти</R_VinegarMochi.label>
+  <R_VinegarMochi.description>Моти с уксусом и тертым японским редисом. Местная кухня в районе Кюсю.</R_VinegarMochi.description>
+
+  <R_IsobeMochi.label>Изобэ-моти</R_IsobeMochi.label>
+  <R_IsobeMochi.description>Запеченные моти, пропитанный соевым соусом, завернутые в морские водоросли.</R_IsobeMochi.description>
+
+  <R_GoheiMochi.label>Гохэй-моти</R_GoheiMochi.label>
+  <R_GoheiMochi.description>Моти запекается с железной пластиной и добавляется мисо.</R_GoheiMochi.description>
+
+  <R_ZundaMochi.label>Рисовый пирог</R_ZundaMochi.label>
+  <R_ZundaMochi.description>В сладкие моти добавляют измельченные зеленые бобы.. Местная кухня в районе Тухоку. \nZun!! Zun!! Zunda! Есть анекдот, что одна девушка в определенной стране стала сумасшедшей, потому что она слишком любила рисовый пирог.</R_ZundaMochi.description>
+
+
+</LanguageData>

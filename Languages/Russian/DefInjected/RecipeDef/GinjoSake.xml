@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <R_CookAlcoholBarrel.label>Ginjo barrel</R_CookAlcoholBarrel.label>
+  <R_CookAlcoholBarrel.description>Making a Ginjo(a kind of Japanese alchole) barrel as a raw material for Ginjo.</R_CookAlcoholBarrel.description>
+  <R_CookAlcoholBarrel.jobString>making Ginjo barrel</R_CookAlcoholBarrel.jobString>
+
+  <MakeGinjoSake.label>Ginjo(25)</MakeGinjoSake.label>
+  <MakeGinjoSake.description>Make Ginjo(a kind of Japanese alchole)</MakeGinjoSake.description>
+  <MakeGinjoSake.jobString>Making Ginjo</MakeGinjoSake.jobString>
+
+
+</LanguageData>

@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- クナイ投げ -->
+
+  <kunai_ao.label>Метательный кунай</kunai_ao.label>
+
+  <Kunai_Ranged.label>Метательный кунай</Kunai_Ranged.label>
+  <Kunai_Ranged.description>Метательный кунай нож для выживания. Когда вы его экипируете, вы чувствуете себя как ниндзя и сможете быстро бегать. Этот кунай для метания и не может быть использовать в ближнем бою.</Kunai_Ranged.description>
+
+
+  <!-- クナイ投げ3 -->
+
+  <kunai_3ao.label>Тройной метательный кунай</kunai_3ao.label>
+
+  <Kunai_3Ranged.label>Тройной метательный кунай</Kunai_3Ranged.label>
+  <Kunai_3Ranged.description>Тройной метательный кунай нож для выживания. Бросьте три одновременно. Этот кунай не имеет никакого эффекта ускорения.</Kunai_3Ranged.description>
+
+
+  <!-- 和弓 Base  グレートボウ -->
+
+  <Arrow_JPstyleGreatBow.label>Стрела</Arrow_JPstyleGreatBow.label>
+
+  <Bow_JPstyleGreat.label>Японский лук</Bow_JPstyleGreat.label>
+  <Bow_JPstyleGreat.description>Лук, улучшенный в великий лук. Увеличен урон и дальность.</Bow_JPstyleGreat.description>
+
+
+  <!-- 和弓 Base  火炎筒投射機 -->
+
+  <FireArrow_JPstyleGreatBow.label>fire arrow</FireArrow_JPstyleGreatBow.label>
+
+  <Bow_JPstyleGreat_Fire.label>JapaneseLongbow(fire)</Bow_JPstyleGreat_Fire.label>
+  <Bow_JPstyleGreat_Fire.description>A bow improved to improve long bow and shoot fire arrow.</Bow_JPstyleGreat_Fire.description>
+
+  <PoisonArrow_JPstyleGreatBow.label>poison arrow</PoisonArrow_JPstyleGreatBow.label>
+
+  <Bow_JPstyleGreat_Poison.label>SnakeLongbow(poison)</Bow_JPstyleGreat_Poison.label>
+  <Bow_JPstyleGreat_Poison.description>A bow that improved the Long Bow and raised its power and range.</Bow_JPstyleGreat_Poison.description>
+
+
+  <!-- 種子島 Base 狙撃銃 -->
+
+  <Bullet_Tanegasima.label>Пуля танэгасимы</Bullet_Tanegasima.label>
+
+  <Gun_Tanegasima.label>Танэгасима</Gun_Tanegasima.label>
+  <Gun_Tanegasima.description>Оружие аркебуза, улучшенное мушкетом. Размер калибра и вес пули являются отличительными и он имеет возможность оторвать часть тела в случае малой дальности стрельбы. Скорость движения падает.</Gun_Tanegasima.description>
+  <Gun_Tanegasima.tools.0.label>stock</Gun_Tanegasima.tools.0.label>
+  <Gun_Tanegasima.tools.1.label>barrel</Gun_Tanegasima.tools.1.label>
+
+
+</LanguageData>

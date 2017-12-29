@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Apparel 分類 下着 -->
+
+  <ZP_Dogi.label>Dogi</ZP_Dogi.label>
+  <ZP_Dogi.description>The clothes worn by the martial Taoists of japan. The lightweight design makes this outfit very convenient and flexible for close combat. </ZP_Dogi.description>
+
+  <ZP_Underwear.label>Underwear</ZP_Underwear.label>
+  <ZP_Underwear.description>Underwear, it's fascinating to wear. </ZP_Underwear.description>
+
+  <ZP_NinjaApparel.label>Одежда ниндзя</ZP_NinjaApparel.label>
+  <ZP_NinjaApparel.description>Одежда используется для шпионажа и разведки. Двигаясь быстро, вы можете наброситься на них.</ZP_NinjaApparel.description>
+
+  <ZP_MikoApparel.label>Одежда служительницы</ZP_MikoApparel.label>
+  <ZP_MikoApparel.description>Синто - это традиционный японский анимизм. Эту одежду носила Синто Мико. боги яаоюродзу, которые, как говорят остаются во всех вещах, защищают их от злых мыслей.</ZP_MikoApparel.description>
+
+  <ZP_GujiApparel.label>Одежда Кан-нуси</ZP_GujiApparel.label>
+  <ZP_GujiApparel.description>Синто - это традиционный японский анимизм. Эту одежду носила Синто Кан-нуси. боги яаоюродзу, которые, как говорят остаются во всех вещах, защищают их от злых мыслей.</ZP_GujiApparel.description>
+
+  <ZP_SamuraiApparel.label>Одежда самурая</ZP_SamuraiApparel.label>
+  <ZP_SamuraiApparel.description>Одежда, которую носили самураи. Поскольку дух самураев в ней живет, вы можете получить защиту во время битвы в ближнем бою.</ZP_SamuraiApparel.description>
+
+  <ZP_Longjohns.label>Matahiki</ZP_Longjohns.label>
+  <ZP_Longjohns.description>This is traditional Japanese trousers and used as underwear.</ZP_Longjohns.description>
+
+  <ZP_Loincloth.label>Hundoshi</ZP_Loincloth.label>
+  <ZP_Loincloth.description>This is traditional Japanese underwear.</ZP_Loincloth.description>
+
+
+  <!-- 羽織 Base パーカー -->
+
+  <ZP_HaoriApparel.label>Пальто</ZP_HaoriApparel.label>
+  <ZP_HaoriApparel.description>Пальто, подходящее для холодной зимы. Поскольку оно может использоваться как формальное платье, оно также полезно для важных приемов.</ZP_HaoriApparel.description>
+
+
+  <!-- 蓑 Base ダスターコート -->
+
+  <ZP_Mino.label>Straw rain cape</ZP_Mino.label>
+  <ZP_Mino.description>Japanese name Mino. A raincoat made from straw, it can also be used as armor while hunting. \nThey were quite common in olden China, Japan, Vietnam and Korea.</ZP_Mino.description>
+
+
+  <!-- 胸当て Base 防弾チョッキ -->
+
+  <ZP_ArcherArmor.label>Нагрудная броня</ZP_ArcherArmor.label>
+  <ZP_ArcherArmor.description>Защитное снаряжение, которое носят лучники. Стабильная стрельба обеспечена.</ZP_ArcherArmor.description>
+
+
+  <!-- 足軽具足 Base 防弾チョッキ -->
+
+  <ZP_AsigaruArmor.label>Доспехи асигару</ZP_AsigaruArmor.label>
+  <ZP_AsigaruArmor.description>Броня, которую носит Асигару (солдат). Проста в использовании, чтобы можно было решить любую ситуацию.</ZP_AsigaruArmor.description>
+
+
+  <!-- 将軍鎧 Base パワーアーマー -->
+
+  <ZP_SyogunArmor.label>Броня сёгуна</ZP_SyogunArmor.label>
+  <ZP_SyogunArmor.description>Доспехи, которые может носить только сёгун (генерал). Вы можете быть чемпионом в сражении, потому что защищены толстой броней.</ZP_SyogunArmor.description>
+
+  <ZP_TetateShield.label>Tetate</ZP_TetateShield.label>
+  <ZP_TetateShield.description>A shield that can protect yourself from arrows and bullets and prevent melee attacks.</ZP_TetateShield.description>
+
+
+</LanguageData>
