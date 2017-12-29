@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 味付け肉 -->
+
+  <MakeR_SeasonedMeat5.label>장조림(5)</MakeR_SeasonedMeat5.label>
+  <MakeR_SeasonedMeat5.description>조미료로 구린내를 없애 영양소와 보존성을 조금 높인 장조림을 만든다.</MakeR_SeasonedMeat5.description>
+  <MakeR_SeasonedMeat5.jobString>味付け肉を作る</MakeR_SeasonedMeat5.jobString>
+
+  <MakeR_SeasonedMeat20.label>장조림(20)</MakeR_SeasonedMeat20.label>
+  <MakeR_SeasonedMeat20.description>조미료로 구린내를 없애 영양소와 보존성을 조금 높인 장조림을 만든다.</MakeR_SeasonedMeat20.description>
+  <MakeR_SeasonedMeat20.jobString>味付け肉を作る</MakeR_SeasonedMeat20.jobString>
+
+  <MakeR_SeasonedMeat50.label>장조림(50)</MakeR_SeasonedMeat50.label>
+  <MakeR_SeasonedMeat50.description>조미료로 구린내를 없애 영양소와 보존성을 조금 높인 장조림을 만든다.</MakeR_SeasonedMeat50.description>
+  <MakeR_SeasonedMeat50.jobString>味付け肉を作る</MakeR_SeasonedMeat50.jobString>
+
+  <CookFreezeMochi10.label>말린 떡(10)</CookFreezeMochi10.label>
+  <CookFreezeMochi10.description>떡을 물에 담구어 얼린 것을,찬바람에 노출시켜 건조된 떡을 만든다.</CookFreezeMochi10.description>
+  <CookFreezeMochi10.jobString>말린 떡를 만드는 중</CookFreezeMochi10.jobString>
+
+
+  <!-- 凍り餅 -->
+
+  <CookFreezeMochi20.label>말린 떡(20)</CookFreezeMochi20.label>
+  <CookFreezeMochi20.description>떡을 물에 담구어 얼린 것을,찬바람에 노출시켜 건조된 떡을 만든다.</CookFreezeMochi20.description>
+  <CookFreezeMochi20.jobString>말린 떡를 만드는 중</CookFreezeMochi20.jobString>
+
+  <CookFreezeMochi50.label>말린 떡(50)</CookFreezeMochi50.label>
+  <CookFreezeMochi50.description>떡을 물에 담구어 얼린 것을,찬바람에 노출시켜 건조된 떡을 만든다.</CookFreezeMochi50.description>
+  <CookFreezeMochi50.jobString>말린 떡를 만드는 중</CookFreezeMochi50.jobString>
+
+  <CookFreezeMochi100.label>말린 떡(100)</CookFreezeMochi100.label>
+  <CookFreezeMochi100.description>떡을 물에 담구어 얼린 것을,찬바람에 노출시켜 건조된 떡을 만든다.</CookFreezeMochi100.description>
+  <CookFreezeMochi100.jobString>말린 떡를 만드는 중</CookFreezeMochi100.jobString>
+
+
+  <!-- ぬか漬け -->
+
+  <CookRiceBranPickled10.label>Nukaduke(10)</CookRiceBranPickled10.label>
+  <CookRiceBranPickled10.description>Make Nukadoko(pasted rice bran) with rice bran and salt. Immerse vegetables.</CookRiceBranPickled10.description>
+  <CookRiceBranPickled10.jobString>Making Nukaduke</CookRiceBranPickled10.jobString>
+
+  <CookRiceBranPickled20.label>Nukaduke(20)</CookRiceBranPickled20.label>
+  <CookRiceBranPickled20.description>Make Nukadoko(pasted rice bran) with rice bran and salt. Immerse vegetables.</CookRiceBranPickled20.description>
+  <CookRiceBranPickled20.jobString>Making Nukaduke</CookRiceBranPickled20.jobString>
+
+  <CookRiceBranPickled50.label>Nukaduke(50)</CookRiceBranPickled50.label>
+  <CookRiceBranPickled50.description>Make Nukadoko(pasted rice bran) with rice bran and salt. Immerse vegetables.</CookRiceBranPickled50.description>
+  <CookRiceBranPickled50.jobString>Nukaduke</CookRiceBranPickled50.jobString>
+
+
+  <!-- 納豆 -->
+
+  <CookFermentedSoybeans10.label>Natto(10)</CookFermentedSoybeans10.label>
+  <CookFermentedSoybeans10.description>Wrap the soybeans in straw and make natto.</CookFermentedSoybeans10.description>
+  <CookFermentedSoybeans10.jobString>Making Natto</CookFermentedSoybeans10.jobString>
+
+  <CookFermentedSoybeans20.label>Natto(20)</CookFermentedSoybeans20.label>
+  <CookFermentedSoybeans20.description>Wrap the soybeans in straw and make natto.</CookFermentedSoybeans20.description>
+  <CookFermentedSoybeans20.jobString>Making Natto</CookFermentedSoybeans20.jobString>
+
+  <CookFermentedSoybeans50.label>Natto(50)</CookFermentedSoybeans50.label>
+  <CookFermentedSoybeans50.description>Wrap the soybeans in straw and make natto.</CookFermentedSoybeans50.description>
+  <CookFermentedSoybeans50.jobString>Making Natto</CookFermentedSoybeans50.jobString>
+
+  <CookDriedFish10.label>Dried fish(10)</CookDriedFish10.label>
+  <CookDriedFish10.description>Dry raw fish to long last</CookDriedFish10.description>
+  <CookDriedFish10.jobString>making Dried fish</CookDriedFish10.jobString>
+
+  <CookDriedFish20.label>Dried fish(20)</CookDriedFish20.label>
+  <CookDriedFish20.description>Dry raw fish to long last</CookDriedFish20.description>
+  <CookDriedFish20.jobString>making Dried fish</CookDriedFish20.jobString>
+
+  <CookDriedFish50.label>making Dried fish(50)</CookDriedFish50.label>
+  <CookDriedFish50.description>Dry raw fish to long last</CookDriedFish50.description>
+  <CookDriedFish50.jobString>making Dried fish</CookDriedFish50.jobString>
+
+
+</LanguageData>

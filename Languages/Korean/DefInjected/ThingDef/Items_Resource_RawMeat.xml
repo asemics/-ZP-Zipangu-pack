@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ZP_Fish.label>Fish</ZP_Fish.label>
+  <ZP_Fish.description>Fish raised in aquaculture net. Mysterious fish whose taste changes according to cooking method.</ZP_Fish.description>
+
+  <ZP_SoyBeen.label>SoyBeen</ZP_SoyBeen.label>
+  <ZP_SoyBeen.description>When cooking soybeans it can be treated as meat. Raw materials for miso and soy sauce.</ZP_SoyBeen.description>
+
+  <ZP_Edamame.label>Edamame</ZP_Edamame.label>
+  <ZP_Edamame.description>Although preservation and nutritional value are low, it is convenient as a substitute for meat because it grows fast.</ZP_Edamame.description>
+
+
+</LanguageData>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 豪華な食事　重箱 -->
+
+  <CookBRJubako4.label>현미 찬합(4)</CookBRJubako4.label>
+  <CookBRJubako4.description>찬합을 4개 만든다</CookBRJubako4.description>
+  <CookBRJubako4.jobString>찬합을 만든다</CookBRJubako4.jobString>
+
+  <CookWRJubako4.label>찬합(4)</CookWRJubako4.label>
+  <CookWRJubako4.description>찬합을 4개 만든다</CookWRJubako4.description>
+  <CookWRJubako4.jobString>찬합을 만든다</CookWRJubako4.jobString>
+
+
+</LanguageData>

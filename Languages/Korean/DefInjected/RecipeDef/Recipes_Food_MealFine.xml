@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 手の込んだ食事　卵かけご飯 -->
+
+  <CookBRTKG1.label>현미 간장계란밥</CookBRTKG1.label>
+  <CookBRTKG1.description>간장계란밥을 만든다</CookBRTKG1.description>
+  <CookBRTKG1.jobString>간장계란밥을 만든다</CookBRTKG1.jobString>
+
+  <CookBRTKG4.label>현미 간장계란밥(4)</CookBRTKG4.label>
+  <CookBRTKG4.description>현미 간장계란밥을４개 만든다</CookBRTKG4.description>
+  <CookBRTKG4.jobString>현미 간장계란밥 을 만든다</CookBRTKG4.jobString>
+
+  <CookWRTKG1.label>현미 간장계란밥</CookWRTKG1.label>
+  <CookWRTKG1.description>현미 간장계란밥 을 만든다</CookWRTKG1.description>
+  <CookWRTKG1.jobString>현미 간장계란밥 을 만든다</CookWRTKG1.jobString>
+
+  <CookWRTKG4.label>현미 간장계란밥(4)</CookWRTKG4.label>
+  <CookWRTKG4.description>현미 간장계란밥을４개 만든다</CookWRTKG4.description>
+  <CookWRTKG4.jobString>현미 간장계란밥 을 만든다</CookWRTKG4.jobString>
+
+
+  <!-- 手の込んだ食事　肉丼 -->
+
+  <CookBRGyudon1.label>현미 고기 덮밥</CookBRGyudon1.label>
+  <CookBRGyudon1.description>고기 덮밥 을 만든다</CookBRGyudon1.description>
+  <CookBRGyudon1.jobString>고기 덮밥 을 만든다</CookBRGyudon1.jobString>
+
+  <CookBRGyudon4.label>현미 고기 덮밥(4)</CookBRGyudon4.label>
+  <CookBRGyudon4.description>고기 덮밥을４개 만든다</CookBRGyudon4.description>
+  <CookBRGyudon4.jobString>고기 덮밥 을 만든다</CookBRGyudon4.jobString>
+
+  <CookWRGyudon1.label>고기 덮밥</CookWRGyudon1.label>
+  <CookWRGyudon1.description>고기 덮밥 을 만든다</CookWRGyudon1.description>
+  <CookWRGyudon1.jobString>고기 덮밥 을 만든다</CookWRGyudon1.jobString>
+
+  <CookWRGyudon4.label>고기 덮밥(4)</CookWRGyudon4.label>
+  <CookWRGyudon4.description>고기 덮밥을４개 만든다</CookWRGyudon4.description>
+  <CookWRGyudon4.jobString>고기 덮밥 을 만든다</CookWRGyudon4.jobString>
+
+  <CookSasimi8.label>Sashimi(8)</CookSasimi8.label>
+  <CookSasimi8.description>Make Sashimi(cut fish)</CookSasimi8.description>
+  <CookSasimi8.jobString>Making Sashimi</CookSasimi8.jobString>
+
+  <CookSaltGrilledFish8.label>Salt-grilled fish(8)</CookSaltGrilledFish8.label>
+  <CookSaltGrilledFish8.description>Make Salt-grilled fish.</CookSaltGrilledFish8.description>
+  <CookSaltGrilledFish8.jobString>Making Salt-grilled fish</CookSaltGrilledFish8.jobString>
+
+  <CookSteamedFish8.label>Boiled fish(8)</CookSteamedFish8.label>
+  <CookSteamedFish8.description>Make Boiled fish.</CookSteamedFish8.description>
+  <CookSteamedFish8.jobString>making Boiled fish</CookSteamedFish8.jobString>
+
+
+</LanguageData>

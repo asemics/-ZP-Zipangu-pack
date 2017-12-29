@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 脱穀機　稲穂⇒米(籾) -->
+
+  <MakeThreshingMachineRice10.label>벼 이삭을 탈곡시킨다(10)</MakeThreshingMachineRice10.label>
+  <MakeThreshingMachineRice10.description>탈곡시켜서 쌀(벼)와 짚을 나눈다. 종래로 부터 효율적이게 탈곡시킬 수 있다.</MakeThreshingMachineRice10.description>
+  <MakeThreshingMachineRice10.jobString>벼 이삭을 탈곡시킨다</MakeThreshingMachineRice10.jobString>
+
+  <MakeThreshingMachineRice50.label>벼 이삭을 탈곡시킨다(50)</MakeThreshingMachineRice50.label>
+  <MakeThreshingMachineRice50.description>탈곡시켜서 쌀(벼)와 짚을 나눈다. 종래로 부터 효율적이게 탈곡시킬 수 있다.</MakeThreshingMachineRice50.description>
+  <MakeThreshingMachineRice50.jobString>벼 이삭을 탈곡시킨다</MakeThreshingMachineRice50.jobString>
+
+  <MakeThreshingMachineRice100.label>벼 이삭을 탈곡시킨다(100)</MakeThreshingMachineRice100.label>
+  <MakeThreshingMachineRice100.description>탈곡시켜서 쌀(벼)와 짚을 나눈다. 종래로 부터 효율적이게 탈곡시킬 수 있다.</MakeThreshingMachineRice100.description>
+  <MakeThreshingMachineRice100.jobString>벼 이삭을 탈곡시킨다</MakeThreshingMachineRice100.jobString>
+
+  <MakeThreshingMachineRice200.label>벼 이삭을 탈곡시킨다(200)</MakeThreshingMachineRice200.label>
+  <MakeThreshingMachineRice200.description>탈곡시켜서 쌀(벼)와 짚을 나눈다. 종래로 부터 효율적이게 탈곡시킬 수 있다.</MakeThreshingMachineRice200.description>
+  <MakeThreshingMachineRice200.jobString>벼 이삭을 탈곡시킨다</MakeThreshingMachineRice200.jobString>
+
+
+  <!-- 탈곡기　벼 이삭⇒쌀(벼) -->
+
+</LanguageData>

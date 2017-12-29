@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Messtin.label>반합</Messtin.label>
+  <Messtin.description>밥을 짓거나 간단한 조리를 할때에 쓰인다.\n최저급의 설비밖에 없기 때문에 조리속도가 30%저하한다.</Messtin.description>
+  <Messtin_Blueprint.label>반합(blueprint)</Messtin_Blueprint.label>
+  <Messtin_Blueprint_Install.label>반합 (blueprint)</Messtin_Blueprint_Install.label>
+  <Messtin_Frame.label>반합 (building)</Messtin_Frame.label>
+  <Messtin_Frame.description>밥을 짓거나 간단한 조리를 할때에 쓰인다.\n최저급의 설비밖에 없기 때문에 조리속도가 30%저하한다.</Messtin_Frame.description>
+
+  <IronPot.label>가마</IronPot.label>
+  <IronPot.description>밥을 짓거나 국을 만들 때에 편리한 조리대.</IronPot.description>
+  <IronPot_Blueprint.label>가마 (blueprint)</IronPot_Blueprint.label>
+  <IronPot_Blueprint_Install.label>가마 (blueprint)</IronPot_Blueprint_Install.label>
+  <IronPot_Frame.label>가마 (building)</IronPot_Frame.label>
+  <IronPot_Frame.description>밥을 짓거나 국을 만들 때에 편리한 조리대.</IronPot_Frame.description>
+
+  <RiceCooker.label>취반기</RiceCooker.label>
+  <RiceCooker.description>밥을 짓거나 국을 만들때에 편리한 조리대.\n최신초리기구가 갖추어져 조리속도가 30%상승한다.</RiceCooker.description>
+  <RiceCooker_Blueprint.label>취반기 (blueprint)</RiceCooker_Blueprint.label>
+  <RiceCooker_Blueprint_Install.label>취반기 (blueprint)</RiceCooker_Blueprint_Install.label>
+  <RiceCooker_Frame.label>취반기 (building)</RiceCooker_Frame.label>
+  <RiceCooker_Frame.description>밥을 짓거나 국을 만들때에 편리한 조리대.\n최신초리기구가 갖추어져 조리속도가 30%상승한다.</RiceCooker_Frame.description>
+
+  <CookingTable.label>Cooking table</CookingTable.label>
+  <CookingTable.description>Cooking table for preparing.\nSpecializing in seasoning and food processing.</CookingTable.description>
+  <CookingTable_Blueprint.label>Cooking table(blueprint)</CookingTable_Blueprint.label>
+  <CookingTable_Blueprint_Install.label>Cooking table(blueprint)</CookingTable_Blueprint_Install.label>
+  <CookingTable_Frame.label>Cooking table(building)</CookingTable_Frame.label>
+  <CookingTable_Frame.description>Cooking table for preparing.\nSpecializing in seasoning and food processing.</CookingTable_Frame.description>
+
+  <PestleAndMortar.label>Kineusu</PestleAndMortar.label>
+  <PestleAndMortar.description>Kine(Pestle) and Usu(mortar) for making mochi. You can make mochi in large quantities.</PestleAndMortar.description>
+  <PestleAndMortar_Blueprint.label>Kineusu(blueprint)</PestleAndMortar_Blueprint.label>
+  <PestleAndMortar_Blueprint_Install.label>Kineusu (blueprint)</PestleAndMortar_Blueprint_Install.label>
+  <PestleAndMortar_Frame.label>Kineusu(building)</PestleAndMortar_Frame.label>
+  <PestleAndMortar_Frame.description>Kine(Pestle) and Usu(mortar) for making mochi. You can make mochi in large quantities.</PestleAndMortar_Frame.description>
+
+  <Nukadoko.label>Nukadoko</Nukadoko.label>
+  <Nukadoko.description>A large bottle that can make a large amount of Nukaduke(rice bran pickles) that are preserved foods.</Nukadoko.description>
+  <Nukadoko_Blueprint.label>Nukadoko(blueprint)</Nukadoko_Blueprint.label>
+  <Nukadoko_Blueprint_Install.label>Nukadoko(blueprint)</Nukadoko_Blueprint_Install.label>
+  <Nukadoko_Frame.label>Nukadoko(building)</Nukadoko_Frame.label>
+  <Nukadoko_Frame.description>A large bottle that can make a large amount of Nukaduke(rice bran pickles) that are preserved foods.</Nukadoko_Frame.description>
+
+
+</LanguageData>

@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 簡単な食事 ご飯 -->
+
+  <CookBRGohan1.label>현미 밥</CookBRGohan1.label>
+  <CookBRGohan1.description>밥을 만든다</CookBRGohan1.description>
+  <CookBRGohan1.jobString>밥을 만든다</CookBRGohan1.jobString>
+
+  <CookBRGohan4.label>현미 밥 (4)</CookBRGohan4.label>
+  <CookBRGohan4.description>밥을 4개 만든다</CookBRGohan4.description>
+  <CookBRGohan4.jobString>밥을 만든다</CookBRGohan4.jobString>
+
+  <CookGohan1.label>밥</CookGohan1.label>
+  <CookGohan1.description>밥을 만든다</CookGohan1.description>
+  <CookGohan1.jobString>밥을 만든다</CookGohan1.jobString>
+
+  <CookGohan4.label>밥(4)</CookGohan4.label>
+  <CookGohan4.description>밥을 4개 만든다</CookGohan4.description>
+  <CookGohan4.jobString>밥을 만든다</CookGohan4.jobString>
+
+
+  <!-- 簡単な食事 単品 -->
+
+  <CookTsukudani.label>Tsukudani of insects(4)</CookTsukudani.label>
+  <CookTsukudani.description>Boil the insect meat sweetly with sugar and soy sauce.</CookTsukudani.description>
+  <CookTsukudani.jobString>Boiling...</CookTsukudani.jobString>
+
+
+</LanguageData>

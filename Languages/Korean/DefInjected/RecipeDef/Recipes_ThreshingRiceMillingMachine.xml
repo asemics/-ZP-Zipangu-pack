@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- マルチ式脱穀精米機　稲穂⇒白米 -->
+
+  <MakeThreshingRiceMillingMachine10.label>벼 이삭을 백미로 만든다(10)</MakeThreshingRiceMillingMachine10.label>
+  <MakeThreshingRiceMillingMachine10.description>벼 이삭을 탈곡정미해서 백미, 짚, 왕겨, 쌀겨로 나눈다</MakeThreshingRiceMillingMachine10.description>
+  <MakeThreshingRiceMillingMachine10.jobString>탈곡정미 중</MakeThreshingRiceMillingMachine10.jobString>
+
+  <MakeThreshingRiceMillingMachine50.label>벼 이삭을 백미로 만든다(50)</MakeThreshingRiceMillingMachine50.label>
+  <MakeThreshingRiceMillingMachine50.description>벼 이삭을 탈곡정미해서 백미, 짚, 왕겨, 쌀겨로 나눈다</MakeThreshingRiceMillingMachine50.description>
+  <MakeThreshingRiceMillingMachine50.jobString>탈곡정미 중</MakeThreshingRiceMillingMachine50.jobString>
+
+  <MakeThreshingRiceMillingMachine100.label>벼 이삭을 백미로 만든다(100)</MakeThreshingRiceMillingMachine100.label>
+  <MakeThreshingRiceMillingMachine100.description>벼 이삭을 탈곡정미해서 백미, 짚, 왕겨, 쌀겨로 나눈다</MakeThreshingRiceMillingMachine100.description>
+  <MakeThreshingRiceMillingMachine100.jobString>탈곡정미 중</MakeThreshingRiceMillingMachine100.jobString>
+
+  <MakeThreshingRiceMillingMachine200.label>벼 이삭을 백미로 만든다(200)</MakeThreshingRiceMillingMachine200.label>
+  <MakeThreshingRiceMillingMachine200.description>벼 이삭을 탈곡정미해서 백미, 짚, 왕겨, 쌀겨로 나눈다</MakeThreshingRiceMillingMachine200.description>
+  <MakeThreshingRiceMillingMachine200.jobString>탈곡정미 중</MakeThreshingRiceMillingMachine200.jobString>
+
+
+  <!-- マルチ式脱穀精米機　稲穂⇒玄米 -->
+
+  <MakeThreshingRiceMillingMachine10_2.label>벼 이삭을 현미로 만든다(10)</MakeThreshingRiceMillingMachine10_2.label>
+  <MakeThreshingRiceMillingMachine10_2.description>벼 이삭을 탈곡정미해서 현미, 짚, 왕겨, 쌀겨로 나눈다</MakeThreshingRiceMillingMachine10_2.description>
+  <MakeThreshingRiceMillingMachine10_2.jobString>탈곡 중</MakeThreshingRiceMillingMachine10_2.jobString>
+
+  <MakeThreshingRiceMillingMachine50_2.label>벼 이삭을 현미로 만든다(50)</MakeThreshingRiceMillingMachine50_2.label>
+  <MakeThreshingRiceMillingMachine50_2.description>벼 이삭을 탈곡정미해서 현미, 짚, 왕겨, 쌀겨로 나눈다</MakeThreshingRiceMillingMachine50_2.description>
+  <MakeThreshingRiceMillingMachine50_2.jobString>탈곡 중</MakeThreshingRiceMillingMachine50_2.jobString>
+
+  <MakeThreshingRiceMillingMachine100_2.label>벼 이삭을 현미로 만든다(100)</MakeThreshingRiceMillingMachine100_2.label>
+  <MakeThreshingRiceMillingMachine100_2.description>벼 이삭을 탈곡정미해서 현미, 짚, 왕겨, 쌀겨로 나눈다</MakeThreshingRiceMillingMachine100_2.description>
+  <MakeThreshingRiceMillingMachine100_2.jobString>탈곡 중</MakeThreshingRiceMillingMachine100_2.jobString>
+
+  <MakeThreshingRiceMillingMachine200_2.label>벼 이삭을 현미로 만든다(200)</MakeThreshingRiceMillingMachine200_2.label>
+  <MakeThreshingRiceMillingMachine200_2.description>벼 이삭을 탈곡정미해서 현미, 짚, 왕겨, 쌀겨로 나눈다</MakeThreshingRiceMillingMachine200_2.description>
+  <MakeThreshingRiceMillingMachine200_2.jobString>탈곡 중</MakeThreshingRiceMillingMachine200_2.jobString>
+
+
+  <!-- マルチ式脱穀精米機　稲穂⇒籾米 -->
+
+  <MakeThreshingRiceMillingMachine10_3.label>벼 이삭을 쌀(벼)로 나눈다(10)</MakeThreshingRiceMillingMachine10_3.label>
+  <MakeThreshingRiceMillingMachine10_3.description>벼 이삭을 탈곡시켜서 쌀(벼)와 짚으로 나눈다</MakeThreshingRiceMillingMachine10_3.description>
+  <MakeThreshingRiceMillingMachine10_3.jobString>탈곡 중</MakeThreshingRiceMillingMachine10_3.jobString>
+
+  <MakeThreshingRiceMillingMachine50_3.label>벼 이삭을 쌀(벼)로 나눈다(50)</MakeThreshingRiceMillingMachine50_3.label>
+  <MakeThreshingRiceMillingMachine50_3.description>벼 이삭을 탈곡시켜서 쌀(벼)와 짚으로 나눈다</MakeThreshingRiceMillingMachine50_3.description>
+  <MakeThreshingRiceMillingMachine50_3.jobString>탈곡 중</MakeThreshingRiceMillingMachine50_3.jobString>
+
+  <MakeThreshingRiceMillingMachine100_3.label>벼 이삭을 쌀(벼)로 나눈다(100)</MakeThreshingRiceMillingMachine100_3.label>
+  <MakeThreshingRiceMillingMachine100_3.description>벼 이삭을 탈곡시켜서 쌀(벼)와 짚으로 나눈다</MakeThreshingRiceMillingMachine100_3.description>
+  <MakeThreshingRiceMillingMachine100_3.jobString>탈곡 중</MakeThreshingRiceMillingMachine100_3.jobString>
+
+  <MakeThreshingRiceMillingMachine200_3.label>벼 이삭을 쌀(벼)로 나눈다(200)</MakeThreshingRiceMillingMachine200_3.label>
+  <MakeThreshingRiceMillingMachine200_3.description>벼 이삭을 탈곡시켜서 쌀(벼)와 짚으로 나눈다</MakeThreshingRiceMillingMachine200_3.description>
+  <MakeThreshingRiceMillingMachine200_3.jobString>탈곡 중</MakeThreshingRiceMillingMachine200_3.jobString>
+
+
+  <!-- 복합식 탈곡정미기　벼 이삭⇒백미 -->
+  <!-- 복합식 탈곡정미기　벼 이삭⇒현미 -->
+  <!-- 복합식 탈곡정미기　벼 이삭⇒쌀(벼) -->
+
+</LanguageData>

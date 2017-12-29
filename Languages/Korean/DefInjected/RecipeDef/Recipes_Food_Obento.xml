@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 手の込んだ食事 日の丸弁当 -->
+
+  <CookBRBento4.label>현미 일장기 도시락(4)</CookBRBento4.label>
+  <CookBRBento4.description>일장기 도시락을 4개 만든다</CookBRBento4.description>
+  <CookBRBento4.jobString>일장기 도시락을 만든다</CookBRBento4.jobString>
+
+  <CookWRBento4.label>일장기 도시락(4)</CookWRBento4.label>
+  <CookWRBento4.description>일장기 도시락을 4개 만든다</CookWRBento4.description>
+  <CookWRBento4.jobString>일장기 도시락을 만든다</CookWRBento4.jobString>
+
+
+</LanguageData>

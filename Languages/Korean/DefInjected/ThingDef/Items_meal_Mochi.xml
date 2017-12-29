@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <R_RoastedMochi.label>구운 떡</R_RoastedMochi.label>
+  <R_RoastedMochi.description>심플하게 구웠을 뿐인 떡.</R_RoastedMochi.description>
+
+  <R_ThreeColoredDumplings.label>삼색당고</R_ThreeColoredDumplings.label>
+  <R_ThreeColoredDumplings.description>희미하게 달달한 당고. 여러가지 설이 있지만 빨간 색은 벚꽃의 상징인 봄을, 흰색은 눈의 상징인 겨울을, 초록은 신록의 상징인 여름을 나타내고 있다.\n가을이 없는 이유는 질리지 않게 장사를 하기 위해、아무리 먹더라도 질리지 않기 때문에 장사가 번창하기 때문이라고 한다(역주:말장난입니다).</R_ThreeColoredDumplings.description>
+
+  <R_VinegarMochi.label>시큼한 떡</R_VinegarMochi.label>
+  <R_VinegarMochi.description>무즙과 식초를 무친 떡. 큐슈의 향토요리.</R_VinegarMochi.description>
+
+  <R_IsobeMochi.label>이소베모찌</R_IsobeMochi.label>
+  <R_IsobeMochi.description>구운 떡에 간장을 뿌리고 김을 싼 모찌.</R_IsobeMochi.description>
+
+  <R_GoheiMochi.label>고헤이모찌</R_GoheiMochi.label>
+  <R_GoheiMochi.description>말린 떡를 판자에 붙여 불로 그을린 후 된장을 바른 것.</R_GoheiMochi.description>
+
+  <R_ZundaMochi.label>즌다모찌</R_ZundaMochi.label>
+  <R_ZundaMochi.description>갈아서 으깬 풋콩을 휘감은 달달한 모찌. 토호쿠의 향토요리.\n즌!!즌!!즌다!!어떤 나라의 소녀는 즌다모찌를 너무나 사랑하여 광인이 되버렸다는 일화가 있다.</R_ZundaMochi.description>
+
+
+</LanguageData>

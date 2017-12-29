@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <CookRoastedMochi5.label>구운떡(5)</CookRoastedMochi5.label>
+  <CookRoastedMochi5.description>말린 떡를 구워서 구운떡을 5개 만든다</CookRoastedMochi5.description>
+  <CookRoastedMochi5.jobString>구운떡を作る</CookRoastedMochi5.jobString>
+
+  <CookThreeColoredDumplings5.label>삼색당고(5)</CookThreeColoredDumplings5.label>
+  <CookThreeColoredDumplings5.description>말린 떡에 설탕을 집어넣어 색을 입힌 후 삼색당고를 5개 만든다</CookThreeColoredDumplings5.description>
+  <CookThreeColoredDumplings5.jobString>삼색당고를 만든다</CookThreeColoredDumplings5.jobString>
+
+  <CookVinegarMochi5.label>시큼한 떡(5)</CookVinegarMochi5.label>
+  <CookVinegarMochi5.description>말린 떡를 구운 후 식초와 무즙을 무쳐서 시큼한 떡을 5개 만든다</CookVinegarMochi5.description>
+  <CookVinegarMochi5.jobString>시큼한 떡을 만든다</CookVinegarMochi5.jobString>
+
+  <CookIsobeMochi5.label>이소베모찌(5)</CookIsobeMochi5.label>
+  <CookIsobeMochi5.description>말린 떡를 구운 후 간장을 뿌리고 김을 싸서 이소베모찌를 5개 만든다</CookIsobeMochi5.description>
+  <CookIsobeMochi5.jobString>이소베모찌를 만든다</CookIsobeMochi5.jobString>
+
+  <CookGoheiMochi5.label>고헤이모찌(5)</CookGoheiMochi5.label>
+  <CookGoheiMochi5.description>말린 떡를 판자에 붙여 불로 그을린 후 된장을 발라 고헤이모찌를 5개 만든다</CookGoheiMochi5.description>
+  <CookGoheiMochi5.jobString>고헤이모찌를 만든다</CookGoheiMochi5.jobString>
+
+  <CookZundaMochi5.label>ずんだ餅(5)</CookZundaMochi5.label>
+  <CookZundaMochi5.description>凍り餅を焼いてからペーストした枝豆のせたずんだ餅を5個作る</CookZundaMochi5.description>
+  <CookZundaMochi5.jobString>ずんだを作る</CookZundaMochi5.jobString>
+
+
+</LanguageData>

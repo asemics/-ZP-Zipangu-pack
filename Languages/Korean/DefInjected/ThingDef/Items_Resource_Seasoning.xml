@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 調味料 -->
+
+  <R_Syrup.label>쌀엿</R_Syrup.label>
+  <R_Syrup.description>전통적인 감미료.\n\n원료인 쌀의 종류나 가공방법에 따라, 황금색부터 적동색을 비친다.\n\n설탕이 보급되기 전에는 일본전국 어디서든 사용되어 왔다.</R_Syrup.description>
+
+  <R_NaturalSalt.label>천연 소금</R_NaturalSalt.label>
+  <R_NaturalSalt.description>염분을 머금은 물을 졸여서 만든 소금.</R_NaturalSalt.description>
+
+  <R_VinegarBarrel.label>Rice vineger barrel</R_VinegarBarrel.label>
+  <R_VinegarBarrel.description>This is necessary barrel for make Rice vineger.</R_VinegarBarrel.description>
+
+  <R_Vinegar.label>식초</R_Vinegar.label>
+  <R_Vinegar.description>요리에 쓰여지는 식초.</R_Vinegar.description>
+
+  <R_SoySauceBarrel.label>Soy sauce barrel</R_SoySauceBarrel.label>
+  <R_SoySauceBarrel.description>This is necessary barrel for make Soy sauce</R_SoySauceBarrel.description>
+
+  <R_SoySauce.label>간장</R_SoySauce.label>
+  <R_SoySauce.description>요리에 쓰여지는 간장.</R_SoySauce.description>
+
+  <R_MisoBarrel.label>Miso barrel</R_MisoBarrel.label>
+  <R_MisoBarrel.description>This is necessary barrel for make Miso.</R_MisoBarrel.description>
+
+  <R_Miso.label>된장</R_Miso.label>
+  <R_Miso.description>요리에 쓰여지는 된장.</R_Miso.description>
+
+
+</LanguageData>

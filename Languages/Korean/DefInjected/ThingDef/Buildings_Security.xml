@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 大盾　Base 土嚢 -->
+
+  <ZP_KaiShield.label>Kaitate</ZP_KaiShield.label>
+  <ZP_KaiShield.description>An installation type shield that can prevent shooting.\nIt is an inexpensive shield with a high coverage rate and made by a quick construction, but it needs to be careful as the durability burns considerably low.</ZP_KaiShield.description>
+  <ZP_KaiShield_Blueprint.label>Kaitate(blueprint)</ZP_KaiShield_Blueprint.label>
+  <ZP_KaiShield_Frame.label>Kaitete(building)</ZP_KaiShield_Frame.label>
+  <ZP_KaiShield_Frame.description>An installation type shield that can prevent shooting.\nIt is an inexpensive shield with a high coverage rate and made by a quick construction, but it needs to be careful as the durability burns considerably low.</ZP_KaiShield_Frame.description>
+
+
+  <!-- 火計用藁　Base 土嚢 -->
+
+  <ZP_StrawLump.label>Straw mass</ZP_StrawLump.label>
+  <ZP_StrawLump.description>Flammable straw clumps. By arranging and burning, it is possible to create a wall of fire. Since it deals with fire, you must be careful in operation.</ZP_StrawLump.description>
+  <ZP_StrawLump_Blueprint.label>Straw mass(blueprint)</ZP_StrawLump_Blueprint.label>
+  <ZP_StrawLump_Frame.label>Straw mass(building)</ZP_StrawLump_Frame.label>
+  <ZP_StrawLump_Frame.description>Flammable straw clumps. By arranging and burning, it is possible to create a wall of fire. Since it deals with fire, you must be careful in operation.</ZP_StrawLump_Frame.description>
+
+  <ZP_StrawLump_Gunpowder.label>Gunpowder in Straw mass</ZP_StrawLump_Gunpowder.label>
+  <ZP_StrawLump_Gunpowder.description>A mass of straw containing explosives. It can be exploded by burning. Since it deals with fire, you must be careful in operation.</ZP_StrawLump_Gunpowder.description>
+  <ZP_StrawLump_Gunpowder_Blueprint.label>Gunpowder in Straw mass(blueprint)</ZP_StrawLump_Gunpowder_Blueprint.label>
+  <ZP_StrawLump_Gunpowder_Frame.label>Gunpowder in Straw mass(building)</ZP_StrawLump_Gunpowder_Frame.label>
+  <ZP_StrawLump_Gunpowder_Frame.description>A mass of straw containing explosives. It can be exploded by burning. Since it deals with fire, you must be careful in operation.</ZP_StrawLump_Gunpowder_Frame.description>
+
+
+</LanguageData>

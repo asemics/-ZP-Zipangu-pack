@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Rise_Prant.label>벼(쌀)</Rise_Prant.label>
+  <Rise_Prant.description>밭에서 기를 수 있는 쌀.\n백미를 먹을 때 까지의 시간은 힘들겠지만 애정을 갖고 기른 쌀은 의식주등 여러가지의 일에 활용된다. 연구가 진행되면 품종개량도 가능하다 우수한 곡물.</Rise_Prant.description>
+
+  <UplandRice.label>밭벼(쌀)</UplandRice.label>
+  <UplandRice.description>밭에서 기를 수 있는 쌀.\n수확 속도를 중시하고 수확량은 조금만 증가시킨 품종.</UplandRice.description>
+
+  <WetlandRice.label>논벼(쌀)</WetlandRice.label>
+  <WetlandRice.description>논에서 기를 수 있는 쌀.\n벼 이삭에 대량의 쌀을 여물게 하기 위해 개량했지만, 성장속도가 희생된 품종.</WetlandRice.description>
+
+
+</LanguageData>

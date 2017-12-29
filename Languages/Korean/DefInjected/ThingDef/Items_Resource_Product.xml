@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 燃料 -->
+
+  <Momigalite.label>왕겨연료</Momigalite.label>
+  <Momigalite.description>왕겨를 연료용으로 가공한 것.</Momigalite.description>
+
+  <FuelStraw.label>연료용 짚</FuelStraw.label>
+  <FuelStraw.description>짚을 연료용으로 가공한 것.</FuelStraw.description>
+
+
+  <!-- 米俵 -->
+
+  <StrawRiceBag_RawRice.label>가마니(쌀)</StrawRiceBag_RawRice.label>
+  <StrawRiceBag_RawRice.description>쌀(생)을 대량으로 보존 시킬 수 있다. 또、특산품으로써 팔린다.</StrawRiceBag_RawRice.description>
+
+  <StrawRiceBag_RiceMomi.label>가마니(벼)</StrawRiceBag_RiceMomi.label>
+  <StrawRiceBag_RiceMomi.description>쌀(벼)를 보존시킬 수 있다. 또、특산품으로써 팔린다.</StrawRiceBag_RiceMomi.description>
+
+  <StrawRiceBag_BrownRice.label>가마니(현미)</StrawRiceBag_BrownRice.label>
+  <StrawRiceBag_BrownRice.description>현미를 보존시킬 수 있다、또、특산품으로써 팔린다.</StrawRiceBag_BrownRice.description>
+
+  <StrawRiceBag_WhiteRice.label>가마니(백미)</StrawRiceBag_WhiteRice.label>
+  <StrawRiceBag_WhiteRice.description>현미를 보존시킬 수 있다、또、특산품으로써 팔린다.</StrawRiceBag_WhiteRice.description>
+
+
+  <!-- 肥料 -->
+
+  <R_Compost.label>퇴비</R_Compost.label>
+  <R_Compost.description>논 제작시에 사용되는 비료.</R_Compost.description>
+
+  <ZP_Earthworm.label>Earthworm</ZP_Earthworm.label>
+  <ZP_Earthworm.description>This is necessary for fish food and soil improvement.</ZP_Earthworm.description>
+
+  <ZP_Mud.label>Mud</ZP_Mud.label>
+  <ZP_Mud.description>This is necessary for soil improvement.</ZP_Mud.description>
+
+
+  <!-- 飼料 -->
+
+  <Manger.label>여물</Manger.label>
+  <Manger.description>가축용사료(고영양소)</Manger.description>
+
+  <PetFood.label>Pet Food</PetFood.label>
+  <PetFood.description>Pet food perfect for livestock feed.</PetFood.description>
+
+  <ZP_FishFood.label>Fish food</ZP_FishFood.label>
+  <ZP_FishFood.description>Food of fish made by mixing rice bran and potatoes with water.\n Animals can eat this too.</ZP_FishFood.description>
+
+  <TatamiStraw.label>Building straw</TatamiStraw.label>
+  <TatamiStraw.description>Processed straw for building materials.</TatamiStraw.description>
+
+  <TatamiG.label>Tatami(1quire)</TatamiG.label>
+  <TatamiG.description>Tatami of 1 quire size.</TatamiG.description>
+
+</LanguageData>

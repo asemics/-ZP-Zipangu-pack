@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <R_SeasonedMeat.label>장조림</R_SeasonedMeat.label>
+  <R_SeasonedMeat.description>조미료로 고기의 구린내를 지워 보존성을 조금 높인 고기.\n생으로도 먹을 수 있고, 조리에도 쓰인다.</R_SeasonedMeat.description>
+
+  <R_FreezeMochi.label>말린 떡</R_FreezeMochi.label>
+  <R_FreezeMochi.description>떡을 물에 담구어 얼린 것을,찬바람에 노출시켜 건조된 보존식.\n생으로도 먹을 수 있고, 조리에도 쓰인다.</R_FreezeMochi.description>
+
+  <ZP_RiceBranPickled.label>Nukaduke</ZP_RiceBranPickled.label>
+  <ZP_RiceBranPickled.description>A preserved meal made vegetables in Nuka(rice bran).\nYou can eat raw this, and make for cooking.</ZP_RiceBranPickled.description>
+
+  <ZP_DriedFish.label>Dried fish</ZP_DriedFish.label>
+  <ZP_DriedFish.description>A preserved food dried to keep raw fish from decaying.\nYou can eat raw this, and make for cooking.</ZP_DriedFish.description>
+
+  <ZP_FermentedSoybeans.label>Natto</ZP_FermentedSoybeans.label>
+  <ZP_FermentedSoybeans.description>Fermented Japanese food fermented Soybean with Bacillus Natto. \nYou can eat raw this, and make for cooking.</ZP_FermentedSoybeans.description>
+
+
+</LanguageData>

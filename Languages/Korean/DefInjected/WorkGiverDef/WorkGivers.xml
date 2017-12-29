@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Thresh_Polish.label>脱穀精米</Thresh_Polish.label>
+  <Thresh_Polish.verb>thresh and polish</Thresh_Polish.verb>
+  <Thresh_Polish.gerund>threshing and polishing</Thresh_Polish.gerund>
+
+  <Threshing_Husk.label>脱穀</Threshing_Husk.label>
+  <Threshing_Husk.verb>thresh</Threshing_Husk.verb>
+  <Threshing_Husk.gerund>threshing</Threshing_Husk.gerund>
+
+  <Process_Rice.label>탈곡정미</Process_Rice.label>
+  <Process_Rice.verb>process</Process_Rice.verb>
+  <Process_Rice.gerund>processing</Process_Rice.gerund>
+
+  <DoBillsRiceCook.label>쌀요리를 만든다</DoBillsRiceCook.label>
+  <DoBillsRiceCook.verb>cook</DoBillsRiceCook.verb>
+  <DoBillsRiceCook.gerund>요리 중</DoBillsRiceCook.gerund>
+
+  <DoBillsRicePreparation.label>cook rice</DoBillsRicePreparation.label>
+  <DoBillsRicePreparation.verb>cook</DoBillsRicePreparation.verb>
+  <DoBillsRicePreparation.gerund>cooking at</DoBillsRicePreparation.gerund>
+
+  <DoBillsUseDiggingHole.label>do bills at digging a hole</DoBillsUseDiggingHole.label>
+  <DoBillsUseDiggingHole.verb>mine</DoBillsUseDiggingHole.verb>
+  <DoBillsUseDiggingHole.gerund>mining</DoBillsUseDiggingHole.gerund>
+
+  <DoBillsUseRiceCraftingSpot.label>do bills at crafting spot</DoBillsUseRiceCraftingSpot.label>
+  <DoBillsUseRiceCraftingSpot.verb>craft</DoBillsUseRiceCraftingSpot.verb>
+  <DoBillsUseRiceCraftingSpot.gerund>crafting at</DoBillsUseRiceCraftingSpot.gerund>
+
+
+</LanguageData>

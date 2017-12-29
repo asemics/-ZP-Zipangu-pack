@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 簡単+0 イナゴの佃煮+1 -->
+
+  <R_AteTukudani.stages.0.label>I ate Tsukudani of insects</R_AteTukudani.stages.0.label>
+  <R_AteTukudani.stages.0.description>Parhaps I can eat these if I close eyes...?</R_AteTukudani.stages.0.description>
+
+
+  <!-- 簡単+0 白米+3 -->
+
+  <R_AteMealSimple.stages.0.label>맛있는 백미를 먹었다!!</R_AteMealSimple.stages.0.label>
+  <R_AteMealSimple.stages.0.description>자가제작미를 먹을 수 있게 되서 행복해</R_AteMealSimple.stages.0.description>
+
+  <!-- B級グルメ+3 -->
+  <AteMealSimpleB.stages.0.label>I ate cheap but tasty local food !!</AteMealSimpleB.stages.0.label>
+  <AteMealSimpleB.stages.0.description>I am happy to eat cheap but tasty local food.</AteMealSimpleB.stages.0.description>
+  
+  <!-- B級グルメ+3 白米+3 -->
+  <R_AteMealSimpleB.stages.0.label>I ate cheap but tasty local food !!</R_AteMealSimpleB.stages.0.label>
+  <R_AteMealSimpleB.stages.0.description>I am happy to eat cheap but tasty local food made from white rice.</R_AteMealSimpleB.stages.0.description>
+
+
+  <!-- 手の込んだ+5 白米+3 -->
+
+  <R_AteMealFine.stages.0.label>맛있는 백미를 먹었다!!</R_AteMealFine.stages.0.label>
+  <R_AteMealFine.stages.0.description>자가제작미를 사용한 좋은 식사를 먹을 수 있어서 행복해</R_AteMealFine.stages.0.description>
+
+
+  <!-- 豪華+10 白米+5 -->
+
+  <R_MealLavish.stages.0.label>맛있는 백미를 먹었다!!</R_MealLavish.stages.0.label>
+  <R_MealLavish.stages.0.description>최고로 맛있는 자가제작미를 사용한 호화스러운 식사를 먹을 수 있어서 행복해</R_MealLavish.stages.0.description>
+
+  <R_CurryRice.stages.0.label>카레라이스 최고!!</R_CurryRice.stages.0.label>
+  <R_CurryRice.stages.0.description>속재료를 바꿔 먹는 방법을 바꿔보면, 매일매일 다른 맛을 즐길 수 있다니 너무 사치스럽다</R_CurryRice.stages.0.description>
+
+
+  <!-- 調味料 -->
+
+  <R_SeasoningDebuff.stages.0.label>밥을....먹게해줘....</R_SeasoningDebuff.stages.0.label>
+  <R_SeasoningDebuff.stages.0.description>식재가 조미료뿐이라니 제정신이 아니야....</R_SeasoningDebuff.stages.0.description>
+
+  <R_Syrupbuff.stages.0.label>훔쳐먹기는 꿀맛</R_Syrupbuff.stages.0.label>
+  <R_Syrupbuff.stages.0.description>모두에게 들키지 않도록 빠는 쌀엿은 스릴만점인 맛이야!!</R_Syrupbuff.stages.0.description>
+
+
+  <!-- 手の込んだ+5 白米+5 -->
+  <!-- 豪華+10 白米+10 -->
+
+</LanguageData>

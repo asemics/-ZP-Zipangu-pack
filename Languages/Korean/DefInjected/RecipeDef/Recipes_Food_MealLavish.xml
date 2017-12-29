@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 豪華な食事　カレーライス -->
+
+  <CookWRJPCurryRice8.label>카레라이스(8)</CookWRJPCurryRice8.label>
+  <CookWRJPCurryRice8.description>카레라이스를 8개 만든다</CookWRJPCurryRice8.description>
+  <CookWRJPCurryRice8.jobString>카레라이스를 만든다</CookWRJPCurryRice8.jobString>
+
+
+  <!-- 豪華な食事　寿司 -->
+
+  <CookWRSushi8.label>Sushi(8)</CookWRSushi8.label>
+  <CookWRSushi8.description>Make Sushi.</CookWRSushi8.description>
+  <CookWRSushi8.jobString>Making sushi</CookWRSushi8.jobString>
+
+
+</LanguageData>

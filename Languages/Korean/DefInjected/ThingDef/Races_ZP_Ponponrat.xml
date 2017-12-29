@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- ポン菓子ロープ -->
+
+  <ZP_Ponponrat.label>Pomb rat</ZP_Ponponrat.label>
+  <ZP_Ponponrat.description>Subspecies boomrat.It seems that these are faster than normal boomrat, and when you butcher these you can get puffed rice.\n\nAs a result of feeding puffed rice at other colony, these were inadvertently mutated.\nThese became possible to generate the explosive power in the body when generating puffed rice. Moving speed and explosive power are enhanced.\nIt is not harmful, but be careful as it becomes a bombing special attacker when it becomes extremely excited.\nIntelligence is high because these were popular among some enthusiasts and was also training.</ZP_Ponponrat.description>
+  <ZP_Ponponrat.tools.0.label>left claw</ZP_Ponponrat.tools.0.label>
+  <ZP_Ponponrat.tools.1.label>right claw</ZP_Ponponrat.tools.1.label>
+  <ZP_Ponponrat.tools.3.label>head</ZP_Ponponrat.tools.3.label>
+  <!-- Use Leather From: Boomrat -->
+  <!-- Use Meat From: Boomrat -->
+  <ZP_Ponponrat_Corpse.label>Pomb rat corpse</ZP_Ponponrat_Corpse.label>
+  <ZP_Ponponrat_Corpse.description>Pomb rat corpse</ZP_Ponponrat_Corpse.description>
+
+
+</LanguageData>

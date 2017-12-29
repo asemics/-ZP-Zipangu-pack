@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RiceCraftingSpot.label>Rice crafting spot</RiceCraftingSpot.label>
+  <RiceCraftingSpot.description>Work place to process agricultural crops and by-products.</RiceCraftingSpot.description>
+  <RiceCraftingSpot_Blueprint.label>Rice crafting spot (blueprint)</RiceCraftingSpot_Blueprint.label>
+  <RiceCraftingSpot_Frame.label>Rice crafting spot (building)</RiceCraftingSpot_Frame.label>
+  <RiceCraftingSpot_Frame.description>Work place to process agricultural crops and by-products.</RiceCraftingSpot_Frame.description>
+
+  <JPstyleBlacksmith.label>Smithy</JPstyleBlacksmith.label>
+  <JPstyleBlacksmith.description>A smithy place where old-fashioned Japanese weapons and armor can be produced.</JPstyleBlacksmith.description>
+  <JPstyleBlacksmith_Blueprint.label>Smithy (blueprint)</JPstyleBlacksmith_Blueprint.label>
+  <JPstyleBlacksmith_Frame.label>Smithy (building)</JPstyleBlacksmith_Frame.label>
+  <JPstyleBlacksmith_Frame.description>A smithy place where old-fashioned Japanese weapons and armor can be produced.</JPstyleBlacksmith_Frame.description>
+
+  <ZP_MudCollectingPlace.label>Mud gathering spot</ZP_MudCollectingPlace.label>
+  <ZP_MudCollectingPlace.description>\n(Installation location: mud, swamp, shallow, coastal flow) A place to gather mud for soil making.</ZP_MudCollectingPlace.description>
+  <ZP_MudCollectingPlace_Blueprint.label>Mud gathering spot(blueprint)</ZP_MudCollectingPlace_Blueprint.label>
+  <ZP_MudCollectingPlace_Frame.label>Mud gathering spot(building)</ZP_MudCollectingPlace_Frame.label>
+  <ZP_MudCollectingPlace_Frame.description>\n(Installation location: mud, swamp, shallow, coastal flow) A place to gather mud for soil making.</ZP_MudCollectingPlace_Frame.description>
+
+  <PaddyField.label>논</PaddyField.label>
+  <PaddyField.description>논벼를 기르는 것이 가능한 논. 비옥도200%\n진흙,습지,얕은 물에서 밖에 설치불가능 하지만 풍부한 수분과 영양소가 있기에、범용형에 비교하면 고성능입니다.</PaddyField.description>
+  <PaddyField_Blueprint.label>논 (blueprint)</PaddyField_Blueprint.label>
+  <PaddyField_Frame.label>논 (building)</PaddyField_Frame.label>
+  <PaddyField_Frame.description>논벼를 기르는 것이 가능한 논. 비옥도200%\n진흙,습지,얕은 물에서 밖에 설치불가능 하지만 풍부한 수분과 영양소가 있기에、범용형에 비교하면 고성능입니다.</PaddyField_Frame.description>
+
+  <PaddyField_GP.label>논(범용형)</PaddyField_GP.label>
+  <PaddyField_GP.description>논벼를 기르는 것이 가능한 논。비옥도140%。\n물 주변 이외에 설치가능.</PaddyField_GP.description>
+  <PaddyField_GP_Blueprint.label>논(범용형) (blueprint)</PaddyField_GP_Blueprint.label>
+  <PaddyField_GP_Frame.label>논(범용형) (building)</PaddyField_GP_Frame.label>
+  <PaddyField_GP_Frame.description>논벼를 기르는 것이 가능한 논。비옥도140%。\n물 주변 이외에 설치가능.</PaddyField_GP_Frame.description>
+
+  <ZP_EarthwormCollectionPlace.label>Earthworm gathering spot</ZP_EarthwormCollectionPlace.label>
+  <ZP_EarthwormCollectionPlace.description>\nCapture earthworms for fish feeding and soil development.</ZP_EarthwormCollectionPlace.description>
+  <ZP_EarthwormCollectionPlace_Blueprint.label>Earthworm gathering spot(blueprint)</ZP_EarthwormCollectionPlace_Blueprint.label>
+  <ZP_EarthwormCollectionPlace_Frame.label>Earthworm gathering spot(building)</ZP_EarthwormCollectionPlace_Frame.label>
+  <ZP_EarthwormCollectionPlace_Frame.description>\nCapture earthworms for fish feeding and soil development.</ZP_EarthwormCollectionPlace_Frame.description>
+
+  <ZP_AquacultureNet.label>Farm fish net(3x3)</ZP_AquacultureNet.label>
+  <ZP_AquacultureNet.description>(Installation location -&gt; shallow, coastal flow, swamp, mud)\n(feed -&gt; earthworm, fish food, insect meat)\nYou can breed fish.\nBe careful as it breaks and destroys the net when there is no food.</ZP_AquacultureNet.description>
+  <ZP_AquacultureNet_Blueprint.label>Farm fish net(3x3) (blueprint)</ZP_AquacultureNet_Blueprint.label>
+  <ZP_AquacultureNet_Frame.label>Farm fish net(3x3) (building)</ZP_AquacultureNet_Frame.label>
+  <ZP_AquacultureNet_Frame.description>(Installation location -&gt; shallow, coastal flow, swamp, mud)\n(feed -&gt; earthworm, fish food, insect meat)\nYou can breed fish.\nBe careful as it breaks and destroys the net when there is no food.</ZP_AquacultureNet_Frame.description>
+
+  <ZP_AquacultureNet_Large.label>Large Farm fish net(4x5)</ZP_AquacultureNet_Large.label>
+  <ZP_AquacultureNet_Large.description>(Installation location -&gt; shallow, coastal flow, swamp, mud)\n(feed -&gt; earthworm, fish food, insect meat)\nYou can breed fish.\nBe careful as it breaks and destroys the net when there is no food.</ZP_AquacultureNet_Large.description>
+  <ZP_AquacultureNet_Large_Blueprint.label>Farm fish net(4x5) (blueprint)</ZP_AquacultureNet_Large_Blueprint.label>
+  <ZP_AquacultureNet_Large_Frame.label>Farm fish net(4x5) (building)</ZP_AquacultureNet_Large_Frame.label>
+  <ZP_AquacultureNet_Large_Frame.description>(Installation location -&gt; shallow, coastal flow, swamp, mud)\n(feed -&gt; earthworm, fish food, insect meat)\nYou can breed fish.\nBe careful as it breaks and destroys the net when there is no food.</ZP_AquacultureNet_Large_Frame.description>
+
+  <ZP_FloatingSunLamp_Fuel.label>Floating solar light(need fuel)</ZP_FloatingSunLamp_Fuel.label>
+  <ZP_FloatingSunLamp_Fuel.description>(diameter:3)\nFuel type heat generating sun light that can be used for rice paddies and aquaculture net.\nSince it is a fuel type, the range is narrow and fuel efficiency is bad.</ZP_FloatingSunLamp_Fuel.description>
+  <ZP_FloatingSunLamp_Fuel_Blueprint.label>Floating solar light(need fuel) (blueprint)</ZP_FloatingSunLamp_Fuel_Blueprint.label>
+  <ZP_FloatingSunLamp_Fuel_Blueprint_Install.label>Floating solar light(need fuel)(blueprint)</ZP_FloatingSunLamp_Fuel_Blueprint_Install.label>
+  <ZP_FloatingSunLamp_Fuel_Frame.label>Floating solar light(need fuel)(building)</ZP_FloatingSunLamp_Fuel_Frame.label>
+  <ZP_FloatingSunLamp_Fuel_Frame.description>(diameter:3)\nFuel type heat generating sun light that can be used for rice paddies and aquaculture net.\nSince it is a fuel type, the range is narrow and fuel efficiency is bad.</ZP_FloatingSunLamp_Fuel_Frame.description>
+
+  <ZP_FloatingSunLamp.label>Floating solar light</ZP_FloatingSunLamp.label>
+  <ZP_FloatingSunLamp.description>Solar light which can be used for paddy fields and Farm fish net. It turns off automatically at night.</ZP_FloatingSunLamp.description>
+  <ZP_FloatingSunLamp.comps.3.offMessage>Off for plant resting period</ZP_FloatingSunLamp.comps.3.offMessage>
+  <ZP_FloatingSunLamp_Blueprint.label>Floating solar light(blueprint)</ZP_FloatingSunLamp_Blueprint.label>
+  <ZP_FloatingSunLamp_Blueprint_Install.label>Floating solar light(blueprint)</ZP_FloatingSunLamp_Blueprint_Install.label>
+  <ZP_FloatingSunLamp_Frame.label>Floating solar light(building)</ZP_FloatingSunLamp_Frame.label>
+  <ZP_FloatingSunLamp_Frame.description>Solar light which can be used for paddy fields and Farm fish net. It turns off automatically at night.</ZP_FloatingSunLamp_Frame.description>
+
+
+</LanguageData>

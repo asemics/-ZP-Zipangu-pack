@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ThreshingHusk.label>脱穀</ThreshingHusk.label>
+  <ThreshingHusk.description>脱穀することで稲穂(籾米)を籾米(玄米)にかえる。</ThreshingHusk.description>
+  <ThreshingHusk.labelShort>脱穀</ThreshingHusk.labelShort>
+  <ThreshingHusk.pawnLabel>脱穀</ThreshingHusk.pawnLabel>
+  <ThreshingHusk.gerundLabel>脱穀</ThreshingHusk.gerundLabel>
+  <ThreshingHusk.verb>脱穀</ThreshingHusk.verb>
+
+  <RiceProcessing.label>탈곡</RiceProcessing.label>
+  <RiceProcessing.description>탈곡 시키는 것으로 벼 이삭을 현미로 바꿀 수 있다. 정미하는 것으로 현미를 백미로 바꿀 수 있다.</RiceProcessing.description>
+  <RiceProcessing.labelShort>탈곡</RiceProcessing.labelShort>
+  <RiceProcessing.pawnLabel>탈곡정미</RiceProcessing.pawnLabel>
+  <RiceProcessing.gerundLabel>탈곡정미</RiceProcessing.gerundLabel>
+  <RiceProcessing.verb>탈곡정미</RiceProcessing.verb>
+
+
+</LanguageData>

@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <StrawBed.label>짚 침대</StrawBed.label>
+  <StrawBed.description>자기에는 최적이지만 조금 비위생적인 침대.【매각불가】</StrawBed.description>
+  <StrawBed_Blueprint.label>짚 침대 (blueprint)</StrawBed_Blueprint.label>
+  <StrawBed_Blueprint_Install.label>藁ベッド (blueprint)</StrawBed_Blueprint_Install.label>
+  <StrawBed_Frame.label>짚 침대 (building)</StrawBed_Frame.label>
+  <StrawBed_Frame.description>자기에는 최적이지만 조금 비위생적인 침대.【매각불가】</StrawBed_Frame.description>
+
+  <DoubleStrawBed.label>Double straw bed</DoubleStrawBed.label>
+  <DoubleStrawBed.description>Ideal for sleeping but slightly unsanitary bed. (Not available for sale)</DoubleStrawBed.description>
+  <DoubleStrawBed_Blueprint.label>Double straw bed(blueprint)</DoubleStrawBed_Blueprint.label>
+  <DoubleStrawBed_Blueprint_Install.label>Double straw bed(blueprint)</DoubleStrawBed_Blueprint_Install.label>
+  <DoubleStrawBed_Frame.label>Double straw bed(building)</DoubleStrawBed_Frame.label>
+  <DoubleStrawBed_Frame.description>Ideal for sleeping but slightly unsanitary bed. (Not available for sale)</DoubleStrawBed_Frame.description>
+
+  <SuperiorStrawBed.label>Superior straw bed</SuperiorStrawBed.label>
+  <SuperiorStrawBed.description>Superior straw bed with superior straw bed.\n Still the quality falls a bit lower than normal beds.</SuperiorStrawBed.description>
+  <SuperiorStrawBed_Blueprint.label>Superior straw bed (blueprint)</SuperiorStrawBed_Blueprint.label>
+  <SuperiorStrawBed_Blueprint_Install.label>Superior straw bed (blueprint)</SuperiorStrawBed_Blueprint_Install.label>
+  <SuperiorStrawBed_Frame.label>Superior straw bed(building)</SuperiorStrawBed_Frame.label>
+  <SuperiorStrawBed_Frame.description>Superior straw bed with superior straw bed.\n Still the quality falls a bit lower than normal beds.</SuperiorStrawBed_Frame.description>
+
+  <SuperiorDoubleStrawBed.label>Superior double straw bed</SuperiorDoubleStrawBed.label>
+  <SuperiorDoubleStrawBed.description>Superior straw bed with superior straw bed.\n Still the quality falls a bit lower than normal beds.</SuperiorDoubleStrawBed.description>
+  <SuperiorDoubleStrawBed_Blueprint.label>Superior double straw bed(blueprint)</SuperiorDoubleStrawBed_Blueprint.label>
+  <SuperiorDoubleStrawBed_Blueprint_Install.label>Superior double straw bed(blueprint)</SuperiorDoubleStrawBed_Blueprint_Install.label>
+  <SuperiorDoubleStrawBed_Frame.label>Superior double straw bed(building)</SuperiorDoubleStrawBed_Frame.label>
+  <SuperiorDoubleStrawBed_Frame.description>Superior straw bed with superior straw bed.\n Still the quality falls a bit lower than normal beds.</SuperiorDoubleStrawBed_Frame.description>
+
+  <AnimalStrawBedSmall.label>동물용 짚 침대(소)</AnimalStrawBedSmall.label>
+  <AnimalStrawBedSmall.description>동물용 짚 침대。\n【매각불가】\n닭이나 토끼등의 소형동물에 최적입니다.</AnimalStrawBedSmall.description>
+  <AnimalStrawBedSmall_Blueprint.label>동물용 짚 침대(소) (blueprint)</AnimalStrawBedSmall_Blueprint.label>
+  <AnimalStrawBedSmall_Blueprint_Install.label>動物用藁ベッド(小) (blueprint)</AnimalStrawBedSmall_Blueprint_Install.label>
+  <AnimalStrawBedSmall_Frame.label>동물용 짚 침대(소) (building)</AnimalStrawBedSmall_Frame.label>
+  <AnimalStrawBedSmall_Frame.description>동물용 짚 침대。\n【매각불가】\n닭이나 토끼등의 소형동물에 최적입니다.</AnimalStrawBedSmall_Frame.description>
+
+  <AnimalStrawBed.label>동물용 짚 침대</AnimalStrawBed.label>
+  <AnimalStrawBed.description>동물용 짚 침대\n【매각불가】\n개부터 머팔로까지의 중형동물에 최적입니다.</AnimalStrawBed.description>
+  <AnimalStrawBed_Blueprint.label>동물용 짚 침대 (blueprint)</AnimalStrawBed_Blueprint.label>
+  <AnimalStrawBed_Blueprint_Install.label>動物用藁ベッド (blueprint)</AnimalStrawBed_Blueprint_Install.label>
+  <AnimalStrawBed_Frame.label>동물용 짚 침대 (building)</AnimalStrawBed_Frame.label>
+  <AnimalStrawBed_Frame.description>동물용 짚 침대\n【매각불가】\n개부터 머팔로까지의 중형동물에 최적입니다.</AnimalStrawBed_Frame.description>
+
+  <AnimalStrawBedBig.label>동물용 짚 침대(대)</AnimalStrawBedBig.label>
+  <AnimalStrawBedBig.description>동물용 짚 침대\n【매각불가】\n트럼보나 코끼리등의 대형동물에 최적입니다.</AnimalStrawBedBig.description>
+  <AnimalStrawBedBig_Blueprint.label>동물용 짚 침대(대) (blueprint)</AnimalStrawBedBig_Blueprint.label>
+  <AnimalStrawBedBig_Blueprint_Install.label>動物用藁ベッド(大) (blueprint)</AnimalStrawBedBig_Blueprint_Install.label>
+  <AnimalStrawBedBig_Frame.label>동물용 짚 침대(대) (building)</AnimalStrawBedBig_Frame.label>
+  <AnimalStrawBedBig_Frame.description>동물용 짚 침대\n【매각불가】\n트럼보나 코끼리등의 대형동물에 최적입니다.</AnimalStrawBedBig_Frame.description>
+
+  <GroundSit.label>땅바닥에 앉는다</GroundSit.label>
+  <GroundSit.description>땅바닥에 앉는 것이 가능하기에 피크닉용 돗자리와 함께 쓰인다.</GroundSit.description>
+  <GroundSit_Blueprint.label>땅바닥에 앉는다 (blueprint)</GroundSit_Blueprint.label>
+  <GroundSit_Frame.label>땅바닥에 앉는다 (building)</GroundSit_Frame.label>
+  <GroundSit_Frame.description>땅바닥에 앉는 것이 가능하기에 피크닉용 돗자리와 함께 쓰인다.</GroundSit_Frame.description>
+
+
+  <!-- 茣蓙(ござ) -->
+
+  <R_Goza_large.label>돗자리(대)</R_Goza_large.label>
+  <R_Goza_large.description>밖에서 음식을 먹을 때에 테이블 대용이 되어주는 돗자리.\n매각이 불가능 하지만 소재는 대부분 돌아갑니다.</R_Goza_large.description>
+  <R_Goza_large_Blueprint.label>돗자리(대) (blueprint)</R_Goza_large_Blueprint.label>
+  <R_Goza_large_Frame.label>돗자리(대) (building)</R_Goza_large_Frame.label>
+  <R_Goza_large_Frame.description>밖에서 음식을 먹을 때에 테이블 대용이 되어주는 돗자리.\n매각이 불가능 하지만 소재는 대부분 돌아갑니다.</R_Goza_large_Frame.description>
+
+  <R_Goza.label>돗자리</R_Goza.label>
+  <R_Goza.description>밖에서 음식을 먹을 때에 테이블 대용이 되어주는 돗자리.\n매각이 불가능 하지만 소재는 대부분 돌아갑니다.</R_Goza.description>
+  <R_Goza_Blueprint.label>돗자리 (blueprint)</R_Goza_Blueprint.label>
+  <R_Goza_Frame.label>돗자리 (building)</R_Goza_Frame.label>
+  <R_Goza_Frame.description>밖에서 음식을 먹을 때에 테이블 대용이 되어주는 돗자리.\n매각이 불가능 하지만 소재는 대부분 돌아갑니다.</R_Goza_Frame.description>
+
+
+  <!-- レジャーシート -->
+
+  <PicnicSheet_large.label>피크닉용 돗자리(대)</PicnicSheet_large.label>
+  <PicnicSheet_large.description>밖에서 음식을 먹을 때에 테이블 대용이 되어주는 피크닉용 돗자리.\n매각이 불가능 하지만 소재는 대부분 돌아갑니다.</PicnicSheet_large.description>
+  <PicnicSheet_large_Blueprint.label>피크닉용 돗자리(대) (blueprint)</PicnicSheet_large_Blueprint.label>
+  <PicnicSheet_large_Frame.label>피크닉용 돗자리(대) (building)</PicnicSheet_large_Frame.label>
+  <PicnicSheet_large_Frame.description>밖에서 음식을 먹을 때에 테이블 대용이 되어주는 피크닉용 돗자리.\n매각이 불가능 하지만 소재는 대부분 돌아갑니다.</PicnicSheet_large_Frame.description>
+
+  <PicnicSheet.label>피크닉용 돗자리</PicnicSheet.label>
+  <PicnicSheet.description>밖에서 음식을 먹을 때에 테이블 대용이 되어주는 피크닉용 돗자리.\n매각이 불가능 하지만 소재는 대부분 돌아갑니다.</PicnicSheet.description>
+  <PicnicSheet_Blueprint.label>피크닉용 돗자리 (blueprint)</PicnicSheet_Blueprint.label>
+  <PicnicSheet_Frame.label>피크닉용 돗자리 (building)</PicnicSheet_Frame.label>
+  <PicnicSheet_Frame.description>밖에서 음식을 먹을 때에 테이블 대용이 되어주는 피크닉용 돗자리.\n매각이 불가능 하지만 소재는 대부분 돌아갑니다.</PicnicSheet_Frame.description>
+
+
+</LanguageData>
