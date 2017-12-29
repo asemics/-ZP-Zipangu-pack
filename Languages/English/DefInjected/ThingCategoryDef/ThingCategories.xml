@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Tawara.label>Straw rice bag</Tawara.label>
+	<ZP_Seasoning.label>Seasoning</ZP_Seasoning.label>
+	<ZP_Grain.label>Grain</ZP_Grain.label>
+	<ZP_Protein.label>Protein</ZP_Protein.label>
+	<AnimalFeed.label>Animal Feed</AnimalFeed.label>
+	<ZP_FoodMeals.label>Japanese food</ZP_FoodMeals.label>
+	<!-- Weapon -->
+	<ZipanguWeapon.label>Japanese weapon</ZipanguWeapon.label>
+	<ZipanguWeaponRanged.label>Japanese weapon</ZipanguWeaponRanged.label>
+	<!-- Headgear -->
+	<ZipanguHeadgear.label>Japanese headgear</ZipanguHeadgear.label>
+	<!-- Body -->
+	<Bodygear.label>Bodygear</Bodygear.label>
+	<BodyOnSkin.label>OnSkin</BodyOnSkin.label>
+	<BodyArmour.label>Armour</BodyArmour.label>
+	<Outergear.label>Outergear</Outergear.label>
+	<VanillaBodygear.label>Vanilla bodygear</VanillaBodygear.label>
+	<!-- Hand -->
+	<Handgear.label>Handgear</Handgear.label>
+	<!-- Foot -->
+	<Footgear.label>Footgear</Footgear.label>
+	<!-- Acessories -->
+	<Accessories.label>Accessories</Accessories.label>
+	<Zipangu.label>Zipangu</Zipangu.label>
+</LanguageData>

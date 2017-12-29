@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 藁装備 Base カウボーイハット -->
+
+  <ZP_MugiwaraBosi.label>Straw hat</ZP_MugiwaraBosi.label>
+  <ZP_MugiwaraBosi.description>A hat knitted with straw. It is used as a sunshade during farm work.</ZP_MugiwaraBosi.description>
+
+  <ZP_Sugekasa.label>Sugekasa</ZP_Sugekasa.label>
+  <ZP_Sugekasa.description>Straw woven kasa(hat), was worn by samurais, ninjas, monks , ronins , traders and farmers in old-eastern-world, can be used to shelter from the sunshine, rain falls, even snowy.</ZP_Sugekasa.description>
+
+  <ZP_Tengai.label>Tengai</ZP_Tengai.label>
+  <ZP_Tengai.description>A fully covered helmet, woven by straw. Has religious means. However, when you wearing it, your face is out of sight, so it gives others a creepy feeling. </ZP_Tengai.description>
+
+
+  <!-- 鉢巻 Base ヘルメット -->
+
+  <ZP_HeadBand.label>Hatigane</ZP_HeadBand.label>
+  <ZP_HeadBand.description>Simple head equipment that does not block visibility. This is put the metal in the forehead part so that the forehead is not broken.</ZP_HeadBand.description>
+
+
+  <!-- 陣笠 Base ヘルメット -->
+
+  <ZP_JingasaHelmet.label>Jingasa Helmet</ZP_JingasaHelmet.label>
+  <ZP_JingasaHelmet.description>A Jingasa(helmet) to protect the head of Ashigaru(soldier).</ZP_JingasaHelmet.description>
+
+
+  <!-- 将軍兜 Base パワーアーマヘルメット -->
+
+  <ZP_SyougunHelmet.label>Kabuto Helmet</ZP_SyougunHelmet.label>
+  <ZP_SyougunHelmet.description>A Kabuto(helmet) that was only allowed to be worn by the Syogun(general). Have a strong spirit as Syogun(general).</ZP_SyougunHelmet.description>
+
+
+  <!-- 足装備 -->
+
+  <ZP_Warazi.label>Warazi Shoes</ZP_Warazi.label>
+  <ZP_Warazi.description>Japanese traditional footwear made of straw. It fits the feet and makes the movement comfortable.</ZP_Warazi.description>
+
+  <ZP_WoodenClogs.label>Geta</ZP_WoodenClogs.label>
+  <ZP_WoodenClogs.description>Japanese traditional footwear made of woodLog. It fits the feet and makes the movement comfortable.</ZP_WoodenClogs.description>
+
+  <ZP_IronClogs.label>Steel Geta</ZP_IronClogs.label>
+  <ZP_IronClogs.description>A kind og Geta made of steel for forking legs transmitted from old times.Although the moving speed drops by 50%, it is possible to gain a lot of experience value by gifts of gut and training.</ZP_IronClogs.description>
+
+  <ZP_TravelBag.label>Tourists' bag</ZP_TravelBag.label>
+  <ZP_TravelBag.description>A traditional Japanese travel bag. It is convenient to transport as it can hold lots of luggage.</ZP_TravelBag.description>
+
+  <ZP_Tekko.label>Tekko</ZP_Tekko.label>
+  <ZP_Tekko.description>Protective hands to prevent dirt and trauma during blacksmithing etc.</ZP_Tekko.description>
+
+
+</LanguageData>

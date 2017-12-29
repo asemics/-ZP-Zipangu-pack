@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <BR_Gohan.label>Gohan(BR)</BR_Gohan.label>
+  <BR_Gohan.description>Let's enjoy the taste of rice as it is without saying that I want side dishes!!</BR_Gohan.description>
+
+  <WR_Gohan.label>Gohan</WR_Gohan.label>
+  <WR_Gohan.description>The best cup brought out by the bowl to enjoy the white rice very much.</WR_Gohan.description>
+
+  <BR_TKG.label>TKG(BR)</BR_TKG.label>
+  <BR_TKG.description>The Devil wisp. Put "safer" raw eggs and make delicious rice more delicious.</BR_TKG.description>
+
+  <WR_TKG.label>TKG</WR_TKG.label>
+  <WR_TKG.description>The Devil wisp. Put "safer" raw eggs and make delicious rice more delicious.</WR_TKG.description>
+
+  <BR_Gyudon.label>Gyudon(BR)</BR_Gyudon.label>
+  <BR_Gyudon.description>A bowl of plenty of meat on brown rice.</BR_Gyudon.description>
+
+  <WR_Gyudon.label>Gyudon</WR_Gyudon.label>
+  <WR_Gyudon.description>A bowl of plenty of meat on white rice.</WR_Gyudon.description>
+
+  <BR_Onigiri.label>Onigiri(BR)</BR_Onigiri.label>
+  <BR_Onigiri.description>Brown rice balls with salty taste to be eaten anywhere.</BR_Onigiri.description>
+
+  <WR_Onigiri.label>Onigiri</WR_Onigiri.label>
+  <WR_Onigiri.description>White rice balls with salty taste to be eaten anywhere.</WR_Onigiri.description>
+
+  <BR_Bento.label>Bento(BR)</BR_Bento.label>
+  <BR_Bento.description>Bento of brown rice that can be eaten anywhere.</BR_Bento.description>
+
+  <WR_Bento.label>Bento</WR_Bento.label>
+  <WR_Bento.description>Bento of white rice that can be eaten anywhere.</WR_Bento.description>
+
+  <BR_Jubako.label>Jubako(BR)</BR_Jubako.label>
+  <BR_Jubako.description>Lavish Bento of brown rice that can be eaten anywhere.</BR_Jubako.description>
+
+  <WR_Jubako.label>Jubako</WR_Jubako.label>
+  <WR_Jubako.description>Lavish Bento of white rice that can be eaten anywhere.</WR_Jubako.description>
+
+  <WR_JPCurryRice.label>JP CurryRice</WR_JPCurryRice.label>
+  <WR_JPCurryRice.description>In some countries, everyone loves enchanting curry rice, so it will make meaningless battles with how to eat and what is ingredients.</WR_JPCurryRice.description>
+
+  <Tukudani.label>Tsukudani of insects</Tukudani.label>
+  <Tukudani.description>Food that boiled insect meat that should normally be thrown away sweetly with sugar and Soy sauce.</Tukudani.description>
+
+  <ZP_WRSushi.label>Sushi</ZP_WRSushi.label>
+  <ZP_WRSushi.description>Traditional Japanese cuisine with fresh fish fillet on top of vinegared rice.</ZP_WRSushi.description>
+
+  <ZP_Sasimi.label>Sashimi</ZP_Sasimi.label>
+  <ZP_Sasimi.description>Cut the fresh raw fish in a size easy to eat and assorted on the dish.</ZP_Sasimi.description>
+
+  <ZP_SaltGrilledFish.label>Salt-grilled fish</ZP_SaltGrilledFish.label>
+  <ZP_SaltGrilledFish.description>Salted fish was skewered and baked with direct flame. A dish that you can enjoy the taste of baked fish.</ZP_SaltGrilledFish.description>
+
+  <ZP_SteamedFish.label>Boiled fish</ZP_SteamedFish.label>
+  <ZP_SteamedFish.description>Food boiled lightly and then seasoned with seasoning and boiled fish.</ZP_SteamedFish.description>
+
+
+</LanguageData>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ZPAmazake.label>Amazake</ZPAmazake.label>
+  <ZPAmazake.description>this is traditional sweet beverage in Japan and it is festival at the New Year and festival.\nIt looks white and cloudy and is called Amagayu.\nIt is rich in nutrition, it is cold in the summer and it relieve the summer heat. It is also a health drink that warms in winter and is active as a cold prevention.</ZPAmazake.description>
+  <ZPAmazake.ingestible.ingestCommandString>Drink {0}</ZPAmazake.ingestible.ingestCommandString>
+  <ZPAmazake.ingestible.ingestReportString>Drinking {0}.</ZPAmazake.ingestible.ingestReportString>
+
+
+</LanguageData>
