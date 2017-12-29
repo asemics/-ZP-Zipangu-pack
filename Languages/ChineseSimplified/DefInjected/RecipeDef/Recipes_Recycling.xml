@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 作業場 -->
+
+  <RecycleWeAp.label>Recycle weapons and apparel</RecycleWeAp.label>
+  <RecycleWeAp.description>Recycle apparel to make effective use of limited resources.</RecycleWeAp.description>
+  <RecycleWeAp.jobString>Recycling</RecycleWeAp.jobString>
+
+
+  <!-- 鍛冶場 -->
+
+  <ZPRecycleApparel.label>Recycle Apparel.</ZPRecycleApparel.label>
+  <ZPRecycleApparel.description>Recycle apparel to make effective use of limited resources.</ZPRecycleApparel.description>
+  <ZPRecycleApparel.jobString>Recycling</ZPRecycleApparel.jobString>
+
+  <ZPRecycleWeapon.label>Recycle Weapon.</ZPRecycleWeapon.label>
+  <ZPRecycleWeapon.description>Recycle apparel to make effective use of limited resources.</ZPRecycleWeapon.description>
+  <ZPRecycleWeapon.jobString>Disassembling Weapon.</ZPRecycleWeapon.jobString>
+
+
+</LanguageData>

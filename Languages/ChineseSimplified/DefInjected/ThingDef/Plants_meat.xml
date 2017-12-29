@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ZP_AquacultureFish.label>Farmed fish</ZP_AquacultureFish.label>
+  <ZP_AquacultureFish.description>You can harvest fish with a long growing season but very nutritious value.</ZP_AquacultureFish.description>
+
+  <ZP_PlantSoy.label>Soybeans</ZP_PlantSoy.label>
+  <ZP_PlantSoy.description>The Soybeans which is the meat of the field. Growth is slow, but it grows even on lean land so it is useful.</ZP_PlantSoy.description>
+
+  <ZP_PlantEdamame.label>Edamame</ZP_PlantEdamame.label>
+  <ZP_PlantEdamame.description>The Edamame(Immune Soybeans) Growth is fast but nutritional value is low. It grows even in a thin land so it is useful.</ZP_PlantEdamame.description>
+
+
+</LanguageData>

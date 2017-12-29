@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<!-- 肥料作成 -->
+	<MakeTatamiStraw18.label>Building straw(18)</MakeTatamiStraw18.label>
+	<MakeTatamiStraw18.description>make straw for Building.</MakeTatamiStraw18.description>
+	<MakeTatamiStraw18.jobString>making Building straw</MakeTatamiStraw18.jobString>
+	<MakeTatamiStraw30.label>Building straw(30)</MakeTatamiStraw30.label>
+	<MakeTatamiStraw30.description>make straw for Building.</MakeTatamiStraw30.description>
+	<MakeTatamiStraw30.jobString>making Building straw</MakeTatamiStraw30.jobString>
+	<MakeTatamiStraw60.label>Building straw(60)</MakeTatamiStraw60.label>
+	<MakeTatamiStraw60.description>make straw for Building.</MakeTatamiStraw60.description>
+	<MakeTatamiStraw60.jobString>making Building straw</MakeTatamiStraw60.jobString>
+	<MakeTatamiG.label>Tatami (1 quire)</MakeTatamiG.label>
+	<MakeTatamiG.description>Make a tatami in Building straw</MakeTatamiG.description>
+	<MakeTatamiG.jobString>Make tatami</MakeTatamiG.jobString>
+	<MakeR_Compost10.label>Compost(10)</MakeR_Compost10.label>
+	<MakeR_Compost10.description>Make fertilizer from straw and rice bran.</MakeR_Compost10.description>
+	<MakeR_Compost10.jobString>Making</MakeR_Compost10.jobString>
+	<MakeR_Compost50.label>Compost(50)</MakeR_Compost50.label>
+	<MakeR_Compost50.description>Make fertilizer from straw and rice bran.</MakeR_Compost50.description>
+	<MakeR_Compost50.jobString>Making</MakeR_Compost50.jobString>
+	<MakeR_Compost100.label>Compost(100)</MakeR_Compost100.label>
+	<MakeR_Compost100.description>Make fertilizer from straw and rice bran.</MakeR_Compost100.description>
+	<MakeR_Compost100.jobString>Making</MakeR_Compost100.jobString>
+	<!-- 燃料作成 -->
+	<MakeMomigalite10.label>Momigalite(10)</MakeMomigalite10.label>
+	<MakeMomigalite10.description>Process Outer hull into fuel.</MakeMomigalite10.description>
+	<MakeMomigalite10.jobString>Proessing</MakeMomigalite10.jobString>
+	<MakeMomigalite50.label>Momigalite(50)</MakeMomigalite50.label>
+	<MakeMomigalite50.description>Process Outer hull into fuel.</MakeMomigalite50.description>
+	<MakeMomigalite50.jobString>Proessing</MakeMomigalite50.jobString>
+	<MakeMomigalite100.label>Momigalite(100)</MakeMomigalite100.label>
+	<MakeMomigalite100.description>Process Outer hull into fuel.</MakeMomigalite100.description>
+	<MakeMomigalite100.jobString>Proessing</MakeMomigalite100.jobString>
+	<MakeFuelStraw10.label>Fuel straw(10)</MakeFuelStraw10.label>
+	<MakeFuelStraw10.description>Process straw into fuel.</MakeFuelStraw10.description>
+	<MakeFuelStraw10.jobString>Proessing</MakeFuelStraw10.jobString>
+	<MakeFuelStraw50.label>Fuel straw(50)</MakeFuelStraw50.label>
+	<MakeFuelStraw50.description>Process straw into fuel.</MakeFuelStraw50.description>
+	<MakeFuelStraw50.jobString>Proessing</MakeFuelStraw50.jobString>
+	<MakeFuelStraw100.label>Fuel straw(100)</MakeFuelStraw100.label>
+	<MakeFuelStraw100.description>Process straw into fuel.</MakeFuelStraw100.description>
+	<MakeFuelStraw100.jobString>Proessing</MakeFuelStraw100.jobString>
+	<!-- 泥収集 -->
+	<ZP_CollectMud.label>gather mud</ZP_CollectMud.label>
+	<ZP_CollectMud.description>Gather mud for soil improvement.</ZP_CollectMud.description>
+	<ZP_CollectMud.jobString>Gathering</ZP_CollectMud.jobString>
+	<!-- 副産物袋 -->
+	<MakeRiceByproduct.label>make a by-product bag(100)</MakeRiceByproduct.label>
+	<MakeRiceByproduct.description>Make a by-product bag.</MakeRiceByproduct.description>
+	<MakeRiceByproduct.jobString>Making a by-product bag</MakeRiceByproduct.jobString>
+	<TakeRiceByproduct_RC.label>take rice bran and Outher hull from a by-product bag</TakeRiceByproduct_RC.label>
+	<TakeRiceByproduct_RC.description>Take rice bran and Outher hull from a by-product bag</TakeRiceByproduct_RC.description>
+	<TakeRiceByproduct_RC.jobString>Taking</TakeRiceByproduct_RC.jobString>
+	<TakeRiceByproduct_R.label>take rice bran from a by-product bag</TakeRiceByproduct_R.label>
+	<TakeRiceByproduct_R.description>Take rice bran from a by-product bag\n CAUTION:Outher hull will be erased.</TakeRiceByproduct_R.description>
+	<TakeRiceByproduct_R.jobString>Taking</TakeRiceByproduct_R.jobString>
+	<TakeRiceByproduct_C.label>take Outher hull from a by-product bag</TakeRiceByproduct_C.label>
+	<TakeRiceByproduct_C.description>Take Outher hull from a by-product bag\nCAUTION:rice bran will be erased.</TakeRiceByproduct_C.description>
+	<TakeRiceByproduct_C.jobString>Taking</TakeRiceByproduct_C.jobString>
+	<MakeChemfuelFromRice.label>make chemfuel from rice by-product bag and straw.</MakeChemfuelFromRice.label>
+	<MakeChemfuelFromRice.description>Make a batch of chemfuel by gasifying rice byproduct and straw.</MakeChemfuelFromRice.description>
+	<MakeChemfuelFromRice.jobString>Refining chemfuel from wood.</MakeChemfuelFromRice.jobString>
+</LanguageData>

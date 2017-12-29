@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ZPMOD_Kakashi.label>Scarecrow</ZPMOD_Kakashi.label>
+  <ZPMOD_Kakashi.description>(Effect: Fertility degree 30% up, diameter 9 squares)\nScarecrow that received the blessing of fertile God. It encourages the growth of surrounding crops.\nThe effect continues as long as there is an offering. But when the offering is gone, it will fulfill its role and self-destroy.\noffering(Fuel) is onigiri, three color dumplings,  mochi , Isobe mochi, Gokohira rice cake, Zunda mochi.</ZPMOD_Kakashi.description>
+  <ZPMOD_Kakashi_Blueprint.label>Scarecrow (blueprint)</ZPMOD_Kakashi_Blueprint.label>
+  <ZPMOD_Kakashi_Blueprint_Install.label>Scarecrow (blueprint)</ZPMOD_Kakashi_Blueprint_Install.label>
+  <ZPMOD_Kakashi_Frame.label>Scarecrow (building)</ZPMOD_Kakashi_Frame.label>
+  <ZPMOD_Kakashi_Frame.description>(Effect: Fertility degree 30% up, diameter 9 squares)\nScarecrow that received the blessing of fertile God. It encourages the growth of surrounding crops.\nThe effect continues as long as there is an offering. But when the offering is gone, it will fulfill its role and self-destroy.\noffering(Fuel) is onigiri, three color dumplings,  mochi , Isobe mochi, Gokohira rice cake, Zunda mochi.</ZPMOD_Kakashi_Frame.description>
+
+
+</LanguageData>

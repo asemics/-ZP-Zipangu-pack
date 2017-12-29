@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Messtin.label>饭盒</Messtin.label>
+  <Messtin.description>架设一个饭盒，可以用于煮饭以及进行简单的烹饪。\n因为是最低限度的炊具的缘故，烹饪速度会降低30%。</Messtin.description>
+  <Messtin_Blueprint.label>饭盒 (蓝图)</Messtin_Blueprint.label>
+  <Messtin_Blueprint_Install.label>饭盒 (蓝图)</Messtin_Blueprint_Install.label>
+  <Messtin_Frame.label>饭盒 (架设中)</Messtin_Frame.label>
+  <Messtin_Frame.description>架设一个饭盒，可以用于煮饭以及进行简单的烹饪。\n因为是最低限度的炊具的缘故，烹饪速度会降低30%。</Messtin_Frame.description>
+
+  <IronPot.label>锅</IronPot.label>
+  <IronPot.description>一个煮饭或是煮汤都很便利的燃料灶台。</IronPot.description>
+  <IronPot_Blueprint.label>锅 (蓝图)</IronPot_Blueprint.label>
+  <IronPot_Blueprint_Install.label>锅 (蓝图)</IronPot_Blueprint_Install.label>
+  <IronPot_Frame.label>锅 (建造中)</IronPot_Frame.label>
+  <IronPot_Frame.description>一个煮饭或是煮汤都很便利的燃料灶台。</IronPot_Frame.description>
+
+  <RiceCooker.label>煮饭器</RiceCooker.label>
+  <RiceCooker.description>一个煮饭或是煮汤都很便利的烹饪台。\n因为配置了最新的烹饪器具，所以烹饪速度会提升30%。</RiceCooker.description>
+  <RiceCooker_Blueprint.label>煮饭器 (蓝图)</RiceCooker_Blueprint.label>
+  <RiceCooker_Blueprint_Install.label>煮饭器 (蓝图)</RiceCooker_Blueprint_Install.label>
+  <RiceCooker_Frame.label>煮饭器 (建造中)</RiceCooker_Frame.label>
+  <RiceCooker_Frame.description>一个煮饭或是煮汤都很便利的烹饪台。\n因为配置了最新的烹饪器具，所以烹饪速度会提升30%。</RiceCooker_Frame.description>
+
+  <CookingTable.label>Cooking table</CookingTable.label>
+  <CookingTable.description>Cooking table for preparing.\nSpecializing in seasoning and food processing.</CookingTable.description>
+  <CookingTable_Blueprint.label>Cooking table(blueprint)</CookingTable_Blueprint.label>
+  <CookingTable_Blueprint_Install.label>Cooking table(blueprint)</CookingTable_Blueprint_Install.label>
+  <CookingTable_Frame.label>Cooking table(building)</CookingTable_Frame.label>
+  <CookingTable_Frame.description>Cooking table for preparing.\nSpecializing in seasoning and food processing.</CookingTable_Frame.description>
+
+  <PestleAndMortar.label>Kineusu</PestleAndMortar.label>
+  <PestleAndMortar.description>Kine(Pestle) and Usu(mortar) for making mochi. You can make mochi in large quantities.</PestleAndMortar.description>
+  <PestleAndMortar_Blueprint.label>Kineusu(blueprint)</PestleAndMortar_Blueprint.label>
+  <PestleAndMortar_Blueprint_Install.label>Kineusu (blueprint)</PestleAndMortar_Blueprint_Install.label>
+  <PestleAndMortar_Frame.label>Kineusu(building)</PestleAndMortar_Frame.label>
+  <PestleAndMortar_Frame.description>Kine(Pestle) and Usu(mortar) for making mochi. You can make mochi in large quantities.</PestleAndMortar_Frame.description>
+
+  <Nukadoko.label>Nukadoko</Nukadoko.label>
+  <Nukadoko.description>A large bottle that can make a large amount of Nukaduke(rice bran pickles) that are preserved foods.</Nukadoko.description>
+  <Nukadoko_Blueprint.label>Nukadoko(blueprint)</Nukadoko_Blueprint.label>
+  <Nukadoko_Blueprint_Install.label>Nukadoko(blueprint)</Nukadoko_Blueprint_Install.label>
+  <Nukadoko_Frame.label>Nukadoko(building)</Nukadoko_Frame.label>
+  <Nukadoko_Frame.description>A large bottle that can make a large amount of Nukaduke(rice bran pickles) that are preserved foods.</Nukadoko_Frame.description>
+
+
+</LanguageData>

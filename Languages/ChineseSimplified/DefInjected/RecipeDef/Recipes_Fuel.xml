@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 燃料作成 -->
+
+  <!--<MakeMomigalite10.label>谷壳炭(10)</MakeMomigalite10.label>-->
+  <!--<MakeMomigalite10.description>把谷壳加工成燃料。</MakeMomigalite10.description>-->
+  <!--<MakeMomigalite10.jobString>烧制谷壳炭</MakeMomigalite10.jobString>-->
+
+  <!--<MakeMomigalite50.label>谷壳炭(50)</MakeMomigalite50.label>-->
+  <!--<MakeMomigalite50.description>把谷壳加工成燃料。</MakeMomigalite50.description>-->
+  <!--<MakeMomigalite50.jobString>烧制谷壳炭</MakeMomigalite50.jobString>-->
+
+  <!--<MakeMomigalite100.label>谷壳炭(100)</MakeMomigalite100.label>-->
+  <!--<MakeMomigalite100.description>把谷壳加工成燃料。</MakeMomigalite100.description>-->
+  <!--<MakeMomigalite100.jobString>烧制谷壳炭</MakeMomigalite100.jobString>-->
+
+  <!--<MakeFuelStraw10.label>燃料用秸秆(10)</MakeFuelStraw10.label>-->
+  <!--<MakeFuelStraw10.description>把秸秆加工成燃料。</MakeFuelStraw10.description>-->
+  <!--<MakeFuelStraw10.jobString>正在把秸秆加工成燃料</MakeFuelStraw10.jobString>-->
+
+  <!--<MakeFuelStraw50.label>燃料用秸秆(50)</MakeFuelStraw50.label>-->
+  <!--<MakeFuelStraw50.description>把秸秆加工成燃料。</MakeFuelStraw50.description>-->
+  <!--<MakeFuelStraw50.jobString>正在把秸秆加工成燃料</MakeFuelStraw50.jobString>-->
+
+  <!--<MakeFuelStraw100.label>燃料用秸秆(100)</MakeFuelStraw100.label>-->
+  <!--<MakeFuelStraw100.description>把秸秆加工成燃料。</MakeFuelStraw100.description>-->
+  <!--<MakeFuelStraw100.jobString>正在把秸秆加工成燃料</MakeFuelStraw100.jobString>-->
+
+
+</LanguageData>

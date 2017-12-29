@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Tatami_Green.label>榻榻米(绿)</Tatami_Green.label>
+  <Tatami_Green.description>稻草制成的地板材料。榻榻米可以净化空气，调节湿度。 \n榻榻米的阻燃性能也很好，所以它不会燃烧，即使发生火灾也一样。</Tatami_Green.description>
+
+  <Tatami_Yellow.label>榻榻米(黄)</Tatami_Yellow.label>
+  <Tatami_Yellow.description>稻草制成的地板材料。榻榻米可以净化空气，调节湿度。 \n榻榻米的阻燃性能也很好，所以它不会燃烧，即使发生火灾也一样。</Tatami_Yellow.description>
+
+
+  <!-- 土壌 -->
+
+  <ZP_Soil.label>Soil</ZP_Soil.label>
+  <ZP_Soil.description>(Fertility:100%)\nMake the land possible for agriculture\nSoil will be placed on sand, ice, gravel, rough stone, smooth stone.</ZP_Soil.description>
+
+  <ZP_SoilRich.label>Fertile Soil</ZP_SoilRich.label>
+  <ZP_SoilRich.description>(Fertility:140%)\nImprove agriculturally possible soil to Rich Soil.</ZP_SoilRich.description>
+
+  <ZP_Mud.label>Mud</ZP_Mud.label>
+  <ZP_Mud.description>Mud the soil for paddy fields.</ZP_Mud.description>
+
+  <ZP_LandfillSoil.label>Reclaimed soil</ZP_LandfillSoil.label>
+  <ZP_LandfillSoil.description>(Fertility:50)\nFill a place with poor footing.\nMud, swamp, shallow, coastal current is reclaimed.</ZP_LandfillSoil.description>
+
+
+</LanguageData>

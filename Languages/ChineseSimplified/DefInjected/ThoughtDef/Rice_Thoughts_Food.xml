@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 簡単+0 イナゴの佃煮+1 -->
+
+  <R_AteTukudani.stages.0.label>I ate Tsukudani of insects</R_AteTukudani.stages.0.label>
+  <R_AteTukudani.stages.0.description>Parhaps I can eat these if I close eyes...?</R_AteTukudani.stages.0.description>
+
+
+  <!-- 簡単+0 白米+3 -->
+
+  <R_AteMealSimple.stages.0.label>吃了好吃的白米</R_AteMealSimple.stages.0.label>
+  <R_AteMealSimple.stages.0.description>享用了自种白米，很幸福。</R_AteMealSimple.stages.0.description>
+
+  <!-- B級グルメ+3 -->
+  <AteMealSimpleB.stages.0.label>I ate cheap but tasty local food !!</AteMealSimpleB.stages.0.label>
+  <AteMealSimpleB.stages.0.description>I am happy to eat cheap but tasty local food.</AteMealSimpleB.stages.0.description>
+  
+  <!-- B級グルメ+3 白米+3 -->
+  <R_AteMealSimpleB.stages.0.label>I ate cheap but tasty local food !!</R_AteMealSimpleB.stages.0.label>
+  <R_AteMealSimpleB.stages.0.description>I am happy to eat cheap but tasty local food made from white rice.</R_AteMealSimpleB.stages.0.description>
+
+  <!-- 手の込んだ+5 白米+3 -->
+
+  <R_AteMealFine.stages.0.label>享用了好吃的白米</R_AteMealFine.stages.0.label>
+  <R_AteMealFine.stages.0.description>享用了料理过的白米，很是幸福。</R_AteMealFine.stages.0.description>
+
+
+  <!-- 豪華+10 白米+5 -->
+
+  <R_MealLavish.stages.0.label>享用了美味的白米！</R_MealLavish.stages.0.label>
+  <R_MealLavish.stages.0.description>用最美味的自种白米作成的豪华料理，满满的幸福感。</R_MealLavish.stages.0.description>
+
+  <R_CurryRice.stages.0.label>咖喱饭最棒了!!</R_CurryRice.stages.0.label>
+  <R_CurryRice.stages.0.description>通过改变配料搭配的方法，每天都可以享受到不同的味道，实在是太奢侈啦。</R_CurryRice.stages.0.description>
+
+
+  <!-- 調味料 -->
+
+  <R_SeasoningDebuff.stages.0.label>把调料吃下去了</R_SeasoningDebuff.stages.0.label>
+  <R_SeasoningDebuff.stages.0.description>就这么干吃调味料一点都不好吃，一，点，也，不。</R_SeasoningDebuff.stages.0.description>
+
+  <R_Syrupbuff.stages.0.label>偷吃米糖</R_Syrupbuff.stages.0.label>
+  <R_Syrupbuff.stages.0.description>在大家都不知道的情况下偷偷地舔食米糖会不会太幼稚了啊？但是没关系啦，那真的很甜。</R_Syrupbuff.stages.0.description>
+
+
+  <!-- 手の込んだ+5 白米+5 -->
+  <!-- 豪華+10 白米+10 -->
+
+</LanguageData>

@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 飼い葉作成 -->
+
+  <MakeR_Manger10.label>饲草(10)</MakeR_Manger10.label>
+  <MakeR_Manger10.description>将秸秆、糠麸以及一些谷物混合制成粗制的食料，用以喂养动物。</MakeR_Manger10.description>
+  <MakeR_Manger10.jobString>制作制作饲草</MakeR_Manger10.jobString>
+
+  <MakeR_Manger20.label>飼い葉(20)</MakeR_Manger20.label>
+  <MakeR_Manger20.description>藁と米ぬか、穀物をあわせて動物の飼料(高栄養素)を作る。</MakeR_Manger20.description>
+  <MakeR_Manger20.jobString>飼い葉を作る</MakeR_Manger20.jobString>
+
+  <MakeR_Manger30.label>飼い葉(30)</MakeR_Manger30.label>
+  <MakeR_Manger30.description>藁と米ぬか、穀物をあわせて動物の飼料(高栄養素)を作る。</MakeR_Manger30.description>
+  <MakeR_Manger30.jobString>飼い葉を作る</MakeR_Manger30.jobString>
+
+
+  <!-- ペットフード作成 -->
+
+  <MakeR_PetFood150.label>Pet food(150)</MakeR_PetFood150.label>
+  <MakeR_PetFood150.description>Mix kibble and outher hull  (rice bran) and increase pet food.</MakeR_PetFood150.description>
+  <MakeR_PetFood150.jobString>Mixing</MakeR_PetFood150.jobString>
+
+  <MakeR_FishFood150.label>Fish food(150)</MakeR_FishFood150.label>
+  <MakeR_FishFood150.description>Make rice bran and crushed potatoes kneaded with water.</MakeR_FishFood150.description>
+  <MakeR_FishFood150.jobString>Naking Fish food</MakeR_FishFood150.jobString>
+
+
+  <!-- ミミズ採取 -->
+
+  <ZP_CollectEarthworms.label>Capture earthworms</ZP_CollectEarthworms.label>
+  <ZP_CollectEarthworms.description>Capture earthworms that will improve soil and feed for fish.</ZP_CollectEarthworms.description>
+  <ZP_CollectEarthworms.jobString>Capturing earthworms</ZP_CollectEarthworms.jobString>
+
+
+</LanguageData>

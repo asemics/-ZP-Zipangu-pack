@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 調味料 -->
+
+  <R_Syrup.label>米糖</R_Syrup.label>
+  <R_Syrup.description>传统的甜味料，在砂糖普及前的日本到处都可以见到。 \n\n米糖，顾名思义就像是玉米糖浆是由玉米淀粉中提炼得出，它是一种由大米淀粉中提炼而来的葡萄糖浆。根据原料的大米的种类和加工方法不同，还会呈现出金黄色至红铜色不等的颜色。</R_Syrup.description>
+
+  <R_NaturalSalt.label>天然盐</R_NaturalSalt.label>
+  <R_NaturalSalt.description>含盐的水蒸馏出来的盐。 \n一种咸味的晶体，也是料理中不可或缺的调味品。</R_NaturalSalt.description>
+
+  <R_VinegarBarrel.label>Rice vineger barrel</R_VinegarBarrel.label>
+  <R_VinegarBarrel.description>This is necessary barrel for make Rice vineger.</R_VinegarBarrel.description>
+
+  <R_Vinegar.label>醋</R_Vinegar.label>
+  <R_Vinegar.description>料理用得到的醋。 \n据现有文字记载，东方醋起源于中国，有文献记载的酿醋历史至少也在三千年以上。“醋”在古中国称“酢”，所以在日本也写作“酢”。</R_Vinegar.description>
+
+  <R_SoySauceBarrel.label>Soy sauce barrel</R_SoySauceBarrel.label>
+  <R_SoySauceBarrel.description>This is necessary barrel for make Soy sauce</R_SoySauceBarrel.description>
+
+  <R_SoySauce.label>酱油</R_SoySauce.label>
+  <R_SoySauce.description>料理用得到的酱油，是起源于中国的传统的调味品。 \n用豆、麦、麸皮酿造的液体调味品。色泽红褐色，有独特酱香，滋味鲜美，有助于促进食欲。</R_SoySauce.description>
+
+  <R_MisoBarrel.label>Miso barrel</R_MisoBarrel.label>
+  <R_MisoBarrel.description>This is necessary barrel for make Miso.</R_MisoBarrel.description>
+
+  <R_Miso.label>味噌</R_Miso.label>
+  <R_Miso.description>味噌，又称面豉酱，是以黄豆为主原料，加入盐及不同的种麴发酵而成。 \n在日本，味噌是最受欢迎的调味料，它既可以做成汤品，又能与肉类烹煮成菜，还能做成火锅的汤底。由于味噌含有丰富的蛋白质、氨基酸和食物纤维，常食对健康有利，天气转凉时喝味噌汤还可暖身醒胃。</R_Miso.description>
+
+
+</LanguageData>

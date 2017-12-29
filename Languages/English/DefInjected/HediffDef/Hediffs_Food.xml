@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <HedMochi.label>【Speed】Mochi power</HedMochi.label>
+  <HedMochi.stages.0.label>I ate Mochi</HedMochi.stages.0.label>
+
+  <HedMochi2.label>【Skillful】Mochi power</HedMochi2.label>
+  <HedMochi2.stages.0.label>I ate Mochi</HedMochi2.stages.0.label>
+
+  <HedPuffedRice.label>Explosive power dwells in my body!!</HedPuffedRice.label>
+  <HedPuffedRice.stages.0.label>I ate puffed rice</HedPuffedRice.stages.0.label>
+
+  <HedFermentedFood.label>Fermented food with a smell</HedFermentedFood.label>
+  <HedFermentedFood.stages.0.label>I ate Fermented food</HedFermentedFood.stages.0.label>
+
+  <HedFishFood.label>Fish power!!</HedFishFood.label>
+  <HedFishFood.stages.0.label>I ate fish dishes</HedFishFood.stages.0.label>
+
+  <HedFreshFishFood.label>Fresh fish power!!</HedFreshFishFood.label>
+  <HedFreshFishFood.stages.0.label>I ate Seafood dishes</HedFreshFishFood.stages.0.label>
+
+
+</LanguageData>

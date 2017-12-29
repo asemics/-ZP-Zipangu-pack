@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 脱穀機　稲穂⇒米(籾) -->
+
+  <MakeThreshingMachineRice10.label>稻穗⇒籾米(10)</MakeThreshingMachineRice10.label>
+  <MakeThreshingMachineRice10.description>将稻穗加工分离出籾米和秸秆。脱粒过的籾米相对于原版的稻米来说能够更为高效地利用。</MakeThreshingMachineRice10.description>
+  <MakeThreshingMachineRice10.jobString>正在脱粒稻穗⇒籾米</MakeThreshingMachineRice10.jobString>
+
+  <MakeThreshingMachineRice50.label>稻穗⇒籾米(50)</MakeThreshingMachineRice50.label>
+  <MakeThreshingMachineRice50.description>将稻穗加工分离出籾米和秸秆。脱粒过的籾米相对于原版的稻米来说能够更为高效地利用。</MakeThreshingMachineRice50.description>
+  <MakeThreshingMachineRice50.jobString>正在脱粒稻穗⇒籾米</MakeThreshingMachineRice50.jobString>
+
+  <MakeThreshingMachineRice100.label>稻穗⇒籾米(100)</MakeThreshingMachineRice100.label>
+  <MakeThreshingMachineRice100.description>将稻穗加工分离出籾米和秸秆。脱粒过的籾米相对于原版的稻米来说能够更为高效地利用。</MakeThreshingMachineRice100.description>
+  <MakeThreshingMachineRice100.jobString>正在脱粒稻穗⇒籾米</MakeThreshingMachineRice100.jobString>
+
+  <MakeThreshingMachineRice200.label>稻穗⇒籾米(200)</MakeThreshingMachineRice200.label>
+  <MakeThreshingMachineRice200.description>将稻穗加工分离出籾米和秸秆。脱粒过的籾米相对于原版的稻米来说能够更为高效地利用。</MakeThreshingMachineRice200.description>
+  <MakeThreshingMachineRice200.jobString>正在脱粒稻穗⇒籾米</MakeThreshingMachineRice200.jobString>
+
+
+</LanguageData>

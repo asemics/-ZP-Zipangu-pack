@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ThreshingHusk.label>Threshing husk</ThreshingHusk.label>
+  <ThreshingHusk.description>Threshing husk is the process of loosening the edible part of rice (Brown rice) from the husks and straw to which it is attached. Change from brown rice to white rice by polishing.</ThreshingHusk.description>
+  <ThreshingHusk.labelShort>Thresh</ThreshingHusk.labelShort>
+  <ThreshingHusk.pawnLabel>Thresh</ThreshingHusk.pawnLabel>
+  <ThreshingHusk.gerundLabel>Thresh</ThreshingHusk.gerundLabel>
+  <ThreshingHusk.verb>Thresh</ThreshingHusk.verb>
+
+  <RiceProcessing.label>稻米加工</RiceProcessing.label>
+  <RiceProcessing.description>【脱穀】就是将籾米加工成糙米，而【精米】就是将糙米加工成白米，以此类推啦。</RiceProcessing.description>
+  <RiceProcessing.labelShort>脱穀</RiceProcessing.labelShort>
+  <RiceProcessing.pawnLabel>脱穀精米</RiceProcessing.pawnLabel>
+  <RiceProcessing.gerundLabel>脱穀精米</RiceProcessing.gerundLabel>
+  <RiceProcessing.verb>脱穀精米</RiceProcessing.verb>
+
+
+</LanguageData>
