@@ -30,10 +30,10 @@
   <ThreshingRiceMillingMachine_Frame.description>【作用：脱粒，去糠，精米】 \n可以将稻穗直接加工成白米的最新型多功能农用机械。</ThreshingRiceMillingMachine_Frame.description>
 
 
-  <!--<RiceCraftingSpot.label>農作物加工所</RiceCraftingSpot.label>-->
-  <!--<RiceCraftingSpot.description>農作物や副産物を加工する専用作業所</RiceCraftingSpot.description>-->
-  <!--<RiceCraftingSpot_Blueprint.label>農作物加工所 (blueprint)</RiceCraftingSpot_Blueprint.label>-->
-  <!--<RiceCraftingSpot_Frame.label>農作物加工所 (building)</RiceCraftingSpot_Frame.label>-->
-  <!--<RiceCraftingSpot_Frame.description>農作物や副産物を加工する専用作業所</RiceCraftingSpot_Frame.description>-->
+  <!--<RiceCraftingSpot.label>农作物加工所</RiceCraftingSpot.label>-->
+  <!--<RiceCraftingSpot.description>农作物和副产品的加工专用场所</RiceCraftingSpot.description>-->
+  <!--<RiceCraftingSpot_Blueprint.label>农作物加工所(蓝图)</RiceCraftingSpot_Blueprint.label>-->
+  <!--<RiceCraftingSpot_Frame.label>农作物加工所(建造中)</RiceCraftingSpot_Frame.label>-->
+  <!--<RiceCraftingSpot_Frame.description>农作物和副产品的加工专用场所</RiceCraftingSpot_Frame.description>-->
 
 </LanguageData>

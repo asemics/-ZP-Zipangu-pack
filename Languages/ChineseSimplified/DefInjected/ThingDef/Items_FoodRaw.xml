@@ -7,14 +7,14 @@
   <R_FreezeMochi.label>冻米饼</R_FreezeMochi.label>
   <R_FreezeMochi.description>将米饼浸湿冷冻，然后用凉风风干。这样处理过的米饼可以贮存更长时间。\n可以就这么吃，也可以烹调过再吃。</R_FreezeMochi.description>
 
-  <ZP_RiceBranPickled.label>Nukaduke</ZP_RiceBranPickled.label>
-  <ZP_RiceBranPickled.description>A preserved meal made vegetables in Nuka(rice bran).\nYou can eat raw this, and make for cooking.</ZP_RiceBranPickled.description>
+  <ZP_RiceBranPickled.label>米糠酱菜</ZP_RiceBranPickled.label>
+  <ZP_RiceBranPickled.description>一种腌制在米糠中的酱菜。\n可以就这么吃，也可以烹调过再吃。</ZP_RiceBranPickled.description>
 
-  <ZP_DriedFish.label>Dried fish</ZP_DriedFish.label>
-  <ZP_DriedFish.description>A preserved food dried to keep raw fish from decaying.\nYou can eat raw this, and make for cooking.</ZP_DriedFish.description>
+  <ZP_DriedFish.label>鱼干</ZP_DriedFish.label>
+  <ZP_DriedFish.description>干燥保存的食物，防止鲜鱼腐败。\n可以就这么吃，也可以烹调过再吃。</ZP_DriedFish.description>
 
-  <ZP_FermentedSoybeans.label>Natto</ZP_FermentedSoybeans.label>
-  <ZP_FermentedSoybeans.description>Fermented Japanese food fermented Soybean with Bacillus Natto. \nYou can eat raw this, and make for cooking.</ZP_FermentedSoybeans.description>
+  <ZP_FermentedSoybeans.label>纳豆</ZP_FermentedSoybeans.label>
+  <ZP_FermentedSoybeans.description>由大豆和纳豆菌发酵而成的日本食品。\n可以就这么吃，也可以烹调过再吃。</ZP_FermentedSoybeans.description>
 
 
 </LanguageData>

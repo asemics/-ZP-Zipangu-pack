@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <ZPMOD_Kakashi.label>Scarecrow</ZPMOD_Kakashi.label>
-  <ZPMOD_Kakashi.description>(Effect: Fertility degree 30% up, diameter 9 squares)\nScarecrow that received the blessing of fertile God. It encourages the growth of surrounding crops.\nThe effect continues as long as there is an offering. But when the offering is gone, it will fulfill its role and self-destroy.\noffering(Fuel) is onigiri, three color dumplings,  mochi , Isobe mochi, Gokohira rice cake, Zunda mochi.</ZPMOD_Kakashi.description>
-  <ZPMOD_Kakashi_Blueprint.label>Scarecrow (blueprint)</ZPMOD_Kakashi_Blueprint.label>
+  <ZPMOD_Kakashi.label>丰收稻草人</ZPMOD_Kakashi.label>
+  <ZPMOD_Kakashi.description>(效果:肥力上升30%,直径9平方)\n稻荷神寄宿的稻草人。能周边作物的生长。\n只要有供品，效果就会持续下去。但是供奉结束的时候，就完成了自己的使命自我消灭。\n 供品：饭团，三色団子,酢餅,磯部餅,五平餅,ずんだ餅。</ZPMOD_Kakashi.description>
+  <ZPMOD_Kakashi_Blueprint.label>丰收稻草人(蓝图)</ZPMOD_Kakashi_Blueprint.label>
   <ZPMOD_Kakashi_Blueprint_Install.label>Scarecrow (blueprint)</ZPMOD_Kakashi_Blueprint_Install.label>
-  <ZPMOD_Kakashi_Frame.label>Scarecrow (building)</ZPMOD_Kakashi_Frame.label>
-  <ZPMOD_Kakashi_Frame.description>(Effect: Fertility degree 30% up, diameter 9 squares)\nScarecrow that received the blessing of fertile God. It encourages the growth of surrounding crops.\nThe effect continues as long as there is an offering. But when the offering is gone, it will fulfill its role and self-destroy.\noffering(Fuel) is onigiri, three color dumplings,  mochi , Isobe mochi, Gokohira rice cake, Zunda mochi.</ZPMOD_Kakashi_Frame.description>
+  <ZPMOD_Kakashi_Frame.label>丰收稻草人(建造中)</ZPMOD_Kakashi_Frame.label>
+  <ZPMOD_Kakashi_Frame.description>(效果:肥力上升30%,直径9平方)\n稻荷神寄宿的稻草人。能周边作物的生长。\n只要有供品，效果就会持续下去。但是供奉结束的时候，就完成了自己的使命自我消灭。\n 供品：饭团，三色団子,酢餅,磯部餅,五平餅,ずんだ餅。</ZPMOD_Kakashi_Frame.description>
 
 
 </LanguageData>

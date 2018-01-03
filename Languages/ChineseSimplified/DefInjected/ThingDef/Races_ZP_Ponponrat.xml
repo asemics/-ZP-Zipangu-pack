@@ -3,15 +3,15 @@
 
   <!-- ポン菓子ロープ -->
 
-  <ZP_Ponponrat.label>Pomb rat</ZP_Ponponrat.label>
-  <ZP_Ponponrat.description>Subspecies boomrat.It seems that these are faster than normal boomrat, and when you butcher these you can get puffed rice.\n\nAs a result of feeding puffed rice at other colony, these were inadvertently mutated.\nThese became possible to generate the explosive power in the body when generating puffed rice. Moving speed and explosive power are enhanced.\nIt is not harmful, but be careful as it becomes a bombing special attacker when it becomes extremely excited.\nIntelligence is high because these were popular among some enthusiasts and was also training.</ZP_Ponponrat.description>
-  <ZP_Ponponrat.tools.0.label>left claw</ZP_Ponponrat.tools.0.label>
-  <ZP_Ponponrat.tools.1.label>right claw</ZP_Ponponrat.tools.1.label>
-  <ZP_Ponponrat.tools.3.label>head</ZP_Ponponrat.tools.3.label>
+  <ZP_Ponponrat.label>甜甜鼠</ZP_Ponponrat.label>
+  <ZP_Ponponrat.description>爆炸鼠亚种，解体的时候会得到爆米花。因为受殖民者长期喂食爆米花导致的突然变异，但这是无害的。智商高，受到一部分爱好者喜爱与训练。</ZP_Ponponrat.description>
+  <ZP_Ponponrat.tools.0.label>左爪</ZP_Ponponrat.tools.0.label>
+  <ZP_Ponponrat.tools.1.label>右爪</ZP_Ponponrat.tools.1.label>
+  <ZP_Ponponrat.tools.3.label>头</ZP_Ponponrat.tools.3.label>
   <!-- Use Leather From: Boomrat -->
   <!-- Use Meat From: Boomrat -->
-  <ZP_Ponponrat_Corpse.label>Pomb rat corpse</ZP_Ponponrat_Corpse.label>
-  <ZP_Ponponrat_Corpse.description>Pomb rat corpse</ZP_Ponponrat_Corpse.description>
+  <ZP_Ponponrat_Corpse.label>甜甜鼠尸体</ZP_Ponponrat_Corpse.label>
+  <ZP_Ponponrat_Corpse.description>甜甜鼠尸体</ZP_Ponponrat_Corpse.description>
 
 
 </LanguageData>

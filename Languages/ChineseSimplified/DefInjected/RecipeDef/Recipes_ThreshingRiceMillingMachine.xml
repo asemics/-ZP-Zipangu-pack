@@ -4,19 +4,19 @@
   <!-- マルチ式脱穀精米機　稲穂⇒白米 -->
 
   <MakeThreshingRiceMillingMachine10.label>稻穗⇒白米(10)</MakeThreshingRiceMillingMachine10.label>
-  <MakeThreshingRiceMillingMachine10.description>将稻穗加工分离出白米、秸秆、谷壳以及糠麸。</MakeThreshingRiceMillingMachine10.description>
+  <MakeThreshingRiceMillingMachine10.description>将稻穗加工分离出白米、秸秆、谷壳以及米糠。</MakeThreshingRiceMillingMachine10.description>
   <MakeThreshingRiceMillingMachine10.jobString>脱粒、精米中</MakeThreshingRiceMillingMachine10.jobString>
 
   <MakeThreshingRiceMillingMachine50.label>稻穗⇒白米(50)</MakeThreshingRiceMillingMachine50.label>
-  <MakeThreshingRiceMillingMachine50.description>将稻穗加工分离出白米、秸秆、谷壳以及糠麸。</MakeThreshingRiceMillingMachine50.description>
+  <MakeThreshingRiceMillingMachine50.description>将稻穗加工分离出白米、秸秆、谷壳以及米糠。</MakeThreshingRiceMillingMachine50.description>
   <MakeThreshingRiceMillingMachine50.jobString>脱粒、精米中</MakeThreshingRiceMillingMachine50.jobString>
 
   <MakeThreshingRiceMillingMachine100.label>稻穗⇒白米(100)</MakeThreshingRiceMillingMachine100.label>
-  <MakeThreshingRiceMillingMachine100.description>将稻穗加工分离出白米、秸秆、谷壳以及糠麸。</MakeThreshingRiceMillingMachine100.description>
+  <MakeThreshingRiceMillingMachine100.description>将稻穗加工分离出白米、秸秆、谷壳以及米糠。</MakeThreshingRiceMillingMachine100.description>
   <MakeThreshingRiceMillingMachine100.jobString>脱粒、精米中</MakeThreshingRiceMillingMachine100.jobString>
 
   <MakeThreshingRiceMillingMachine200.label>稻穗⇒白米(200)</MakeThreshingRiceMillingMachine200.label>
-  <MakeThreshingRiceMillingMachine200.description>将稻穗加工分离出白米、秸秆、稻壳以及糠麸。</MakeThreshingRiceMillingMachine200.description>
+  <MakeThreshingRiceMillingMachine200.description>将稻穗加工分离出白米、秸秆、谷壳以及米糠。</MakeThreshingRiceMillingMachine200.description>
   <MakeThreshingRiceMillingMachine200.jobString>脱粒、精米中</MakeThreshingRiceMillingMachine200.jobString>
 
 

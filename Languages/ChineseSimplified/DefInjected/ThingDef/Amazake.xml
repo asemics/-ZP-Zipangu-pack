@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <ZPAmazake.label>Amazake</ZPAmazake.label>
-  <ZPAmazake.description>this is traditional sweet beverage in Japan and it is festival at the New Year and festival.\nIt looks white and cloudy and is called Amagayu.\nIt is rich in nutrition, it is cold in the summer and it relieve the summer heat. It is also a health drink that warms in winter and is active as a cold prevention.</ZPAmazake.description>
+  <ZPAmazake.label>甘酒</ZPAmazake.label>
+  <ZPAmazake.description>这是日本在新年时的传统的甜品饮料。\n又被称为甜粥，因为它看起来白色又浑浊。\n营养丰富，具有夏季消暑和冬季御寒的保健效果。</ZPAmazake.description>
   <ZPAmazake.ingestible.ingestCommandString>Drink {0}</ZPAmazake.ingestible.ingestCommandString>
   <ZPAmazake.ingestible.ingestReportString>Drinking {0}.</ZPAmazake.ingestible.ingestReportString>
 

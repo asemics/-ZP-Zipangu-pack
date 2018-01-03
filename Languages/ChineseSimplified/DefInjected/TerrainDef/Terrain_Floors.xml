@@ -10,17 +10,17 @@
 
   <!-- 土壌 -->
 
-  <ZP_Soil.label>Soil</ZP_Soil.label>
-  <ZP_Soil.description>(Fertility:100%)\nMake the land possible for agriculture\nSoil will be placed on sand, ice, gravel, rough stone, smooth stone.</ZP_Soil.description>
+  <ZP_Soil.label>土壤</ZP_Soil.label>
+  <ZP_Soil.description>(肥力:100%)\n将土地变成农田。\n土壤可以放置于沙土，冰原，碎石，粗糙于光滑的石地上。</ZP_Soil.description>
 
-  <ZP_SoilRich.label>Fertile Soil</ZP_SoilRich.label>
-  <ZP_SoilRich.description>(Fertility:140%)\nImprove agriculturally possible soil to Rich Soil.</ZP_SoilRich.description>
+  <ZP_SoilRich.label>肥沃的土壤</ZP_SoilRich.label>
+  <ZP_SoilRich.description>(肥力:140%)\n提高农田土壤的肥沃度。</ZP_SoilRich.description>
 
-  <ZP_Mud.label>Mud</ZP_Mud.label>
-  <ZP_Mud.description>Mud the soil for paddy fields.</ZP_Mud.description>
+  <ZP_Mud.label>泥</ZP_Mud.label>
+  <ZP_Mud.description>用来制作稻田。</ZP_Mud.description>
 
-  <ZP_LandfillSoil.label>Reclaimed soil</ZP_LandfillSoil.label>
-  <ZP_LandfillSoil.description>(Fertility:50)\nFill a place with poor footing.\nMud, swamp, shallow, coastal current is reclaimed.</ZP_LandfillSoil.description>
+  <ZP_LandfillSoil.label>复耕土</ZP_LandfillSoil.label>
+  <ZP_LandfillSoil.description>(肥力:50%)\n补充贫乏的土地。\n恢复泥，沼泽，浅滩，沿海</ZP_LandfillSoil.description>
 
 
 </LanguageData>

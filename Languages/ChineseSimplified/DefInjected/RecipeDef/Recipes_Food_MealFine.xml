@@ -38,17 +38,17 @@
   <CookWRGyudon4.description>烹饪4份肉丼。</CookWRGyudon4.description>
   <CookWRGyudon4.jobString>正在烹饪肉丼</CookWRGyudon4.jobString>
 
-  <CookSasimi8.label>Sashimi(8)</CookSasimi8.label>
-  <CookSasimi8.description>Make Sashimi(cut fish)</CookSasimi8.description>
-  <CookSasimi8.jobString>Making Sashimi</CookSasimi8.jobString>
+  <CookSasimi8.label>生鱼片(8)</CookSasimi8.label>
+  <CookSasimi8.description>制作生鱼片(切鱼)。</CookSasimi8.description>
+  <CookSasimi8.jobString>正在制作生鱼片</CookSasimi8.jobString>
 
-  <CookSaltGrilledFish8.label>Salt-grilled fish(8)</CookSaltGrilledFish8.label>
-  <CookSaltGrilledFish8.description>Make Salt-grilled fish.</CookSaltGrilledFish8.description>
-  <CookSaltGrilledFish8.jobString>Making Salt-grilled fish</CookSaltGrilledFish8.jobString>
+  <CookSaltGrilledFish8.label>盐烤鱼(8)</CookSaltGrilledFish8.label>
+  <CookSaltGrilledFish8.description>烹饪盐烤鱼。</CookSaltGrilledFish8.description>
+  <CookSaltGrilledFish8.jobString>正在烹饪盐烤鱼</CookSaltGrilledFish8.jobString>
 
-  <CookSteamedFish8.label>Boiled fish(8)</CookSteamedFish8.label>
-  <CookSteamedFish8.description>Make Boiled fish.</CookSteamedFish8.description>
-  <CookSteamedFish8.jobString>making Boiled fish</CookSteamedFish8.jobString>
+  <CookSteamedFish8.label>白煮鱼(8)</CookSteamedFish8.label>
+  <CookSteamedFish8.description>烹饪白煮鱼。</CookSteamedFish8.description>
+  <CookSteamedFish8.jobString>正在烹饪白煮鱼</CookSteamedFish8.jobString>
 
 
 </LanguageData>

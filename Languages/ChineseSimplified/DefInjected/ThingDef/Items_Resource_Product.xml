@@ -30,11 +30,11 @@
   <R_Compost.label>堆肥</R_Compost.label>
   <R_Compost.description>在建设稻田时可以用到的肥料。</R_Compost.description>
 
-  <ZP_Earthworm.label>Earthworm</ZP_Earthworm.label>
-  <ZP_Earthworm.description>This is necessary for fish food and soil improvement.</ZP_Earthworm.description>
+  <ZP_Earthworm.label>蚯蚓</ZP_Earthworm.label>
+  <ZP_Earthworm.description>作为鱼饲料和改良土壤的必须品。</ZP_Earthworm.description>
 
-  <ZP_Mud.label>Mud</ZP_Mud.label>
-  <ZP_Mud.description>This is necessary for soil improvement.</ZP_Mud.description>
+  <ZP_Mud.label>泥</ZP_Mud.label>
+  <ZP_Mud.description>改良土壤的必须品。</ZP_Mud.description>
 
 
   <!-- 飼料 -->
@@ -42,17 +42,17 @@
   <Manger.label>饲草</Manger.label>
   <Manger.description>为家养动物准备的饲料，拥有比较高的营养值，相当正义。</Manger.description>
 
-  <PetFood.label>Pet Food</PetFood.label>
-  <PetFood.description>Pet food perfect for livestock feed.</PetFood.description>
+  <PetFood.label>宠物食品</PetFood.label>
+  <PetFood.description>宠物食品非常适合作为家畜饲料</PetFood.description>
 
-  <ZP_FishFood.label>Fish food</ZP_FishFood.label>
-  <ZP_FishFood.description>Food of fish made by mixing rice bran and potatoes with water.\n Animals can eat this too.</ZP_FishFood.description>
+  <ZP_FishFood.label>鱼食</ZP_FishFood.label>
+  <ZP_FishFood.description>用米糠和土豆加水混合而成的鱼饲料。\n 动物也可以吃。</ZP_FishFood.description>
 
-  <TatamiStraw.label>Building straw</TatamiStraw.label>
-  <TatamiStraw.description>Processed straw for building materials.</TatamiStraw.description>
+  <TatamiStraw.label>建设秸秆</TatamiStraw.label>
+  <TatamiStraw.description>加工秸秆建筑材料。</TatamiStraw.description>
 
-  <TatamiG.label>Tatami(1quire)</TatamiG.label>
-  <TatamiG.description>Tatami of 1 quire size.</TatamiG.description>
+  <TatamiG.label>榻榻米(1畳)</TatamiG.label>
+  <TatamiG.description>1畳面积的榻榻米</TatamiG.description>
 
 
 </LanguageData>

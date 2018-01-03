@@ -40,20 +40,20 @@
   <WR_JPCurryRice.label>日式咖喱饭</WR_JPCurryRice.label>
   <WR_JPCurryRice.description>据说在某个国家引起了因为吃法和食材之类的战争的充满魅惑的食物。而对日本的人们来说，是无论到哪里都会很怀念的味道呢。</WR_JPCurryRice.description>
 
-  <Tukudani.label>Tsukudani of insects</Tukudani.label>
-  <Tukudani.description>Food that boiled insect meat that should normally be thrown away sweetly with sugar and Soy sauce.</Tukudani.description>
+  <Tukudani.label>蝗虫佃煮</Tukudani.label>
+  <Tukudani.description>用糖和酱油炖煮本应扔掉的虫肉而成的食物。</Tukudani.description>
 
-  <ZP_WRSushi.label>Sushi</ZP_WRSushi.label>
-  <ZP_WRSushi.description>Traditional Japanese cuisine with fresh fish fillet on top of vinegared rice.</ZP_WRSushi.description>
+  <ZP_WRSushi.label>寿司</ZP_WRSushi.label>
+  <ZP_WRSushi.description>传统的日本料理，新鲜的鱼片放在醋米饭上。</ZP_WRSushi.description>
 
-  <ZP_Sasimi.label>Sashimi</ZP_Sasimi.label>
-  <ZP_Sasimi.description>Cut the fresh raw fish in a size easy to eat and assorted on the dish.</ZP_Sasimi.description>
+  <ZP_Sasimi.label>生鱼片</ZP_Sasimi.label>
+  <ZP_Sasimi.description>将鱼肉切成一口大小后摆放成拼盘。</ZP_Sasimi.description>
 
-  <ZP_SaltGrilledFish.label>Salt-grilled fish</ZP_SaltGrilledFish.label>
-  <ZP_SaltGrilledFish.description>Salted fish was skewered and baked with direct flame. A dish that you can enjoy the taste of baked fish.</ZP_SaltGrilledFish.description>
+  <ZP_SaltGrilledFish.label>盐烤鱼</ZP_SaltGrilledFish.label>
+  <ZP_SaltGrilledFish.description>加盐烤成的鱼肉，可以品尝到烤鱼的味道。</ZP_SaltGrilledFish.description>
 
-  <ZP_SteamedFish.label>Boiled fish</ZP_SteamedFish.label>
-  <ZP_SteamedFish.description>Food boiled lightly and then seasoned with seasoning and boiled fish.</ZP_SteamedFish.description>
+  <ZP_SteamedFish.label>白煮鱼</ZP_SteamedFish.label>
+  <ZP_SteamedFish.description>将鱼煮熟，然后蘸着调味料吃的鱼料理</ZP_SteamedFish.description>
 
 
 </LanguageData>

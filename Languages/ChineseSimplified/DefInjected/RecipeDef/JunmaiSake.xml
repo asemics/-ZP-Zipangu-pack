@@ -1,13 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <R_CookJunmaiSakeBarrel.label>Junmai barrel</R_CookJunmaiSakeBarrel.label>
-  <R_CookJunmaiSakeBarrel.description>Make a Junmai(a kind of Japanese alchole) barrel as a tool for Junmai.</R_CookJunmaiSakeBarrel.description>
-  <R_CookJunmaiSakeBarrel.jobString>Makeing a Junmai barrel</R_CookJunmaiSakeBarrel.jobString>
+  <R_CookJunmaiSakeBarrel.label>纯米桶</R_CookJunmaiSakeBarrel.label>
+  <R_CookJunmaiSakeBarrel.description>将纯米酒放入桶里</R_CookJunmaiSakeBarrel.description>
+  <R_CookJunmaiSakeBarrel.jobString>正在酿造一桶纯米</R_CookJunmaiSakeBarrel.jobString>
 
-  <MakeJunmaiSake.label>Junmai(25)</MakeJunmaiSake.label>
-  <MakeJunmaiSake.description>Make a Junmai(a kind of Japanese alchole).</MakeJunmaiSake.description>
-  <MakeJunmaiSake.jobString>Making a Junmai</MakeJunmaiSake.jobString>
+  <MakeJunmaiSake.label>纯米(25)</MakeJunmaiSake.label>
+  <MakeJunmaiSake.description>酿造纯米(一种日本的酒品).</MakeJunmaiSake.description>
+  <MakeJunmaiSake.jobString>正在酿造纯米</MakeJunmaiSake.jobString>
 
 
 </LanguageData>

@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <MakeAmazake.label>Amazake(10)</MakeAmazake.label>
-  <MakeAmazake.description>Make Amazake with rice as raw material.</MakeAmazake.description>
-  <MakeAmazake.jobString>Making amazake.</MakeAmazake.jobString>
+  <MakeAmazake.label>甘酒(10)</MakeAmazake.label>
+  <MakeAmazake.description>以大米为原料酿造的甘酒。</MakeAmazake.description>
+  <MakeAmazake.jobString>正在酿造甘酒。</MakeAmazake.jobString>
 
 
 </LanguageData>

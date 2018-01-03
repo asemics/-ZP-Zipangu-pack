@@ -2,13 +2,12 @@
 <LanguageData>
 
   <Rise_Prant.label>米稻</Rise_Prant.label>
-  <Rise_Prant.description>畑で育成できる米。\n白米を食べるまでの手間隙は大変だが愛情をもって育てたお米は衣食住様々な事に活用できる。研究が進めば品種改良もできる優れた穀物。
-        </Rise_Prant.description>
+  <Rise_Prant.description>在田地里育成的品种。\n吃白米是困难的，但是用爱养育的白米可以用于各种地方，随着研究的进展，可以提高品种的优良谷物。</Rise_Prant.description>
 
-  <UplandRice.label>陆稻</UplandRice.label>
+  <UplandRice.label>陆生稻</UplandRice.label>
   <UplandRice.description>在田地里育成的品种，重视生长速度和产量的品种。</UplandRice.description>
 
-  <WetlandRice.label>水稲</WetlandRice.label>
+  <WetlandRice.label>水生稲</WetlandRice.label>
   <WetlandRice.description>在水田中培育的大米，稻穗为了生产大量的米而进行过改良。</WetlandRice.description>
 
 

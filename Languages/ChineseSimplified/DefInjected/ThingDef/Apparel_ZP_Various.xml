@@ -6,32 +6,32 @@
   <ZP_Dogi.label>道服</ZP_Dogi.label>
   <ZP_Dogi.description>日本的武道家们常穿的道服。轻薄的设计使得这种服装在近接战斗时非常的方便灵活。</ZP_Dogi.description>
 
-  <ZP_Underwear.label>Underwear</ZP_Underwear.label>
-  <ZP_Underwear.description>Underwear, it's fascinating to wear. </ZP_Underwear.description>
+  <ZP_Underwear.label>内衣</ZP_Underwear.label>
+  <ZP_Underwear.description>内衣，穿起来很迷人。</ZP_Underwear.description>
 
-  <ZP_NinjaApparel.label>Ninja Clothes</ZP_NinjaApparel.label>
-  <ZP_NinjaApparel.description>Clothes used for spying and scouting. Moving quickly, you can raid them.</ZP_NinjaApparel.description>
+  <ZP_NinjaApparel.label>忍者服</ZP_NinjaApparel.label>
+  <ZP_NinjaApparel.description>秘密侦查所穿的服装，轻便灵活适合奇袭攻击。</ZP_NinjaApparel.description>
 
-  <ZP_MikoApparel.label>Miko Cloths</ZP_MikoApparel.label>
-  <ZP_MikoApparel.description>Shinto is a traditional Japanese animism.  This clothes worn by Shinto Miko. YaoyorozuGods that are said to stay in all things will protect them from evil thoughts.</ZP_MikoApparel.description>
+  <ZP_MikoApparel.label>巫女服</ZP_MikoApparel.label>
+  <ZP_MikoApparel.description>神道中信奉万物皆有灵，神道教中巫女所穿的服装。\n以祈求八百万神明保佑他们免收邪恶思想的侵染。</ZP_MikoApparel.description>
 
-  <ZP_GujiApparel.label>Kan-nusi Clothes</ZP_GujiApparel.label>
-  <ZP_GujiApparel.description>Shinto is a traditional Japanese animism.  This clothes worn by Shinto Kan-nusi. YaoyorozuGods that are said to stay in all things will protect them from evil thoughts.</ZP_GujiApparel.description>
+  <ZP_GujiApparel.label>神官服</ZP_GujiApparel.label>
+  <ZP_GujiApparel.description>神道中信奉万物皆有灵，神道教中神官所穿的服饰。\n以祈求八百万神明保佑他们免收邪恶思想的侵染。</ZP_GujiApparel.description>
 
-  <ZP_SamuraiApparel.label>Samuerai Clothes</ZP_SamuraiApparel.label>
-  <ZP_SamuraiApparel.description>Clothing worn by the Samurai. Because Samurai spirit resides, you can get protection during the melee battle.</ZP_SamuraiApparel.description>
+  <ZP_SamuraiApparel.label>武士服</ZP_SamuraiApparel.label>
+  <ZP_SamuraiApparel.description>武士所穿的服装。以让武士魂寄宿其中，于近战之中保护他们。</ZP_SamuraiApparel.description>
 
-  <ZP_Longjohns.label>Matahiki</ZP_Longjohns.label>
-  <ZP_Longjohns.description>This is traditional Japanese trousers and used as underwear.</ZP_Longjohns.description>
+  <ZP_Longjohns.label>股引</ZP_Longjohns.label>
+  <ZP_Longjohns.description>传统的日本长裤，用作内衣。</ZP_Longjohns.description>
 
-  <ZP_Loincloth.label>Hundoshi</ZP_Loincloth.label>
-  <ZP_Loincloth.description>This is traditional Japanese underwear.</ZP_Loincloth.description>
+  <ZP_Loincloth.label>兜裆布</ZP_Loincloth.label>
+  <ZP_Loincloth.description>日本传统的内裤。</ZP_Loincloth.description>
 
 
   <!-- 羽織 Base パーカー -->
 
-  <ZP_HaoriApparel.label>Haori Coat</ZP_HaoriApparel.label>
-  <ZP_HaoriApparel.description>A coat suitable for cold winter. Because it can be used as a formal dress, it is useful for important hospitality as well.</ZP_HaoriApparel.description>
+  <ZP_HaoriApparel.label>羽织</ZP_HaoriApparel.label>
+  <ZP_HaoriApparel.description>作为一件外套，既可以御寒也可以用作礼服，用于重要招待时。</ZP_HaoriApparel.description>
 
 
   <!-- 蓑 Base ダスターコート -->
@@ -42,23 +42,23 @@
 
   <!-- 胸当て Base 防弾チョッキ -->
 
-  <ZP_ArcherArmor.label>MuneateArmor</ZP_ArcherArmor.label>
-  <ZP_ArcherArmor.description>Protective gear worn by archers. Stable shooting can be done.</ZP_ArcherArmor.description>
+  <ZP_ArcherArmor.label>胸当</ZP_ArcherArmor.label>
+  <ZP_ArcherArmor.description>弓箭手锁穿戴的护具，可以稳定瞄准。</ZP_ArcherArmor.description>
 
 
   <!-- 足軽具足 Base 防弾チョッキ -->
 
-  <ZP_AsigaruArmor.label>Asigaru Armor</ZP_AsigaruArmor.label>
-  <ZP_AsigaruArmor.description>Armor that Ashigaru(soldier) wears. Easy-to-move ingenuity has been given so that any situation can be dealt with.</ZP_AsigaruArmor.description>
+  <ZP_AsigaruArmor.label>足轻具足</ZP_AsigaruArmor.label>
+  <ZP_AsigaruArmor.description>足轻穿戴的盔甲，进行了轻便化处理，以便处理任何突发情况。</ZP_AsigaruArmor.description>
 
 
   <!-- 将軍鎧 Base パワーアーマー -->
 
-  <ZP_SyogunArmor.label>Syogun Armor</ZP_SyogunArmor.label>
-  <ZP_SyogunArmor.description>Armor for which only the Syogun(general) can be attached. You can be a champion of the battle because it is protected by thick armor.</ZP_SyogunArmor.description>
+  <ZP_SyogunArmor.label>武家铠</ZP_SyogunArmor.label>
+  <ZP_SyogunArmor.description>仅有武家可以穿戴的盔甲，因为装甲保护精良，可以成为战场上的精锐</ZP_SyogunArmor.description>
 
-  <ZP_TetateShield.label>Tetate</ZP_TetateShield.label>
-  <ZP_TetateShield.description>A shield that can protect yourself from arrows and bullets and prevent melee attacks.</ZP_TetateShield.description>
+  <ZP_TetateShield.label>手盾</ZP_TetateShield.label>
+  <ZP_TetateShield.description>可以保护自己免受箭和子弹的伤害，并在近身攻击中保护自己的盾牌</ZP_TetateShield.description>
 
 
 </LanguageData>

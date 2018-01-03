@@ -3,27 +3,26 @@
 
   <!-- 十手 Base クラブ -->
 
-  <MeleeWeapon_Jitte.label>Jitte</MeleeWeapon_Jitte.label>
-  <MeleeWeapon_Jitte.description>Capture tool transmitted to Japan from long ago. You can prevent enemy attacks.</MeleeWeapon_Jitte.description>
+  <MeleeWeapon_Jitte.label>十手</MeleeWeapon_Jitte.label>
+  <MeleeWeapon_Jitte.description>从古流传而来的捕获工具，可以防止敌人的攻击</MeleeWeapon_Jitte.description>
   <MeleeWeapon_Jitte.tools.0.label>handle</MeleeWeapon_Jitte.tools.0.label>
   <MeleeWeapon_Jitte.tools.1.label>head</MeleeWeapon_Jitte.tools.1.label>
 
-  <MeleeWeapon_Marohoshi.label>Marohoshi</MeleeWeapon_Marohoshi.label>
-  <MeleeWeapon_Marohoshi.description>A catching tool that made it easier to prevent enemy attacks by improving Jitte.</MeleeWeapon_Marohoshi.description>
+  <MeleeWeapon_Marohoshi.label>铁尺</MeleeWeapon_Marohoshi.label>
+  <MeleeWeapon_Marohoshi.description>一种由十手改良而来的捕获工具，更容易防止敌人攻击。</MeleeWeapon_Marohoshi.description>
   <MeleeWeapon_Marohoshi.tools.0.label>handle</MeleeWeapon_Marohoshi.tools.0.label>
   <MeleeWeapon_Marohoshi.tools.1.label>head</MeleeWeapon_Marohoshi.tools.1.label>
 
-  <MeleeWeapon_Sasumata.label>Sasumata</MeleeWeapon_Sasumata.label>
-  <MeleeWeapon_Sasumata.description>
-    Capture tool to contain the opponent's movement. The opponent can check but can not deal with the Long-distance opponent.</MeleeWeapon_Sasumata.description>
+  <MeleeWeapon_Sasumata.label>刺叉</MeleeWeapon_Sasumata.label>
+  <MeleeWeapon_Sasumata.description>中长距离压制对手的捕获用武器</MeleeWeapon_Sasumata.description>
   <MeleeWeapon_Sasumata.tools.0.label>handle</MeleeWeapon_Sasumata.tools.0.label>
   <MeleeWeapon_Sasumata.tools.1.label>head</MeleeWeapon_Sasumata.tools.1.label>
 
 
   <!-- 脇差 Base グラディウス -->
 
-  <MeleeWeapon_Wakizasi.label>Wakizashi</MeleeWeapon_Wakizasi.label>
-  <MeleeWeapon_Wakizasi.description>It is a short sword handed down in the East.It is used as a spare weapon for when the main weapon is broken.</MeleeWeapon_Wakizasi.description>
+  <MeleeWeapon_Wakizasi.label>胁差</MeleeWeapon_Wakizasi.label>
+  <MeleeWeapon_Wakizasi.description>一种东方流传而来的短剑，可以做了备用武器，也可用作狭窄空间战斗的武器。</MeleeWeapon_Wakizasi.description>
   <MeleeWeapon_Wakizasi.tools.0.label>Poke</MeleeWeapon_Wakizasi.tools.0.label>
   <MeleeWeapon_Wakizasi.tools.1.label>Swing</MeleeWeapon_Wakizasi.tools.1.label>
   <MeleeWeapon_Wakizasi.tools.2.label>Swing down</MeleeWeapon_Wakizasi.tools.2.label>
@@ -31,8 +30,8 @@
 
   <!-- 刀 Base ロングソード -->
 
-  <MeleeWeapon_KATANA.label>东洋刀</MeleeWeapon_KATANA.label>
-  <MeleeWeapon_KATANA.description>旧世的东洋刀。和西方的长剑相比，虽然所需的材料和工序都更多更复杂了，但是通过技艺精湛的匠人打造出来的刀拥有不可小觑的威力。</MeleeWeapon_KATANA.description>
+  <MeleeWeapon_KATANA.label>打刀</MeleeWeapon_KATANA.label>
+  <MeleeWeapon_KATANA.description>东方流传的剑，与普通的西方剑相比，制作工艺更加的复杂。但是斩味和硬度都很高。</MeleeWeapon_KATANA.description>
   <MeleeWeapon_KATANA.tools.0.label>Poke</MeleeWeapon_KATANA.tools.0.label>
   <MeleeWeapon_KATANA.tools.1.label>Swing</MeleeWeapon_KATANA.tools.1.label>
   <MeleeWeapon_KATANA.tools.2.label>Swing down</MeleeWeapon_KATANA.tools.2.label>
@@ -40,8 +39,8 @@
 
   <!-- 大太刀 Base 刀 -->
 
-  <ZP_Odachi.label>Odachi Blade</ZP_Odachi.label>
-  <ZP_Odachi.description>A large sword made for further improvement of power.</ZP_Odachi.description>
+  <ZP_Odachi.label>大太刀</ZP_Odachi.label>
+  <ZP_Odachi.description>为进一步提高力量而制作的大剑。</ZP_Odachi.description>
   <ZP_Odachi.tools.0.label>Poke</ZP_Odachi.tools.0.label>
   <ZP_Odachi.tools.1.label>Swing</ZP_Odachi.tools.1.label>
   <ZP_Odachi.tools.2.label>Swing down</ZP_Odachi.tools.2.label>
@@ -49,16 +48,16 @@
 
   <!-- 長槍 Base スピア -->
 
-  <ZP_LongSpear.label>Nagayari Spear</ZP_LongSpear.label>
-  <ZP_LongSpear.description>A weapon with a long reach. Because the reach is long, you can attack from the outside of the opponent's confrontation in the case of proximity battle.</ZP_LongSpear.description>
+  <ZP_LongSpear.label>长枪</ZP_LongSpear.label>
+  <ZP_LongSpear.description>长距离武器，便于从对手的攻击距离外予以伤害的武器。</ZP_LongSpear.description>
   <ZP_LongSpear.tools.0.label>Strike</ZP_LongSpear.tools.0.label>
   <ZP_LongSpear.tools.1.label>Poke</ZP_LongSpear.tools.1.label>
 
 
   <!-- 十文字槍 Base スピア -->
 
-  <ZP_JumonjiSpear.label>Jumonji Spear</ZP_JumonjiSpear.label>
-  <ZP_JumonjiSpear.description>A weapon with a long reach.It makes the spear tip cross and makes it hard to avoid when piercing. It also has applications such as hooking and scraping.</ZP_JumonjiSpear.description>
+  <ZP_JumonjiSpear.label>十文字长枪</ZP_JumonjiSpear.label>
+  <ZP_JumonjiSpear.description>长距离武器，枪头的十文字不仅可以用于穿刺，也可进行钩和切的武技运用。</ZP_JumonjiSpear.description>
   <ZP_JumonjiSpear.tools.0.label>Slash</ZP_JumonjiSpear.tools.0.label>
   <ZP_JumonjiSpear.tools.1.label>Strike</ZP_JumonjiSpear.tools.1.label>
   <ZP_JumonjiSpear.tools.2.label>Poke</ZP_JumonjiSpear.tools.2.label>
@@ -66,8 +65,8 @@
 
   <!-- 長槍 Base スピア -->
 
-  <ZP_Naginata.label>Naginata</ZP_Naginata.label>
-  <ZP_Naginata.description>A long stick attached to a sword and improved. It looks like a glaive and has a very long reach</ZP_Naginata.description>
+  <ZP_Naginata.label>薙刀</ZP_Naginata.label>
+  <ZP_Naginata.description>枪杆上插着一把剑，并经过改良而成，看上去像把大刀，攻击范围广。</ZP_Naginata.description>
   <ZP_Naginata.tools.0.label>Poke</ZP_Naginata.tools.0.label>
   <ZP_Naginata.tools.1.label>Swing</ZP_Naginata.tools.1.label>
   <ZP_Naginata.tools.2.label>Swing down</ZP_Naginata.tools.2.label>

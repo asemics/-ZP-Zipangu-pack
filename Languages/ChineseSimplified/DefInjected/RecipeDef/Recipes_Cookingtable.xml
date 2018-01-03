@@ -37,44 +37,44 @@
 
   <!-- ぬか漬け -->
 
-  <CookRiceBranPickled10.label>Nukaduke(10)</CookRiceBranPickled10.label>
-  <CookRiceBranPickled10.description>Make Nukadoko(pasted rice bran) with rice bran and salt. Immerse vegetables.</CookRiceBranPickled10.description>
-  <CookRiceBranPickled10.jobString>Making Nukaduke</CookRiceBranPickled10.jobString>
+  <CookRiceBranPickled10.label>米糠酱菜(10)</CookRiceBranPickled10.label>
+  <CookRiceBranPickled10.description>将蔬菜、米糠和盐腌制而成的食品。</CookRiceBranPickled10.description>
+  <CookRiceBranPickled10.jobString>正在制作米糠酱菜</CookRiceBranPickled10.jobString>
 
-  <CookRiceBranPickled20.label>Nukaduke(20)</CookRiceBranPickled20.label>
-  <CookRiceBranPickled20.description>Make Nukadoko(pasted rice bran) with rice bran and salt. Immerse vegetables.</CookRiceBranPickled20.description>
-  <CookRiceBranPickled20.jobString>Making Nukaduke</CookRiceBranPickled20.jobString>
+  <CookRiceBranPickled20.label>米糠酱菜(20)</CookRiceBranPickled20.label>
+  <CookRiceBranPickled20.description>将蔬菜、米糠和盐腌制而成的食品。</CookRiceBranPickled20.description>
+  <CookRiceBranPickled20.jobString>正在制作米糠酱菜</CookRiceBranPickled20.jobString>
 
-  <CookRiceBranPickled50.label>Nukaduke(50)</CookRiceBranPickled50.label>
-  <CookRiceBranPickled50.description>Make Nukadoko(pasted rice bran) with rice bran and salt. Immerse vegetables.</CookRiceBranPickled50.description>
-  <CookRiceBranPickled50.jobString>Nukaduke</CookRiceBranPickled50.jobString>
+  <CookRiceBranPickled50.label>米糠酱菜(50)</CookRiceBranPickled50.label>
+  <CookRiceBranPickled50.description>将蔬菜、米糠和盐腌制而成的食品。</CookRiceBranPickled50.description>
+  <CookRiceBranPickled50.jobString>正在制作米糠酱菜</CookRiceBranPickled50.jobString>
 
 
   <!-- 納豆 -->
 
-  <CookFermentedSoybeans10.label>Natto(10)</CookFermentedSoybeans10.label>
-  <CookFermentedSoybeans10.description>Wrap the soybeans in straw and make natto.</CookFermentedSoybeans10.description>
-  <CookFermentedSoybeans10.jobString>Making Natto</CookFermentedSoybeans10.jobString>
+  <CookFermentedSoybeans10.label>纳豆(10)</CookFermentedSoybeans10.label>
+  <CookFermentedSoybeans10.description>用稻草裹住大豆令其发酵而成。</CookFermentedSoybeans10.description>
+  <CookFermentedSoybeans10.jobString>正在制作纳豆</CookFermentedSoybeans10.jobString>
 
-  <CookFermentedSoybeans20.label>Natto(20)</CookFermentedSoybeans20.label>
-  <CookFermentedSoybeans20.description>Wrap the soybeans in straw and make natto.</CookFermentedSoybeans20.description>
-  <CookFermentedSoybeans20.jobString>Making Natto</CookFermentedSoybeans20.jobString>
+  <CookFermentedSoybeans20.label>纳豆(20)</CookFermentedSoybeans20.label>
+  <CookFermentedSoybeans20.description>用稻草裹住大豆令其发酵而成。</CookFermentedSoybeans20.description>
+  <CookFermentedSoybeans20.jobString>正在制作纳豆</CookFermentedSoybeans20.jobString>
 
-  <CookFermentedSoybeans50.label>Natto(50)</CookFermentedSoybeans50.label>
-  <CookFermentedSoybeans50.description>Wrap the soybeans in straw and make natto.</CookFermentedSoybeans50.description>
-  <CookFermentedSoybeans50.jobString>Making Natto</CookFermentedSoybeans50.jobString>
+  <CookFermentedSoybeans50.label>纳豆(50)</CookFermentedSoybeans50.label>
+  <CookFermentedSoybeans50.description>用稻草裹住大豆令其发酵而成。</CookFermentedSoybeans50.description>
+  <CookFermentedSoybeans50.jobString>正在制作纳豆</CookFermentedSoybeans50.jobString>
 
-  <CookDriedFish10.label>Dried fish(10)</CookDriedFish10.label>
-  <CookDriedFish10.description>Dry raw fish to long last</CookDriedFish10.description>
-  <CookDriedFish10.jobString>making Dried fish</CookDriedFish10.jobString>
+  <CookDriedFish10.label>鱼干(10)</CookDriedFish10.label>
+  <CookDriedFish10.description>将鱼风量晾晒后可以保存很久。</CookDriedFish10.description>
+  <CookDriedFish10.jobString>正在制作鱼干</CookDriedFish10.jobString>
 
-  <CookDriedFish20.label>Dried fish(20)</CookDriedFish20.label>
-  <CookDriedFish20.description>Dry raw fish to long last</CookDriedFish20.description>
-  <CookDriedFish20.jobString>making Dried fish</CookDriedFish20.jobString>
+  <CookDriedFish20.label>鱼干(20)</CookDriedFish20.label>
+  <CookDriedFish20.description>将鱼风量晾晒后可以保存很久。</CookDriedFish20.description>
+  <CookDriedFish20.jobString>正在制作鱼干</CookDriedFish20.jobString>
 
-  <CookDriedFish50.label>making Dried fish(50)</CookDriedFish50.label>
-  <CookDriedFish50.description>Dry raw fish to long last</CookDriedFish50.description>
-  <CookDriedFish50.jobString>making Dried fish</CookDriedFish50.jobString>
+  <CookDriedFish50.label>鱼干(50)</CookDriedFish50.label>
+  <CookDriedFish50.description>将鱼风量晾晒后可以保存很久。</CookDriedFish50.description>
+  <CookDriedFish50.jobString>正在制作鱼干</CookDriedFish50.jobString>
 
 
 </LanguageData>

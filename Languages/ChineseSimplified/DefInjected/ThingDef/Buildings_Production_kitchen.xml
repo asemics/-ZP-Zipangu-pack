@@ -22,26 +22,26 @@
   <RiceCooker_Frame.label>煮饭器 (建造中)</RiceCooker_Frame.label>
   <RiceCooker_Frame.description>一个煮饭或是煮汤都很便利的烹饪台。\n因为配置了最新的烹饪器具，所以烹饪速度会提升30%。</RiceCooker_Frame.description>
 
-  <CookingTable.label>Cooking table</CookingTable.label>
-  <CookingTable.description>Cooking table for preparing.\nSpecializing in seasoning and food processing.</CookingTable.description>
-  <CookingTable_Blueprint.label>Cooking table(blueprint)</CookingTable_Blueprint.label>
+  <CookingTable.label>料理台</CookingTable.label>
+  <CookingTable.description>料理准备台\n专门从事料理调味盒食品加工的设施。</CookingTable.description>
+  <CookingTable_Blueprint.label>料理台(蓝图)</CookingTable_Blueprint.label>
   <CookingTable_Blueprint_Install.label>Cooking table(blueprint)</CookingTable_Blueprint_Install.label>
-  <CookingTable_Frame.label>Cooking table(building)</CookingTable_Frame.label>
-  <CookingTable_Frame.description>Cooking table for preparing.\nSpecializing in seasoning and food processing.</CookingTable_Frame.description>
+  <CookingTable_Frame.label>料理台(建造中)</CookingTable_Frame.label>
+  <CookingTable_Frame.description>料理准备台\n专门从事料理调味盒食品加工的设施</CookingTable_Frame.description>
 
-  <PestleAndMortar.label>Kineusu</PestleAndMortar.label>
-  <PestleAndMortar.description>Kine(Pestle) and Usu(mortar) for making mochi. You can make mochi in large quantities.</PestleAndMortar.description>
-  <PestleAndMortar_Blueprint.label>Kineusu(blueprint)</PestleAndMortar_Blueprint.label>
+  <PestleAndMortar.label>杵臼</PestleAndMortar.label>
+  <PestleAndMortar.description>制作饼的杵与臼。可以大量制作年糕。</PestleAndMortar.description>
+  <PestleAndMortar_Blueprint.label>杵臼(蓝图)</PestleAndMortar_Blueprint.label>
   <PestleAndMortar_Blueprint_Install.label>Kineusu (blueprint)</PestleAndMortar_Blueprint_Install.label>
-  <PestleAndMortar_Frame.label>Kineusu(building)</PestleAndMortar_Frame.label>
-  <PestleAndMortar_Frame.description>Kine(Pestle) and Usu(mortar) for making mochi. You can make mochi in large quantities.</PestleAndMortar_Frame.description>
+  <PestleAndMortar_Frame.label>杵臼(建筑中)</PestleAndMortar_Frame.label>
+  <PestleAndMortar_Frame.description>制作饼的杵与臼。可以大量制作年糕。</PestleAndMortar_Frame.description>
 
-  <Nukadoko.label>Nukadoko</Nukadoko.label>
-  <Nukadoko.description>A large bottle that can make a large amount of Nukaduke(rice bran pickles) that are preserved foods.</Nukadoko.description>
-  <Nukadoko_Blueprint.label>Nukadoko(blueprint)</Nukadoko_Blueprint.label>
+  <Nukadoko.label>酱菜坛子</Nukadoko.label>
+  <Nukadoko.description>一个大型的坛子，可以大量腌制米糠酱菜。</Nukadoko.description>
+  <Nukadoko_Blueprint.label>酱菜坛子(蓝图)</Nukadoko_Blueprint.label>
   <Nukadoko_Blueprint_Install.label>Nukadoko(blueprint)</Nukadoko_Blueprint_Install.label>
-  <Nukadoko_Frame.label>Nukadoko(building)</Nukadoko_Frame.label>
-  <Nukadoko_Frame.description>A large bottle that can make a large amount of Nukaduke(rice bran pickles) that are preserved foods.</Nukadoko_Frame.description>
+  <Nukadoko_Frame.label>酱菜坛子(建筑中)</Nukadoko_Frame.label>
+  <Nukadoko_Frame.description>一个大型的坛子，可以大量腌制米糠酱菜。</Nukadoko_Frame.description>
 
 
 </LanguageData>

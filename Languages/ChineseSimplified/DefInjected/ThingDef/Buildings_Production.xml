@@ -1,23 +1,23 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <RiceCraftingSpot.label>Rice crafting spot</RiceCraftingSpot.label>
-  <RiceCraftingSpot.description>Work place to process agricultural crops and by-products.</RiceCraftingSpot.description>
-  <RiceCraftingSpot_Blueprint.label>Rice crafting spot (blueprint)</RiceCraftingSpot_Blueprint.label>
-  <RiceCraftingSpot_Frame.label>Rice crafting spot (building)</RiceCraftingSpot_Frame.label>
-  <RiceCraftingSpot_Frame.description>Work place to process agricultural crops and by-products.</RiceCraftingSpot_Frame.description>
+  <RiceCraftingSpot.label>农作物加工所</RiceCraftingSpot.label>
+  <RiceCraftingSpot.description>加工农作物和副产品的工作场所</RiceCraftingSpot.description>
+  <RiceCraftingSpot_Blueprint.label>农作物加工所(蓝图)</RiceCraftingSpot_Blueprint.label>
+  <RiceCraftingSpot_Frame.label>农作物加工所(建筑中)</RiceCraftingSpot_Frame.label>
+  <RiceCraftingSpot_Frame.description>加工农作物和副产品的工作场所</RiceCraftingSpot_Frame.description>
 
-  <JPstyleBlacksmith.label>Smithy</JPstyleBlacksmith.label>
-  <JPstyleBlacksmith.description>A smithy place where old-fashioned Japanese weapons and armor can be produced.</JPstyleBlacksmith.description>
-  <JPstyleBlacksmith_Blueprint.label>Smithy (blueprint)</JPstyleBlacksmith_Blueprint.label>
-  <JPstyleBlacksmith_Frame.label>Smithy (building)</JPstyleBlacksmith_Frame.label>
-  <JPstyleBlacksmith_Frame.description>A smithy place where old-fashioned Japanese weapons and armor can be produced.</JPstyleBlacksmith_Frame.description>
+  <JPstyleBlacksmith.label>锻造场</JPstyleBlacksmith.label>
+  <JPstyleBlacksmith.description>可以生产古老的日本武器和盔甲的锻造场。</JPstyleBlacksmith.description>
+  <JPstyleBlacksmith_Blueprint.label>锻造场(蓝图)</JPstyleBlacksmith_Blueprint.label>
+  <JPstyleBlacksmith_Frame.label>锻造场(建筑中)</JPstyleBlacksmith_Frame.label>
+  <JPstyleBlacksmith_Frame.description>可以生产古老的日本武器和盔甲的锻造场。</JPstyleBlacksmith_Frame.description>
 
-  <ZP_MudCollectingPlace.label>Mud gathering spot</ZP_MudCollectingPlace.label>
-  <ZP_MudCollectingPlace.description>\n(Installation location: mud, swamp, shallow, coastal flow) A place to gather mud for soil making.</ZP_MudCollectingPlace.description>
-  <ZP_MudCollectingPlace_Blueprint.label>Mud gathering spot(blueprint)</ZP_MudCollectingPlace_Blueprint.label>
-  <ZP_MudCollectingPlace_Frame.label>Mud gathering spot(building)</ZP_MudCollectingPlace_Frame.label>
-  <ZP_MudCollectingPlace_Frame.description>\n(Installation location: mud, swamp, shallow, coastal flow) A place to gather mud for soil making.</ZP_MudCollectingPlace_Frame.description>
+  <ZP_MudCollectingPlace.label>挖泥点</ZP_MudCollectingPlace.label>
+  <ZP_MudCollectingPlace.description>\n(安装位置:泥土,沼泽,浅滩,沿海)一个收集泥土的地方。</ZP_MudCollectingPlace.description>
+  <ZP_MudCollectingPlace_Blueprint.label>挖泥点(蓝图)</ZP_MudCollectingPlace_Blueprint.label>
+  <ZP_MudCollectingPlace_Frame.label>挖泥点(建筑中)</ZP_MudCollectingPlace_Frame.label>
+  <ZP_MudCollectingPlace_Frame.description>\n(安装位置:泥土,沼泽,浅滩,沿海)一个收集泥土的地方。</ZP_MudCollectingPlace_Frame.description>
 
   <PaddyField.label>水田</PaddyField.label>
   <PaddyField.description>能培育粳米的水稻田，拥有200%的土壤肥沃度。\n只能安放在泥浆、湿地和浅水区域。由于它具有丰富的营养和水分，相对于泛用型田地来说它更加高效。</PaddyField.description>
@@ -31,38 +31,38 @@
   <PaddyField_GP_Frame.label>水田(泛用型) (building)</PaddyField_GP_Frame.label>
   <PaddyField_GP_Frame.description>能培育稻米的泛用型稻田，拥有140%的土壤肥沃度。\n除了水边哪里都可以安放。</PaddyField_GP_Frame.description>
 
-  <ZP_EarthwormCollectionPlace.label>Earthworm gathering spot</ZP_EarthwormCollectionPlace.label>
-  <ZP_EarthwormCollectionPlace.description>\nCapture earthworms for fish feeding and soil development.</ZP_EarthwormCollectionPlace.description>
-  <ZP_EarthwormCollectionPlace_Blueprint.label>Earthworm gathering spot(blueprint)</ZP_EarthwormCollectionPlace_Blueprint.label>
-  <ZP_EarthwormCollectionPlace_Frame.label>Earthworm gathering spot(building)</ZP_EarthwormCollectionPlace_Frame.label>
-  <ZP_EarthwormCollectionPlace_Frame.description>\nCapture earthworms for fish feeding and soil development.</ZP_EarthwormCollectionPlace_Frame.description>
+  <ZP_EarthwormCollectionPlace.label>蚯蚓采集点</ZP_EarthwormCollectionPlace.label>
+  <ZP_EarthwormCollectionPlace.description>\n捕捉蚯蚓作为饲料和肥沃土壤的地方。</ZP_EarthwormCollectionPlace.description>
+  <ZP_EarthwormCollectionPlace_Blueprint.label>蚯蚓采集点(blueprint)</ZP_EarthwormCollectionPlace_Blueprint.label>
+  <ZP_EarthwormCollectionPlace_Frame.label>蚯蚓采集点(building)</ZP_EarthwormCollectionPlace_Frame.label>
+  <ZP_EarthwormCollectionPlace_Frame.description>\n捕捉蚯蚓作为饲料和肥沃土壤的地方。</ZP_EarthwormCollectionPlace_Frame.description>
 
-  <ZP_AquacultureNet.label>Farm fish net(3x3)</ZP_AquacultureNet.label>
-  <ZP_AquacultureNet.description>(Installation location -&gt; shallow, coastal flow, swamp, mud)\n(feed -&gt; earthworm, fish food, insect meat)\nYou can breed fish.\nBe careful as it breaks and destroys the net when there is no food.</ZP_AquacultureNet.description>
-  <ZP_AquacultureNet_Blueprint.label>Farm fish net(3x3) (blueprint)</ZP_AquacultureNet_Blueprint.label>
-  <ZP_AquacultureNet_Frame.label>Farm fish net(3x3) (building)</ZP_AquacultureNet_Frame.label>
-  <ZP_AquacultureNet_Frame.description>(Installation location -&gt; shallow, coastal flow, swamp, mud)\n(feed -&gt; earthworm, fish food, insect meat)\nYou can breed fish.\nBe careful as it breaks and destroys the net when there is no food.</ZP_AquacultureNet_Frame.description>
+  <ZP_AquacultureNet.label>水产养殖网(3x3)</ZP_AquacultureNet.label>
+  <ZP_AquacultureNet.description>(安装位置 -&gt; 泥土，沼泽，浅滩，沿海)\n(饲料 -&gt; 蚯蚓，鱼食，虫肉)\n你可以养鱼\n没有食物的时候要小心，它们会破坏渔网。</ZP_AquacultureNet.description>
+  <ZP_AquacultureNet_Blueprint.label>水产养殖网(3x3) (蓝图)</ZP_AquacultureNet_Blueprint.label>
+  <ZP_AquacultureNet_Frame.label>水产养殖网(3x3) (建筑中)</ZP_AquacultureNet_Frame.label>
+  <ZP_AquacultureNet_Frame.description>(安装位置 -&gt; 泥土，沼泽，浅滩，沿海)\n(饲料 -&gt; 蚯蚓，鱼食，虫肉)\n你可以养鱼\n没有食物的时候要小心，它们会破坏渔网。</ZP_AquacultureNet_Frame.description>
 
-  <ZP_AquacultureNet_Large.label>Large Farm fish net(4x5)</ZP_AquacultureNet_Large.label>
-  <ZP_AquacultureNet_Large.description>(Installation location -&gt; shallow, coastal flow, swamp, mud)\n(feed -&gt; earthworm, fish food, insect meat)\nYou can breed fish.\nBe careful as it breaks and destroys the net when there is no food.</ZP_AquacultureNet_Large.description>
-  <ZP_AquacultureNet_Large_Blueprint.label>Farm fish net(4x5) (blueprint)</ZP_AquacultureNet_Large_Blueprint.label>
-  <ZP_AquacultureNet_Large_Frame.label>Farm fish net(4x5) (building)</ZP_AquacultureNet_Large_Frame.label>
-  <ZP_AquacultureNet_Large_Frame.description>(Installation location -&gt; shallow, coastal flow, swamp, mud)\n(feed -&gt; earthworm, fish food, insect meat)\nYou can breed fish.\nBe careful as it breaks and destroys the net when there is no food.</ZP_AquacultureNet_Large_Frame.description>
+  <ZP_AquacultureNet_Large.label>大型水产养殖网(4x5)</ZP_AquacultureNet_Large.label>
+  <ZP_AquacultureNet_Large.description>(安装位置 -&gt; 泥土，沼泽，浅滩，沿海)\n(饲料 -&gt; 蚯蚓，鱼食，虫肉)\n你可以养鱼\n没有食物的时候要小心，它们会破坏渔网。</ZP_AquacultureNet_Large.description>
+  <ZP_AquacultureNet_Large_Blueprint.label>大型水产养殖网(4x5) (蓝图)</ZP_AquacultureNet_Large_Blueprint.label>
+  <ZP_AquacultureNet_Large_Frame.label>大型水产养殖网(4x5) (建筑中)</ZP_AquacultureNet_Large_Frame.label>
+  <ZP_AquacultureNet_Large_Frame.description>(安装位置 -&gt; 泥土，沼泽，浅滩，沿海)\n(饲料 -&gt; 蚯蚓，鱼食，虫肉)\n你可以养鱼\n没有食物的时候要小心，它们会破坏渔网。</ZP_AquacultureNet_Large_Frame.description>
 
-  <ZP_FloatingSunLamp_Fuel.label>Floating solar light(need fuel)</ZP_FloatingSunLamp_Fuel.label>
-  <ZP_FloatingSunLamp_Fuel.description>(diameter:3)\nFuel type heat generating sun light that can be used for rice paddies and aquaculture net.\nSince it is a fuel type, the range is narrow and fuel efficiency is bad.</ZP_FloatingSunLamp_Fuel.description>
-  <ZP_FloatingSunLamp_Fuel_Blueprint.label>Floating solar light(need fuel) (blueprint)</ZP_FloatingSunLamp_Fuel_Blueprint.label>
+  <ZP_FloatingSunLamp_Fuel.label>浮游式太阳灯(需要燃料)</ZP_FloatingSunLamp_Fuel.label>
+  <ZP_FloatingSunLamp_Fuel.description>(直径:3)\n可用于水田和水产养殖网的燃料型发热源\n由于是燃料型，所以范围狭窄，燃烧效率差。</ZP_FloatingSunLamp_Fuel.description>
+  <ZP_FloatingSunLamp_Fuel_Blueprint.label>浮游式太阳灯(需要燃料) (蓝图)</ZP_FloatingSunLamp_Fuel_Blueprint.label>
   <ZP_FloatingSunLamp_Fuel_Blueprint_Install.label>Floating solar light(need fuel)(blueprint)</ZP_FloatingSunLamp_Fuel_Blueprint_Install.label>
-  <ZP_FloatingSunLamp_Fuel_Frame.label>Floating solar light(need fuel)(building)</ZP_FloatingSunLamp_Fuel_Frame.label>
-  <ZP_FloatingSunLamp_Fuel_Frame.description>(diameter:3)\nFuel type heat generating sun light that can be used for rice paddies and aquaculture net.\nSince it is a fuel type, the range is narrow and fuel efficiency is bad.</ZP_FloatingSunLamp_Fuel_Frame.description>
+  <ZP_FloatingSunLamp_Fuel_Frame.label>浮游式太阳灯(需要燃料)(建筑中)</ZP_FloatingSunLamp_Fuel_Frame.label>
+  <ZP_FloatingSunLamp_Fuel_Frame.description>(直径:3)\n可用于水田和水产养殖网的燃料型发热源\n由于是燃料型，所以范围狭窄，燃烧效率差。</ZP_FloatingSunLamp_Fuel_Frame.description>
 
-  <ZP_FloatingSunLamp.label>Floating solar light</ZP_FloatingSunLamp.label>
-  <ZP_FloatingSunLamp.description>Solar light which can be used for paddy fields and Farm fish net. It turns off automatically at night.</ZP_FloatingSunLamp.description>
+  <ZP_FloatingSunLamp.label>浮游式太阳灯</ZP_FloatingSunLamp.label>
+  <ZP_FloatingSunLamp.description>可用于水田和水产养殖网的太阳灯。它晚上会自动关闭。</ZP_FloatingSunLamp.description>
   <ZP_FloatingSunLamp.comps.3.offMessage>Off for plant resting period</ZP_FloatingSunLamp.comps.3.offMessage>
-  <ZP_FloatingSunLamp_Blueprint.label>Floating solar light(blueprint)</ZP_FloatingSunLamp_Blueprint.label>
+  <ZP_FloatingSunLamp_Blueprint.label>浮游式太阳灯(blueprint)</ZP_FloatingSunLamp_Blueprint.label>
   <ZP_FloatingSunLamp_Blueprint_Install.label>Floating solar light(blueprint)</ZP_FloatingSunLamp_Blueprint_Install.label>
-  <ZP_FloatingSunLamp_Frame.label>Floating solar light(building)</ZP_FloatingSunLamp_Frame.label>
-  <ZP_FloatingSunLamp_Frame.description>Solar light which can be used for paddy fields and Farm fish net. It turns off automatically at night.</ZP_FloatingSunLamp_Frame.description>
+  <ZP_FloatingSunLamp_Frame.label>浮游式太阳灯(building)</ZP_FloatingSunLamp_Frame.label>
+  <ZP_FloatingSunLamp_Frame.description>可用于水田和水产养殖网的太阳灯。它晚上会自动关闭。</ZP_FloatingSunLamp_Frame.description>
 
 
 </LanguageData>

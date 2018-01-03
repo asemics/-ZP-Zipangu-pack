@@ -3,80 +3,79 @@
 
   <!-- 米関係 y=0 -->
 
-  <ReUplandRice.label>陆稻种植</ReUplandRice.label>
+  <ReUplandRice.label>旱植法</ReUplandRice.label>
   <ReUplandRice.description>改良在陆地上种植米稻的技术，增强生产力。</ReUplandRice.description>
 
-  <ReWetlandRice.label>水稻种植</ReWetlandRice.label>
+  <ReWetlandRice.label>水植法</ReWetlandRice.label>
   <ReWetlandRice.description>通过发展水稻田技术以进一步提高大米的生产力。</ReWetlandRice.description>
 
 
   <!-- 栽培関係 y=1 -->
 
-  <ReAquacultureFish.label>Farm fish net</ReAquacultureFish.label>
-  <ReAquacultureFish.description>Learn how to farm fish. The farming period is very long, but you can harvest very nutritious fish.\nCAUTION:To grow, light, appropriate temperature control and feed(fish food, earthworm, insect meat) is necessary.\nUnlock -&gt; Farming fish(Necessary: Growing skill 10), Farm fish net (3x3)</ReAquacultureFish.description>
+  <ReAquacultureFish.label>水产养殖网</ReAquacultureFish.label>
+  <ReAquacultureFish.description>学习如何养殖鱼类，虽然养殖期期很长，但是可以获得营养丰富的鱼类。\n【注意】：成长所需的光照和温度以及饲料(鱼食，蚯蚓，虫肉)。\n解锁 -&gt; 养鱼(必要：种植 10)，水产养殖网（3X3）</ReAquacultureFish.description>
+  <ReAquacultureNet.label>大型水产养殖网</ReAquacultureNet.label>
+  <ReAquacultureNet.description>学习如何制作大型网场，以便养殖更多的鱼。\n解锁 -&gt; 大型水产养殖网(4x5)</ReAquacultureNet.description>
 
-  <ReAquacultureNet.label>Large Farm fish net</ReAquacultureNet.label>
-  <ReAquacultureNet.description>Learn how to make a large Farm fish net so that many fish can be farmed.\nUnlock -&gt; Large Farm fish net(4x5)</ReAquacultureNet.description>
-
-  <ReBeans.label>Soybeans</ReBeans.label>
-  <ReBeans.description>Learn how to grow Soybeans and Edamame(immature Soybeans).\nUnlock -&gt; Soybeans(Necessary: Growing skill 4),Edamame(Necessary: Growing skill 4)</ReBeans.description>
+  <ReBeans.label>大豆</ReBeans.label>
+  <ReBeans.description>学习如何种植大豆和毛豆(未成熟的大豆)。\n解锁 -&gt; 大豆(必要: 种植 4),毛豆(必要: 种植 4)</ReBeans.description>
 
 
   <!-- 土壌開発 y=2 -->
 
-  <ReZPSoil.label>Soil</ReZPSoil.label>
-  <ReZPSoil.description>Reserch agriculturally possible soil.\nSoil will be placed on sand, ice, gravel, rough stone, smooth stone.\nUnlock -&gt; Soil(Fertility:100%)</ReZPSoil.description>
+  <ReZPSoil.label>土壤</ReZPSoil.label>
+  <ReZPSoil.description>研究农业可用的土壤。\n土壤可以放置于沙土，冰原，碎石，粗糙于光滑的石地上。\n解锁 -&gt; 土壤(肥力:100%)</ReZPSoil.description>
 
-  <ReZPSoilRich.label>Fertile Soil</ReZPSoilRich.label>
-  <ReZPSoilRich.description>Improve agriculturally possible soil to Rich Soil.\nUnlock -&gt; Fertile Soil(Fertility:140%)</ReZPSoilRich.description>
+  <ReZPSoilRich.label>肥沃的土壤</ReZPSoilRich.label>
+  <ReZPSoilRich.description>提高农田土壤的肥沃度。\n解锁 -&gt; 肥沃的土壤(肥力:140%)</ReZPSoilRich.description>
 
-  <ReZPMud.label>Mud</ReZPMud.label>
-  <ReZPMud.description>Reserch Mud for paddy fields.\nUnlock -&gt; Mud,Mud gathering spot</ReZPMud.description>
+  <ReZPMud.label>泥</ReZPMud.label>
+  <ReZPMud.description>研究用泥制作稻田。\n解锁 -&gt; 泥,泥的聚集点</ReZPMud.description>
 
-  <ReZPLandfillSoil.label>Reclaimed soil</ReZPLandfillSoil.label>
-  <ReZPLandfillSoil.description>Fill the ground with poor footing.\nUnlock -&gt; Reclaimed soil</ReZPLandfillSoil.description>
+  <ReZPLandfillSoil.label>复耕法</ReZPLandfillSoil.label>
+  <ReZPLandfillSoil.description>补充贫乏的土地。\n解锁 -&gt; 复耕土</ReZPLandfillSoil.description>
 
 
   <!-- 食料関係 y=3 -->
 
-  <ReSeasoning.label>Seasoning</ReSeasoning.label>
-  <ReSeasoning.description>Learn how to make seasonings that will enrich your diet.\nUnlock -&gt; Rice syrup, Rice vineger, Soy souce, Miso</ReSeasoning.description>
+  <ReSeasoning.label>调料</ReSeasoning.label>
+  <ReSeasoning.description>学习如何使用调味料丰富您的饮食。\n解锁 -&gt; 米糖，米醋，酱油，味增</ReSeasoning.description>
 
-  <RePreservedFood.label>Preserved meals</RePreservedFood.label>
-  <RePreservedFood.description>Learn how to make preserved meals to preserve food for a long time.\nUnlock -&gt; Nukaduke, Dried fish, Natto, Nuka pot</RePreservedFood.description>
+  <RePreservedFood.label>食物防腐</RePreservedFood.label>
+  <RePreservedFood.description>学习如何对食物进行防腐处理，以让食物保存更久。\n解锁 -&gt; 米糠酱菜,鱼干,纳豆, 糠罐</RePreservedFood.description>
 
 
   <!-- 家具 y=4 -->
 
-  <ReZPFurniture.label>Japanese style furniture</ReZPFurniture.label>
-  <ReZPFurniture.description>Learn how to build Japanese style furniture to improve the living environment.\nUnlock -&gt; Straw-woven bed, Uchiwa, Hibachi</ReZPFurniture.description>
+  <ReZPFurniture.label>和风家具</ReZPFurniture.label>
+  <ReZPFurniture.description>学习如何打造日式家具,改善生活环境。\n解锁 -&gt; 秸秆编织床,团扇,木炭火盆</ReZPFurniture.description>
 
-  <ReThreshingRiceMillingMachine.label>All-purpose rice processing machine</ReThreshingRiceMillingMachine.label>
-  <ReThreshingRiceMillingMachine.description>Learn how to make Agricultural tools to consume Inaho and convert it to White rice.</ReThreshingRiceMillingMachine.description>
+  <ReThreshingRiceMillingMachine.label>全能型脱粒精米加工机</ReThreshingRiceMillingMachine.label>
+  <ReThreshingRiceMillingMachine.description>学习如何使用农业工具处理稻穗和将其制作成白米饭</ReThreshingRiceMillingMachine.description>
 
-  <ReScarecrow.label>Scarecrow of fertility</ReScarecrow.label>
-  <ReScarecrow.description>Learn how to make the scarecrow accept the blessing of fertile God.\nAs long as there is an offering(fuel), Up 30% fertility of the soil within 9 squares.\nCAUTION:Paddy fields and hydroponics growers will not accept blessing.</ReScarecrow.description>
+  <ReScarecrow.label>稻草人与肥力</ReScarecrow.label>
+  <ReScarecrow.description>学习如何制作稻草人来获得诸神的祝福。\n只要提供一个祭品(燃料)，9平方土壤的肥力就会提高30%。\n【注意】:稻田和水培箱不接受祝福。</ReScarecrow.description>
 
-  <ReFloatingSunLamp.label>Floating solar light(need fuel)</ReFloatingSunLamp.label>
-  <ReFloatingSunLamp.description>Learn how to build a floating solar light (need fuel) even in poor footing.\nUnlock -&gt; Floating solar light(need fuel)</ReFloatingSunLamp.description>
+  <ReFloatingSunLamp.label>漂浮太阳灯(需要燃料)</ReFloatingSunLamp.label>
+  <ReFloatingSunLamp.description>学习如何建设一个漂浮太阳灯(需要燃料),哪怕是贫瘠的土地上。\n解锁 -&gt; 漂浮太阳灯(需要燃料)</ReFloatingSunLamp.description>
 
-  <ReDefenseBase.label>Defense system</ReDefenseBase.label>
-  <ReDefenseBase.description>Learn how to build a defense position.\nunlock -&gt; Kaidate, Straw mass, Gunpowder in Straw mass</ReDefenseBase.description>
+  <ReDefenseBase.label>阵地学</ReDefenseBase.label>
+  <ReDefenseBase.description>学习如何建设防御阵地。\n解锁 -&gt; 大盾, 秸秆堆, 火药藏秸秆堆</ReDefenseBase.description>
 
 
   <!-- 装備関係 y=5 -->
 
-  <BlacksmithApprentice.label>Blacksmith Apprentice</BlacksmithApprentice.label>
-  <BlacksmithApprentice.description>You can master the techniques of making NagayariSpears, Sasumata, JapaneseLongbow, MuneateArmor, Ninja clothes, Samurai clothes.</BlacksmithApprentice.description>
+  <BlacksmithApprentice.label>锻造师见习</BlacksmithApprentice.label>
+  <BlacksmithApprentice.description>你可以掌握制作长矛，刺叉，和弓，胸当，忍者服，武士服的技巧。</BlacksmithApprentice.description>
 
-  <BlacksmithArtisan.label>Blacksmith Artisan</BlacksmithArtisan.label>
-  <BlacksmithArtisan.description>You can master the techniques of making AsigaruArmor, JingasaHelmet, JumonjiSpear, OdachiBlade, JapaneseLongbow(poison).</BlacksmithArtisan.description>
+  <BlacksmithArtisan.label>锻造师职人</BlacksmithArtisan.label>
+  <BlacksmithArtisan.description>你可以掌握制造足轻具足，阵笠，十文字长枪，大太刀，蛇弓(毒箭)的技巧。</BlacksmithArtisan.description>
 
-  <BlacksmithMaster.label>Blacksmith Master</BlacksmithMaster.label>
-  <BlacksmithMaster.description>You can master the techniques of making SyogunArmor, SyogunHelmet, JapaneseLongbow(fire).</BlacksmithMaster.description>
+  <BlacksmithMaster.label>锻造师大师</BlacksmithMaster.label>
+  <BlacksmithMaster.description>你可以掌握制作武家铠，武家兜，和弓(火箭)的技巧。</BlacksmithMaster.description>
 
-  <BlacksmithTanegasima.label>Blacksmith Tanegasima</BlacksmithTanegasima.label>
-  <BlacksmithTanegasima.description>You can master the techniques of making TanegasimaGun.</BlacksmithTanegasima.description>
+  <BlacksmithTanegasima.label>锻造师种子岛</BlacksmithTanegasima.label>
+  <BlacksmithTanegasima.description>你可以掌握制作种子岛的技巧。</BlacksmithTanegasima.description>
 
 
 </LanguageData>

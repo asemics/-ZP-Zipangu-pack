@@ -23,19 +23,19 @@
   <!-- 米俵をほどく -->
 
   <UnwindStrawRiceBag_RawRice.label>打开米袋(生米)</UnwindStrawRiceBag_RawRice.label>
-  <UnwindStrawRiceBag_RawRice.description>打开米袋，将里面的生米拿出来。\n 由于密封性并不是太好，打开时会发现有存量下降的情况发生。</UnwindStrawRiceBag_RawRice.description>
+  <UnwindStrawRiceBag_RawRice.description>打开米袋，将里面的生米拿出来。\n【注意】由于密封性并不是太好，打开时会发现有存量下降的情况发生。</UnwindStrawRiceBag_RawRice.description>
   <UnwindStrawRiceBag_RawRice.jobString>打开米袋</UnwindStrawRiceBag_RawRice.jobString>
 
   <UnwindStrawRiceBag_RiceMomi.label>打开米袋(籾米)</UnwindStrawRiceBag_RiceMomi.label>
-  <UnwindStrawRiceBag_RiceMomi.description>打开米袋，将里面的籾米拿出来。\n 由于密封性并不是太好，打开时会发现有存量下降的情况发生。</UnwindStrawRiceBag_RiceMomi.description>
+  <UnwindStrawRiceBag_RiceMomi.description>打开米袋，将里面的籾米拿出来。\n【注意】由于密封性并不是太好，打开时会发现有存量下降的情况发生。</UnwindStrawRiceBag_RiceMomi.description>
   <UnwindStrawRiceBag_RiceMomi.jobString>打开米袋</UnwindStrawRiceBag_RiceMomi.jobString>
 
   <UnwindStrawRiceBag_BrownRice.label>打开米袋(糙米)</UnwindStrawRiceBag_BrownRice.label>
-  <UnwindStrawRiceBag_BrownRice.description>打开米袋，将里面的糙米拿出来。\n 由于密封性并不是太好，打开时会发现有存量下降的情况发生。</UnwindStrawRiceBag_BrownRice.description>
+  <UnwindStrawRiceBag_BrownRice.description>打开米袋，将里面的糙米拿出来。\n【注意】由于密封性并不是太好，打开时会发现有存量下降的情况发生。</UnwindStrawRiceBag_BrownRice.description>
   <UnwindStrawRiceBag_BrownRice.jobString>打开米袋</UnwindStrawRiceBag_BrownRice.jobString>
 
   <UnwindStrawRiceBag_WhiteRice.label>打开米袋(白米)</UnwindStrawRiceBag_WhiteRice.label>
-  <UnwindStrawRiceBag_WhiteRice.description>打开米袋，将里面的白米拿出来。\n 由于密封性并不是太好，打开时会发现有存量下降的情况发生。</UnwindStrawRiceBag_WhiteRice.description>
+  <UnwindStrawRiceBag_WhiteRice.description>打开米袋，将里面的白米拿出来。\n【注意】由于密封性并不是太好，打开时会发现有存量下降的情况发生。</UnwindStrawRiceBag_WhiteRice.description>
   <UnwindStrawRiceBag_WhiteRice.jobString>打开米袋</UnwindStrawRiceBag_WhiteRice.jobString>
 
 

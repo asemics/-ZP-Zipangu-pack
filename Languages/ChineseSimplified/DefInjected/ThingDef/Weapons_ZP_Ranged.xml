@@ -19,31 +19,31 @@
 
   <!-- 和弓 Base  グレートボウ -->
 
-  <Arrow_JPstyleGreatBow.label>arrow</Arrow_JPstyleGreatBow.label>
+  <Arrow_JPstyleGreatBow.label>箭</Arrow_JPstyleGreatBow.label>
 
-  <Bow_JPstyleGreat.label>JapaneseLongbow</Bow_JPstyleGreat.label>
-  <Bow_JPstyleGreat.description>A bow that improved the Long Bow and raised its power and range.</Bow_JPstyleGreat.description>
+  <Bow_JPstyleGreat.label>和弓</Bow_JPstyleGreat.label>
+  <Bow_JPstyleGreat.description>改良后的日本长弓，增强了力度和射程。</Bow_JPstyleGreat.description>
 
 
   <!-- 和弓 Base  火炎筒投射機 -->
 
-  <FireArrow_JPstyleGreatBow.label>fire arrow</FireArrow_JPstyleGreatBow.label>
+  <FireArrow_JPstyleGreatBow.label>火箭</FireArrow_JPstyleGreatBow.label>
 
-  <Bow_JPstyleGreat_Fire.label>JapaneseLongbow(fire)</Bow_JPstyleGreat_Fire.label>
-  <Bow_JPstyleGreat_Fire.description>A bow improved to improve long bow and shoot fire arrow.</Bow_JPstyleGreat_Fire.description>
+  <Bow_JPstyleGreat_Fire.label>和弓(火箭)</Bow_JPstyleGreat_Fire.label>
+  <Bow_JPstyleGreat_Fire.description>改良后的日本长弓，增强了力度和射程，并可射出火箭。</Bow_JPstyleGreat_Fire.description>
 
-  <PoisonArrow_JPstyleGreatBow.label>poison arrow</PoisonArrow_JPstyleGreatBow.label>
+  <PoisonArrow_JPstyleGreatBow.label>毒箭</PoisonArrow_JPstyleGreatBow.label>
 
-  <Bow_JPstyleGreat_Poison.label>SnakeLongbow(poison)</Bow_JPstyleGreat_Poison.label>
-  <Bow_JPstyleGreat_Poison.description>A bow that improved the Long Bow and raised its power and range.</Bow_JPstyleGreat_Poison.description>
+  <Bow_JPstyleGreat_Poison.label>蛇弓(毒箭)</Bow_JPstyleGreat_Poison.label>
+  <Bow_JPstyleGreat_Poison.description>改良后的日本长弓，增强了力度和射程，并可射出毒箭。</Bow_JPstyleGreat_Poison.description>
 
 
   <!-- 種子島 Base 狙撃銃 -->
 
-  <Bullet_Tanegasima.label>TanegasimaBullet</Bullet_Tanegasima.label>
+  <Bullet_Tanegasima.label>种子岛弹</Bullet_Tanegasima.label>
 
-  <Gun_Tanegasima.label>TanegasimaGun</Gun_Tanegasima.label>
-  <Gun_Tanegasima.description>Arquebus gun made by improving Musket gun. The size of the caliber and the weight of the bullet are distinctive, and it has the power to blow off part of the body in the case of short range shooting. However, it is necessary to always carry around the arquebus rope and the fire rock, so the moving speed drops.</Gun_Tanegasima.description>
+  <Gun_Tanegasima.label>种子岛</Gun_Tanegasima.label>
+  <Gun_Tanegasima.description>由西洋引入而在本地改良的火绳枪，有着独特的口径和子弹，近距离下可以吹飞身体的一部分，\n但由于要携带火绳和打火石，行动变得不方便。</Gun_Tanegasima.description>
   <Gun_Tanegasima.tools.0.label>stock</Gun_Tanegasima.tools.0.label>
   <Gun_Tanegasima.tools.1.label>barrel</Gun_Tanegasima.tools.1.label>
 

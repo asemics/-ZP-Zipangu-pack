@@ -1,27 +1,27 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Thresh_Polish.label>thresh husk and polish rice</Thresh_Polish.label>
+  <Thresh_Polish.label>脱壳精米</Thresh_Polish.label>
   <Thresh_Polish.verb>thresh and polish</Thresh_Polish.verb>
   <Thresh_Polish.gerund>threshing and polishing</Thresh_Polish.gerund>
 
-  <Threshing_Husk.label>thresh husk</Threshing_Husk.label>
+  <Threshing_Husk.label>脱壳</Threshing_Husk.label>
   <Threshing_Husk.verb>thresh</Threshing_Husk.verb>
   <Threshing_Husk.gerund>threshing</Threshing_Husk.gerund>
 
-  <Process_Rice.label>threshing milled rice</Process_Rice.label>
+  <Process_Rice.label>精米</Process_Rice.label>
   <Process_Rice.verb>process</Process_Rice.verb>
   <Process_Rice.gerund>processing</Process_Rice.gerund>
 
-  <DoBillsRiceCook.label>cook rice</DoBillsRiceCook.label>
+  <DoBillsRiceCook.label>煮饭</DoBillsRiceCook.label>
   <DoBillsRiceCook.verb>cook</DoBillsRiceCook.verb>
   <DoBillsRiceCook.gerund>cooking at</DoBillsRiceCook.gerund>
 
-  <DoBillsRicePreparation.label>cook rice</DoBillsRicePreparation.label>
+  <DoBillsRicePreparation.label>煮饭</DoBillsRicePreparation.label>
   <DoBillsRicePreparation.verb>cook</DoBillsRicePreparation.verb>
   <DoBillsRicePreparation.gerund>cooking at</DoBillsRicePreparation.gerund>
 
-  <DoBillsUseDiggingHole.label>do bills at digging a hole</DoBillsUseDiggingHole.label>
+  <DoBillsUseDiggingHole.label>挖掘和收集</DoBillsUseDiggingHole.label>
   <DoBillsUseDiggingHole.verb>mine</DoBillsUseDiggingHole.verb>
   <DoBillsUseDiggingHole.gerund>mining</DoBillsUseDiggingHole.gerund>
 

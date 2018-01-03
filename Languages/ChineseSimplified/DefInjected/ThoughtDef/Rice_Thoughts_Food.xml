@@ -3,8 +3,8 @@
 
   <!-- 簡単+0 イナゴの佃煮+1 -->
 
-  <R_AteTukudani.stages.0.label>I ate Tsukudani of insects</R_AteTukudani.stages.0.label>
-  <R_AteTukudani.stages.0.description>Parhaps I can eat these if I close eyes...?</R_AteTukudani.stages.0.description>
+  <R_AteTukudani.stages.0.label>我在吃蝗虫佃煮</R_AteTukudani.stages.0.label>
+  <R_AteTukudani.stages.0.description>闭着眼睛吃下去会不会有惊喜？</R_AteTukudani.stages.0.description>
 
 
   <!-- 簡単+0 白米+3 -->
@@ -13,12 +13,12 @@
   <R_AteMealSimple.stages.0.description>享用了自种白米，很幸福。</R_AteMealSimple.stages.0.description>
 
   <!-- B級グルメ+3 -->
-  <AteMealSimpleB.stages.0.label>I ate cheap but tasty local food !!</AteMealSimpleB.stages.0.label>
-  <AteMealSimpleB.stages.0.description>I am happy to eat cheap but tasty local food.</AteMealSimpleB.stages.0.description>
+  <AteMealSimpleB.stages.0.label>吃了B级美食！！</AteMealSimpleB.stages.0.label>
+  <AteMealSimpleB.stages.0.description>享用了B级的美食，很幸福。</AteMealSimpleB.stages.0.description>
   
   <!-- B級グルメ+3 白米+3 -->
-  <R_AteMealSimpleB.stages.0.label>I ate cheap but tasty local food !!</R_AteMealSimpleB.stages.0.label>
-  <R_AteMealSimpleB.stages.0.description>I am happy to eat cheap but tasty local food made from white rice.</R_AteMealSimpleB.stages.0.description>
+  <R_AteMealSimpleB.stages.0.label>吃了B级美食！！</R_AteMealSimpleB.stages.0.label>
+  <R_AteMealSimpleB.stages.0.description>享用了白米做的B级美食，很幸福。</R_AteMealSimpleB.stages.0.description>
 
   <!-- 手の込んだ+5 白米+3 -->
 
@@ -37,7 +37,7 @@
 
   <!-- 調味料 -->
 
-  <R_SeasoningDebuff.stages.0.label>把调料吃下去了</R_SeasoningDebuff.stages.0.label>
+  <R_SeasoningDebuff.stages.0.label>我想吃饭</R_SeasoningDebuff.stages.0.label>
   <R_SeasoningDebuff.stages.0.description>就这么干吃调味料一点都不好吃，一，点，也，不。</R_SeasoningDebuff.stages.0.description>
 
   <R_Syrupbuff.stages.0.label>偷吃米糖</R_Syrupbuff.stages.0.label>

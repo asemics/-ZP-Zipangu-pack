@@ -10,14 +10,14 @@
   <HedPuffedRice.label>我感到有一种爆发力涌入体内！</HedPuffedRice.label>
   <HedPuffedRice.stages.0.label>吃了爆米花</HedPuffedRice.stages.0.label>
 
-  <HedFermentedFood.label>Fermented food with a smell</HedFermentedFood.label>
-  <HedFermentedFood.stages.0.label>I ate Fermented food</HedFermentedFood.stages.0.label>
+  <HedFermentedFood.label>独特气味的发酵食品</HedFermentedFood.label>
+  <HedFermentedFood.stages.0.label>享用了发酵食品</HedFermentedFood.stages.0.label>
 
-  <HedFishFood.label>Fish power!!</HedFishFood.label>
-  <HedFishFood.stages.0.label>I ate fish dishes</HedFishFood.stages.0.label>
+  <HedFishFood.label>鱼肉天国!!</HedFishFood.label>
+  <HedFishFood.stages.0.label>享用了鱼料理</HedFishFood.stages.0.label>
 
-  <HedFreshFishFood.label>Fresh fish power!!</HedFreshFishFood.label>
-  <HedFreshFishFood.stages.0.label>I ate Seafood dishes</HedFreshFishFood.stages.0.label>
+  <HedFreshFishFood.label>海鲜天国!!</HedFreshFishFood.label>
+  <HedFreshFishFood.stages.0.label>享用了海鲜料理</HedFreshFishFood.stages.0.label>
 
 
 </LanguageData>

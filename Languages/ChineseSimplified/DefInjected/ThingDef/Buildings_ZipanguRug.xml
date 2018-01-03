@@ -1,16 +1,16 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 	<!-- 畳 -->
-	<Tatami_1Green.label>1Tatami(Green)</Tatami_1Green.label>
-	<Tatami_1Green.description>Tatami of 1 quire size.Tatami has a function to purify air and adjust humidity.Also flame retardancy is very good so it will not burn even if a fire occurs.</Tatami_1Green.description>
-	<Tatami_1Green_Blueprint.label>1Tatami(Green) (blueprint)</Tatami_1Green_Blueprint.label>
+	<Tatami_1Green.label>1榻榻米(绿)</Tatami_1Green.label>
+	<Tatami_1Green.description>榻榻米尺寸为1畳，榻榻米有进化空气和调节湿度的功能，阻燃性良好，即使发生火灾也不会燃烧。</Tatami_1Green.description>
+	<Tatami_1Green_Blueprint.label>1榻榻米(绿) (蓝图)</Tatami_1Green_Blueprint.label>
 	<Tatami_1Green_Blueprint_Install.label>Tatami(Green) (blueprint)</Tatami_1Green_Blueprint_Install.label>
-	<Tatami_1Green_Frame.label>Tatami(Green) (building)</Tatami_1Green_Frame.label>
-	<Tatami_1Green_Frame.description>Tatami of 1 quire size.Tatami has a function to purify air and adjust humidity.Also flame retardancy is very good so it will not burn even if a fire occurs.</Tatami_1Green_Frame.description>
-	<Tatami_1Yellow.label>1Tatami(Yellow)</Tatami_1Yellow.label>
-	<Tatami_1Yellow.description>Tatami of 1 quire size.Tatami has a function to purify air and adjust humidity.Also flame retardancy is very good so it will not burn even if a fire occurs.</Tatami_1Yellow.description>
-	<Tatami_1Yellow_Blueprint.label>1Tatami(Yellow) (blueprint)</Tatami_1Yellow_Blueprint.label>
+	<Tatami_1Green_Frame.label>榻榻米(绿) (建造中)</Tatami_1Green_Frame.label>
+	<Tatami_1Green_Frame.description>榻榻米尺寸为1畳，榻榻米有进化空气和调节湿度的功能，阻燃性良好，即使发生火灾也不会燃烧。</Tatami_1Green_Frame.description>
+	<Tatami_1Yellow.label>1榻榻米(黄)</Tatami_1Yellow.label>
+	<Tatami_1Yellow.description>榻榻米尺寸为1畳，榻榻米有进化空气和调节湿度的功能，阻燃性良好，即使发生火灾也不会燃烧。</Tatami_1Yellow.description>
+	<Tatami_1Yellow_Blueprint.label>1榻榻米(黄) (蓝图)</Tatami_1Yellow_Blueprint.label>
 	<Tatami_1Yellow_Blueprint_Install.label>1Tatami(Yellow) (blueprint)</Tatami_1Yellow_Blueprint_Install.label>
-	<Tatami_1Yellow_Frame.label>1Tatami(Yellow) (building)</Tatami_1Yellow_Frame.label>
-	<Tatami_1Yellow_Frame.description>Tatami of 1 quire size.Tatami has a function to purify air and adjust humidity.Also flame retardancy is very good so it will not burn even if a fire occurs.</Tatami_1Yellow_Frame.description>
+	<Tatami_1Yellow_Frame.label>1榻榻米(黄) (建造中)</Tatami_1Yellow_Frame.label>
+	<Tatami_1Yellow_Frame.description>榻榻米尺寸为1畳，榻榻米有进化空气和调节湿度的功能，阻燃性良好，即使发生火灾也不会燃烧。</Tatami_1Yellow_Frame.description>
 </LanguageData>

@@ -11,29 +11,29 @@
   <R_CookSyrup10.description>通过熬煮大米来获得米糖浆</R_CookSyrup10.description>
   <R_CookSyrup10.jobString>正在制作米糖</R_CookSyrup10.jobString>
 
-  <R_CookVinegarBarrel.label>Rice vineger barrel</R_CookVinegarBarrel.label>
-  <R_CookVinegarBarrel.description>Make Rice vineger barrel which is need to make.</R_CookVinegarBarrel.description>
-  <R_CookVinegarBarrel.jobString>Making Rice vineger barrel</R_CookVinegarBarrel.jobString>
+  <R_CookVinegarBarrel.label>米醋桶</R_CookVinegarBarrel.label>
+  <R_CookVinegarBarrel.description>一个装满米醋的桶</R_CookVinegarBarrel.description>
+  <R_CookVinegarBarrel.jobString>正在制作米醋桶</R_CookVinegarBarrel.jobString>
 
-  <R_CookVinegar10.label>Rice vineger(25)</R_CookVinegar10.label>
-  <R_CookVinegar10.description>Make Rice vineger.</R_CookVinegar10.description>
-  <R_CookVinegar10.jobString>Making Rice vineger</R_CookVinegar10.jobString>
+  <R_CookVinegar10.label>米醋(25)</R_CookVinegar10.label>
+  <R_CookVinegar10.description>制作米醋。</R_CookVinegar10.description>
+  <R_CookVinegar10.jobString>正在制作米醋</R_CookVinegar10.jobString>
 
-  <R_CookSoySauceBarrel.label>Soy sauce barrel</R_CookSoySauceBarrel.label>
-  <R_CookSoySauceBarrel.description>Make Soy souce(Japanese seasoning) barrel which is need to make.</R_CookSoySauceBarrel.description>
-  <R_CookSoySauceBarrel.jobString>Making Soy souce barrel</R_CookSoySauceBarrel.jobString>
+  <R_CookSoySauceBarrel.label>酱油桶</R_CookSoySauceBarrel.label>
+  <R_CookSoySauceBarrel.description>一个装满酱油的桶</R_CookSoySauceBarrel.description>
+  <R_CookSoySauceBarrel.jobString>正在制作酱油桶</R_CookSoySauceBarrel.jobString>
 
-  <R_CookSoySauce10.label>Soy sauce(25)</R_CookSoySauce10.label>
-  <R_CookSoySauce10.description>Make Soy souce(Japanese seasoning).</R_CookSoySauce10.description>
-  <R_CookSoySauce10.jobString>Making Soy souce</R_CookSoySauce10.jobString>
+  <R_CookSoySauce10.label>酱油(25)</R_CookSoySauce10.label>
+  <R_CookSoySauce10.description>制作酱油(一种东方调味料).</R_CookSoySauce10.description>
+  <R_CookSoySauce10.jobString>正在制作酱油</R_CookSoySauce10.jobString>
 
-  <R_CookMisoBarrel.label>Miso barrel</R_CookMisoBarrel.label>
-  <R_CookMisoBarrel.description>Make Miso(Japanese seasoning) barrel which is need to make.</R_CookMisoBarrel.description>
-  <R_CookMisoBarrel.jobString>Making Miso barrel</R_CookMisoBarrel.jobString>
+  <R_CookMisoBarrel.label>味增桶</R_CookMisoBarrel.label>
+  <R_CookMisoBarrel.description>一个装满味增的桶</R_CookMisoBarrel.description>
+  <R_CookMisoBarrel.jobString>正在制作味增桶</R_CookMisoBarrel.jobString>
 
-  <R_CookMiso10.label>Miso(25)</R_CookMiso10.label>
-  <R_CookMiso10.description>Make Miso(Japanese seasoning).</R_CookMiso10.description>
-  <R_CookMiso10.jobString>Making Miso</R_CookMiso10.jobString>
+  <R_CookMiso10.label>味增(25)</R_CookMiso10.label>
+  <R_CookMiso10.description>制作味增(一种日本调味料)。</R_CookMiso10.description>
+  <R_CookMiso10.jobString>正在制作味增</R_CookMiso10.jobString>
 
 
 </LanguageData>

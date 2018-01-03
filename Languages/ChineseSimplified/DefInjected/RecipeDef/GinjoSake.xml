@@ -1,13 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <R_CookAlcoholBarrel.label>Ginjo barrel</R_CookAlcoholBarrel.label>
-  <R_CookAlcoholBarrel.description>Making a Ginjo(a kind of Japanese alchole) barrel as a raw material for Ginjo.</R_CookAlcoholBarrel.description>
-  <R_CookAlcoholBarrel.jobString>making Ginjo barrel</R_CookAlcoholBarrel.jobString>
+  <R_CookAlcoholBarrel.label>吟酿桶</R_CookAlcoholBarrel.label>
+  <R_CookAlcoholBarrel.description>将吟酿酒放入桶里。</R_CookAlcoholBarrel.description>
+  <R_CookAlcoholBarrel.jobString>正在制作吟酿桶</R_CookAlcoholBarrel.jobString>
 
-  <MakeGinjoSake.label>Ginjo(25)</MakeGinjoSake.label>
-  <MakeGinjoSake.description>Make Ginjo(a kind of Japanese alchole)</MakeGinjoSake.description>
-  <MakeGinjoSake.jobString>Making Ginjo</MakeGinjoSake.jobString>
+  <MakeGinjoSake.label>吟酿(25)</MakeGinjoSake.label>
+  <MakeGinjoSake.description>酿造吟酿(一种日本的酒品)</MakeGinjoSake.description>
+  <MakeGinjoSake.jobString>正在酿造吟酿</MakeGinjoSake.jobString>
 
 
 </LanguageData>

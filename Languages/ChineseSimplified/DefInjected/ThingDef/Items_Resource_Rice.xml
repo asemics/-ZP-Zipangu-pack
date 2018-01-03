@@ -2,7 +2,7 @@
 <LanguageData>
 
   <!--<Inaho.label>稻穗</Inaho.label>-->
-  <!--<Inaho.description>为了享受到美味的白米的五条注意事项! \n１、【脱穀】将稻米和秸秆分离开 \n２、【研磨】将糙米和稻壳分离开 \n３、【精米】将糙米加工成白米 \n４、【调理】进行美味的调理 \n５、【食事】感谢大地的恩惠！ </Inaho.description>-->
+  <!--<Inaho.description>为了享受到美味的白米的五条注意事项! \n１、【脱穀】将稻米和秸秆分离开 \n２、【研磨】将糙米和谷壳分离开 \n３、【精米】将糙米加工成白米 \n４、【调理】进行美味的调理 \n５、【食事】感谢大地的恩惠！ </Inaho.description>-->
 
   <!--<RiceMomi.label>籾米</RiceMomi.label>-->
   <!--<RiceMomi.description>刚收获的大米。就这样还不能吃，所以快点脱粒吧！ \n脱粒能得到糙米和秸秆。</RiceMomi.description>-->
@@ -10,7 +10,7 @@
   <!--<RawRice.description>生稻米。生吃味道很差。</RawRice.description>-->
 
   <!--<BrownRice.label>糙米</BrownRice.label>-->
-  <!--<BrownRice.description>除去稻壳的糙米，营养价值比较高，而且可以吃了。</BrownRice.description>-->
+  <!--<BrownRice.description>除去谷壳的糙米，营养价值比较高，而且可以吃了。</BrownRice.description>-->
 
   <!--<WhiteRice.label>白米</WhiteRice.label>-->
   <!--<WhiteRice.description>谨慎脱粒制成的精米。 \n在精米过程中谨慎切削，营养没有糙米那么丰富，但味道很出众。 </WhiteRice.description>-->
@@ -18,10 +18,10 @@
   <!--<Straw.label>秸秆</Straw.label>-->
   <!--<Straw.description>在脱粒过程中产生的副产品。 \n无论是用作动物饲料、肥料、燃料还是工艺品都没问题，它的用途相当广泛。</Straw.description>-->
 
-  <!--<Chaff.label>稻壳</Chaff.label>-->
+  <!--<Chaff.label>谷壳</Chaff.label>-->
   <!--<Chaff.description>在研磨过程中产生的副产品。 \n可以作为肥料、燃料或是低营养的动物饲料使用。</Chaff.description>-->
 
-  <!--<RiceBran.label>糠麸</RiceBran.label>-->
+  <!--<RiceBran.label>米糠</RiceBran.label>-->
   <!--<RiceBran.description>在精米过程中产生的副产品。 \n可以加工成肥料，动物饲料或是贮存食物用的材料。</RiceBran.description>-->
 
 

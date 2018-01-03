@@ -4,30 +4,30 @@
   <StrawBed.label>稻草床</StrawBed.label>
   <StrawBed.description>可以稍微将就着睡下、但对你的背来说不是那么友好的床，而且也稍微有些不卫生。 【不可出售】</StrawBed.description>
   <StrawBed_Blueprint.label>稻草床 (蓝图)</StrawBed_Blueprint.label>
-  <StrawBed_Blueprint_Install.label>藁ベッド (blueprint)</StrawBed_Blueprint_Install.label>
+  <StrawBed_Blueprint_Install.label>藁ベッド(blueprint)</StrawBed_Blueprint_Install.label>
   <StrawBed_Frame.label>稻草床 (建造中)</StrawBed_Frame.label>
   <StrawBed_Frame.description>可以稍微将就着睡下、但对你的背来说不是那么友好的床，而且也稍微有些不卫生。 【不可出售】</StrawBed_Frame.description>
 
-  <DoubleStrawBed.label>Double straw bed</DoubleStrawBed.label>
-  <DoubleStrawBed.description>Ideal for sleeping but slightly unsanitary bed. (Not available for sale)</DoubleStrawBed.description>
-  <DoubleStrawBed_Blueprint.label>Double straw bed(blueprint)</DoubleStrawBed_Blueprint.label>
+  <DoubleStrawBed.label>双人稻草床</DoubleStrawBed.label>
+  <DoubleStrawBed.description>可以稍微将就着睡下、但对你的背来说不是那么友好的床，而且也稍微有些不卫生。 【不可出售】</DoubleStrawBed.description>
+  <DoubleStrawBed_Blueprint.label>双人稻草床(蓝图)</DoubleStrawBed_Blueprint.label>
   <DoubleStrawBed_Blueprint_Install.label>Double straw bed(blueprint)</DoubleStrawBed_Blueprint_Install.label>
-  <DoubleStrawBed_Frame.label>Double straw bed(building)</DoubleStrawBed_Frame.label>
-  <DoubleStrawBed_Frame.description>Ideal for sleeping but slightly unsanitary bed. (Not available for sale)</DoubleStrawBed_Frame.description>
+  <DoubleStrawBed_Frame.label>双人稻草床(建造中)</DoubleStrawBed_Frame.label>
+  <DoubleStrawBed_Frame.description>可以稍微将就着睡下、但对你的背来说不是那么友好的床，而且也稍微有些不卫生。 【不可出售】</DoubleStrawBed_Frame.description>
 
-  <SuperiorStrawBed.label>Superior straw bed</SuperiorStrawBed.label>
-  <SuperiorStrawBed.description>Superior straw bed with superior straw bed.\n Still the quality falls a bit lower than normal beds.</SuperiorStrawBed.description>
-  <SuperiorStrawBed_Blueprint.label>Superior straw bed (blueprint)</SuperiorStrawBed_Blueprint.label>
+  <SuperiorStrawBed.label>高级稻草床</SuperiorStrawBed.label>
+  <SuperiorStrawBed.description>高级稻草床无论多么高级\n 质量终究低于普通的床</SuperiorStrawBed.description>
+  <SuperiorStrawBed_Blueprint.label>高级稻草床(蓝图)</SuperiorStrawBed_Blueprint.label>
   <SuperiorStrawBed_Blueprint_Install.label>Superior straw bed (blueprint)</SuperiorStrawBed_Blueprint_Install.label>
-  <SuperiorStrawBed_Frame.label>Superior straw bed(building)</SuperiorStrawBed_Frame.label>
-  <SuperiorStrawBed_Frame.description>Superior straw bed with superior straw bed.\n Still the quality falls a bit lower than normal beds.</SuperiorStrawBed_Frame.description>
+  <SuperiorStrawBed_Frame.label>高级稻草床(建筑中)</SuperiorStrawBed_Frame.label>
+  <SuperiorStrawBed_Frame.description>高级稻草床无论多么高级\n 质量终究低于普通的床</SuperiorStrawBed_Frame.description>
 
-  <SuperiorDoubleStrawBed.label>Superior double straw bed</SuperiorDoubleStrawBed.label>
-  <SuperiorDoubleStrawBed.description>Superior straw bed with superior straw bed.\n Still the quality falls a bit lower than normal beds.</SuperiorDoubleStrawBed.description>
-  <SuperiorDoubleStrawBed_Blueprint.label>Superior double straw bed(blueprint)</SuperiorDoubleStrawBed_Blueprint.label>
+  <SuperiorDoubleStrawBed.label>高级双人稻草床</SuperiorDoubleStrawBed.label>
+  <SuperiorDoubleStrawBed.description>高级稻草床无论多么高级\n 质量终究低于普通的床</SuperiorDoubleStrawBed.description>
+  <SuperiorDoubleStrawBed_Blueprint.label>高级双人稻草床(蓝图)</SuperiorDoubleStrawBed_Blueprint.label>
   <SuperiorDoubleStrawBed_Blueprint_Install.label>Superior double straw bed(blueprint)</SuperiorDoubleStrawBed_Blueprint_Install.label>
-  <SuperiorDoubleStrawBed_Frame.label>Superior double straw bed(building)</SuperiorDoubleStrawBed_Frame.label>
-  <SuperiorDoubleStrawBed_Frame.description>Superior straw bed with superior straw bed.\n Still the quality falls a bit lower than normal beds.</SuperiorDoubleStrawBed_Frame.description>
+  <SuperiorDoubleStrawBed_Frame.label>高级双人稻草床(建筑中)</SuperiorDoubleStrawBed_Frame.label>
+  <SuperiorDoubleStrawBed_Frame.description>高级稻草床无论多么高级\n 质量终究低于普通的床</SuperiorDoubleStrawBed_Frame.description>
 
   <AnimalStrawBedSmall.label>动物稻草床铺(小)</AnimalStrawBedSmall.label>
   <AnimalStrawBedSmall.description>给动物用的小型稻草床铺。\n【不可出售】\n适合小型动物，例如鸡和兔子使用。</AnimalStrawBedSmall.description>
