@@ -2,27 +2,27 @@
 <LanguageData>
 
   <CookRoastedMochi5.label>Grilled Mochi(5)</CookRoastedMochi5.label>
-  <CookRoastedMochi5.description>Bake the Freeze mochi.</CookRoastedMochi5.description>
+  <CookRoastedMochi5.description>Bake the frozen mochi.</CookRoastedMochi5.description>
   <CookRoastedMochi5.jobString>Baking</CookRoastedMochi5.jobString>
 
   <CookThreeColoredDumplings5.label>Three colored dumplings(5)</CookThreeColoredDumplings5.label>
-  <CookThreeColoredDumplings5.description>Cook three color dumplings with Freeze mochi and Rice syrup.</CookThreeColoredDumplings5.description>
+  <CookThreeColoredDumplings5.description>Three color dumplings using frozen mochi and rice syrup.</CookThreeColoredDumplings5.description>
   <CookThreeColoredDumplings5.jobString>Cooking</CookThreeColoredDumplings5.jobString>
 
   <CookVinegarMochi5.label>Vinegar Mochi(5)</CookVinegarMochi5.label>
-  <CookVinegarMochi5.description>Cook Vinegar mochi with Freeze mochi and Rice vinegar.</CookVinegarMochi5.description>
+  <CookVinegarMochi5.description>Vinegar mochi using frozen mochi and rice vinegar.</CookVinegarMochi5.description>
   <CookVinegarMochi5.jobString>Cooking</CookVinegarMochi5.jobString>
 
   <CookIsobeMochi5.label>Isobe Mochi(5)</CookIsobeMochi5.label>
-  <CookIsobeMochi5.description>Cook Isobe Mochi with Freeze mochi and soy sauce.</CookIsobeMochi5.description>
+  <CookIsobeMochi5.description>Isobe mochi using Frozen mochi and soy sauce.</CookIsobeMochi5.description>
   <CookIsobeMochi5.jobString>Cooking</CookIsobeMochi5.jobString>
 
   <CookGoheiMochi5.label>Gohei Mochi(5)</CookGoheiMochi5.label>
-  <CookGoheiMochi5.description>Cook Gohei mochi with Freeze mochi and Miso.</CookGoheiMochi5.description>
+  <CookGoheiMochi5.description>Gohei mochi using frozen mochi and miso.</CookGoheiMochi5.description>
   <CookGoheiMochi5.jobString>Cooking</CookGoheiMochi5.jobString>
 
   <CookZundaMochi5.label>Zunda Mochi(5)</CookZundaMochi5.label>
-  <CookZundaMochi5.description>Make 5 pieces of Zunda Mochi with green soybeans paste after baking frozen mochi</CookZundaMochi5.description>
+  <CookZundaMochi5.description>Make 5 pieces of Zunda Mochi using green soybeans paste after baking frozen mochi</CookZundaMochi5.description>
   <CookZundaMochi5.jobString>Making Zunda Mochi</CookZundaMochi5.jobString>
 
 

@@ -4,28 +4,28 @@
   <!-- 調味料 -->
 
   <R_CookNaturalSalt.label>Natural salt(10)</R_CookNaturalSalt.label>
-  <R_CookNaturalSalt.description>To extract salt from water containing the salt.</R_CookNaturalSalt.description>
+  <R_CookNaturalSalt.description>Extract salt from water.</R_CookNaturalSalt.description>
   <R_CookNaturalSalt.jobString>Making</R_CookNaturalSalt.jobString>
 
   <R_CookSyrup10.label>Rice syrup(10)</R_CookSyrup10.label>
-  <R_CookSyrup10.description>Boil rice, extract sugar and make Rice syrup.</R_CookSyrup10.description>
-  <R_CookSyrup10.jobString>Makeing</R_CookSyrup10.jobString>
+  <R_CookSyrup10.description>Boil rice, extract sugar and make rice syrup.</R_CookSyrup10.description>
+  <R_CookSyrup10.jobString>Making</R_CookSyrup10.jobString>
 
-  <R_CookVinegarBarrel.label>Rice vineger barrel</R_CookVinegarBarrel.label>
+  <R_CookVinegarBarrel.label>Rice vinegar barrel</R_CookVinegarBarrel.label>
   <R_CookVinegarBarrel.description>Make Rice vineger barrel which is need to make.</R_CookVinegarBarrel.description>
   <R_CookVinegarBarrel.jobString>Making Rice vineger barrel</R_CookVinegarBarrel.jobString>
 
-  <R_CookVinegar10.label>Rice vineger(25)</R_CookVinegar10.label>
-  <R_CookVinegar10.description>Make Rice vineger.</R_CookVinegar10.description>
-  <R_CookVinegar10.jobString>Making Rice vineger</R_CookVinegar10.jobString>
+  <R_CookVinegar10.label>Rice vinegar(25)</R_CookVinegar10.label>
+  <R_CookVinegar10.description>Make Rice vinegar</R_CookVinegar10.description>
+  <R_CookVinegar10.jobString>Making Rice vinegar/R_CookVinegar10.jobString>
 
   <R_CookSoySauceBarrel.label>Soy sauce barrel</R_CookSoySauceBarrel.label>
-  <R_CookSoySauceBarrel.description>Make Soy souce(Japanese seasoning) barrel which is need to make.</R_CookSoySauceBarrel.description>
-  <R_CookSoySauceBarrel.jobString>Making Soy souce barrel</R_CookSoySauceBarrel.jobString>
+  <R_CookSoySauceBarrel.description>Make Soy sauce(Japanese seasoning) barrel which is need to make.</R_CookSoySauceBarrel.description>
+  <R_CookSoySauceBarrel.jobString>Making Soy sauce barrel</R_CookSoySauceBarrel.jobString>
 
   <R_CookSoySauce10.label>Soy sauce(25)</R_CookSoySauce10.label>
-  <R_CookSoySauce10.description>Make Soy souce(Japanese seasoning).</R_CookSoySauce10.description>
-  <R_CookSoySauce10.jobString>Making Soy souce</R_CookSoySauce10.jobString>
+  <R_CookSoySauce10.description>Make Soy sauce(Japanese seasoning).</R_CookSoySauce10.description>
+  <R_CookSoySauce10.jobString>Making Soy sauce</R_CookSoySauce10.jobString>
 
   <R_CookMisoBarrel.label>Miso barrel</R_CookMisoBarrel.label>
   <R_CookMisoBarrel.description>Make Miso(Japanese seasoning) barrel which is need to make.</R_CookMisoBarrel.description>
