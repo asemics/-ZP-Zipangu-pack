@@ -4,19 +4,25 @@
   <BR_Gohan.label>糙米饭</BR_Gohan.label>
   <BR_Gohan.description>一碗很健康的糙米饭，请好好享受吧。</BR_Gohan.description>
 
-  <WR_Gohan.label>米饭</WR_Gohan.label>
+  <WR_Gohan.label>白米饭</WR_Gohan.label>
   <WR_Gohan.description>不加任何配菜，就这么好好享受白米饭纯粹的美味吧。</WR_Gohan.description>
 
   <BR_TKG.label>蛋盖糙米饭</BR_TKG.label>
-  <BR_TKG.description>一碗糙米饭，看起来就很好吃的样子。虽然加上一个生蛋是黑暗料理般的吃法呢。</BR_TKG.description>
+  <BR_TKG.description>一碗糙米饭，上面还打了一个生蛋，看起来就很好吃的样子。\n不过有人觉得加生鸡蛋是黑暗料理般的吃法呢。</BR_TKG.description>
 
-  <WR_TKG.label>蛋盖饭</WR_TKG.label>
-  <WR_TKG.description>一碗米饭，看起来就很好吃的样子。虽然加上一个生蛋是黑暗料理般的吃法呢。</WR_TKG.description>
+  <WR_TKG.label>蛋盖白米饭</WR_TKG.label>
+  <WR_TKG.description>一碗米饭，上面还打了一个生蛋，看起来就很好吃的样子。\n不过有人觉得加生鸡蛋是黑暗料理般的吃法呢。</WR_TKG.description>
+
+  <BR_Gyudon.label>糙米肉丼</BR_Gyudon.label>
+  <BR_Gyudon.description>在饭上面盖有很多肉的大碗糙米饭。\n伴随着肉和饭一起吃进肚子里的、还有满满的幸福感呢。</BR_Gyudon.description>
+
+  <WR_Gyudon.label>白米肉丼</WR_Gyudon.label>
+  <WR_Gyudon.description>在饭上面盖有很多肉的大碗白米饭。\n伴随着肉和饭一起吃进肚子里的、还有满满的幸福感呢。</WR_Gyudon.description>
 
   <BR_Onigiri.label>糙米饭团</BR_Onigiri.label>
   <BR_Onigiri.description>日本的人们发明出来的无论到哪里都可以很方便吃到的传统手握饭团。</BR_Onigiri.description>
 
-  <WR_Onigiri.label>饭团</WR_Onigiri.label>
+  <WR_Onigiri.label>白米饭团</WR_Onigiri.label>
   <WR_Onigiri.description>日本的人们发明出来的无论到哪里都可以很方便吃到的手握饭团，可以通过制作者的爱好来添加不同的配料。</WR_Onigiri.description>
 
   <BR_Bento.label>糙米饭便当</BR_Bento.label>
@@ -28,32 +34,26 @@
   <BR_Jubako.label>豪华漆盒糙米饭便当</BR_Jubako.label>
   <BR_Jubako.description>一份用精致漆器便当盒盛装的糙米饭便当，用以在远行等没有正式餐桌之类的情况下享受美味的饭菜。漆盒本身便是古典的东方艺术，加上艺术品一般精致的便当实在是更胜一筹呢。</BR_Jubako.description>
 
-  <WR_Jubako.label>豪华漆盒便当</WR_Jubako.label>
-  <WR_Jubako.description>一份用精致漆器便当盒盛装的米饭便当，用以在远行等没有正式餐桌之类的情况下享受美味的饭菜。寿司便当？妈妈便当？工事便当？爱妻便当？谁知道里面会是什么惊喜呢！</WR_Jubako.description>
-
-  <BR_Gyudon.label>糙米肉丼</BR_Gyudon.label>
-  <BR_Gyudon.description>在饭上盖有肉拼盘的大碗糙米饭。</BR_Gyudon.description>
-
-  <WR_Gyudon.label>肉丼</WR_Gyudon.label>
-  <WR_Gyudon.description>在饭上盖有肉拼盘的大碗白米饭。</WR_Gyudon.description>
+  <WR_Jubako.label>豪华漆盒白米饭便当</WR_Jubako.label>
+  <WR_Jubako.description>一份用精致漆器便当盒盛装的米饭便当，用以在远行等没有正式餐桌之类的情况下享受美味的饭菜。漆盒本身便是古典的东方艺术，加上艺术品一般精致的便当实在是更胜一筹呢。</WR_Jubako.description>
 
   <WR_JPCurryRice.label>日式咖喱饭</WR_JPCurryRice.label>
   <WR_JPCurryRice.description>据说在某个国家引起了因为吃法和食材之类的战争的充满魅惑的食物。而对日本的人们来说，是无论到哪里都会很怀念的味道呢。</WR_JPCurryRice.description>
 
-  <Tukudani.label>蝗虫佃煮</Tukudani.label>
-  <Tukudani.description>用糖和酱油炖煮本应扔掉的虫肉而成的食物。</Tukudani.description>
+  <Tukudani.label>虫肉佃煮</Tukudani.label>
+  <Tukudani.description>用佃煮的方式把虫肉处理一下，就可以让它们变得好吃一点了。\n“佃煮”是日本的一种料理方式，是用酱油和糖将食物裹上一层酱油糖衣的样子。</Tukudani.description>
 
-  <ZP_WRSushi.label>寿司</ZP_WRSushi.label>
-  <ZP_WRSushi.description>传统的日本料理，新鲜的鱼片放在醋米饭上。</ZP_WRSushi.description>
+  <ZP_WRSushi.label>手握寿司</ZP_WRSushi.label>
+  <ZP_WRSushi.description>日本特色传统美食之一。\n主要材料是用寿司醋调味过的、维持在与人体体温相近温度的米饭块，再加上海鲜、蔬菜或鸡蛋等作配料制成。这种食品味道鲜美，很受日本民众和外国游客的喜爱。</ZP_WRSushi.description>
 
-  <ZP_Sasimi.label>生鱼片</ZP_Sasimi.label>
-  <ZP_Sasimi.description>将鱼肉切成一口大小后摆放成拼盘。</ZP_Sasimi.description>
+  <ZP_Sasimi.label>赤身鱼刺身</ZP_Sasimi.label>
+  <ZP_Sasimi.description>日本特色传统美食之一。\n早在唐朝时期的中国就有用生鱼片款待贵客的习惯，而那时跟中国关系很好的日本当然也把这种习惯带到了自己的国家了。直到现在中国的人们早已忘记了这种美味的时候，日本的人们仍然还记得呢。</ZP_Sasimi.description>
 
   <ZP_SaltGrilledFish.label>盐烤鱼</ZP_SaltGrilledFish.label>
-  <ZP_SaltGrilledFish.description>加盐烤成的鱼肉，可以品尝到烤鱼的味道。</ZP_SaltGrilledFish.description>
+  <ZP_SaltGrilledFish.description>将鲜鱼抹上盐然后串在竹签上用炭火烘焙，这种简单而美味的吃法无论在哪里都相当受欢迎呢。</ZP_SaltGrilledFish.description>
 
-  <ZP_SteamedFish.label>白煮鱼</ZP_SteamedFish.label>
-  <ZP_SteamedFish.description>将鱼煮熟，然后蘸着调味料吃的鱼料理</ZP_SteamedFish.description>
+  <ZP_SteamedFish.label>煮鱼</ZP_SteamedFish.label>
+  <ZP_SteamedFish.description>将鱼用合适的火候煮熟、调味再加上配菜，就成了可以放心食用的餐品了。</ZP_SteamedFish.description>
 
 
 </LanguageData>

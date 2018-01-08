@@ -3,8 +3,8 @@
 
   <!-- 手の込んだ食事 日の丸弁当 -->
 
-  <CookBRBento4.label>糙米 日之丸便当(4)</CookBRBento4.label>
-  <CookBRBento4.description>制作4份日之丸便当</CookBRBento4.description>
+  <CookBRBento4.label>糙米饭便当(4)</CookBRBento4.label>
+  <CookBRBento4.description>制作4份糙米饭便当</CookBRBento4.description>
   <CookBRBento4.jobString>正在制作便当</CookBRBento4.jobString>
 
   <CookWRBento4.label>日之丸便当(4)</CookWRBento4.label>

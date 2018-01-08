@@ -1,15 +1,15 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <ThreshingHusk.label>脱壳加工</ThreshingHusk.label>
-  <ThreshingHusk.description>脱粒是将米的可食用部分从附着的外壳个稻草上剥离的过程，从糙米变成白米的工序</ThreshingHusk.description>
-  <ThreshingHusk.labelShort>脱壳</ThreshingHusk.labelShort>
-  <ThreshingHusk.pawnLabel>脱壳</ThreshingHusk.pawnLabel>
-  <ThreshingHusk.gerundLabel>脱壳</ThreshingHusk.gerundLabel>
-  <ThreshingHusk.verb>脱壳</ThreshingHusk.verb>
+  <ThreshingHusk.label>脱殻</ThreshingHusk.label>
+  <ThreshingHusk.description>将籾米加工成糙米。</ThreshingHusk.description>
+  <ThreshingHusk.labelShort>脱殻</ThreshingHusk.labelShort>
+  <ThreshingHusk.pawnLabel>脱殻</ThreshingHusk.pawnLabel>
+  <ThreshingHusk.gerundLabel>脱殻</ThreshingHusk.gerundLabel>
+  <ThreshingHusk.verb>脱殻</ThreshingHusk.verb>
 
-  <RiceProcessing.label>精米加工</RiceProcessing.label>
-  <RiceProcessing.description>给大米去糠，从糙米中去除米糠并制作成白米。</RiceProcessing.description>
+  <RiceProcessing.label>精米</RiceProcessing.label>
+  <RiceProcessing.description>将糙米精加工成白米。</RiceProcessing.description>
   <RiceProcessing.labelShort>精米</RiceProcessing.labelShort>
   <RiceProcessing.pawnLabel>精米</RiceProcessing.pawnLabel>
   <RiceProcessing.gerundLabel>精米</RiceProcessing.gerundLabel>

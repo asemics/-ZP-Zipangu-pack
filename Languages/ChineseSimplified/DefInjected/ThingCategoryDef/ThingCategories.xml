@@ -1,27 +1,48 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-	<Tawara.label>俵</Tawara.label>
-	<ZP_Seasoning.label>調味料</ZP_Seasoning.label>
-	<ZP_Grain.label>谷物</ZP_Grain.label>
-	<ZP_Protein.label>蛋白质</ZP_Protein.label>
-	<AnimalFeed.label>动物饲料</AnimalFeed.label>
-	<ZP_FoodMeals.label>和食</ZP_FoodMeals.label>
-	<!-- Weapon -->
-	<ZipanguWeapon.label>日之国</ZipanguWeapon.label>
-	<ZipanguWeaponRanged.label>日之国</ZipanguWeaponRanged.label>
-	<!-- Headgear -->
-	<ZipanguHeadgear.label>日之国</ZipanguHeadgear.label>
-	<!-- Body -->
-	<Bodygear.label>身体装备</Bodygear.label>
-	<BodyOnSkin.label>内衣</BodyOnSkin.label>
-	<BodyArmour.label>铠</BodyArmour.label>
-	<Outergear.label>外套</Outergear.label>
-	<VanillaBodygear.label>原版装备</VanillaBodygear.label>
-	<!-- Hand -->
-	<Handgear.label>手部装备</Handgear.label>
-	<!-- Foot -->
-	<Footgear.label>足部装备</Footgear.label>
-	<!-- Acessories -->
-	<Accessories.label>饰品</Accessories.label>
-	<Zipangu.label>日之国</Zipangu.label>
+
+  <Tawara.label>俵</Tawara.label>
+  <ZP_Seasoning.label>调味料</ZP_Seasoning.label>
+  <ZP_Grain.label>谷物</ZP_Grain.label>
+  <ZP_Protein.label>蛋白质 </ZP_Protein.label>
+  <AnimalFeed.label>动物饲料</AnimalFeed.label>
+  <ZP_FoodMeals.label>日式料理</ZP_FoodMeals.label>
+
+
+  <!-- Weapon -->
+
+  <ZipanguWeapon.label>和风武器</ZipanguWeapon.label>
+  <ZipanguWeaponRanged.label>和风武器</ZipanguWeaponRanged.label>
+
+
+  <!-- Headgear -->
+
+  <ZipanguHeadgear.label>和风头部装备</ZipanguHeadgear.label>
+
+
+  <!-- Body -->
+
+  <Bodygear.label>躯干</Bodygear.label>
+  <BodyOnSkin.label>服装</BodyOnSkin.label>
+  <BodyArmour.label>护甲</BodyArmour.label>
+  <Outergear.label>外衣</Outergear.label>
+  <VanillaBodygear.label>原版</VanillaBodygear.label>
+
+
+  <!-- Hand -->
+
+  <Handgear.label>手部</Handgear.label>
+
+
+  <!-- Foot -->
+
+  <Footgear.label>足部</Footgear.label>
+
+
+  <!-- Acessories -->
+
+  <Accessories.label>附件</Accessories.label>
+  <Zipangu.label>和風戰國</Zipangu.label>
+
+
 </LanguageData>

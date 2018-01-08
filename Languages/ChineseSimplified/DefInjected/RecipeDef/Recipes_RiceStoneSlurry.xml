@@ -4,20 +4,20 @@
   <!-- 籾摺り臼　籾米⇒玄米 -->
 
   <MakeRiceStoneSlurryRice10.label>籾米⇒糙米(10)</MakeRiceStoneSlurryRice10.label>
-  <MakeRiceStoneSlurryRice10.description>将籾米加工分离出糙米和谷壳。</MakeRiceStoneSlurryRice10.description>
+  <MakeRiceStoneSlurryRice10.description>将籾米研磨分离出糙米和谷壳。</MakeRiceStoneSlurryRice10.description>
   <MakeRiceStoneSlurryRice10.jobString>正在将籾米去壳</MakeRiceStoneSlurryRice10.jobString>
 
   <MakeRiceStoneSlurryRice50.label>籾米⇒糙米(50)</MakeRiceStoneSlurryRice50.label>
-  <MakeRiceStoneSlurryRice50.description>将籾米加工分离出糙米和谷壳。</MakeRiceStoneSlurryRice50.description>
+  <MakeRiceStoneSlurryRice50.description>将籾米研磨分离出糙米和谷壳。</MakeRiceStoneSlurryRice50.description>
   <MakeRiceStoneSlurryRice50.jobString>正在将籾米去壳</MakeRiceStoneSlurryRice50.jobString>
 
-  <MakeRiceStoneSlurryRice10_1.label>籾米⇒糙米(10)</MakeRiceStoneSlurryRice10_1.label>
-  <MakeRiceStoneSlurryRice10_1.description>将籾米加工分离出糙米和谷壳。\n精细的工艺可以获得少量白米。</MakeRiceStoneSlurryRice10_1.description>
-  <MakeRiceStoneSlurryRice10_1.jobString>籾摺りをする</MakeRiceStoneSlurryRice10_1.jobString>
+  <MakeRiceStoneSlurryRice10_1.label>对籾米进行仔细研磨(10)</MakeRiceStoneSlurryRice10_1.label>
+  <MakeRiceStoneSlurryRice10_1.description>将籾米研磨分离出糙米和谷壳。\n谨慎地处理可以获得少量的白米。</MakeRiceStoneSlurryRice10_1.description>
+  <MakeRiceStoneSlurryRice10_1.jobString>正在将籾米去壳</MakeRiceStoneSlurryRice10_1.jobString>
 
-  <MakeRiceStoneSlurryRice50_2.label>籾米⇒糙米(50)</MakeRiceStoneSlurryRice50_2.label>
-  <MakeRiceStoneSlurryRice50_2.description>将籾米加工分离出糙米和谷壳。\n精细的工艺可以获得少量白米。</MakeRiceStoneSlurryRice50_2.description>
-  <MakeRiceStoneSlurryRice50_2.jobString>籾摺りをする</MakeRiceStoneSlurryRice50_2.jobString>
+  <MakeRiceStoneSlurryRice50_2.label>对籾米进行仔细研磨(50)</MakeRiceStoneSlurryRice50_2.label>
+  <MakeRiceStoneSlurryRice50_2.description>将籾米研磨分离出糙米和谷壳。\n谨慎地处理可以获得少量的白米。</MakeRiceStoneSlurryRice50_2.description>
+  <MakeRiceStoneSlurryRice50_2.jobString>正在将籾米去壳</MakeRiceStoneSlurryRice50_2.jobString>
 
 
   <!-- 籾摺り臼　米(籾)⇒玄米 -->

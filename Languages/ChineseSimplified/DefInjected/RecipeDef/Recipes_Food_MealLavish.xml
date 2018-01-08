@@ -10,9 +10,9 @@
 
   <!-- 豪華な食事　寿司 -->
 
-  <CookWRSushi8.label>寿司卷(8)</CookWRSushi8.label>
-  <CookWRSushi8.description>制作寿司卷。</CookWRSushi8.description>
-  <CookWRSushi8.jobString>正在制作寿司卷</CookWRSushi8.jobString>
+  <CookWRSushi8.label>手握寿司(8)</CookWRSushi8.label>
+  <CookWRSushi8.description>制作寿司。</CookWRSushi8.description>
+  <CookWRSushi8.jobString>正在制作寿司</CookWRSushi8.jobString>
 
 
 </LanguageData>

@@ -3,20 +3,20 @@
 
   <!-- 作業場 -->
 
-  <RecycleWeAp.label>回收装备</RecycleWeAp.label>
-  <RecycleWeAp.description>回收装备以有效的利用有限的资源。</RecycleWeAp.description>
+  <RecycleWeAp.label>回收武器和服装</RecycleWeAp.label>
+  <RecycleWeAp.description>对无用的装备进行回收以有效利用有限的资源。</RecycleWeAp.description>
   <RecycleWeAp.jobString>回收中</RecycleWeAp.jobString>
 
 
   <!-- 鍛冶場 -->
 
-  <ZPRecycleApparel.label>拆解衣服</ZPRecycleApparel.label>
-  <ZPRecycleApparel.description>拆解衣服以有效的利用有限的资源。</ZPRecycleApparel.description>
-  <ZPRecycleApparel.jobString>拆解中</ZPRecycleApparel.jobString>
+  <ZPRecycleApparel.label>回收服装</ZPRecycleApparel.label>
+  <ZPRecycleApparel.description>对无用的装备进行回收以有效利用有限的资源。</ZPRecycleApparel.description>
+  <ZPRecycleApparel.jobString>回收中</ZPRecycleApparel.jobString>
 
-  <ZPRecycleWeapon.label>熔炼武器</ZPRecycleWeapon.label>
-  <ZPRecycleWeapon.description>熔炼武器以有效的利用有限的资源。</ZPRecycleWeapon.description>
-  <ZPRecycleWeapon.jobString>熔炼武器</ZPRecycleWeapon.jobString>
+  <ZPRecycleWeapon.label>回收武器</ZPRecycleWeapon.label>
+  <ZPRecycleWeapon.description>对无用的装备进行回收以有效利用有限的资源。</ZPRecycleWeapon.description>
+  <ZPRecycleWeapon.jobString>正在拆卸武器</ZPRecycleWeapon.jobString>
 
 
 </LanguageData>

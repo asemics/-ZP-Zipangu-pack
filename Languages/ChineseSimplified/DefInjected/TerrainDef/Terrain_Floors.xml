@@ -11,16 +11,16 @@
   <!-- 土壌 -->
 
   <ZP_Soil.label>土壤</ZP_Soil.label>
-  <ZP_Soil.description>(肥力:100%)\n将土地变成农田。\n土壤可以放置于沙土，冰原，碎石，粗糙于光滑的石地上。</ZP_Soil.description>
+  <ZP_Soil.description>（肥沃度:100%）\n使地型变得可以种植作物。\n可以应用于沙地、冰面、砂砾、粗糙/光滑的岩石地面上。</ZP_Soil.description>
 
-  <ZP_SoilRich.label>肥沃的土壤</ZP_SoilRich.label>
-  <ZP_SoilRich.description>(肥力:140%)\n提高农田土壤的肥沃度。</ZP_SoilRich.description>
+  <ZP_SoilRich.label>肥沃土壤</ZP_SoilRich.label>
+  <ZP_SoilRich.description>（肥沃度:140%）\n可以种植作物、拥有更高肥沃度的土地。</ZP_SoilRich.description>
 
-  <ZP_Mud.label>泥</ZP_Mud.label>
-  <ZP_Mud.description>用来制作稻田。</ZP_Mud.description>
+  <ZP_Mud.label>泥地</ZP_Mud.label>
+  <ZP_Mud.description>建设水田所需的泥地。</ZP_Mud.description>
 
-  <ZP_LandfillSoil.label>复耕土</ZP_LandfillSoil.label>
-  <ZP_LandfillSoil.description>(肥力:50%)\n补充贫乏的土地。\n恢复泥，沼泽，浅滩，沿海</ZP_LandfillSoil.description>
+  <ZP_LandfillSoil.label>复垦土地</ZP_LandfillSoil.label>
+  <ZP_LandfillSoil.description>（肥沃度:50%）\n用基本的填埋、压实来对地形作基本的改造。\n可以应用于泥地、沼泽、浅滩等复杂地形。</ZP_LandfillSoil.description>
 
 
 </LanguageData>

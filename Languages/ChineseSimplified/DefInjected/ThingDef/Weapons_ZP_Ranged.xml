@@ -3,49 +3,49 @@
 
   <!-- クナイ投げ -->
 
-  <kunai_ao.label>飛苦無</kunai_ao.label>
+  <kunai_ao.label>飞苦无</kunai_ao.label>
 
-  <Kunai_Ranged.label>飛苦無</Kunai_Ranged.label>
-  <Kunai_Ranged.description>飛苦無。装备上就会有忍者的感觉了，来试看看来无影去无踪吧。这种特制的苦無是专门设计于投掷使用，近接战斗可不太好用喔。</Kunai_Ranged.description>
+  <Kunai_Ranged.label>飞苦无</Kunai_Ranged.label>
+  <Kunai_Ranged.description>飞苦无，装备着它会有忍者的感觉。这种特制的苦无是专门设计于投掷使用，近接战斗就不太好用了。</Kunai_Ranged.description>
 
 
   <!-- クナイ投げ3 -->
 
-  <kunai_3ao.label>飛苦無【三連】</kunai_3ao.label>
+  <kunai_3ao.label>飞苦无【三连】</kunai_3ao.label>
 
-  <Kunai_3Ranged.label>飛苦無【三連】</Kunai_3Ranged.label>
-  <Kunai_3Ranged.description>飛苦無，可以同时投掷三把的特制版本。不过带着一堆苦無的话就没办法跑那么快了哦。</Kunai_3Ranged.description>
+  <Kunai_3Ranged.label>飞苦无【三连】</Kunai_3Ranged.label>
+  <Kunai_3Ranged.description>飞苦无，可以同时投掷三把的特制版本。不过带着那么多苦无的话，就没办法跑那么快了。</Kunai_3Ranged.description>
 
 
   <!-- 和弓 Base  グレートボウ -->
 
-  <Arrow_JPstyleGreatBow.label>箭</Arrow_JPstyleGreatBow.label>
+  <Arrow_JPstyleGreatBow.label>箭矢</Arrow_JPstyleGreatBow.label>
 
   <Bow_JPstyleGreat.label>和弓</Bow_JPstyleGreat.label>
-  <Bow_JPstyleGreat.description>改良后的日本长弓，增强了力度和射程。</Bow_JPstyleGreat.description>
+  <Bow_JPstyleGreat.description>日本弓道所使用的一类长弓，弓长逾两米，而且弓的上弧部份共占了全弓长度的三分之二，换言之和弓的制式是「上长下短」，同时和弓的规格也是世界上最大的，比英格兰长弓还要大。\n这种上长下短的构造，某程度上会为使用者带来执弓时难以平衡的困扰。要使用和弓必须要有高水准的技术，使用者持弓的手要掌握发箭时弓的震动幅度，预测弓上下弧的长度差所产生的反动力，并运用这种反动力推算箭的发射方向及应要施加力度的多寡。</Bow_JPstyleGreat.description>
 
 
   <!-- 和弓 Base  火炎筒投射機 -->
 
-  <FireArrow_JPstyleGreatBow.label>火箭</FireArrow_JPstyleGreatBow.label>
+  <FireArrow_JPstyleGreatBow.label>火矢</FireArrow_JPstyleGreatBow.label>
 
-  <Bow_JPstyleGreat_Fire.label>和弓(火箭)</Bow_JPstyleGreat_Fire.label>
-  <Bow_JPstyleGreat_Fire.description>改良后的日本长弓，增强了力度和射程，并可射出火箭。</Bow_JPstyleGreat_Fire.description>
+  <Bow_JPstyleGreat_Fire.label>火弓</Bow_JPstyleGreat_Fire.label>
+  <Bow_JPstyleGreat_Fire.description>一种特制的、可以发射火矢的和弓。</Bow_JPstyleGreat_Fire.description>
 
-  <PoisonArrow_JPstyleGreatBow.label>毒箭</PoisonArrow_JPstyleGreatBow.label>
+  <PoisonArrow_JPstyleGreatBow.label>毒箭矢</PoisonArrow_JPstyleGreatBow.label>
 
-  <Bow_JPstyleGreat_Poison.label>蛇弓(毒箭)</Bow_JPstyleGreat_Poison.label>
-  <Bow_JPstyleGreat_Poison.description>改良后的日本长弓，增强了力度和射程，并可射出毒箭。</Bow_JPstyleGreat_Poison.description>
+  <Bow_JPstyleGreat_Poison.label>蛇弓</Bow_JPstyleGreat_Poison.label>
+  <Bow_JPstyleGreat_Poison.description>一种特制的、可以发射毒箭的和弓。</Bow_JPstyleGreat_Poison.description>
 
 
   <!-- 種子島 Base 狙撃銃 -->
 
-  <Bullet_Tanegasima.label>种子岛弹</Bullet_Tanegasima.label>
+  <Bullet_Tanegasima.label>火绳枪弹</Bullet_Tanegasima.label>
 
   <Gun_Tanegasima.label>种子岛</Gun_Tanegasima.label>
-  <Gun_Tanegasima.description>由西洋引入而在本地改良的火绳枪，有着独特的口径和子弹，近距离下可以吹飞身体的一部分，\n但由于要携带火绳和打火石，行动变得不方便。</Gun_Tanegasima.description>
-  <Gun_Tanegasima.tools.0.label>stock</Gun_Tanegasima.tools.0.label>
-  <Gun_Tanegasima.tools.1.label>barrel</Gun_Tanegasima.tools.1.label>
+  <Gun_Tanegasima.description>即火绳枪，一种从滑膛火枪演变而来的武器，是现代步枪的直接原型。\n这种武器所使用的枪弹的口径和重量是相当可观的，所以在短距离射击的情况下，它的威力足以轰掉身体的一部分。\n不过，因为总是需要随身携带火绳枪绳和打火石的缘故，就没办法跑那么快了。</Gun_Tanegasima.description>
+  <Gun_Tanegasima.tools.0.label>枪托</Gun_Tanegasima.tools.0.label>
+  <Gun_Tanegasima.tools.1.label>枪管</Gun_Tanegasima.tools.1.label>
 
 
 </LanguageData>

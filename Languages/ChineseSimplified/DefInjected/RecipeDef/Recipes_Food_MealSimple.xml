@@ -5,26 +5,26 @@
 
   <CookBRGohan1.label>糙米饭</CookBRGohan1.label>
   <CookBRGohan1.description>煮一份糙米饭。</CookBRGohan1.description>
-  <CookBRGohan1.jobString>正在烹煮糙米饭</CookBRGohan1.jobString>
+  <CookBRGohan1.jobString>正在烹煮米饭</CookBRGohan1.jobString>
 
   <CookBRGohan4.label>糙米饭(4)</CookBRGohan4.label>
   <CookBRGohan4.description>煮一锅糙米饭。</CookBRGohan4.description>
-  <CookBRGohan4.jobString>正在烹煮糙米饭</CookBRGohan4.jobString>
+  <CookBRGohan4.jobString>正在烹煮米饭</CookBRGohan4.jobString>
 
-  <CookGohan1.label>米饭</CookGohan1.label>
-  <CookGohan1.description>煮一份米饭。</CookGohan1.description>
+  <CookGohan1.label>白米饭</CookGohan1.label>
+  <CookGohan1.description>煮一份白米饭。</CookGohan1.description>
   <CookGohan1.jobString>正在烹煮米饭</CookGohan1.jobString>
 
-  <CookGohan4.label>米饭(4)</CookGohan4.label>
-  <CookGohan4.description>煮一锅米饭。</CookGohan4.description>
+  <CookGohan4.label>白米饭(4)</CookGohan4.label>
+  <CookGohan4.description>煮一锅白米饭。</CookGohan4.description>
   <CookGohan4.jobString>正在烹煮米饭</CookGohan4.jobString>
 
 
   <!-- 簡単な食事 単品 -->
 
-  <CookTsukudani.label>蝗虫佃煮(4)</CookTsukudani.label>
-  <CookTsukudani.description>虫肉、砂糖与酱油的重口味炖煮。</CookTsukudani.description>
-  <CookTsukudani.jobString>正在烹饪蝗虫佃煮</CookTsukudani.jobString>
+  <CookTsukudani.label>虫肉佃煮(4)</CookTsukudani.label>
+  <CookTsukudani.description>用佃煮的方式把虫肉处理一下。</CookTsukudani.description>
+  <CookTsukudani.jobString>烹饪中</CookTsukudani.jobString>
 
 
 </LanguageData>

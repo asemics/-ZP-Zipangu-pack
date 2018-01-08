@@ -1,21 +1,21 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Zipangu.degreeDatas.0.label>固执的工匠</Zipangu.degreeDatas.0.label>
-  <Zipangu.degreeDatas.0.description>NAME 不在乎周围的环境，而是为生活奉献生命。 我不愿意与他人有太多联系。</Zipangu.degreeDatas.0.description>
+  <Zipangu.degreeDatas.0.label>顽固的匠人</Zipangu.degreeDatas.0.label>
+  <Zipangu.degreeDatas.0.description>NAME不太关心周围的环境。 HE只想专注于自己的事情，而对于与其他人的交流之类的则丝毫不感兴趣。</Zipangu.degreeDatas.0.description>
   <Zipangu.degreeDatas.1.label>机关师</Zipangu.degreeDatas.1.label>
-  <Zipangu.degreeDatas.1.description>NAME 喜欢制作机械并找到新机型，热衷于拆解和学习。 另一方面，因为动物的解体不是很有趣，所以不想干。</Zipangu.degreeDatas.1.description>
+  <Zipangu.degreeDatas.1.description>NAME喜欢制作那些精巧的机关，而拆装那些机械体总是能引起HE极大的兴趣。但是呢，对于拆卸机械体的爱好使得NAME对拆卸生物体就不是那么感兴趣了。</Zipangu.degreeDatas.1.description>
   <Zipangu.degreeDatas.2.label>祈祷师</Zipangu.degreeDatas.2.label>
-  <Zipangu.degreeDatas.2.description>NAME 的目标是把人与自然的和谐作为目标每天祈祷着。因为地位很高，所以不懂料理。</Zipangu.degreeDatas.2.description>
+  <Zipangu.degreeDatas.2.description>NAME为了人与自然的和谐而每天都在祈祷着，因此HE对于其他人和动物来说都相当具有亲和力。但是因为对一些微小的细节不太注重的缘故，HE在料理方面也不太擅长的样子。</Zipangu.degreeDatas.2.description>
   <Zipangu.degreeDatas.3.label>飞脚</Zipangu.degreeDatas.3.label>
-  <Zipangu.degreeDatas.3.description>NAME 接受订单就哪里都可以运送到为业。因为平时都在跑步，所以不会停下脚步进行的缝纫和锻造。</Zipangu.degreeDatas.3.description>
+  <Zipangu.degreeDatas.3.description>NAME是个搬运工，以给下了订单的客人送去货物为生。因为平时都是在搬着货物跑来跑去以及跟别人交流的缘故，HE的身体素质和社交能力都不错，但是对于缝纫和锻造之类的工作就不太擅长了。</Zipangu.degreeDatas.3.description>
 
   <ZiPangu.degreeDatas.0.label>百姓</ZiPangu.degreeDatas.0.label>
-  <ZiPangu.degreeDatas.0.description>NAME 以农业为业。因为与自然共存，习惯了高压环境。但是平时没有接触武器，所以不会使用。</ZiPangu.degreeDatas.0.description>
-  <ZiPangu.degreeDatas.1.label>又鬼</ZiPangu.degreeDatas.1.label>
-  <ZiPangu.degreeDatas.1.description>日本的猎人 NAME 以狩猎熊和大型野兽为生，每天都在进行猎物的搬运和解体的重劳力。种植时无法控制力度，所以并不擅长。</ZiPangu.degreeDatas.1.description>
+  <ZiPangu.degreeDatas.0.description>像NAME这种地位的人通常都是以农业为生。因为常年过着清贫的耕种生活，HE对于种植颇有心得，而且对于一些突发状况也能淡然处之。不过呢，因为平时接触农具的时间多于接触武器的缘故，HE在战斗方面不太擅长。</ZiPangu.degreeDatas.0.description>
+  <ZiPangu.degreeDatas.1.label>狩人</ZiPangu.degreeDatas.1.label>
+  <ZiPangu.degreeDatas.1.description>NAME以狩猎像熊那样的大型野兽为生，对于猎物的搬运和解剖工作HE再熟悉不过了，但是因此HE对于种植方面的工作则常常感到力不从心。</ZiPangu.degreeDatas.1.description>
   <ZiPangu.degreeDatas.2.label>武士道</ZiPangu.degreeDatas.2.label>
-  <ZiPangu.degreeDatas.2.description>日本士兵。NAME从小就一直在接受战斗和礼法的学习以在这个混乱的时代生存下来，然而由于都是由小姓照顾，过着养尊处优的生活，所以不是很擅长工作。</ZiPangu.degreeDatas.2.description>
+  <ZiPangu.degreeDatas.2.description>NAME从很小的时候就为了能在战火纷飞的世间生存下来而努力修炼着文武两道，因此HE在这方面几乎无可比拟。然而由于一直都是养尊处优的缘故，HE对于那些低级的工作不是很擅长。</ZiPangu.degreeDatas.2.description>
 
 
 </LanguageData>

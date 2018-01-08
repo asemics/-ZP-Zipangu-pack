@@ -1,33 +1,33 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Thresh_Polish.label>脱壳精米</Thresh_Polish.label>
-  <Thresh_Polish.verb>thresh and polish</Thresh_Polish.verb>
-  <Thresh_Polish.gerund>threshing and polishing</Thresh_Polish.gerund>
+  <Thresh_Polish.label>脱殻精米</Thresh_Polish.label>
+  <Thresh_Polish.verb>脱殻和精米</Thresh_Polish.verb>
+  <Thresh_Polish.gerund>脱殻、精米中</Thresh_Polish.gerund>
 
-  <Threshing_Husk.label>脱壳</Threshing_Husk.label>
-  <Threshing_Husk.verb>thresh</Threshing_Husk.verb>
-  <Threshing_Husk.gerund>threshing</Threshing_Husk.gerund>
+  <Threshing_Husk.label>脱殻</Threshing_Husk.label>
+  <Threshing_Husk.verb>脱殻</Threshing_Husk.verb>
+  <Threshing_Husk.gerund>脱殻中</Threshing_Husk.gerund>
 
   <Process_Rice.label>精米</Process_Rice.label>
-  <Process_Rice.verb>process</Process_Rice.verb>
-  <Process_Rice.gerund>processing</Process_Rice.gerund>
+  <Process_Rice.verb>处理</Process_Rice.verb>
+  <Process_Rice.gerund>处理中</Process_Rice.gerund>
 
-  <DoBillsRiceCook.label>煮饭</DoBillsRiceCook.label>
-  <DoBillsRiceCook.verb>cook</DoBillsRiceCook.verb>
-  <DoBillsRiceCook.gerund>cooking at</DoBillsRiceCook.gerund>
+  <DoBillsRiceCook.label>做饭</DoBillsRiceCook.label>
+  <DoBillsRiceCook.verb>烹饪</DoBillsRiceCook.verb>
+  <DoBillsRiceCook.gerund>烹饪于</DoBillsRiceCook.gerund>
 
-  <DoBillsRicePreparation.label>煮饭</DoBillsRicePreparation.label>
-  <DoBillsRicePreparation.verb>cook</DoBillsRicePreparation.verb>
-  <DoBillsRicePreparation.gerund>cooking at</DoBillsRicePreparation.gerund>
+  <DoBillsRicePreparation.label>做饭</DoBillsRicePreparation.label>
+  <DoBillsRicePreparation.verb>烹饪</DoBillsRicePreparation.verb>
+  <DoBillsRicePreparation.gerund>烹饪于</DoBillsRicePreparation.gerund>
 
-  <DoBillsUseDiggingHole.label>挖掘和收集</DoBillsUseDiggingHole.label>
-  <DoBillsUseDiggingHole.verb>mine</DoBillsUseDiggingHole.verb>
-  <DoBillsUseDiggingHole.gerund>mining</DoBillsUseDiggingHole.gerund>
+  <DoBillsUseDiggingHole.label>完成采掘点的清单</DoBillsUseDiggingHole.label>
+  <DoBillsUseDiggingHole.verb>采掘</DoBillsUseDiggingHole.verb>
+  <DoBillsUseDiggingHole.gerund>采掘中</DoBillsUseDiggingHole.gerund>
 
-  <DoBillsUseRiceCraftingSpot.label>do bills at crafting spot</DoBillsUseRiceCraftingSpot.label>
-  <DoBillsUseRiceCraftingSpot.verb>craft</DoBillsUseRiceCraftingSpot.verb>
-  <DoBillsUseRiceCraftingSpot.gerund>crafting at</DoBillsUseRiceCraftingSpot.gerund>
+  <DoBillsUseRiceCraftingSpot.label>完成加工点的清单</DoBillsUseRiceCraftingSpot.label>
+  <DoBillsUseRiceCraftingSpot.verb>加工</DoBillsUseRiceCraftingSpot.verb>
+  <DoBillsUseRiceCraftingSpot.gerund>加工于</DoBillsUseRiceCraftingSpot.gerund>
 
 
 </LanguageData>

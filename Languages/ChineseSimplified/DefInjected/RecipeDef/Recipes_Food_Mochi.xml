@@ -21,9 +21,9 @@
   <CookGoheiMochi5.description>用冻过的米饼和味噌来制作五平饼</CookGoheiMochi5.description>
   <CookGoheiMochi5.jobString>正在制作五平饼</CookGoheiMochi5.jobString>
 
-  <CookZundaMochi5.label>ずんだ餅(5)</CookZundaMochi5.label>
-  <CookZundaMochi5.description>用新打的糯米糕沾满毛豆糊制作的ずんだ餅</CookZundaMochi5.description>
-  <CookZundaMochi5.jobString>正在制作ずんだ餅</CookZundaMochi5.jobString>
+  <CookZundaMochi5.label>豆泥饼(5)</CookZundaMochi5.label>
+  <CookZundaMochi5.description>用捣碎的毛豆泥包裹焙米饼来制成糕点</CookZundaMochi5.description>
+  <CookZundaMochi5.jobString>正在制作豆泥饼</CookZundaMochi5.jobString>
 
 
 </LanguageData>
