@@ -1,26 +1,26 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Messtin.label>飯盒</Messtin.label>
-  <Messtin.description>架設一個飯盒，可以用於煮飯以及進行簡單的烹飪。\n因為是最低限度的炊具的緣故，烹飪速度會降低30%。</Messtin.description>
-  <Messtin_Blueprint.label>飯盒 (藍圖)</Messtin_Blueprint.label>
-  <Messtin_Blueprint_Install.label>飯盒 (藍圖)</Messtin_Blueprint_Install.label>
-  <Messtin_Frame.label>飯盒 (架設中)</Messtin_Frame.label>
-  <Messtin_Frame.description>架設一個飯盒，可以用於煮飯以及進行簡單的烹飪。\n因為是最低限度的炊具的緣故，烹飪速度會降低30%。</Messtin_Frame.description>
+  <Messtin.label>饭盒</Messtin.label>
+  <Messtin.description>架设一个饭盒，可以用于煮饭以及进行简单的烹饪。\n因为是最低限度的炊具的缘故，烹饪速度会降低30%。</Messtin.description>
+  <Messtin_Blueprint.label>饭盒 (蓝图)</Messtin_Blueprint.label>
+  <Messtin_Blueprint_Install.label>饭盒 (蓝图)</Messtin_Blueprint_Install.label>
+  <Messtin_Frame.label>饭盒 (架设中)</Messtin_Frame.label>
+  <Messtin_Frame.description>架设一个饭盒，可以用于煮饭以及进行简单的烹饪。\n因为是最低限度的炊具的缘故，烹饪速度会降低30%。</Messtin_Frame.description>
 
-  <IronPot.label>鍋</IronPot.label>
-  <IronPot.description>一個煮飯或是煮湯都很便利的燃料灶台。</IronPot.description>
-  <IronPot_Blueprint.label>鍋 (藍圖)</IronPot_Blueprint.label>
-  <IronPot_Blueprint_Install.label>鍋 (藍圖)</IronPot_Blueprint_Install.label>
-  <IronPot_Frame.label>鍋 (建造中)</IronPot_Frame.label>
-  <IronPot_Frame.description>一個煮飯或是煮湯都很便利的燃料灶台。</IronPot_Frame.description>
+  <IronPot.label>锅</IronPot.label>
+  <IronPot.description>一个煮饭或是煮汤都很便利的燃料灶台。</IronPot.description>
+  <IronPot_Blueprint.label>锅 (蓝图)</IronPot_Blueprint.label>
+  <IronPot_Blueprint_Install.label>锅 (蓝图)</IronPot_Blueprint_Install.label>
+  <IronPot_Frame.label>锅 (建造中)</IronPot_Frame.label>
+  <IronPot_Frame.description>一个煮饭或是煮汤都很便利的燃料灶台。</IronPot_Frame.description>
 
-  <RiceCooker.label>煮飯器</RiceCooker.label>
-  <RiceCooker.description>一個煮飯或是煮湯都很便利的烹飪台。\n因為配置了最先進的烹飪器具，所以烹飪速度會提升30%。</RiceCooker.description>
-  <RiceCooker_Blueprint.label>煮飯器 (藍圖)</RiceCooker_Blueprint.label>
-  <RiceCooker_Blueprint_Install.label>煮飯器 (藍圖)</RiceCooker_Blueprint_Install.label>
-  <RiceCooker_Frame.label>煮飯器 (建造中)</RiceCooker_Frame.label>
-  <RiceCooker_Frame.description>一個煮飯或是煮湯都很便利的烹飪台。\n因為配置了最先進的烹飪器具，所以烹飪速度會提升30%。</RiceCooker_Frame.description>
+  <RiceCooker.label>煮饭器</RiceCooker.label>
+  <RiceCooker.description>一个煮饭或是煮汤都很便利的烹饪台。\n因为配置了最先进的烹饪器具，所以烹饪速度会提升30%。</RiceCooker.description>
+  <RiceCooker_Blueprint.label>煮饭器 (蓝图)</RiceCooker_Blueprint.label>
+  <RiceCooker_Blueprint_Install.label>煮饭器 (蓝图)</RiceCooker_Blueprint_Install.label>
+  <RiceCooker_Frame.label>煮饭器 (建造中)</RiceCooker_Frame.label>
+  <RiceCooker_Frame.description>一个煮饭或是煮汤都很便利的烹饪台。\n因为配置了最先进的烹饪器具，所以烹饪速度会提升30%。</RiceCooker_Frame.description>
 
   <ZPIrori.label>囲炉裏</ZPIrori.label>
   <ZPIrori.description>日本家屋に設けられる炉の一種。主に暖房と調理が目的だが人々の集いの場所でもありリラクゼーションをもたらしてくれる。</ZPIrori.description>
@@ -30,25 +30,25 @@
   <ZPIrori_Frame.description>日本家屋に設けられる炉の一種。主に暖房と調理が目的だが人々の集いの場所でもありリラクゼーションをもたらしてくれる。</ZPIrori_Frame.description>
 
   <CookingTable.label>料理台</CookingTable.label>
-  <CookingTable.description>專門用於準備食材和調料的工作台。</CookingTable.description>
-  <CookingTable_Blueprint.label>料理台 (藍圖)</CookingTable_Blueprint.label>
-  <CookingTable_Blueprint_Install.label>料理台 (藍圖)</CookingTable_Blueprint_Install.label>
+  <CookingTable.description>专门用于准备食材和调料的工作台。</CookingTable.description>
+  <CookingTable_Blueprint.label>料理台 (蓝图)</CookingTable_Blueprint.label>
+  <CookingTable_Blueprint_Install.label>料理台(蓝图)</CookingTable_Blueprint_Install.label>
   <CookingTable_Frame.label>料理台 (建造中)</CookingTable_Frame.label>
-  <CookingTable_Frame.description>專門用於準備食材和調料的工作台。</CookingTable_Frame.description>
+  <CookingTable_Frame.description>专门用于准备食材和调料的工作台。</CookingTable_Frame.description>
 
   <PestleAndMortar.label>杵臼</PestleAndMortar.label>
-  <PestleAndMortar.description>用於製作糕點的杵和臼。</PestleAndMortar.description>
-  <PestleAndMortar_Blueprint.label>杵臼(藍圖)</PestleAndMortar_Blueprint.label>
-  <PestleAndMortar_Blueprint_Install.label>杵臼 (藍圖)</PestleAndMortar_Blueprint_Install.label>
+  <PestleAndMortar.description>用于制作糕点的杵和臼。</PestleAndMortar.description>
+  <PestleAndMortar_Blueprint.label>杵臼(蓝图)</PestleAndMortar_Blueprint.label>
+  <PestleAndMortar_Blueprint_Install.label>杵臼 (蓝图)</PestleAndMortar_Blueprint_Install.label>
   <PestleAndMortar_Frame.label>杵臼(建造中)</PestleAndMortar_Frame.label>
-  <PestleAndMortar_Frame.description>用於製作糕點的杵和臼。</PestleAndMortar_Frame.description>
+  <PestleAndMortar_Frame.description>用于制作糕点的杵和臼。</PestleAndMortar_Frame.description>
 
-  <Nukadoko.label>醬菜罈子</Nukadoko.label>
-  <Nukadoko.description>一個用以醃製醬菜的大罈子。</Nukadoko.description>
-  <Nukadoko_Blueprint.label>醬菜罈子藍圖)</Nukadoko_Blueprint.label>
-  <Nukadoko_Blueprint_Install.label>醬菜罈子(藍圖)</Nukadoko_Blueprint_Install.label>
-  <Nukadoko_Frame.label>醬菜罈子(建造中)</Nukadoko_Frame.label>
-  <Nukadoko_Frame.description>一個用以醃製醬菜的大罈子。</Nukadoko_Frame.description>
+  <Nukadoko.label>酱菜缸</Nukadoko.label>
+  <Nukadoko.description>一个用以腌制酱菜的大坛子。</Nukadoko.description>
+  <Nukadoko_Blueprint.label>酱菜缸(蓝图)</Nukadoko_Blueprint.label>
+  <Nukadoko_Blueprint_Install.label>酱菜缸(蓝图)</Nukadoko_Blueprint_Install.label>
+  <Nukadoko_Frame.label>酱菜缸(建造中)</Nukadoko_Frame.label>
+  <Nukadoko_Frame.description>一个用以腌制酱菜的大坛子。</Nukadoko_Frame.description>
 
 
 </LanguageData>

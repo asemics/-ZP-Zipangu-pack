@@ -3,54 +3,50 @@
 
   <!-- 藁装備 Base カウボーイハット -->
 
-  <ZP_MugiwaraBosi.label>麥草帽</ZP_MugiwaraBosi.label>
-  <ZP_MugiwaraBosi.description>用稻草編織而成的帽子，可以遮擋炎炎烈日。</ZP_MugiwaraBosi.description>
+  <ZP_MugiwaraBosi.label>麦草帽</ZP_MugiwaraBosi.label>
+  <ZP_MugiwaraBosi.description>用稻草编织而成的帽子，可以遮挡炎炎烈日。</ZP_MugiwaraBosi.description>
 
   <ZP_Sugekasa.label>草笠</ZP_Sugekasa.label>
-  <ZP_Sugekasa.description>用稻草編織而成的笠，是舊世的東方國家上到武士、忍者、僧侶下到浪人、商人、農民等要常常外出工作的人仕在戶外必備的衣飾裝備，可以用來防太陽，防雨水，甚至是防風雪。</ZP_Sugekasa.description>
+  <ZP_Sugekasa.description>用稻草编织而成的笠，是旧世的东方国家上到武士、忍者、僧侣下到浪人、商人、农民等要常常外出工作的人仕在户外必备的衣饰装备，可以用来防太阳，防雨水，甚至是防风雪。</ZP_Sugekasa.description>
 
   <ZP_Tengai.label>天蓋笠</ZP_Tengai.label>
-  <ZP_Tengai.description>用稻草編織的一種全覆蓋式的頭部裝具，有一定的宗教含義。\n但是呢，戴著的時候臉就看不見了，所以也會讓人有種毛骨悚然的感覺。</ZP_Tengai.description>
+  <ZP_Tengai.description>用稻草编织的一种全覆盖式的头部装具，有一定的宗教含义。\n但是呢，戴着的时候脸就看不见了，所以也会让人有种毛骨悚然的感觉。</ZP_Tengai.description>
 
 
   <!-- 鉢巻 Base ヘルメット -->
 
-  <ZP_HeadBand.label>鉢金</ZP_HeadBand.label>
-  <ZP_HeadBand.description>一種可以提供防護同時又不會遮擋視野的頭部護具。\n嚴格來說，你看到的這種在頭帶上縫制一塊金屬片的護具屬於“額鐵”而非“鉢金”。它們二者都屬於簡單的防具，一般由地位較低的年輕武士或足輕使用，直接用布或皮制的帶子綁在頭上就可以了。在江戶時代，武士或浪人們也會在頭上系一條白色的帶子作為代替——這一習慣一直延續到現代，作為努力奮起的像征。</ZP_HeadBand.description>
+  <ZP_HeadBand.label>钵金</ZP_HeadBand.label>
+  <ZP_HeadBand.description>一种可以提供防护同时又不会遮挡视野的头部护具。\n严格来说，你看到的这种在头带上缝制一块金属片的护具属于“额铁”而非“钵金”。它们二者都属于简单的防具，一般由地位较低的年轻武士或足轻使用，直接用布或皮制的带子绑在头上就可以了。在江户时代，武士或浪人们也会在头上系一条白色的带子作为代替——这一习惯一直延续到现代，作为努力奋起的象征。</ZP_HeadBand.description>
 
 
   <!-- 陣笠 Base ヘルメット -->
 
-  <ZP_JingasaHelmet.label>陣笠</ZP_JingasaHelmet.label>
-  <ZP_JingasaHelmet.description>一種鬥笠狀的護盔，通過竹木及金屬搭配制成，很有特色的日本裝備。\n說到陣笠，很容易就能讓人聯想到戰國時代的足輕，頭戴陣笠、赤足持槍乃是足輕的經典造型。有傳言說這種護盔還可以用來接水和煮食...不知道是不是真的呢。</ZP_JingasaHelmet.description>
+  <ZP_JingasaHelmet.label>阵笠</ZP_JingasaHelmet.label>
+  <ZP_JingasaHelmet.description>一种斗笠状的护盔，通过竹木及金属搭配制成，很有特色的日本装备。\n说到阵笠，很容易就能让人联想到战国时代的足轻啦，头戴阵笠、赤足持枪乃是足轻的经典造型。有传言说这种护盔还可以用来接水和煮食...不知道是不是真的呢。</ZP_JingasaHelmet.description>
 
 
   <!-- 将軍兜 Base パワーアーマヘルメット -->
 
-  <ZP_SyougunHelmet.label>將軍兜</ZP_SyougunHelmet.label>
-  <ZP_SyougunHelmet.description>與將軍大鎧搭配成一套，像征著武士的精神和信仰。\n日本古代的頭盔稱為兜。這種頭盔的防御力可能不及西方的全覆蓋式騎士頭盔，但它的工藝精良，用於裝飾的精巧附件也很多，堪稱藝術品。</ZP_SyougunHelmet.description>
+  <ZP_SyougunHelmet.label>将軍兜</ZP_SyougunHelmet.label>
+  <ZP_SyougunHelmet.description>与将軍大铠搭配成一套，象征着武士的精神和信仰。\n日本古代的头盔称为兜。这种头盔的防御力可能不及西方的全覆盖式骑士头盔，但它的工艺精良，用于装饰的精巧附件也很多，堪称艺术品。</ZP_SyougunHelmet.description>
 
 
   <!-- 足装備 -->
 
   <ZP_Warazi.label>草鞋</ZP_Warazi.label>
-  <ZP_Warazi.description>中國人發明的一種鞋。這種鞋因為其簡單易製作的特性，在舊世的中國和日本尤其流行。</ZP_Warazi.description>
+  <ZP_Warazi.description>中国人发明的一种鞋。这种鞋因为其简单易制作的特性，在旧世的中国和日本尤其流行。</ZP_Warazi.description>
 
   <ZP_WoodenClogs.label>木屐</ZP_WoodenClogs.label>
-  <ZP_WoodenClogs.description>一種兩齒木底鞋，走起來路來嘎吱作響，因為其特別的設計而適合在泥濘的路上行走。\n木屐由中國漢人發明，其名來自中古音“屐屜”，常稱作木屐，使用於室外。後傳入日本，在日本流行至今。</ZP_WoodenClogs.description>
+  <ZP_WoodenClogs.description>一种两齿木底鞋，走起来路来嘎吱作响，因为其特别的设计而适合在泥泞的路上行走。\n木屐由中国汉人发明，其名来自中古音“屐屉”，常称作木屐，使用于室外。后传入日本，在日本流行至今。</ZP_WoodenClogs.description>
 
-  <ZP_IronClogs.label>鐵屐</ZP_IronClogs.label>
-  <ZP_IronClogs.description>從古時候傳下來、以鍛煉腰腿力量為目的用鐵制成的木屐。雖然因為穿著它行動不太方便，但由於毅力和鍛煉的結果，能得到更多的經驗。</ZP_IronClogs.description>
+  <ZP_IronClogs.label>铁屐</ZP_IronClogs.label>
+  <ZP_IronClogs.description>从古时候传下来、以锻炼腰腿力量为目的用铁制成的木屐。虽然因为穿着它行动不太方便，但由于毅力和锻炼的结果，能得到更多的经验。</ZP_IronClogs.description>
 
-  <ZP_TravelBag.label>行李分揀袋</ZP_TravelBag.label>
-  <ZP_TravelBag.description>一種日本傳統的旅行用攜行包。因為它可以收納很多行李，所以對運輸工作來說也很方便。</ZP_TravelBag.description>
+  <ZP_TravelBag.label>行李分拣袋</ZP_TravelBag.label>
+  <ZP_TravelBag.description>一种日本传统的旅行用携行包。因为它可以一次容纳很多行李，所以对运输工作来说也很方便。</ZP_TravelBag.description>
 
   <ZP_Tekko.label>手甲</ZP_Tekko.label>
-  <ZP_Tekko.description>通常用於鍛冶工作中、用以防止污穢和創傷的作業用手甲。</ZP_Tekko.description>
+  <ZP_Tekko.description>通常用于锻冶工作中、用以防止污秽和创伤的作业用手部防护装备。</ZP_Tekko.description>
 
-
-  <!-- 槁裝備 Base カウボーイハット -->
-  <!-- 將軍兜 Base パワーアーマヘルメット -->
-  <!-- 足裝備 -->
 
 </LanguageData>

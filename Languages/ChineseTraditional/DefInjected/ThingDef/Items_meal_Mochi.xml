@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <R_RoastedMochi.label>焙米饼</R_RoastedMochi.label>
+  <R_RoastedMochi.description>只是一个简单的焙米饼。</R_RoastedMochi.description>
+
+  <R_ThreeColoredDumplings.label>三色团子</R_ThreeColoredDumplings.label>
+  <R_ThreeColoredDumplings.description>有各种说法，红色是樱花，象征着春天；白色的是雪，象征冬天；绿色是夏天，是新绿的象征。\n没有秋天的腻烦，因为做生意嘛，当然是希望客人无论来多少也不会腻的，是生意兴隆的诙谐表达呢。</R_ThreeColoredDumplings.description>
+
+  <R_VinegarMochi.label>醋饼</R_VinegarMochi.label>
+  <R_VinegarMochi.description>用萝卜泥和醋焙制而成的特别的米饼。九州的乡土料理。</R_VinegarMochi.description>
+
+  <R_IsobeMochi.label>矶辺饼</R_IsobeMochi.label>
+  <R_IsobeMochi.description>在焙米饼上包上酱油海苔卷制成的特别的米饼。</R_IsobeMochi.description>
+
+  <R_GoheiMochi.label>五平饼</R_GoheiMochi.label>
+  <R_GoheiMochi.description>五平饼(日语的“饼”是年糕的意思)是木曾地区与伊那地区的地方料理，是一种米饭串烧，属于以长野县为中心的中部地区南部山间传统的乡土料理，因为是纯自家制造而颇有人气。由于外形极似神道上奉献给神明用的“御币”，因此得名五平（Gohei）饼。日语的饼虽然叫做“年糕”，但却不是用糯米做的，是将粳米饭粒压扁，用签子串起来，蘸上佐料汁烤出香味的食品。据说这种食物在过去每年春天和秋天都会供奉于神前，祈祷丰收以及感谢收获。</R_GoheiMochi.description>
+
+  <R_ZundaMochi.label>枝豆麻糬</R_ZundaMochi.label>
+  <R_ZundaMochi.description>一种用捣碎的毛豆包裹焙米饼制成的糕点，颜色碧绿，使人还未入口便先开胃。日本东北的乡土料理。\n\n"枝豆！！枝豆！！是枝豆泥！！"有一个国家的少女对枝豆麻糬有着特别的喜爱，以至于都到了近乎疯狂的地步了。</R_ZundaMochi.description>
+
+
+</LanguageData>

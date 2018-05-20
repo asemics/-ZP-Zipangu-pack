@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Rise_Prant.label>米稻</Rise_Prant.label>
+  <Rise_Prant.description>想要种植大米并不容易，但只要花些时间用心培育，这种作物将可以满足你的各种需求。\n除此以外，还可以通过研究来改良它们的品质。</Rise_Prant.description>
+
+  <UplandRice.label>陆稻</UplandRice.label>
+  <UplandRice.description>在田地里育成的米稻，是重视生长速度和产量的品种。</UplandRice.description>
+
+  <GlutinousRicePlant.label>もち米</GlutinousRicePlant.label>
+  <GlutinousRicePlant.description>畑と水田で育成できる米。凍り餅の原材料。\nもちもちとした食感を追求した品種。</GlutinousRicePlant.description>
+
+  <WetlandRice.label>水稻</WetlandRice.label>
+  <WetlandRice.description>在水田中培育的品种，是为了扩大产量而进行过改良的品种。</WetlandRice.description>
+
+
+</LanguageData>

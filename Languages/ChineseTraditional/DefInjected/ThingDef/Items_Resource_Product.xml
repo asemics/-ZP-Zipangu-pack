@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 燃料 -->
+
+  <Momigalite.label>谷壳炭</Momigalite.label>
+  <Momigalite.description>可以用作燃料。</Momigalite.description>
+
+  <FuelStraw.label>燃料秸秆</FuelStraw.label>
+  <FuelStraw.description>可以用作燃料。</FuelStraw.description>
+
+
+  <!-- 米俵 -->
+
+  <StrawRiceBag_RawRice.label>米俵(稻米)</StrawRiceBag_RawRice.label>
+  <StrawRiceBag_RawRice.description>装着大量稻米的米俵。可以作为农产品出售。\n“米俵”是日本的一种用稻草编织而成的米包。</StrawRiceBag_RawRice.description>
+
+  <StrawRiceBag_RiceMomi.label>米俵(籾米)</StrawRiceBag_RiceMomi.label>
+  <StrawRiceBag_RiceMomi.description>装有籾米的米俵。可以作为农产品出售。\n“米俵”是日本的一种用稻草编织而成的米包。</StrawRiceBag_RiceMomi.description>
+
+  <StrawRiceBag_BrownRice.label>米俵(糙米)</StrawRiceBag_BrownRice.label>
+  <StrawRiceBag_BrownRice.description>装有糙米的米俵，可以作为特产高价出售。\n“米俵”是日本的一种用稻草编织而成的米包。</StrawRiceBag_BrownRice.description>
+
+  <StrawRiceBag_GlutinousRice.label>米俵(もち米)</StrawRiceBag_GlutinousRice.label>
+  <StrawRiceBag_GlutinousRice.description>もち米を保管できる。また、特産品として高く売れる。</StrawRiceBag_GlutinousRice.description>
+
+  <StrawRiceBag_WhiteRice.label>米俵(白米)</StrawRiceBag_WhiteRice.label>
+  <StrawRiceBag_WhiteRice.description>装有白米的米俵，可以作为特产以非常高的价格出售。\n“米俵”是日本的一种用稻草编织而成的米包。</StrawRiceBag_WhiteRice.description>
+
+
+  <!-- 肥料 -->
+
+  <R_Compost.label>堆肥</R_Compost.label>
+  <R_Compost.description>在建设稻田时可以用到的肥料。</R_Compost.description>
+
+  <ZP_Earthworm.label>蚯蚓</ZP_Earthworm.label>
+  <ZP_Earthworm.description>一种营腐生动物，生活在潮湿的环境中，以腐败的有机物为食。\n可以用于改良土壤、或拿去喂鱼，是一种很有价值的虫子呢。</ZP_Earthworm.description>
+
+  <ZP_Mud.label>泥土</ZP_Mud.label>
+  <ZP_Mud.description>一团又湿又黏的泥，可以用于地形建设。</ZP_Mud.description>
+
+
+  <!-- 飼料 -->
+
+  <Manger.label>饲草</Manger.label>
+  <Manger.description>为家养动物准备的饲料，拥有比较高的营养值，相当正义。</Manger.description>
+
+  <PetFood.label>宠物饲料</PetFood.label>
+  <PetFood.description>进一步处理过的粗饲料，跟市面上常见的宠物饲料成分基本相同。\n或者说，你可以叫它狗粮。</PetFood.description>
+
+  <ZP_FishFood.label>鱼食</ZP_FishFood.label>
+  <ZP_FishFood.description>将米糠和捣碎的土豆混合、然后加水搅拌制成的颗粒状的饵料。\n当然，除了喂鱼以外你还可以用它喂别的动物。</ZP_FishFood.description>
+
+  <TatamiStraw.label>建筑用秸秆</TatamiStraw.label>
+  <TatamiStraw.description>可用于建设的、处理过的稻草。</TatamiStraw.description>
+
+  <TatamiG.label>榻榻米(1格)</TatamiG.label>
+  <TatamiG.description>一个方格大小的榻榻米。</TatamiG.description>
+
+
+</LanguageData>

@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 簡単+0 イナゴの佃煮+1 -->
+
+  <R_AteTukudani.stages.0.label>食用了虫肉佃煮</R_AteTukudani.stages.0.label>
+  <R_AteTukudani.stages.0.description>或许我闭上眼睛把它们吃下去、然后忘掉吃的是什么就没有问题了。</R_AteTukudani.stages.0.description>
+
+
+  <!-- 嗜好品 -->
+
+  <AteFoodBreaktime.stages.0.label>至福の時</AteFoodBreaktime.stages.0.label>
+  <AteFoodBreaktime.stages.0.description>間食の時間だけは邪魔されたくない。</AteFoodBreaktime.stages.0.description>
+
+
+  <!-- 簡単+0 白米 -->
+
+  <R_AteMealSimple.stages.0.label>享用了美味的白米</R_AteMealSimple.stages.0.label>
+  <R_AteMealSimple.stages.0.description>享用了自种白米，感觉很幸福。</R_AteMealSimple.stages.0.description>
+
+
+  <!-- 手の込んだ+5 -->
+
+  <R_AteMealFine.stages.0.label>享用了美味的白米</R_AteMealFine.stages.0.label>
+  <R_AteMealFine.stages.0.description>享用了料理过的白米，感觉很幸福。</R_AteMealFine.stages.0.description>
+
+
+  <!-- 豪華+10 -->
+
+  <R_MealLavish.stages.0.label>享用了美味的白米</R_MealLavish.stages.0.label>
+  <R_MealLavish.stages.0.description>享用了用最美味的自种白米作成的豪华料理，满满的幸福感。</R_MealLavish.stages.0.description>
+
+  <R_CurryRice.stages.0.label>咖喱饭最棒</R_CurryRice.stages.0.label>
+  <R_CurryRice.stages.0.description>通过改变不同的配料搭配方式，就可以每天都享受到不同的味道，感觉很是奢侈呢。</R_CurryRice.stages.0.description>
+
+
+  <!-- 調味料 -->
+
+  <R_SeasoningDebuff.stages.0.label>把调味料吃下去了</R_SeasoningDebuff.stages.0.label>
+  <R_SeasoningDebuff.stages.0.description>就这么干吃调味料一点都不好吃，一，点，也，不。</R_SeasoningDebuff.stages.0.description>
+
+  <R_Syrupbuff.stages.0.label>偷吃米糖</R_Syrupbuff.stages.0.label>
+  <R_Syrupbuff.stages.0.description>在大家都不知道的情况下偷偷地舔米糖吃会不会太幼稚了呢？但是没关系啦，那真的很甜。</R_Syrupbuff.stages.0.description>
+
+
+  <!-- B級グルメ+3 -->
+  <!--<AteMealSimpleB.stages.0.label>享用了简单但美味的乡土料理</AteMealSimpleB.stages.0.label>-->
+  <!--<AteMealSimpleB.stages.0.description>这份料理虽然简单却很美味，也让我感到很幸福。</AteMealSimpleB.stages.0.description>-->
+  <!-- B級グルメ+3 白米+4 -->
+  <!--<R_AteMealSimpleB.stages.0.label>享用了简单但美味的乡土料理</R_AteMealSimpleB.stages.0.label>-->
+  <!--<R_AteMealSimpleB.stages.0.description>这份料理虽然简单却很美味，尤其是白米饭饱满的样子，让我感到很是幸福。</R_AteMealSimpleB.stages.0.description>-->
+  <!-- 簡単+0 白米+3 -->
+  <!-- 手の込んだ+5 白米+4 -->
+  <!-- 豪華+10 白米+5 -->
+  <!-- B級グルメ+3 白米+3 -->
+  <!-- 手の込んだ+5 白米+3 -->
+  <!-- 手の込んだ+5 白米+5 -->
+  <!-- 豪華+10 白米+10 -->
+
+</LanguageData>

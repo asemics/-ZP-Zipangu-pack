@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ThreshingMachine.label>脱粒机</ThreshingMachine.label>
+  <ThreshingMachine.description>【作用：脱粒】 \n用以将稻穗加工分离出籾米的农用机械。毕竟以人力来做这件事可不是什么好主意。</ThreshingMachine.description>
+  <ThreshingMachine_Blueprint.label>脱粒机(蓝图)</ThreshingMachine_Blueprint.label>
+  <ThreshingMachine_Blueprint_Install.label>脱粒机(蓝图)</ThreshingMachine_Blueprint_Install.label>
+  <ThreshingMachine_Frame.label>脱粒机(建造中)</ThreshingMachine_Frame.label>
+  <ThreshingMachine_Frame.description>【作用：脱粒】 \n用以将稻穗加工分离出籾米的农用机械。毕竟以人力来做这件事可不是什么好主意。</ThreshingMachine_Frame.description>
+
+  <RiceStoneSlurry.label>石磨</RiceStoneSlurry.label>
+  <RiceStoneSlurry.description>【作用：去糠】 \n用以将籾米加工成糙米的农用工具。毕竟以人力来做这件事可不是什么好主意。</RiceStoneSlurry.description>
+  <RiceStoneSlurry_Blueprint.label>石磨(蓝图)</RiceStoneSlurry_Blueprint.label>
+  <RiceStoneSlurry_Blueprint_Install.label>石磨(蓝图)</RiceStoneSlurry_Blueprint_Install.label>
+  <RiceStoneSlurry_Frame.label>石磨(建造中)</RiceStoneSlurry_Frame.label>
+  <RiceStoneSlurry_Frame.description>【作用：去糠】 \n用以将籾米加工成糙米的农用工具。毕竟以人力来做这件事可不是什么好主意。</RiceStoneSlurry_Frame.description>
+
+  <RiceMillingMachine.label>精米机</RiceMillingMachine.label>
+  <RiceMillingMachine.description>【作用：去糠，精米】 \n用以将糙米加工成白米的农用机械。是为了吃到美味的白米而诞生的机械。</RiceMillingMachine.description>
+  <RiceMillingMachine_Blueprint.label>精米机(蓝图)</RiceMillingMachine_Blueprint.label>
+  <RiceMillingMachine_Blueprint_Install.label>精米机(蓝图)</RiceMillingMachine_Blueprint_Install.label>
+  <RiceMillingMachine_Frame.label>精米机(建造中)</RiceMillingMachine_Frame.label>
+  <RiceMillingMachine_Frame.description>【作用：去糠，精米】 \n用以将糙米加工成白米的农用机械。是为了吃到美味的白米而诞生的机械。</RiceMillingMachine_Frame.description>
+
+  <ThreshingRiceMillingMachine.label>全能型脱粒精米加工机</ThreshingRiceMillingMachine.label>
+  <ThreshingRiceMillingMachine.description>【作用：脱粒，去糠，精米】 \n可以将稻穗直接加工成白米的最新型多功能农用机械。</ThreshingRiceMillingMachine.description>
+  <ThreshingRiceMillingMachine_Blueprint.label>全能型脱粒精米加工机(蓝图)</ThreshingRiceMillingMachine_Blueprint.label>
+  <ThreshingRiceMillingMachine_Blueprint_Install.label>全能型脱粒精米加工机(蓝图)</ThreshingRiceMillingMachine_Blueprint_Install.label>
+  <ThreshingRiceMillingMachine_Frame.label>全能型脱粒精米加工机(建造中)</ThreshingRiceMillingMachine_Frame.label>
+  <ThreshingRiceMillingMachine_Frame.description>【作用：脱粒，去糠，精米】 \n可以将稻穗直接加工成白米的最新型多功能农用机械。</ThreshingRiceMillingMachine_Frame.description>
+
+
+</LanguageData>
