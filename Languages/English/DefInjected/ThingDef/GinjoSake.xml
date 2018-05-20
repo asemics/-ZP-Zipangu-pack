@@ -3,9 +3,9 @@
 
   <ZPGinjoSake.label>Ginjo</ZPGinjoSake.label>
   <ZPGinjoSake.description>Sake(Japanese alchole) made by brewing alcohol made from white rice and grain.\nAlcohol featuring a great smell and refreshing taste.</ZPGinjoSake.description>
+  <ZPGinjoSake.tools.1.label>neck</ZPGinjoSake.tools.1.label>
   <ZPGinjoSake.ingestible.ingestCommandString>Drink {0}</ZPGinjoSake.ingestible.ingestCommandString>
   <ZPGinjoSake.ingestible.ingestReportString>Drinking {0}.</ZPGinjoSake.ingestible.ingestReportString>
-  <ZPGinjoSake.tools.1.label>neck</ZPGinjoSake.tools.1.label>
 
   <R_GinjoSakeBarrel.label>Ginjo barrel</R_GinjoSakeBarrel.label>
   <R_GinjoSakeBarrel.description>a barrel of Ginjo.</R_GinjoSakeBarrel.description>

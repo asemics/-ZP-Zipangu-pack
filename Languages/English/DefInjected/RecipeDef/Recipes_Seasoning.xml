@@ -3,11 +3,11 @@
 
   <!-- 調味料 -->
 
-  <R_CookNaturalSalt.label>Natural salt(10)</R_CookNaturalSalt.label>
+  <R_CookNaturalSalt.label>Natural salt(25)</R_CookNaturalSalt.label>
   <R_CookNaturalSalt.description>Extract salt from water.</R_CookNaturalSalt.description>
   <R_CookNaturalSalt.jobString>Making</R_CookNaturalSalt.jobString>
 
-  <R_CookSyrup10.label>Rice syrup(10)</R_CookSyrup10.label>
+  <R_CookSyrup10.label>Rice syrup(25)</R_CookSyrup10.label>
   <R_CookSyrup10.description>Boil rice, extract sugar and make rice syrup.</R_CookSyrup10.description>
   <R_CookSyrup10.jobString>Making</R_CookSyrup10.jobString>
 
@@ -17,7 +17,7 @@
 
   <R_CookVinegar10.label>Rice vinegar(25)</R_CookVinegar10.label>
   <R_CookVinegar10.description>Make Rice vinegar</R_CookVinegar10.description>
-  <R_CookVinegar10.jobString>Making Rice vinegar/R_CookVinegar10.jobString>
+  <R_CookVinegar10.jobString>Making Rice vinegar</R_CookVinegar10.jobString>
 
   <R_CookSoySauceBarrel.label>Soy sauce barrel</R_CookSoySauceBarrel.label>
   <R_CookSoySauceBarrel.description>Make Soy sauce(Japanese seasoning) barrel which is need to make.</R_CookSoySauceBarrel.description>

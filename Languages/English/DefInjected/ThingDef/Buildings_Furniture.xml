@@ -1,90 +1,138 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <StrawBed.label>Straw bed</StrawBed.label>
-  <StrawBed.description>Ideal for sleeping but slightly unsanitary bed. (Not available for sale)</StrawBed.description>
-  <StrawBed_Blueprint.label>Straw bed (blueprint)</StrawBed_Blueprint.label>
-  <StrawBed_Blueprint_Install.label>Straw bed (blueprint)</StrawBed_Blueprint_Install.label>
-  <StrawBed_Frame.label>Straw bed (building)</StrawBed_Frame.label>
-  <StrawBed_Frame.description>Ideal for sleeping but slightly unsanitary bed. (Not available for sale)</StrawBed_Frame.description>
-
-  <DoubleStrawBed.label>Double straw bed</DoubleStrawBed.label>
-  <DoubleStrawBed.description>Ideal for sleeping but slightly unsanitary bed. (Not available for sale)</DoubleStrawBed.description>
-  <DoubleStrawBed_Blueprint.label>Double straw bed(blueprint)</DoubleStrawBed_Blueprint.label>
-  <DoubleStrawBed_Blueprint_Install.label>Double straw bed(blueprint)</DoubleStrawBed_Blueprint_Install.label>
-  <DoubleStrawBed_Frame.label>Double straw bed(building)</DoubleStrawBed_Frame.label>
-  <DoubleStrawBed_Frame.description>Ideal for sleeping but slightly unsanitary bed. (Not available for sale)</DoubleStrawBed_Frame.description>
-
-  <SuperiorStrawBed.label>Superior straw bed</SuperiorStrawBed.label>
-  <SuperiorStrawBed.description>Superior straw bed with superior straw bed.\n Still the quality falls a bit lower than normal beds.</SuperiorStrawBed.description>
-  <SuperiorStrawBed_Blueprint.label>Superior straw bed (blueprint)</SuperiorStrawBed_Blueprint.label>
-  <SuperiorStrawBed_Blueprint_Install.label>Superior straw bed (blueprint)</SuperiorStrawBed_Blueprint_Install.label>
-  <SuperiorStrawBed_Frame.label>Superior straw bed(building)</SuperiorStrawBed_Frame.label>
-  <SuperiorStrawBed_Frame.description>Superior straw bed with superior straw bed.\n Still the quality falls a bit lower than normal beds.</SuperiorStrawBed_Frame.description>
-
-  <SuperiorDoubleStrawBed.label>Superior double straw bed</SuperiorDoubleStrawBed.label>
-  <SuperiorDoubleStrawBed.description>Superior straw bed with superior straw bed.\n Still the quality falls a bit lower than normal beds.</SuperiorDoubleStrawBed.description>
-  <SuperiorDoubleStrawBed_Blueprint.label>Superior double straw bed(blueprint)</SuperiorDoubleStrawBed_Blueprint.label>
-  <SuperiorDoubleStrawBed_Blueprint_Install.label>Superior double straw bed(blueprint)</SuperiorDoubleStrawBed_Blueprint_Install.label>
-  <SuperiorDoubleStrawBed_Frame.label>Superior double straw bed(building)</SuperiorDoubleStrawBed_Frame.label>
-  <SuperiorDoubleStrawBed_Frame.description>Superior straw bed with superior straw bed.\n Still the quality falls a bit lower than normal beds.</SuperiorDoubleStrawBed_Frame.description>
-
-  <AnimalStrawBedSmall.label>Animal straw bed(Small)</AnimalStrawBedSmall.label>
-  <AnimalStrawBedSmall.description>Animal straw bed.Ideal for small animals, from chickens to rabbits.(Not available for sale)</AnimalStrawBedSmall.description>
-  <AnimalStrawBedSmall_Blueprint.label>Animal straw bed(Small) (blueprint)</AnimalStrawBedSmall_Blueprint.label>
-  <AnimalStrawBedSmall_Blueprint_Install.label>Animal straw bed(Small) (blueprint)</AnimalStrawBedSmall_Blueprint_Install.label>
-  <AnimalStrawBedSmall_Frame.label>Animal straw bed(Small) (building)</AnimalStrawBedSmall_Frame.label>
-  <AnimalStrawBedSmall_Frame.description>Animal straw bed.Ideal for small animals, from chickens to rabbits.(Not available for sale)</AnimalStrawBedSmall_Frame.description>
-
-  <AnimalStrawBed.label>Animal straw bed</AnimalStrawBed.label>
-  <AnimalStrawBed.description>Animal straw bed.Ideal for mid-sized animals, from huskies to muffalo.(Not available for sale)</AnimalStrawBed.description>
-  <AnimalStrawBed_Blueprint.label>Animal straw bed (blueprint)</AnimalStrawBed_Blueprint.label>
-  <AnimalStrawBed_Blueprint_Install.label>Animal straw bed (blueprint)</AnimalStrawBed_Blueprint_Install.label>
-  <AnimalStrawBed_Frame.label>Animal straw bed (building)</AnimalStrawBed_Frame.label>
-  <AnimalStrawBed_Frame.description>Animal straw bed.Ideal for mid-sized animals, from huskies to muffalo.(Not available for sale)</AnimalStrawBed_Frame.description>
-
-  <AnimalStrawBedBig.label>Animal straw bed(Big)</AnimalStrawBedBig.label>
-  <AnimalStrawBedBig.description>Animal straw bed.Ideal for large animals, from thrumbos to elephants.(Not available for sale)</AnimalStrawBedBig.description>
-  <AnimalStrawBedBig_Blueprint.label>Animal straw bed(Big) (blueprint)</AnimalStrawBedBig_Blueprint.label>
-  <AnimalStrawBedBig_Blueprint_Install.label>Animal straw bed(Big) (blueprint)</AnimalStrawBedBig_Blueprint_Install.label>
-  <AnimalStrawBedBig_Frame.label>Animal straw bed(Big) (building)</AnimalStrawBedBig_Frame.label>
-  <AnimalStrawBedBig_Frame.description>Animal straw bed.Ideal for large animals, from thrumbos to elephants.(Not available for sale)</AnimalStrawBedBig_Frame.description>
-
-  <GroundSit.label>Place for sitting</GroundSit.label>
-  <GroundSit.description>You can sit on the ground. Convenient when using sheets and mats.</GroundSit.description>
-  <GroundSit_Blueprint.label>Place for sitting (blueprint)</GroundSit_Blueprint.label>
-  <GroundSit_Frame.label>Place for sitting (building)</GroundSit_Frame.label>
-  <GroundSit_Frame.description>You can sit on the ground. Convenient when using sheets and mats.</GroundSit_Frame.description>
-
-
-  <!-- 茣蓙(ござ) -->
-
-  <R_Goza_large.label>Goza(large)</R_Goza_large.label>
-  <R_Goza_large.description>A type of leisure seat. When you put this on the ground, you can eat on this. You can not move this, but the material is coming back.</R_Goza_large.description>
-  <R_Goza_large_Blueprint.label>Goza(large) (blueprint)</R_Goza_large_Blueprint.label>
-  <R_Goza_large_Frame.label>Goza(large) (building)</R_Goza_large_Frame.label>
-  <R_Goza_large_Frame.description>A type of leisure seat.When you put this on the ground, you can eat on this. You can not move this, but the material is coming back.</R_Goza_large_Frame.description>
-
-  <R_Goza.label>Goza</R_Goza.label>
-  <R_Goza.description>A type of leisure seat. When you put this on the ground, you can eat on this. You can not move this, but the material is coming back.</R_Goza.description>
-  <R_Goza_Blueprint.label>Goza (blueprint)</R_Goza_Blueprint.label>
-  <R_Goza_Frame.label>Goza (building)</R_Goza_Frame.label>
-  <R_Goza_Frame.description>A type of leisure seat. When you put this on the ground, you can eat on this. You can not move this, but the material is coming back.</R_Goza_Frame.description>
-
-
-  <!-- レジャーシート -->
-
-  <PicnicSheet_large.label>Picnic sheet(large)</PicnicSheet_large.label>
-  <PicnicSheet_large.description>A type of leisure seat.When you put this on the ground, you can eat on it..</PicnicSheet_large.description>
-  <PicnicSheet_large_Blueprint.label>Picnic sheet(large) (blueprint)</PicnicSheet_large_Blueprint.label>
-  <PicnicSheet_large_Frame.label>Picnic sheet(large) (building)</PicnicSheet_large_Frame.label>
-  <PicnicSheet_large_Frame.description>Leisure seat. When you put this on the ground, you can eat on this. You can not move this, but the material is coming back.</PicnicSheet_large_Frame.description>
-
-  <PicnicSheet.label>Picnic sheet</PicnicSheet.label>
-  <PicnicSheet.description>A type of leisure seat.When you put this on the ground, you can eat on it.</PicnicSheet.description>
-  <PicnicSheet_Blueprint.label>Picnic sheet (blueprint)</PicnicSheet_Blueprint.label>
-  <PicnicSheet_Frame.label>Picnic sheet (building)</PicnicSheet_Frame.label>
-  <PicnicSheet_Frame.description>A table to use outside. You can not move furniture, but the material is coming back.</PicnicSheet_Frame.description>
-
-
+	<StrawBed.label>Straw bed</StrawBed.label>
+	<StrawBed.description>Ideal for sleeping but slightly unsanitary bed. (Not available for sale)</StrawBed.description>
+	<StrawBed_Blueprint.label>Straw bed (blueprint)</StrawBed_Blueprint.label>
+	<StrawBed_Blueprint_Install.label>Straw bed (blueprint)</StrawBed_Blueprint_Install.label>
+	<StrawBed_Frame.label>Straw bed (building)</StrawBed_Frame.label>
+	<StrawBed_Frame.description>Ideal for sleeping but slightly unsanitary bed. (Not available for sale)</StrawBed_Frame.description>
+	<DoubleStrawBed.label>Double straw bed</DoubleStrawBed.label>
+	<DoubleStrawBed.description>Ideal for sleeping but slightly unsanitary bed. (Not available for sale)</DoubleStrawBed.description>
+	<DoubleStrawBed_Blueprint.label>Double straw bed(blueprint)</DoubleStrawBed_Blueprint.label>
+	<DoubleStrawBed_Blueprint_Install.label>Double straw bed(blueprint)</DoubleStrawBed_Blueprint_Install.label>
+	<DoubleStrawBed_Frame.label>Double straw bed(building)</DoubleStrawBed_Frame.label>
+	<DoubleStrawBed_Frame.description>Ideal for sleeping but slightly unsanitary bed. (Not available for sale)</DoubleStrawBed_Frame.description>
+	<SuperiorStrawBed.label>Superior straw bed</SuperiorStrawBed.label>
+	<SuperiorStrawBed.description>Superior straw bed with superior straw bed.\n Still the quality falls a bit lower than normal beds.</SuperiorStrawBed.description>
+	<SuperiorStrawBed_Blueprint.label>Superior straw bed (blueprint)</SuperiorStrawBed_Blueprint.label>
+	<SuperiorStrawBed_Blueprint_Install.label>Superior straw bed (blueprint)</SuperiorStrawBed_Blueprint_Install.label>
+	<SuperiorStrawBed_Frame.label>Superior straw bed(building)</SuperiorStrawBed_Frame.label>
+	<SuperiorStrawBed_Frame.description>Superior straw bed with superior straw bed.\n Still the quality falls a bit lower than normal beds.</SuperiorStrawBed_Frame.description>
+	<SuperiorDoubleStrawBed.label>Superior double straw bed</SuperiorDoubleStrawBed.label>
+	<SuperiorDoubleStrawBed.description>Superior straw bed with superior straw bed.\n Still the quality falls a bit lower than normal beds.</SuperiorDoubleStrawBed.description>
+	<SuperiorDoubleStrawBed_Blueprint.label>Superior double straw bed(blueprint)</SuperiorDoubleStrawBed_Blueprint.label>
+	<SuperiorDoubleStrawBed_Blueprint_Install.label>Superior double straw bed(blueprint)</SuperiorDoubleStrawBed_Blueprint_Install.label>
+	<SuperiorDoubleStrawBed_Frame.label>Superior double straw bed(building)</SuperiorDoubleStrawBed_Frame.label>
+	<SuperiorDoubleStrawBed_Frame.description>Superior straw bed with superior straw bed.\n Still the quality falls a bit lower than normal beds.</SuperiorDoubleStrawBed_Frame.description>
+	<ZP_Ofuton.label>Futon</ZP_Ofuton.label>
+	<ZP_Ofuton.description>“Japanese traditional bedding”布袋の中に綿や羽毛などを入れたもので敷き布団と掛け布団がある。</ZP_Ofuton.description>
+	<ZP_Ofuton_Blueprint.label>Ofuton (blueprint)</ZP_Ofuton_Blueprint.label>
+	<ZP_Ofuton_Blueprint_Install.label>Ofuton (blueprint)</ZP_Ofuton_Blueprint_Install.label>
+	<ZP_Ofuton_Frame.label>Futon (building)</ZP_Ofuton_Frame.label>
+	<ZP_Ofuton_Frame.description>“Japanese traditional bedding”布袋の中に綿や羽毛などを入れたもので敷き布団と掛け布団がある。</ZP_Ofuton_Frame.description>
+	<ZP_DoubleOfuton.label>Double futon</ZP_DoubleOfuton.label>
+	<ZP_DoubleOfuton.description>A simple double-wide futon that fits two people.“Japanese traditional bedding”布袋の中に綿や羽毛などを入れたもので敷き布団と掛け布団がある。</ZP_DoubleOfuton.description>
+	<ZP_DoubleOfuton_Blueprint.label>Double futon (blueprint)</ZP_DoubleOfuton_Blueprint.label>
+	<ZP_DoubleOfuton_Blueprint_Install.label>Double futon (blueprint)</ZP_DoubleOfuton_Blueprint_Install.label>
+	<ZP_DoubleOfuton_Frame.label>Double futon (building)</ZP_DoubleOfuton_Frame.label>
+	<ZP_DoubleOfuton_Frame.description>A simple double-wide futon that fits two people. “Japanese traditional bedding”布袋の中に綿や羽毛などを入れたもので敷き布団と掛け布団がある。</ZP_DoubleOfuton_Frame.description>
+	<ZPAndon.label>Andon</ZPAndon.label>
+	<ZPAndon.description>One of the traditional Japanese indoor lighting fixtures. Gives a small comfort bonus to all nearby beds.</ZPAndon.description>
+	<ZPAndon_Blueprint.label>Andon (blueprint)</ZPAndon_Blueprint.label>
+	<ZPAndon_Blueprint_Install.label>Andon (blueprint)</ZPAndon_Blueprint_Install.label>
+	<ZPAndon_Frame.label>Andon (building)</ZPAndon_Frame.label>
+	<ZPAndon_Frame.description>One of the traditional Japanese indoor lighting fixtures. Gives a small comfort bonus to all nearby beds.</ZPAndon_Frame.description>
+	<AnimalStrawBedSmall.label>Animal straw bed(Small)</AnimalStrawBedSmall.label>
+	<AnimalStrawBedSmall.description>Animal straw bed.Ideal for small animals, from chickens to rabbits.(Not available for sale)</AnimalStrawBedSmall.description>
+	<AnimalStrawBedSmall_Blueprint.label>Animal straw bed(Small) (blueprint)</AnimalStrawBedSmall_Blueprint.label>
+	<AnimalStrawBedSmall_Blueprint_Install.label>Animal straw bed(Small) (blueprint)</AnimalStrawBedSmall_Blueprint_Install.label>
+	<AnimalStrawBedSmall_Frame.label>Animal straw bed(Small) (building)</AnimalStrawBedSmall_Frame.label>
+	<AnimalStrawBedSmall_Frame.description>Animal straw bed.Ideal for small animals, from chickens to rabbits.(Not available for sale)</AnimalStrawBedSmall_Frame.description>
+	<AnimalStrawBed.label>Animal straw bed</AnimalStrawBed.label>
+	<AnimalStrawBed.description>Animal straw bed.Ideal for mid-sized animals, from huskies to muffalo.(Not available for sale)</AnimalStrawBed.description>
+	<AnimalStrawBed_Blueprint.label>Animal straw bed (blueprint)</AnimalStrawBed_Blueprint.label>
+	<AnimalStrawBed_Blueprint_Install.label>Animal straw bed (blueprint)</AnimalStrawBed_Blueprint_Install.label>
+	<AnimalStrawBed_Frame.label>Animal straw bed (building)</AnimalStrawBed_Frame.label>
+	<AnimalStrawBed_Frame.description>Animal straw bed.Ideal for mid-sized animals, from huskies to muffalo.(Not available for sale)</AnimalStrawBed_Frame.description>
+	<AnimalStrawBedBig.label>Animal straw bed(Big)</AnimalStrawBedBig.label>
+	<AnimalStrawBedBig.description>Animal straw bed.Ideal for large animals, from thrumbos to elephants.(Not available for sale)</AnimalStrawBedBig.description>
+	<AnimalStrawBedBig_Blueprint.label>Animal straw bed(Big) (blueprint)</AnimalStrawBedBig_Blueprint.label>
+	<AnimalStrawBedBig_Blueprint_Install.label>Animal straw bed(Big) (blueprint)</AnimalStrawBedBig_Blueprint_Install.label>
+	<AnimalStrawBedBig_Frame.label>Animal straw bed(Big) (building)</AnimalStrawBedBig_Frame.label>
+	<AnimalStrawBedBig_Frame.description>Animal straw bed.Ideal for large animals, from thrumbos to elephants.(Not available for sale)</AnimalStrawBedBig_Frame.description>
+	<GroundSit.label>Place for sitting</GroundSit.label>
+	<GroundSit.description>You can sit on the ground. Convenient when using sheets and mats.</GroundSit.description>
+	<GroundSit_Blueprint.label>Place for sitting (blueprint)</GroundSit_Blueprint.label>
+	<GroundSit_Frame.label>Place for sitting (building)</GroundSit_Frame.label>
+	<GroundSit_Frame.description>You can sit on the ground. Convenient when using sheets and mats.</GroundSit_Frame.description>
+	<ZPWaraZabuton.label>Straw zabuton</ZPWaraZabuton.label>
+	<ZPWaraZabuton.description>Simple rug that can sit on the floor.\n床に座る際にお尻や脚の負担を軽減するための敷物です。性能はスツールとと同等です。</ZPWaraZabuton.description>
+	<ZPWaraZabuton_Blueprint.label>Straw zabuton (blueprint)</ZPWaraZabuton_Blueprint.label>
+	<ZPWaraZabuton_Blueprint_Install.label>Straw zabuton (blueprint)</ZPWaraZabuton_Blueprint_Install.label>
+	<ZPWaraZabuton_Frame.label>Straw zabuton (building)</ZPWaraZabuton_Frame.label>
+	<ZPWaraZabuton_Frame.description>Simple rug that can sit on the floor.\n床に座る際にお尻や脚の負担を軽減するための敷物です。性能はスツールと同等です。</ZPWaraZabuton_Frame.description>
+	<ZPZabuton.label>Zabuton</ZPZabuton.label>
+	<ZPZabuton.description>A kind of cushion.\n畳や床の上に座る際にお尻や脚の負担を軽減するための布団です。性能はダインイングチェアと同等です。\nI got permission to borrow from the author of Lost Forest.</ZPZabuton.description>
+	<ZPZabuton_Blueprint.label>Zabuton (blueprint)</ZPZabuton_Blueprint.label>
+	<ZPZabuton_Blueprint_Install.label>Zabuton (blueprint)</ZPZabuton_Blueprint_Install.label>
+	<ZPZabuton_Frame.label>Zabuton (building)</ZPZabuton_Frame.label>
+	<ZPZabuton_Frame.description>A kind of cushion.\n畳や床の上に座る際にお尻や脚の負担を軽減するための布団です。性能はダインイングチェアと同等です。\nI got permission to borrow from the author of Lost Forest.</ZPZabuton_Frame.description>
+	<ZPZabuton1st.label>Zabuton(red)</ZPZabuton1st.label>
+	<ZPZabuton1st.description>A kind of cushion.\n畳や床の上に座る際にお尻や脚の負担を軽減するための布団です。性能はダインイングチェアと同等です。\nI got permission to borrow from the author of Lost Forest.</ZPZabuton1st.description>
+	<ZPZabuton1st_Blueprint.label>Zabuton(Red) (blueprint)</ZPZabuton1st_Blueprint.label>
+	<ZPZabuton1st_Blueprint_Install.label>Zabuton(red) (blueprint)</ZPZabuton1st_Blueprint_Install.label>
+	<ZPZabuton1st_Frame.label>Zabuton(Red) (building)</ZPZabuton1st_Frame.label>
+	<ZPZabuton1st_Frame.description>A kind of cushion.\n畳や床の上に座る際にお尻や脚の負担を軽減するための布団です。性能はダインイングチェアと同等です。\nI got permission to borrow from the author of Lost Forest.</ZPZabuton1st_Frame.description>
+	<ZPZabuton2nd.label>Zabuton(Blue)</ZPZabuton2nd.label>
+	<ZPZabuton2nd.description>A kind of cushion.\n畳や床の上に座る際にお尻や脚の負担を軽減するための布団です。性能はダインイングチェアと同等です。\nI got permission to borrow from the author of Lost Forest.</ZPZabuton2nd.description>
+	<ZPZabuton2nd_Blueprint.label>Zabuton(Blue) (blueprint)</ZPZabuton2nd_Blueprint.label>
+	<ZPZabuton2nd_Blueprint_Install.label>Zabuton(Blue) (blueprint)</ZPZabuton2nd_Blueprint_Install.label>
+	<ZPZabuton2nd_Frame.label>Zabuton(Blue) (building)</ZPZabuton2nd_Frame.label>
+	<ZPZabuton2nd_Frame.description>A kind of cushion.\n畳や床の上に座る際にお尻や脚の負担を軽減するための布団です。性能はダインイングチェアと同等です。\nI got permission to borrow from the author of Lost Forest.</ZPZabuton2nd_Frame.description>
+	<ZPZabuton3rd.label>Zabuton(Violet)</ZPZabuton3rd.label>
+	<ZPZabuton3rd.description>A kind of cushion.\n畳や床の上に座る際にお尻や脚の負担を軽減するための布団です。性能はダインイングチェアと同等です。\nI got permission to borrow from the author of Lost Forest.</ZPZabuton3rd.description>
+	<ZPZabuton3rd_Blueprint.label>Zabuton(Violet)(blueprint)</ZPZabuton3rd_Blueprint.label>
+	<ZPZabuton3rd_Blueprint_Install.label>Zabuton(Violet)(blueprint)</ZPZabuton3rd_Blueprint_Install.label>
+	<ZPZabuton3rd_Frame.label>Zabuton(Violet)(building)</ZPZabuton3rd_Frame.label>
+	<ZPZabuton3rd_Frame.description>A kind of cushion.\n畳や床の上に座る際にお尻や脚の負担を軽減するための布団です。性能はダインイングチェアと同等です。\nI got permission to borrow from the author of Lost Forest.</ZPZabuton3rd_Frame.description>
+	<ZP_Tyabudai.label>Chabudai</ZP_Tyabudai.label>
+	<ZP_Tyabudai.description>People eat off tables when chairs are placed facing them.</ZP_Tyabudai.description>
+	<ZP_Tyabudai_Blueprint.label>Chabudai(blueprint)</ZP_Tyabudai_Blueprint.label>
+	<ZP_Tyabudai_Blueprint_Install.label>Chabudai(blueprint)</ZP_Tyabudai_Blueprint_Install.label>
+	<ZP_Tyabudai_Frame.label>Chabudai(building)</ZP_Tyabudai_Frame.label>
+	<ZP_Tyabudai_Frame.description>People eat off tables when chairs are placed facing them.</ZP_Tyabudai_Frame.description>
+	<!-- 茣蓙(ござ) -->
+	<R_Goza_large.label>Goza(large)</R_Goza_large.label>
+	<R_Goza_large.description>A type of leisure seat. When you put this on the ground, you can eat on this. You can not move this, but the material is coming back.</R_Goza_large.description>
+	<R_Goza_large_Blueprint.label>Goza(large) (blueprint)</R_Goza_large_Blueprint.label>
+	<R_Goza_large_Frame.label>Goza(large) (building)</R_Goza_large_Frame.label>
+	<R_Goza_large_Frame.description>A type of leisure seat.When you put this on the ground, you can eat on this. You can not move this, but the material is coming back.</R_Goza_large_Frame.description>
+	<R_Goza.label>Goza</R_Goza.label>
+	<R_Goza.description>A type of leisure seat. When you put this on the ground, you can eat on this. You can not move this, but the material is coming back.</R_Goza.description>
+	<R_Goza_Blueprint.label>Goza (blueprint)</R_Goza_Blueprint.label>
+	<R_Goza_Frame.label>Goza (building)</R_Goza_Frame.label>
+	<R_Goza_Frame.description>A type of leisure seat. When you put this on the ground, you can eat on this. You can not move this, but the material is coming back.</R_Goza_Frame.description>
+	<!-- レジャーシート -->
+	<PicnicSheet_large.label>Picnic sheet(large)</PicnicSheet_large.label>
+	<PicnicSheet_large.description>A type of leisure seat.When you put this on the ground, you can eat on it..</PicnicSheet_large.description>
+	<PicnicSheet_large_Blueprint.label>Picnic sheet(large) (blueprint)</PicnicSheet_large_Blueprint.label>
+	<PicnicSheet_large_Frame.label>Picnic sheet(large) (building)</PicnicSheet_large_Frame.label>
+	<PicnicSheet_large_Frame.description>Leisure seat. When you put this on the ground, you can eat on this. You can not move this, but the material is coming back.</PicnicSheet_large_Frame.description>
+	<PicnicSheet.label>Picnic sheet</PicnicSheet.label>
+	<PicnicSheet.description>A type of leisure seat.When you put this on the ground, you can eat on it.</PicnicSheet.description>
+	<PicnicSheet_Blueprint.label>Picnic sheet (blueprint)</PicnicSheet_Blueprint.label>
+	<PicnicSheet_Frame.label>Picnic sheet (building)</PicnicSheet_Frame.label>
+	<PicnicSheet_Frame.description>A table to use outside. You can not move furniture, but the material is coming back.\nI got permission to borrow from the author of Lost Forest.</PicnicSheet_Frame.description>
+	<ZP_Tuitate.label>Tsuitate</ZP_Tuitate.label>
+	<ZP_Tuitate.description>Removable blindfold wall. 部屋を一時的に区切ったり、奥の部屋を見せないように目隠しにも使われる。光は遮らないのでレイアウトには困らない。</ZP_Tuitate.description>
+	<ZP_Tuitate_Blueprint.label>Tsuitate (blueprint)</ZP_Tuitate_Blueprint.label>
+	<ZP_Tuitate_Blueprint_Install.label>Tsuitate (blueprint)</ZP_Tuitate_Blueprint_Install.label>
+	<ZP_Tuitate_Frame.label>Tsuitate (building)</ZP_Tuitate_Frame.label>
+	<ZP_Tuitate_Frame.description>Removable blindfold wall. 部屋を一時的に区切ったり、奥の部屋を見せないように目隠しにも使われる。光は遮らないのでレイアウトには困らない。</ZP_Tuitate_Frame.description>
+	<ZP_Tuitate2nd.label>Tsuitate</ZP_Tuitate2nd.label>
+	<ZP_Tuitate2nd.description>Removable blindfold wall. 部屋を一時的に区切ったり、奥の部屋を見せないように目隠しにも使われる。光は遮らないのでレイアウトには困らない。</ZP_Tuitate2nd.description>
+	<ZP_Tuitate2nd_Blueprint.label>Tsuitate (blueprint)</ZP_Tuitate2nd_Blueprint.label>
+	<ZP_Tuitate2nd_Blueprint_Install.label>Tsuitate (blueprint)</ZP_Tuitate2nd_Blueprint_Install.label>
+	<ZP_Tuitate2nd_Frame.label>Tsuitate (building)</ZP_Tuitate2nd_Frame.label>
+	<ZP_Tuitate2nd_Frame.description>Removable blindfold wall. 部屋を一時的に区切ったり、奥の部屋を見せないように目隠しにも使われる。光は遮らないのでレイアウトには困らない。</ZP_Tuitate2nd_Frame.description>
 </LanguageData>

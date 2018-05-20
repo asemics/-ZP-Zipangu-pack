@@ -2,11 +2,11 @@
 <LanguageData>
 
   <R_CookJunmaiSakeBarrel.label>Junmai barrel</R_CookJunmaiSakeBarrel.label>
-  <R_CookJunmaiSakeBarrel.description>Make a Junmai(a kind of Japanese alchole) barrel as a tool for Junmai.</R_CookJunmaiSakeBarrel.description>
+  <R_CookJunmaiSakeBarrel.description>Make a Junmai(A kind of Japanese alcohol) barrel as a tool for Junmai.</R_CookJunmaiSakeBarrel.description>
   <R_CookJunmaiSakeBarrel.jobString>Makeing a Junmai barrel</R_CookJunmaiSakeBarrel.jobString>
 
   <MakeJunmaiSake.label>Junmai(25)</MakeJunmaiSake.label>
-  <MakeJunmaiSake.description>Make a Junmai(a kind of Japanese alchole).</MakeJunmaiSake.description>
+  <MakeJunmaiSake.description>Make a Junmai(a kind of Japanese alcohol).</MakeJunmaiSake.description>
   <MakeJunmaiSake.jobString>Making a Junmai</MakeJunmaiSake.jobString>
 
 

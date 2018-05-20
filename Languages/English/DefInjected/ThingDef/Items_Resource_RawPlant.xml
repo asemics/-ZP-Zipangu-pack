@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<ZP_RawJapaneseRadish.label>Raw japanese radish</ZP_RawJapaneseRadish.label>
+	<ZP_RawJapaneseRadish.description>生の大根</ZP_RawJapaneseRadish.description>
+	<ZP_RawTaro.label>Raw taro</ZP_RawTaro.label>
+	<ZP_RawTaro.description>生の里芋。コンニャク芋の代わりにもなる。</ZP_RawTaro.description>
+	<ZP_RawGreenOnion.label>Raw green onion</ZP_RawGreenOnion.label>
+	<ZP_RawGreenOnion.description>生の長ネギ。</ZP_RawGreenOnion.description>
+	<ZP_MandarinOrange.label>Raw mandarin orange</ZP_MandarinOrange.label>
+	<ZP_MandarinOrange.description>甘酸っぱくて美味しいみかん。</ZP_MandarinOrange.description>
+</LanguageData>

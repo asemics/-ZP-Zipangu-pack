@@ -11,6 +11,20 @@
   <MakeRiceStoneSlurryRice50.description>Momi is divided into  Brown rice and Outher hull.</MakeRiceStoneSlurryRice50.description>
   <MakeRiceStoneSlurryRice50.jobString>Dividing</MakeRiceStoneSlurryRice50.jobString>
 
+
+  <!-- 籾摺り臼　籾米⇒もち米 -->
+
+  <MakeRiceStoneSlurryGRice10.label>籾米(もち米)をもち米にする(10)</MakeRiceStoneSlurryGRice10.label>
+  <MakeRiceStoneSlurryGRice10.description>臼で籾を外してもち米と籾殻にわける。</MakeRiceStoneSlurryGRice10.description>
+  <MakeRiceStoneSlurryGRice10.jobString>籾摺りをする</MakeRiceStoneSlurryGRice10.jobString>
+
+  <MakeRiceStoneSlurryGRice50.label>籾米(もち米)をもち米にする(50)</MakeRiceStoneSlurryGRice50.label>
+  <MakeRiceStoneSlurryGRice50.description>臼で籾を外してもち米と籾殻にわける。</MakeRiceStoneSlurryGRice50.description>
+  <MakeRiceStoneSlurryGRice50.jobString>籾摺りをする</MakeRiceStoneSlurryGRice50.jobString>
+
+
+  <!-- 籾摺り臼　籾米⇒玄米 -->
+
   <MakeRiceStoneSlurryRice10_1.label>Polite Momi⇒Brown rice(10)</MakeRiceStoneSlurryRice10_1.label>
   <MakeRiceStoneSlurryRice10_1.description>Momi is divided into  Brown rice and Outher hull.\nBy doing it politely you can earn a small amount of white rice.</MakeRiceStoneSlurryRice10_1.description>
   <MakeRiceStoneSlurryRice10_1.jobString>Dividing</MakeRiceStoneSlurryRice10_1.jobString>
@@ -18,6 +32,30 @@
   <MakeRiceStoneSlurryRice50_2.label>Polite Momi⇒Brown rice(50)</MakeRiceStoneSlurryRice50_2.label>
   <MakeRiceStoneSlurryRice50_2.description>Momi is divided into  Brown rice and Outher hull.\nBy doing it politely you can earn a small amount of white rice.</MakeRiceStoneSlurryRice50_2.description>
   <MakeRiceStoneSlurryRice50_2.jobString>Dividing</MakeRiceStoneSlurryRice50_2.jobString>
+
+  <ZP_MakeFlour10.label>穀物粉を作る(10)</ZP_MakeFlour10.label>
+  <ZP_MakeFlour10.description>穀物をひいて粉にする。</ZP_MakeFlour10.description>
+  <ZP_MakeFlour10.jobString>穀物粉を作る。</ZP_MakeFlour10.jobString>
+
+  <ZP_MakeFlour50.label>穀物粉を作る(50)</ZP_MakeFlour50.label>
+  <ZP_MakeFlour50.description>穀物をひいて粉にする。</ZP_MakeFlour50.description>
+  <ZP_MakeFlour50.jobString>穀物粉を作る。</ZP_MakeFlour50.jobString>
+
+  <ZP_MakeSoymilk10.label>豆乳(10)</ZP_MakeSoymilk10.label>
+  <ZP_MakeSoymilk10.description>Press beans into milk.</ZP_MakeSoymilk10.description>
+  <ZP_MakeSoymilk10.jobString>Pressing beans.</ZP_MakeSoymilk10.jobString>
+
+  <ZP_MakeSoymilk50.label>豆乳(50)</ZP_MakeSoymilk50.label>
+  <ZP_MakeSoymilk50.description>Press beans into milk.</ZP_MakeSoymilk50.description>
+  <ZP_MakeSoymilk50.jobString>Pressing beans.</ZP_MakeSoymilk50.jobString>
+
+  <ZP_MakeKonnyaku10.label>こんにゃくを作る(10)</ZP_MakeKonnyaku10.label>
+  <ZP_MakeKonnyaku10.description>蒸した里芋をを磨ってから石灰水と混ぜ型にいれて固める。</ZP_MakeKonnyaku10.description>
+  <ZP_MakeKonnyaku10.jobString>こんにゃくを作る。</ZP_MakeKonnyaku10.jobString>
+
+  <ZP_MakeKonnyaku50.label>こんにゃくを作る(50)</ZP_MakeKonnyaku50.label>
+  <ZP_MakeKonnyaku50.description>蒸した里芋をを磨ってから石灰水と混ぜ型にいれて固める。</ZP_MakeKonnyaku50.description>
+  <ZP_MakeKonnyaku50.jobString>こんにゃくを作る。</ZP_MakeKonnyaku50.jobString>
 
 
   <!-- 籾摺り臼　米(籾)⇒玄米 -->

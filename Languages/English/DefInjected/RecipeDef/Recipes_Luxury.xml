@@ -1,9 +1,33 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <CookPuffedRice5.label>Puffed rice(2)</CookPuffedRice5.label>
-  <CookPuffedRice5.description>Inflate the rice by pressing pressure on rice.</CookPuffedRice5.description>
-  <CookPuffedRice5.jobString>Boooomb!</CookPuffedRice5.jobString>
-
-
+	<CookPuffedRice5.label>Puffed rice(2)</CookPuffedRice5.label>
+	<CookPuffedRice5.description>Inflate the rice by pressing pressure on rice.</CookPuffedRice5.description>
+	<CookPuffedRice5.jobString>Boooomb!</CookPuffedRice5.jobString>
+	<CookRiceCracker.label>Rice cracker(2)</CookRiceCracker.label>
+	<CookRiceCracker.description>煎餅を2個作る</CookRiceCracker.description>
+	<CookRiceCracker.jobString>煎餅を作る</CookRiceCracker.jobString>
+	<CookOkoshi.label>Okoshi(2)</CookOkoshi.label>
+	<CookOkoshi.description>穀物類を加工して飴でかためる。</CookOkoshi.description>
+	<CookOkoshi.jobString>おこしを作る</CookOkoshi.jobString>
+	<CookKasutera.label>Baby castella(2)</CookKasutera.label>
+	<CookKasutera.description>ベビーカステラを2個作る</CookKasutera.description>
+	<CookKasutera.jobString>ベビーカステラを作る</CookKasutera.jobString>
+	<CookKompeito.label>Kompeito(2)</CookKompeito.label>
+	<CookKompeito.description>金平糖を2個作る</CookKompeito.description>
+	<CookKompeito.jobString>金平糖を作る</CookKompeito.jobString>
+	<CookCottonCandy.label>Cotton candy(2)</CookCottonCandy.label>
+	<CookCottonCandy.description>わたあめを2個作る</CookCottonCandy.description>
+	<CookCottonCandy.jobString>わたあめを作る</CookCottonCandy.jobString>
+	<CookBoiledEdamame.label>Boiled edamame(2)</CookBoiledEdamame.label>
+	<CookBoiledEdamame.description>枝豆を茹でててから塩を振る。</CookBoiledEdamame.description>
+	<CookBoiledEdamame.jobString>塩茹で枝豆を作る</CookBoiledEdamame.jobString>
+	<CookYakitori.label>Yakitori(2)</CookYakitori.label>
+	<CookYakitori.description>味付け肉と長ネギを串に刺して焼く</CookYakitori.description>
+	<CookYakitori.jobString>焼き鳥を作る</CookYakitori.jobString>
+	<CookHiyayakko.label>Hiyayakko(2)</CookHiyayakko.label>
+	<CookHiyayakko.description>豆腐に薬味をのせて醤油をかける。</CookHiyayakko.description>
+	<CookHiyayakko.jobString>冷奴を作る</CookHiyayakko.jobString>
+	<CookMisotanpo.label>Misotanpo(2)</CookMisotanpo.label>
+	<CookMisotanpo.description>みそたんぽを2個作る。</CookMisotanpo.description>
+	<CookMisotanpo.jobString>みそたんぽを作る</CookMisotanpo.jobString>
 </LanguageData>

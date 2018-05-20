@@ -26,5 +26,9 @@
   <CookTsukudani.description>Sweetly boil insect meat with sugar and soy sauce.</CookTsukudani.description>
   <CookTsukudani.jobString>Boiling...</CookTsukudani.jobString>
 
+  <CookKorokke4.label>コロッケ(4)</CookKorokke4.label>
+  <CookKorokke4.description>コロッケを４個作る</CookKorokke4.description>
+  <CookKorokke4.jobString>コロッケを作る</CookKorokke4.jobString>
+
 
 </LanguageData>

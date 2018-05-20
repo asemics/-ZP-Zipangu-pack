@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<ZP_PrantJapaneseRadish.label>Japanese radish</ZP_PrantJapaneseRadish.label>
+	<ZP_PrantJapaneseRadish.description>生育期間が短くたくさん収穫できるが大きい大根なので保存場所に困る。</ZP_PrantJapaneseRadish.description>
+	<ZP_PrantGreenOnion.label>Green onion</ZP_PrantGreenOnion.label>
+	<ZP_PrantGreenOnion.description>生育期間が長く収穫量も少ないが耐寒性が高いので枯れにくい。</ZP_PrantGreenOnion.description>
+	<ZP_PrantTaro.label>Taro</ZP_PrantTaro.label>
+	<ZP_PrantTaro.description>生育期間が長く収穫量も多い。コンニャクを作る際の素材になる。</ZP_PrantTaro.description>
+	<ZP_PrantSpice.label>Spice</ZP_PrantSpice.label>
+	<ZP_PrantSpice.description></ZP_PrantSpice.description>
+	<ZP_PlantMandarinOrange.label>Mandarin orange</ZP_PlantMandarinOrange.label>
+	<ZP_PlantMandarinOrange.description>みかんの木。最初は木が成長するまで遅いが1度実ると次の収穫までがはやくなる。</ZP_PlantMandarinOrange.description>
+</LanguageData>

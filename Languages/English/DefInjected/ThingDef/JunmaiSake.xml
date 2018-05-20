@@ -3,9 +3,9 @@
 
   <ZPJunmaiSake.label>Junmai</ZPJunmaiSake.label>
   <ZPJunmaiSake.description>Sake(Japanese alchole) made only with white rice.\nAlcohol featuring the original taste of rice.</ZPJunmaiSake.description>
+  <ZPJunmaiSake.tools.1.label>neck</ZPJunmaiSake.tools.1.label>
   <ZPJunmaiSake.ingestible.ingestCommandString>Drink {0}</ZPJunmaiSake.ingestible.ingestCommandString>
   <ZPJunmaiSake.ingestible.ingestReportString>Drinking {0}.</ZPJunmaiSake.ingestible.ingestReportString>
-  <ZPJunmaiSake.tools.1.label>neck</ZPJunmaiSake.tools.1.label>
 
   <R_JunmaiSakeBarrel.label>Junmai barrel</R_JunmaiSakeBarrel.label>
   <R_JunmaiSakeBarrel.description>a barrel of Junmai</R_JunmaiSakeBarrel.description>

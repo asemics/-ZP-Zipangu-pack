@@ -7,6 +7,9 @@
   <MakeR_Manger10.description>Mix straw with rice bran and grain to make a manger.</MakeR_Manger10.description>
   <MakeR_Manger10.jobString>Mixing</MakeR_Manger10.jobString>
 
+
+  <!-- 削除予定 -->
+
   <MakeR_Manger20.label>Manger(20)</MakeR_Manger20.label>
   <MakeR_Manger20.description>Mix straw with rice bran and grain to make a manger.</MakeR_Manger20.description>
   <MakeR_Manger20.jobString>Mixing</MakeR_Manger20.jobString>

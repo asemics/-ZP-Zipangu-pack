@@ -1,18 +1,17 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <!-- 豪華な食事　カレーライス -->
-
-  <CookWRJPCurryRice8.label>JP Curry rice(8)</CookWRJPCurryRice8.label>
-  <CookWRJPCurryRice8.description>Japan curry.</CookWRJPCurryRice8.description>
-  <CookWRJPCurryRice8.jobString>Cooking</CookWRJPCurryRice8.jobString>
-
-
-  <!-- 豪華な食事　寿司 -->
-
-  <CookWRSushi8.label>Sushi(8)</CookWRSushi8.label>
-  <CookWRSushi8.description>Sushi.</CookWRSushi8.description>
-  <CookWRSushi8.jobString>Making sushi</CookWRSushi8.jobString>
-
-
+	<!-- 豪華な食事　カレーライス -->
+	<CookWRJPCurryRice8.label>JP Curry rice(4)</CookWRJPCurryRice8.label>
+	<CookWRJPCurryRice8.description>Japan curry.</CookWRJPCurryRice8.description>
+	<CookWRJPCurryRice8.jobString>Cooking</CookWRJPCurryRice8.jobString>
+	<!-- 豪華な食事　寿司 -->
+	<CookWRSushi8.label>Sushi(4)</CookWRSushi8.label>
+	<CookWRSushi8.description>Sushi.</CookWRSushi8.description>
+	<CookWRSushi8.jobString>Making sushi</CookWRSushi8.jobString>
+	<CookRamen4.label>Ramen(4)</CookRamen4.label>
+	<CookRamen4.description>ラーメンを4個作る</CookRamen4.description>
+	<CookRamen4.jobString>ラーメンを作る</CookRamen4.jobString>
+	<CookTyannko4.label>Chanko-nabe(4)</CookTyannko4.label>
+	<CookTyannko4.description>米加工品、肉、野菜をたっぷり入れた鍋を4つ作る</CookTyannko4.description>
+	<CookTyannko4.jobString>ちゃんこ鍋を作る</CookTyannko4.jobString>
 </LanguageData>

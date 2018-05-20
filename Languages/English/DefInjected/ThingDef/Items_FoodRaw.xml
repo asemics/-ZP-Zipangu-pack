@@ -1,20 +1,27 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <R_SeasonedMeat.label>Seasoned meat</R_SeasonedMeat.label>
-  <R_SeasonedMeat.description>Meat that eliminated the smell of meat with seasoning. It can be eaten raw but also cooked.</R_SeasonedMeat.description>
-
-  <R_FreezeMochi.label>Freeze mochi</R_FreezeMochi.label>
-  <R_FreezeMochi.description>Mochi that can be stored for a long time.It can be eaten raw but also cooked.</R_FreezeMochi.description>
-
-  <ZP_RiceBranPickled.label>Nukaduke</ZP_RiceBranPickled.label>
-  <ZP_RiceBranPickled.description>A preserved meal made vegetables in Nuka(rice bran).\nYou can eat raw this, and make for cooking.</ZP_RiceBranPickled.description>
-
-  <ZP_DriedFish.label>Dried fish</ZP_DriedFish.label>
-  <ZP_DriedFish.description>A preserved food dried to keep raw fish from decaying.\nYou can eat raw this, and make for cooking.</ZP_DriedFish.description>
-
-  <ZP_FermentedSoybeans.label>Natto</ZP_FermentedSoybeans.label>
-  <ZP_FermentedSoybeans.description>Fermented Japanese food fermented Soybean with Bacillus Natto. \nYou can eat raw this, and make for cooking.</ZP_FermentedSoybeans.description>
-
-
+	<R_SeasonedMeat.label>Seasoned meat</R_SeasonedMeat.label>
+	<R_SeasonedMeat.description>Meat that eliminated the smell of meat with seasoning. It can be eaten raw but also cooked.</R_SeasonedMeat.description>
+	<R_FreezeMochi.label>Freeze mochi</R_FreezeMochi.label>
+	<R_FreezeMochi.description>Mochi that can be stored for a long time.It can be eaten raw but also cooked.</R_FreezeMochi.description>
+	<ZP_RiceBranPickled.label>Nukaduke</ZP_RiceBranPickled.label>
+	<ZP_RiceBranPickled.description>A preserved meal made vegetables in Nuka(rice bran).\nYou can eat raw this, and make for cooking.</ZP_RiceBranPickled.description>
+	<ZP_DriedFish.label>Dried fish</ZP_DriedFish.label>
+	<ZP_DriedFish.description>A preserved food dried to keep raw fish from decaying.\nYou can eat raw this, and make for cooking.</ZP_DriedFish.description>
+	<ZP_FermentedSoybeans.label>Natto</ZP_FermentedSoybeans.label>
+	<ZP_FermentedSoybeans.description>Fermented Japanese food fermented Soybean with Bacillus Natto. \nYou can eat raw this, and make for cooking.</ZP_FermentedSoybeans.description>
+	<Rawtofu.label>Raw tofu</Rawtofu.label>
+	<Rawtofu.description>タンパク質が豊富な大豆の加工食品。肉の代用品としても使える。\n生でも食べれて、調理にも使える。</Rawtofu.description>
+	<ZP_Soymilk.label>Soymilk</ZP_Soymilk.label>
+	<ZP_Soymilk.description>豆を搾って作った飲料。ミルクの代用品にもなる。\n生でも飲めて、調理にも使える。</ZP_Soymilk.description>
+	<Flour.label>Flour</Flour.label>
+	<Flour.description>穀物をひいた粉。</Flour.description>
+	<ZP_Konnyaku.label>Konnyaku</ZP_Konnyaku.label>
+	<ZP_Konnyaku.description>里芋から作った加工食品。\n生でも食べれて、調理にも使える。</ZP_Konnyaku.description>
+	<ZP_Tikuwa.label>Tikuwa</ZP_Tikuwa.label>
+	<ZP_Tikuwa.description>魚から作った加工食品。肉の代用品としても使える。\nYou can eat raw this, and make for cooking.</ZP_Tikuwa.description>
+	<ZP_Tanpo.label>Tanpo</ZP_Tanpo.label>
+	<ZP_Tanpo.description>つぶしたお米を棒に巻きつけて焼いたもの。棒から外して切ったものを「きりたんぽ」という。\nYou can eat raw this, and make for cooking.</ZP_Tanpo.description>
+	<ZP_FishFillet.label>Fish fillet</ZP_FishFillet.label>
+	<ZP_FishFillet.description>料理に使いやすいようにさばいた魚の切り身。\nYou can eat raw this, and make for cooking.</ZP_FishFillet.description>
 </LanguageData>

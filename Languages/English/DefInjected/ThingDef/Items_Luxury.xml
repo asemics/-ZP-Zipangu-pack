@@ -1,10 +1,24 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-  <!-- Luxury -->
-
-  <R_PuffedRice.label>Puffed rice</R_PuffedRice.label>
-  <R_PuffedRice.description>It is a cheap sweets with a crisp texture that inflates by pressurizing rice and opening it all at once.</R_PuffedRice.description>
-
-
+	<!-- Luxury -->
+	<R_PuffedRice.label>Puffed rice</R_PuffedRice.label>
+	<R_PuffedRice.description>It is a cheap sweets with a crisp texture that inflates by pressurizing rice and opening it all at once.</R_PuffedRice.description>
+	<ZP_RiceCracker.label>Rice cracker</ZP_RiceCracker.label>
+	<ZP_RiceCracker.description>とても歯ごたえのあるお菓子。醤油、味噌等で好きな味付けを楽しもう。</ZP_RiceCracker.description>
+	<ZP_Okoshi.label>Okoshi</ZP_Okoshi.label>
+	<ZP_Okoshi.description>米を熱して干した後に米飴で固めた和菓子。戦国時代は「身を起こし 家を起こし 国を起こす」縁起の良いお菓子として広く人々に親しまれていた。</ZP_Okoshi.description>
+	<ZP_Kasutera.label>Baby castella</ZP_Kasutera.label>
+	<ZP_Kasutera.description>縁日の定番お菓子。素朴なカステラのような味で、何個も口に入れてしまうほど美味しい。</ZP_Kasutera.description>
+	<ZP_Kompeito.label>Kompeito</ZP_Kompeito.label>
+	<ZP_Kompeito.description>戦国時代にポルトガルから日本に伝来したお菓子。カラフルな見た目と優しい甘さが入植者を癒してくれる。</ZP_Kompeito.description>
+	<ZP_CottonCandy.label>Cotton candy</ZP_CottonCandy.label>
+	<ZP_CottonCandy.description>縁日の定番お菓子。ふわふわした食感と甘さを楽しむ事ができる。\n時間が経つと萎んで固くなってしまうのではやめに食べよう。</ZP_CottonCandy.description>
+	<ZP_BoiledEdamame.label>Boiled edamame</ZP_BoiledEdamame.label>
+	<ZP_BoiledEdamame.description>枝豆を塩茹でした日本の定番おつまみ。暑い日に冷えたビールのお供にすることが多い。</ZP_BoiledEdamame.description>
+	<ZP_Yakitori.label>Yakitori</ZP_Yakitori.label>
+	<ZP_Yakitori.description>肉を一口大に切った後に串に刺して焼いた日本の定番おつまみ。味は塩かタレを選べます。</ZP_Yakitori.description>
+	<ZP_Hiyayakko.label>Hiyayakko</ZP_Hiyayakko.label>
+	<ZP_Hiyayakko.description>豆腐に薬味をのせ醤油をかけたシンプルな料理。酒の肴やおかずに1品足したい時に便利。</ZP_Hiyayakko.description>
+	<ZP_Misotanpo.label>Misotanpo</ZP_Misotanpo.label>
+	<ZP_Misotanpo.description>焼いたたんぽに味噌をつけたもの。秋田県の郷土料理。</ZP_Misotanpo.description>
 </LanguageData>

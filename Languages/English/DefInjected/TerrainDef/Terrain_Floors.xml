@@ -7,6 +7,9 @@
   <Tatami_Yellow.label>Tatami(Yellow)</Tatami_Yellow.label>
   <Tatami_Yellow.description>It’s made of a straw called "Igusa". Tatami has a function to purify air and adjust humidity.Also flame retardancy is very good so it will not burn even if a fire occurs.</Tatami_Yellow.description>
 
+  <RBCeramicTile.label>RBセラミックのタイル</RBCeramicTile.label>
+  <RBCeramicTile.description>表面がツルツルしているため清潔性を保ちやすいですが抗菌タイルには劣ります。</RBCeramicTile.description>
+
 
   <!-- 土壌 -->
 
