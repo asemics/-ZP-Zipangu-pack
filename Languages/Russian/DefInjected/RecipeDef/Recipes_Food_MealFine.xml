@@ -38,17 +38,37 @@
   <CookWRGyudon4.description>Cook the Gyudon</CookWRGyudon4.description>
   <CookWRGyudon4.jobString>Cooking</CookWRGyudon4.jobString>
 
-  <CookSasimi8.label>Sashimi(8)</CookSasimi8.label>
+  <CookSasimi8.label>Sashimi(4)</CookSasimi8.label>
   <CookSasimi8.description>Make Sashimi(cut fish)</CookSasimi8.description>
   <CookSasimi8.jobString>Making Sashimi</CookSasimi8.jobString>
 
-  <CookSaltGrilledFish8.label>Salt-grilled fish(8)</CookSaltGrilledFish8.label>
+  <CookSaltGrilledFish8.label>Salt-grilled fish(4)</CookSaltGrilledFish8.label>
   <CookSaltGrilledFish8.description>Make Salt-grilled fish.</CookSaltGrilledFish8.description>
   <CookSaltGrilledFish8.jobString>Making Salt-grilled fish</CookSaltGrilledFish8.jobString>
 
-  <CookSteamedFish8.label>Boiled fish(8)</CookSteamedFish8.label>
+  <CookSteamedFish8.label>Boiled fish(4)</CookSteamedFish8.label>
   <CookSteamedFish8.description>Make Boiled fish.</CookSteamedFish8.description>
   <CookSteamedFish8.jobString>making Boiled fish</CookSteamedFish8.jobString>
+
+  <CookGRTakikomi4.label>炊き込みご飯(4)</CookGRTakikomi4.label>
+  <CookGRTakikomi4.description>もち米と一緒に野菜類と肉類を炊き込んで作るご飯。</CookGRTakikomi4.description>
+  <CookGRTakikomi4.jobString>炊き込みご飯を作る</CookGRTakikomi4.jobString>
+
+  <CookTendon4.label>天丼(4)</CookTendon4.label>
+  <CookTendon4.description>天丼を４個作る</CookTendon4.description>
+  <CookTendon4.jobString>天丼を作る</CookTendon4.jobString>
+
+  <CookOkonomiyaki4.label>お好み焼(4)</CookOkonomiyaki4.label>
+  <CookOkonomiyaki4.description>お好み焼を４個作る</CookOkonomiyaki4.description>
+  <CookOkonomiyaki4.jobString>お好み焼を作る</CookOkonomiyaki4.jobString>
+
+  <CookUdon4.label>うどん(4)</CookUdon4.label>
+  <CookUdon4.description>うどんを４個作る</CookUdon4.description>
+  <CookUdon4.jobString>うどんを作る</CookUdon4.jobString>
+
+  <CookOden8.label>おでん(8)</CookOden8.label>
+  <CookOden8.description>おでんを8個作る</CookOden8.description>
+  <CookOden8.jobString>おでんを作る</CookOden8.jobString>
 
 
 </LanguageData>

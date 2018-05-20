@@ -11,6 +11,10 @@
   <Tatami_Yellow_Frame.label>Tatami(yellow) (building)</Tatami_Yellow_Frame.label>
   <Tatami_Yellow_Frame.description>Terrain building in progress.</Tatami_Yellow_Frame.description>
 
+  <RBCeramicTile_Blueprint.label>RBセラミックのタイル (blueprint)</RBCeramicTile_Blueprint.label>
+  <RBCeramicTile_Frame.label>RBセラミックのタイル (building)</RBCeramicTile_Frame.label>
+  <RBCeramicTile_Frame.description>Terrain building in progress.</RBCeramicTile_Frame.description>
+
   <ZP_Soil_Blueprint.label>Soil(blueprint)</ZP_Soil_Blueprint.label>
   <ZP_Soil_Frame.label>Soil(building)</ZP_Soil_Frame.label>
   <ZP_Soil_Frame.description>Terrain building in progress.</ZP_Soil_Frame.description>

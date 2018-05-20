@@ -7,6 +7,9 @@
   <UplandRice.label>Upland rice</UplandRice.label>
   <UplandRice.description>Upland rice is grown in dry fields, harvest and seeded when dry-season.\nThis breed rice are made with a focus on shortening from seeding to harvesting and at the same time can increase the harvest volume slightly.</UplandRice.description>
 
+  <GlutinousRicePlant.label>もち米</GlutinousRicePlant.label>
+  <GlutinousRicePlant.description>畑と水田で育成できる米。凍り餅の原材料。\nもちもちとした食感を追求した品種。</GlutinousRicePlant.description>
+
   <WetlandRice.label>Semiaquatic rice</WetlandRice.label>
   <WetlandRice.description>Semiaquatic rice that can be grown in paddy fields. A paddy field is a flooded parcel of arable land used for growing semiaquatic rice.\nThis breed rice can make bumper rice harvest, but instead the growth rate was sacrificed.</WetlandRice.description>
 

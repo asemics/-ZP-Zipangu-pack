@@ -1,21 +1,49 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-	<Cook5MealSimple.label>cook simple meals in bulk (5)</Cook5MealSimple.label>
-	<Cook5MealSimple.description>Cooks straightforward meals from one ingredient.</Cook5MealSimple.description>
-	<Cook5MealSimple.jobString>Cooking simple meals.</Cook5MealSimple.jobString>
-	<Cook5MealFine.label>cook fine meals in bulk (5)</Cook5MealFine.label>
-	<Cook5MealFine.description>Cooks somewhat complex meals from a combination of raw meat and raw plant ingredients.</Cook5MealFine.description>
-	<Cook5MealFine.jobString>Cooking fine meals.</Cook5MealFine.jobString>
-	<Cook5MealLavish.label>cook lavish meals in bulk (5)</Cook5MealLavish.label>
-	<Cook5MealLavish.description>Cooks very complex meals from a combination of raw meat and raw plant ingredients. Much of the ingredients are wasted.</Cook5MealLavish.description>
-	<Cook5MealLavish.jobString>Cooking lavish meals.</Cook5MealLavish.jobString>
-	<Cook5MealSurvival.label>cook packaged survival meals in bulk (5)</Cook5MealSurvival.label>
-	<Cook5MealSurvival.description>Cooks a packaged survival meals from a combination of raw meat and raw plant ingredients. Much of the ingredients are wasted.</Cook5MealSurvival.description>
-	<Cook5MealSurvival.jobString>Cooking survival meals.</Cook5MealSurvival.jobString>
-	<Make6Kibble.label>make kibble in bulk (300)</Make6Kibble.label>
-	<Make6Kibble.description>Make animal kibble by combining raw meat and plants.</Make6Kibble.description>
-	<Make6Kibble.jobString>Making kibble.</Make6Kibble.jobString>
-	<Make9Pemmican.label>make pemmican in bulk (10)</Make9Pemmican.label>
-	<Make9Pemmican.description>Make pemmican, a preserved combination of meat and plant food. It doesn't taste amazing, but lasts a year without refrigeration.</Make9Pemmican.description>
-	<Make9Pemmican.jobString>Making pemmican.</Make9Pemmican.jobString>
+
+  <Cook5MealSimple.label>cook simple meals in bulk (5)</Cook5MealSimple.label>
+  <Cook5MealSimple.description>Cooks straightforward meals from one ingredient.</Cook5MealSimple.description>
+  <Cook5MealSimple.jobString>Cooking simple meals.</Cook5MealSimple.jobString>
+
+  <!--[Core] <CookMealFine.label>приготовить вкусное блюдо</CookMealFine.label>-->
+  <!--[Core] <CookMealFine.description>Приготовить вкусное блюдо из мяса и растений.</CookMealFine.description>-->
+  <!--[Core] <CookMealFine.jobString>Готовит вкусное блюдо.</CookMealFine.jobString>-->
+
+  <Cook5MealFine.label>cook fine meals in bulk (5)</Cook5MealFine.label>
+  <Cook5MealFine.description>Cooks somewhat complex meals from a combination of raw meat and raw plant ingredients.</Cook5MealFine.description>
+  <Cook5MealFine.jobString>Cooking fine meals.</Cook5MealFine.jobString>
+
+  <!--[Core] <CookMealLavish.label>приготовить шикарное блюдо</CookMealLavish.label>-->
+  <!--[Core] <CookMealLavish.description>Приготовить очень сложное блюдо из мяса и растений. Большая часть ингредиентов уйдёт впустую.</CookMealLavish.description>-->
+  <!--[Core] <CookMealLavish.jobString>Готовит шикарное блюдо.</CookMealLavish.jobString>-->
+
+  <Cook5MealLavish.label>cook lavish meals in bulk (5)</Cook5MealLavish.label>
+  <Cook5MealLavish.description>Cooks very complex meals from a combination of raw meat and raw plant ingredients. Much of the ingredients are wasted.</Cook5MealLavish.description>
+  <Cook5MealLavish.jobString>Cooking lavish meals.</Cook5MealLavish.jobString>
+
+  <!--[Core] <CookMealSurvival.label>приготовить сухпаёк</CookMealSurvival.label>-->
+  <!--[Core] <CookMealSurvival.description>Приготовить запечатанный сухпаёк из мяса и растений. Большая часть ингредиентов уйдёт впустую.</CookMealSurvival.description>-->
+  <!--[Core] <CookMealSurvival.jobString>Готовит сухпаёк.</CookMealSurvival.jobString>-->
+
+  <Cook5MealSurvival.label>cook packaged survival meals in bulk (5)</Cook5MealSurvival.label>
+  <Cook5MealSurvival.description>Cooks a packaged survival meals from a combination of raw meat and raw plant ingredients. Much of the ingredients are wasted.</Cook5MealSurvival.description>
+  <Cook5MealSurvival.jobString>Cooking survival meals.</Cook5MealSurvival.jobString>
+
+  <!--[Core] <MakeKibble.label>сделать комбикорм</MakeKibble.label>-->
+  <!--[Core] <MakeKibble.description>Сделать комбикорм для животных из сырого мяса и растений.</MakeKibble.description>-->
+  <!--[Core] <MakeKibble.jobString>Делает комбикорм.</MakeKibble.jobString>-->
+
+  <Make6Kibble.label>make kibble in bulk (300)</Make6Kibble.label>
+  <Make6Kibble.description>Make animal kibble by combining raw meat and plants.</Make6Kibble.description>
+  <Make6Kibble.jobString>Making kibble.</Make6Kibble.jobString>
+
+  <!--[Core] <MakePemmican.label>сделать пеммикан</MakePemmican.label>-->
+  <!--[Core] <MakePemmican.description>Высушить мясо и смешать его с травами. Вкусовые качества у него сомнительные, зато такая пища может храниться целый год, даже находясь в тепле.</MakePemmican.description>-->
+  <!--[Core] <MakePemmican.jobString>Делает пеммикан.</MakePemmican.jobString>-->
+
+  <Make9Pemmican.label>make pemmican in bulk (10)</Make9Pemmican.label>
+  <Make9Pemmican.description>Make pemmican, a preserved combination of meat and plant food. It doesn't taste amazing, but lasts a year without refrigeration.</Make9Pemmican.description>
+  <Make9Pemmican.jobString>Making pemmican.</Make9Pemmican.jobString>
+
+
 </LanguageData>

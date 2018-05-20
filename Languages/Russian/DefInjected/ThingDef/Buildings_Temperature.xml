@@ -15,5 +15,12 @@
   <ZP_Brazier_Frame.label>Brazier (building)</ZP_Brazier_Frame.label>
   <ZP_Brazier_Frame.description>Traditional Japanese heating equipment. It is also possible to cook the Mochi in the brazier.</ZP_Brazier_Frame.description>
 
+  <ZP_Kotatu.label>炬燵</ZP_Kotatu.label>
+  <ZP_Kotatu.description>日本の伝統的な暖房器具。机の上に布団を被せその中に熱源を置く事で暖かくする。</ZP_Kotatu.description>
+  <ZP_Kotatu_Blueprint.label>炬燵 (blueprint)</ZP_Kotatu_Blueprint.label>
+  <ZP_Kotatu_Blueprint_Install.label>炬燵 (blueprint)</ZP_Kotatu_Blueprint_Install.label>
+  <ZP_Kotatu_Frame.label>炬燵 (building)</ZP_Kotatu_Frame.label>
+  <ZP_Kotatu_Frame.description>日本の伝統的な暖房器具。机の上に布団を被せその中に熱源を置く事で暖かくする。</ZP_Kotatu_Frame.description>
+
 
 </LanguageData>

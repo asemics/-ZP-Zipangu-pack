@@ -15,12 +15,15 @@
   <MakeR_SeasonedMeat50.description>Eliminate the smell with seasoning, make seasoned meat with slightly enhanced nutrients and preservability.</MakeR_SeasonedMeat50.description>
   <MakeR_SeasonedMeat50.jobString>Make seasoned meat.</MakeR_SeasonedMeat50.jobString>
 
+
+  <!-- 凍り餅 -->
+
   <CookFreezeMochi10.label>Freeze mochi(10)</CookFreezeMochi10.label>
   <CookFreezeMochi10.description>Make a Frozen mochi that can be stored for a long time by soaking mochis in water and freezing it, then drying it with cold wind.</CookFreezeMochi10.description>
   <CookFreezeMochi10.jobString>Make a frozen mochi.</CookFreezeMochi10.jobString>
 
 
-  <!-- 凍り餅 -->
+  <!-- 削除予定 -->
 
   <CookFreezeMochi20.label>Freeze mochi(20)</CookFreezeMochi20.label>
   <CookFreezeMochi20.description>Make a Frozen mochi that can be stored for a long time by soaking mochis in water and freezing it, then drying it with cold wind.</CookFreezeMochi20.description>
@@ -35,11 +38,25 @@
   <CookFreezeMochi100.jobString>Make a frozen mochi.</CookFreezeMochi100.jobString>
 
 
+  <!-- たんぽ -->
+
+  <CookTanpo10.label>たんぽ(10)</CookTanpo10.label>
+  <CookTanpo10.description>餅を水に浸して凍らせたものを,寒風に晒して乾燥させ凍り餅を作る</CookTanpo10.description>
+  <CookTanpo10.jobString>凍り餅を作る</CookTanpo10.jobString>
+
+  <CookTanpo50.label>たんぽ(50)</CookTanpo50.label>
+  <CookTanpo50.description>餅を水に浸して凍らせたものを,寒風に晒して乾燥させ凍り餅を作る</CookTanpo50.description>
+  <CookTanpo50.jobString>凍り餅を作る</CookTanpo50.jobString>
+
+
   <!-- ぬか漬け -->
 
   <CookRiceBranPickled10.label>Nukaduke(10)</CookRiceBranPickled10.label>
   <CookRiceBranPickled10.description>Make Nukadoko(pasted rice bran) with rice bran and salt. Immerse vegetables.</CookRiceBranPickled10.description>
   <CookRiceBranPickled10.jobString>Making Nukaduke</CookRiceBranPickled10.jobString>
+
+
+  <!-- 削除予定 -->
 
   <CookRiceBranPickled20.label>Nukaduke(20)</CookRiceBranPickled20.label>
   <CookRiceBranPickled20.description>Make Nukadoko(pasted rice bran) with rice bran and salt. Immerse vegetables.</CookRiceBranPickled20.description>
@@ -55,6 +72,9 @@
   <CookFermentedSoybeans10.label>Natto(10)</CookFermentedSoybeans10.label>
   <CookFermentedSoybeans10.description>Wrap the soybeans in straw and make natto.</CookFermentedSoybeans10.description>
   <CookFermentedSoybeans10.jobString>Making Natto</CookFermentedSoybeans10.jobString>
+
+
+  <!-- 削除予定 -->
 
   <CookFermentedSoybeans20.label>Natto(20)</CookFermentedSoybeans20.label>
   <CookFermentedSoybeans20.description>Wrap the soybeans in straw and make natto.</CookFermentedSoybeans20.description>
@@ -75,6 +95,30 @@
   <CookDriedFish50.label>making Dried fish(50)</CookDriedFish50.label>
   <CookDriedFish50.description>Dry raw fish to long last</CookDriedFish50.description>
   <CookDriedFish50.jobString>making Dried fish</CookDriedFish50.jobString>
+
+  <CookTikuwa5.label>ちくわ(10)</CookTikuwa5.label>
+  <CookTikuwa5.description>生魚をすりおろしてちくわを作る</CookTikuwa5.description>
+  <CookTikuwa5.jobString>ちくわを作る</CookTikuwa5.jobString>
+
+  <CookTikuwa10.label>ちくわ(50)</CookTikuwa10.label>
+  <CookTikuwa10.description>生魚をすりおろしてちくわを作る</CookTikuwa10.description>
+  <CookTikuwa10.jobString>ちくわを作る</CookTikuwa10.jobString>
+
+  <CookFishFillet.label>魚の切り身(10)</CookFishFillet.label>
+  <CookFishFillet.description>生魚をさばいて切り身にする。</CookFishFillet.description>
+  <CookFishFillet.jobString>切り身を作る</CookFishFillet.jobString>
+
+  <CookFishFillet10.label>魚の切り身(50)</CookFishFillet10.label>
+  <CookFishFillet10.description>生魚をさばいて切り身にする。</CookFishFillet10.description>
+  <CookFishFillet10.jobString>切り身を作る</CookFishFillet10.jobString>
+
+  <ZP_CookTofu10.label>豆腐(10)</ZP_CookTofu10.label>
+  <ZP_CookTofu10.description>豆乳を使って豆腐を作る</ZP_CookTofu10.description>
+  <ZP_CookTofu10.jobString>豆腐を作る</ZP_CookTofu10.jobString>
+
+  <ZP_CookTofu50.label>豆腐(50)</ZP_CookTofu50.label>
+  <ZP_CookTofu50.description>豆乳を使って豆腐を作る</ZP_CookTofu50.description>
+  <ZP_CookTofu50.jobString>豆腐を作る</ZP_CookTofu50.jobString>
 
 
 </LanguageData>
