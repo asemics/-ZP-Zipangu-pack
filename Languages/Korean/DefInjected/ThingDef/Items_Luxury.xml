@@ -6,5 +6,32 @@
   <R_PuffedRice.label>튀긴 곡물 과자</R_PuffedRice.label>
   <R_PuffedRice.description>쌀에 압력을 가한 후에 한 번에 개방된 힘에 의해 부풀어진、바삭바삭한 식감의 막과자이다.</R_PuffedRice.description>
 
+  <ZP_RiceCracker.label>煎餅</ZP_RiceCracker.label>
+  <ZP_RiceCracker.description>とても歯ごたえのあるお菓子。醤油、味噌等で好きな味付けを楽しもう。</ZP_RiceCracker.description>
+
+  <ZP_Okoshi.label>おこし</ZP_Okoshi.label>
+  <ZP_Okoshi.description>米を熱して干した後に米飴で固めた和菓子。戦国時代は「身を起こし 家を起こし 国を起こす」縁起の良いお菓子として広く人々に親しまれていた。</ZP_Okoshi.description>
+
+  <ZP_Kasutera.label>ベビーカステラ</ZP_Kasutera.label>
+  <ZP_Kasutera.description>縁日の定番お菓子。素朴なカステラのような味で、何個も口に入れてしまうほど美味しい。</ZP_Kasutera.description>
+
+  <ZP_Kompeito.label>金平糖</ZP_Kompeito.label>
+  <ZP_Kompeito.description>戦国時代にポルトガルから日本に伝来したお菓子。カラフルな見た目と優しい甘さが入植者を癒してくれる。</ZP_Kompeito.description>
+
+  <ZP_CottonCandy.label>わたあめ</ZP_CottonCandy.label>
+  <ZP_CottonCandy.description>縁日の定番お菓子。ふわふわした食感と甘さを楽しむ事ができる。\n時間が経つと萎んで固くなってしまうのではやめに食べよう。</ZP_CottonCandy.description>
+
+  <ZP_BoiledEdamame.label>塩茹で枝豆</ZP_BoiledEdamame.label>
+  <ZP_BoiledEdamame.description>枝豆を塩茹でした日本の定番おつまみ。暑い日に冷えたビールのお供にすることが多い。</ZP_BoiledEdamame.description>
+
+  <ZP_Yakitori.label>焼き鳥</ZP_Yakitori.label>
+  <ZP_Yakitori.description>肉を一口大に切った後に串に刺して焼いた日本の定番おつまみ。味は塩かタレを選べます。</ZP_Yakitori.description>
+
+  <ZP_Hiyayakko.label>冷奴</ZP_Hiyayakko.label>
+  <ZP_Hiyayakko.description>豆腐に薬味をのせ醤油をかけたシンプルな料理。酒の肴やおかずに1品足したい時に便利。</ZP_Hiyayakko.description>
+
+  <ZP_Misotanpo.label>みそたんぽ</ZP_Misotanpo.label>
+  <ZP_Misotanpo.description>焼いたたんぽに味噌をつけたもの。秋田県の郷土料理。</ZP_Misotanpo.description>
+
 
 </LanguageData>

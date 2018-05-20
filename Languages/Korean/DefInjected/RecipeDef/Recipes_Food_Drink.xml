@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <CookMisosiru.label>味噌汁(2)</CookMisosiru.label>
+  <CookMisosiru.description>味噌を溶かしただし汁にお好みの具材を入れよう。</CookMisosiru.description>
+  <CookMisosiru.jobString>味噌汁を作る</CookMisosiru.jobString>
+
+  <CookSoyMilkShake.label>豆乳シェイク(2)</CookSoyMilkShake.label>
+  <CookSoyMilkShake.description></CookSoyMilkShake.description>
+  <CookSoyMilkShake.jobString>豆乳シェイクを作る</CookSoyMilkShake.jobString>
+
+
+</LanguageData>

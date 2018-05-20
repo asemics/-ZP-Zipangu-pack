@@ -4,9 +4,9 @@
   <Tawara.label>가마니</Tawara.label>
   <ZP_Seasoning.label>조미료</ZP_Seasoning.label>
   <ZP_Grain.label>Grain</ZP_Grain.label>
-  <ZP_Protein.label>Protein</ZP_Protein.label>
   <AnimalFeed.label>Animal Feed</AnimalFeed.label>
   <ZP_FoodMeals.label>Japanese food</ZP_FoodMeals.label>
+  <ZPLuxury.label>嗜好品</ZPLuxury.label>
 
 
   <!-- Weapon -->
@@ -45,6 +45,7 @@
   <Zipangu.label>Zipangu</Zipangu.label>
 
 
+  <!--<ZP_Protein.label>Protein</ZP_Protein.label>-->
   <!--<ZP_Rice.label>쌀</ZP_Rice.label>-->
 
 </LanguageData>

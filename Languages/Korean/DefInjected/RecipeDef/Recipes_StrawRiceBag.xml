@@ -15,6 +15,10 @@
   <MakeStrawRiceBag_BrownRice.description>현미를 300개 보관 가능하여、특산품으로써 팔린다. \n！！주의!　기밀성이 안좋기 때문에 풀 때에 내용물이 흐릅니다.</MakeStrawRiceBag_BrownRice.description>
   <MakeStrawRiceBag_BrownRice.jobString>가마니에 현미를 담는다</MakeStrawRiceBag_BrownRice.jobString>
 
+  <MakeStrawRiceBag_GlutinousRice.label>米俵(もち米)を作る</MakeStrawRiceBag_GlutinousRice.label>
+  <MakeStrawRiceBag_GlutinousRice.description>もち米を300個保管できて、特産品として高く売れる。\n！！注意！！　気密性が悪いのでほどく時に中身が減ります。</MakeStrawRiceBag_GlutinousRice.description>
+  <MakeStrawRiceBag_GlutinousRice.jobString>俵に米をつめる</MakeStrawRiceBag_GlutinousRice.jobString>
+
   <MakeStrawRiceBag_WhiteRice.label>가마니(백미)을 만든다</MakeStrawRiceBag_WhiteRice.label>
   <MakeStrawRiceBag_WhiteRice.description>백미를 300개 보관 가능하여、특산품으로써 팔린다. \n！！주의!　기밀성이 안좋기 때문에 풀 때에 내용물이 흐릅니다.</MakeStrawRiceBag_WhiteRice.description>
   <MakeStrawRiceBag_WhiteRice.jobString>가마니에 백미를 담는다</MakeStrawRiceBag_WhiteRice.jobString>
@@ -33,6 +37,10 @@
   <UnwindStrawRiceBag_BrownRice.label>가마니(현미)를 푼다</UnwindStrawRiceBag_BrownRice.label>
   <UnwindStrawRiceBag_BrownRice.description>가마니에서 내용물을 꺼낸다.\n기밀성이 안좋기 때문에 풀 때에 내용물이 흐릅니다.</UnwindStrawRiceBag_BrownRice.description>
   <UnwindStrawRiceBag_BrownRice.jobString>가마니를 푼다.</UnwindStrawRiceBag_BrownRice.jobString>
+
+  <UnwindStrawRiceBag_GlutinousRice.label>米俵(もち米)をほどく</UnwindStrawRiceBag_GlutinousRice.label>
+  <UnwindStrawRiceBag_GlutinousRice.description>米俵から中身をとりだす。\n気密性が悪いのでほどくさいに中身がこぼれて減っている。</UnwindStrawRiceBag_GlutinousRice.description>
+  <UnwindStrawRiceBag_GlutinousRice.jobString>Unwind a bales.</UnwindStrawRiceBag_GlutinousRice.jobString>
 
   <UnwindStrawRiceBag_WhiteRice.label>가마니(백미)를 푼다</UnwindStrawRiceBag_WhiteRice.label>
   <UnwindStrawRiceBag_WhiteRice.description>가마니에서 내용물을 꺼낸다.\n기밀성이 안좋기 때문에 풀 때에 내용물이 흐릅니다.</UnwindStrawRiceBag_WhiteRice.description>

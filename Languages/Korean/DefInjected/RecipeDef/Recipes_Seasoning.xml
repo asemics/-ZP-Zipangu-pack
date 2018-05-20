@@ -3,11 +3,11 @@
 
   <!-- 調味料 -->
 
-  <R_CookNaturalSalt.label>천연 소금(10)</R_CookNaturalSalt.label>
+  <R_CookNaturalSalt.label>천연 소금(25)</R_CookNaturalSalt.label>
   <R_CookNaturalSalt.description>염분을 머금은 물을 바짝 졸여서 소금을 추출한다.</R_CookNaturalSalt.description>
   <R_CookNaturalSalt.jobString>塩を抽出する。</R_CookNaturalSalt.jobString>
 
-  <R_CookSyrup10.label>쌀엿(10)</R_CookSyrup10.label>
+  <R_CookSyrup10.label>쌀엿(25)</R_CookSyrup10.label>
   <R_CookSyrup10.description>쌀을 졸여서 당화시킨 쌀엿을 만든다</R_CookSyrup10.description>
   <R_CookSyrup10.jobString>쌀엿을 만든다</R_CookSyrup10.jobString>
 

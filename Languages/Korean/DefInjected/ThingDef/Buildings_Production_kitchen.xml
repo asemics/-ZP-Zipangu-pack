@@ -22,6 +22,13 @@
   <RiceCooker_Frame.label>취반기 (building)</RiceCooker_Frame.label>
   <RiceCooker_Frame.description>밥을 짓거나 국을 만들때에 편리한 조리대.\n최신초리기구가 갖추어져 조리속도가 30%상승한다.</RiceCooker_Frame.description>
 
+  <ZPIrori.label>囲炉裏</ZPIrori.label>
+  <ZPIrori.description>日本家屋に設けられる炉の一種で、床の一部を四角に切り抜いて火をたく場所。主に暖房と調理が目的だが人々の集いの場所でもありリラクゼーションをもたらしてくれる。</ZPIrori.description>
+  <ZPIrori_Blueprint.label>囲炉裏 (blueprint)</ZPIrori_Blueprint.label>
+  <ZPIrori_Blueprint_Install.label>囲炉裏 (blueprint)</ZPIrori_Blueprint_Install.label>
+  <ZPIrori_Frame.label>囲炉裏 (building)</ZPIrori_Frame.label>
+  <ZPIrori_Frame.description>日本家屋に設けられる炉の一種で、床の一部を四角に切り抜いて火をたく場所。主に暖房と調理が目的だが人々の集いの場所でもありリラクゼーションをもたらしてくれる。</ZPIrori_Frame.description>
+
   <CookingTable.label>Cooking table</CookingTable.label>
   <CookingTable.description>Cooking table for preparing.\nSpecializing in seasoning and food processing.</CookingTable.description>
   <CookingTable_Blueprint.label>Cooking table(blueprint)</CookingTable_Blueprint.label>

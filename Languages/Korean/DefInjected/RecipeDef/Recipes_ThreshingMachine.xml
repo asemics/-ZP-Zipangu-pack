@@ -20,6 +20,25 @@
   <MakeThreshingMachineRice200.jobString>벼 이삭을 탈곡시킨다</MakeThreshingMachineRice200.jobString>
 
 
+  <!-- 脱穀機　稲穂⇒籾米(もち米) -->
+
+  <MakeThreshingMachineGRice10.label>稲穂(もち米)を脱穀する(10)</MakeThreshingMachineGRice10.label>
+  <MakeThreshingMachineGRice10.description>脱穀して籾米(もち米)と藁にわける。従来より効率的に脱穀できる。</MakeThreshingMachineGRice10.description>
+  <MakeThreshingMachineGRice10.jobString>稲穂を脱穀する</MakeThreshingMachineGRice10.jobString>
+
+  <MakeThreshingMachineGRice50.label>稲穂(もち米)を脱穀する(50)</MakeThreshingMachineGRice50.label>
+  <MakeThreshingMachineGRice50.description>脱穀して籾米(もち米)と藁にわける。従来より効率的に脱穀できる。</MakeThreshingMachineGRice50.description>
+  <MakeThreshingMachineGRice50.jobString>稲穂を脱穀する</MakeThreshingMachineGRice50.jobString>
+
+  <MakeThreshingMachineGRice100.label>稲穂(もち米)を脱穀する(100)</MakeThreshingMachineGRice100.label>
+  <MakeThreshingMachineGRice100.description>脱穀して籾米(もち米)と藁にわける。従来より効率的に脱穀できる。</MakeThreshingMachineGRice100.description>
+  <MakeThreshingMachineGRice100.jobString>稲穂を脱穀する</MakeThreshingMachineGRice100.jobString>
+
+  <MakeThreshingMachineGRice200.label>稲穂(もち米)を脱穀する(200)</MakeThreshingMachineGRice200.label>
+  <MakeThreshingMachineGRice200.description>脱穀して籾米(もち米)と藁にわける。従来より効率的に脱穀できる。</MakeThreshingMachineGRice200.description>
+  <MakeThreshingMachineGRice200.jobString>稲穂を脱穀する</MakeThreshingMachineGRice200.jobString>
+
+
   <!-- 탈곡기　벼 이삭⇒쌀(벼) -->
 
 </LanguageData>

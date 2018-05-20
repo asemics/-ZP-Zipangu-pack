@@ -21,6 +21,9 @@
   <StrawRiceBag_BrownRice.label>가마니(현미)</StrawRiceBag_BrownRice.label>
   <StrawRiceBag_BrownRice.description>현미를 보존시킬 수 있다、또、특산품으로써 팔린다.</StrawRiceBag_BrownRice.description>
 
+  <StrawRiceBag_GlutinousRice.label>米俵(もち米)</StrawRiceBag_GlutinousRice.label>
+  <StrawRiceBag_GlutinousRice.description>もち米を保管できる。また、特産品として高く売れる。</StrawRiceBag_GlutinousRice.description>
+
   <StrawRiceBag_WhiteRice.label>가마니(백미)</StrawRiceBag_WhiteRice.label>
   <StrawRiceBag_WhiteRice.description>현미를 보존시킬 수 있다、또、특산품으로써 팔린다.</StrawRiceBag_WhiteRice.description>
 
@@ -53,5 +56,6 @@
 
   <TatamiG.label>Tatami(1quire)</TatamiG.label>
   <TatamiG.description>Tatami of 1 quire size.</TatamiG.description>
+
 
 </LanguageData>

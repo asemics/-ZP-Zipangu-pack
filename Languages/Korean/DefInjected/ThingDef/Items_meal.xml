@@ -13,6 +13,12 @@
   <WR_TKG.label>달걀간장밥</WR_TKG.label>
   <WR_TKG.description>밥만으로도 맛있는데 거기에 생계란을 얹은 악마의 일품.</WR_TKG.description>
 
+  <BR_Gyudon.label>고기덮밥(현미)</BR_Gyudon.label>
+  <BR_Gyudon.description>밥의 위에 듬뿍 고기를 쌓아올린 현미덮밥.</BR_Gyudon.description>
+
+  <WR_Gyudon.label>고기덮밥</WR_Gyudon.label>
+  <WR_Gyudon.description>밥의 위에 듬뿍 고기를 쌓아올린 백미덮밥.</WR_Gyudon.description>
+
   <BR_Onigiri.label>주먹밥(현미)</BR_Onigiri.label>
   <BR_Onigiri.description>어디서든 먹을 수 있는 소금맛 현미주먹밥.</BR_Onigiri.description>
 
@@ -31,12 +37,6 @@
   <WR_Jubako.label>찬합</WR_Jubako.label>
   <WR_Jubako.description>어디서든 먹을 수 있는 현미 호화스러운 도시락.</WR_Jubako.description>
 
-  <BR_Gyudon.label>고기덮밥(현미)</BR_Gyudon.label>
-  <BR_Gyudon.description>밥의 위에 듬뿍 고기를 쌓아올린 현미덮밥.</BR_Gyudon.description>
-
-  <WR_Gyudon.label>고기덮밥</WR_Gyudon.label>
-  <WR_Gyudon.description>밥의 위에 듬뿍 고기를 쌓아올린 백미덮밥.</WR_Gyudon.description>
-
   <WR_JPCurryRice.label>카레라이스</WR_JPCurryRice.label>
   <WR_JPCurryRice.description>어떤 나라에서는 먹는 방법이나 식재를 무엇으로 할까로 전쟁이 일어날 정도로、모두가 사랑하지 않고서는 못배기는 매력의 카레라이스.</WR_JPCurryRice.description>
 
@@ -54,6 +54,39 @@
 
   <ZP_SteamedFish.label>Boiled fish</ZP_SteamedFish.label>
   <ZP_SteamedFish.description>Food boiled lightly and then seasoned with seasoning and boiled fish.</ZP_SteamedFish.description>
+
+  <GR_Takikomi.label>炊き込みご飯</GR_Takikomi.label>
+  <GR_Takikomi.description>もち米と具を一緒に炊き込んで作るご飯。</GR_Takikomi.description>
+
+  <ZP_Tendon.label>天丼</ZP_Tendon.label>
+  <ZP_Tendon.description>白飯の上に天ぷらをのせたどんぶり。揚げたてサクサクの天ぷらは食欲をそそります。</ZP_Tendon.description>
+
+  <ZP_Udon.label>うどん</ZP_Udon.label>
+  <ZP_Udon.description>穀物粉を練って長く伸ばした白い麺。もちもちとした食感とツルっとしたのどこしが特徴の麺。</ZP_Udon.description>
+
+  <ZP_Ramen.label>ラーメン</ZP_Ramen.label>
+  <ZP_Ramen.description>穀物粉を練って長く伸ばした細い黄色い麺。中華スープに様々な具材を食みあわせた麺料理。</ZP_Ramen.description>
+
+  <ZP_Tyannko.label>ちゃんこ鍋</ZP_Tyannko.label>
+  <ZP_Tyannko.description>具沢山の野菜や肉を沢山入れて煮込んだ鍋。栄養を沢山とれるので元気になれる。</ZP_Tyannko.description>
+
+  <ZP_Okonomiyaki.label>お好み焼き</ZP_Okonomiyaki.label>
+  <ZP_Okonomiyaki.description>水に溶いた穀物粉を生地に野菜と肉を材料に鉄板で焼く日本の庶民的料理。</ZP_Okonomiyaki.description>
+
+  <ZP_Korokke.label>コロッケ</ZP_Korokke.label>
+  <ZP_Korokke.description>ジャガイモを潰してペーストにし衣をつけた揚げ物料理。どこでも食べれる。</ZP_Korokke.description>
+
+  <ZP_Oden.label>おでん</ZP_Oden.label>
+  <ZP_Oden.description>鰹節とコンブでとった出汁にコンニャク、大根、ちくわを長時間煮込んだ煮込み料理。</ZP_Oden.description>
+
+  <ZP_aRice.label>アルファ米</ZP_aRice.label>
+  <ZP_aRice.description>非常用食品。いつでもお米が食べられるように乾燥させたもの。食べる時は水かお湯で戻せば美味しいご飯ができる。</ZP_aRice.description>
+
+  <ZP_Hardtack.label>乾パン</ZP_Hardtack.label>
+  <ZP_Hardtack.description>非常用食品。長期保存のために固く焼き上げたビスケットの一種。</ZP_Hardtack.description>
+
+  <ZP_Timaki.label>ちまき</ZP_Timaki.label>
+  <ZP_Timaki.description>非常用食品。もち米を植物の葉に包み蒸したもの。事前に灰汁でもち米を煮込む事で保存性を高めてる。</ZP_Timaki.description>
 
 
 </LanguageData>

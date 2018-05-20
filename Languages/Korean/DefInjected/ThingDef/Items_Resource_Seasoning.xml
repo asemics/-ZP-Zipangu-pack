@@ -27,5 +27,8 @@
   <R_Miso.label>된장</R_Miso.label>
   <R_Miso.description>요리에 쓰여지는 된장.</R_Miso.description>
 
+  <ZP_Spice.label>香辛料</ZP_Spice.label>
+  <ZP_Spice.description>料理に使える香辛料</ZP_Spice.description>
+
 
 </LanguageData>

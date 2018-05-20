@@ -9,6 +9,12 @@
   <ReWetlandRice.label>논</ReWetlandRice.label>
   <ReWetlandRice.description>한층 더 풍요를 부르기 위하여 논벼와 논의 개발을 한다.</ReWetlandRice.description>
 
+  <ReGlutinousRice.label>もち米</ReGlutinousRice.label>
+  <ReGlutinousRice.description>もちもちとした食感のお米に品種改良をする。\n解放⇒もち米(要：栽培ｽｷﾙ 4),杵臼,もち米レシピ7種類</ReGlutinousRice.description>
+
+  <ReThreshingRiceMillingMachine.label>All-purpose rice processing machine</ReThreshingRiceMillingMachine.label>
+  <ReThreshingRiceMillingMachine.description>Learn how to make Agricultural tools to consume Inaho and convert it to White rice.</ReThreshingRiceMillingMachine.description>
+
 
   <!-- 栽培関係 y=1 -->
 
@@ -17,6 +23,9 @@
 
   <ReAquacultureNet.label>Large Farm fish net</ReAquacultureNet.label>
   <ReAquacultureNet.description>Learn how to make a large Farm fish net so that many fish can be farmed.\nUnlock -&gt; Large Farm fish net(4x5)</ReAquacultureNet.description>
+
+  <ReFloatingSunLamp.label>Floating solar light(need fuel)</ReFloatingSunLamp.label>
+  <ReFloatingSunLamp.description>Learn how to build a floating solar light (need fuel) even in poor footing.\nUnlock -&gt; Floating solar light(need fuel)</ReFloatingSunLamp.description>
 
   <ReBeans.label>Soybeans</ReBeans.label>
   <ReBeans.description>Learn how to grow Soybeans and Edamame(immature Soybeans).\nUnlock -&gt; Soybeans(Necessary: Growing skill 4),Edamame(Necessary: Growing skill 4)</ReBeans.description>
@@ -36,6 +45,9 @@
   <ReZPLandfillSoil.label>Reclaimed soil</ReZPLandfillSoil.label>
   <ReZPLandfillSoil.description>Fill the ground with poor footing.\nUnlock -&gt; Reclaimed soil</ReZPLandfillSoil.description>
 
+  <ReScarecrow.label>Scarecrow of fertility</ReScarecrow.label>
+  <ReScarecrow.description>Learn how to make the scarecrow accept the blessing of fertile God.\nAs long as there is an offering(fuel), Up 30% fertility of the soil within 9 squares.\nCAUTION:Paddy fields and hydroponics growers will not accept blessing.</ReScarecrow.description>
+
 
   <!-- 食料関係 y=3 -->
 
@@ -45,23 +57,17 @@
   <RePreservedFood.label>Preserved meals</RePreservedFood.label>
   <RePreservedFood.description>Learn how to make preserved meals to preserve food for a long time.\nUnlock -&gt; Nukaduke, Dried fish, Natto, Nuka pot</RePreservedFood.description>
 
+  <ReZPLuxury.label>嗜好品</ReZPLuxury.label>
+  <ReZPLuxury.description>嗜好品の作り方を学ぶ。\n解放⇒飲み物レシピ2種,嗜好品レシピ7種</ReZPLuxury.description>
+
 
   <!-- 家具 y=4 -->
 
   <ReZPFurniture.label>Japanese style furniture</ReZPFurniture.label>
   <ReZPFurniture.description>Learn how to build Japanese style furniture to improve the living environment.\nUnlock -&gt; Straw-woven bed, Uchiwa, Hibachi</ReZPFurniture.description>
 
-  <ReThreshingRiceMillingMachine.label>All-purpose rice processing machine</ReThreshingRiceMillingMachine.label>
-  <ReThreshingRiceMillingMachine.description>Learn how to make Agricultural tools to consume Inaho and convert it to White rice.</ReThreshingRiceMillingMachine.description>
-
-  <ReScarecrow.label>Scarecrow of fertility</ReScarecrow.label>
-  <ReScarecrow.description>Learn how to make the scarecrow accept the blessing of fertile God.\nAs long as there is an offering(fuel), Up 30% fertility of the soil within 9 squares.\nCAUTION:Paddy fields and hydroponics growers will not accept blessing.</ReScarecrow.description>
-
-  <ReFloatingSunLamp.label>Floating solar light(need fuel)</ReFloatingSunLamp.label>
-  <ReFloatingSunLamp.description>Learn how to build a floating solar light (need fuel) even in poor footing.\nUnlock -&gt; Floating solar light(need fuel)</ReFloatingSunLamp.description>
-
-  <ReDefenseBase.label>Defense system</ReDefenseBase.label>
-  <ReDefenseBase.description>Learn how to build a defense position.\nunlock -&gt; Kaidate, Straw mass, Gunpowder in Straw mass</ReDefenseBase.description>
+  <ReZPFurniture2nd.label>和風家具Ⅱ</ReZPFurniture2nd.label>
+  <ReZPFurniture2nd.description>住環境をよくする和風家具Ⅱの建て方を学ぶ。\n解放⇒布団,囲炉裏,炬燵,座布団</ReZPFurniture2nd.description>
 
 
   <!-- 装備関係 y=5 -->
@@ -77,6 +83,9 @@
 
   <BlacksmithTanegasima.label>Blacksmith Tanegasima</BlacksmithTanegasima.label>
   <BlacksmithTanegasima.description>You can master the techniques of making TanegasimaGun.</BlacksmithTanegasima.description>
+
+  <ReDefenseBase.label>Defense system</ReDefenseBase.label>
+  <ReDefenseBase.description>Learn how to build a defense position.\nunlock -&gt; Kaidate, Straw mass, Gunpowder in Straw mass</ReDefenseBase.description>
 
 
 </LanguageData>

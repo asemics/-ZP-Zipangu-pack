@@ -7,6 +7,9 @@
   <UplandRice.label>밭벼(쌀)</UplandRice.label>
   <UplandRice.description>밭에서 기를 수 있는 쌀.\n수확 속도를 중시하고 수확량은 조금만 증가시킨 품종.</UplandRice.description>
 
+  <GlutinousRicePlant.label>もち米</GlutinousRicePlant.label>
+  <GlutinousRicePlant.description>畑と水田で育成できる米。凍り餅の原材料。\nもちもちとした食感を追求した品種。</GlutinousRicePlant.description>
+
   <WetlandRice.label>논벼(쌀)</WetlandRice.label>
   <WetlandRice.description>논에서 기를 수 있는 쌀.\n벼 이삭에 대량의 쌀을 여물게 하기 위해 개량했지만, 성장속도가 희생된 품종.</WetlandRice.description>
 

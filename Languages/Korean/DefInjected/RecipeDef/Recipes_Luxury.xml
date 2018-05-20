@@ -5,5 +5,41 @@
   <CookPuffedRice5.description>쌀에 압력을 가한 후에 한 번에 해방한 것에 의해 부풀리게 한다.</CookPuffedRice5.description>
   <CookPuffedRice5.jobString>튀긴 곡류 과자를 만든다</CookPuffedRice5.jobString>
 
+  <CookRiceCracker.label>煎餅(2)</CookRiceCracker.label>
+  <CookRiceCracker.description>煎餅を2個作る</CookRiceCracker.description>
+  <CookRiceCracker.jobString>煎餅を作る</CookRiceCracker.jobString>
+
+  <CookOkoshi.label>おこし(2)</CookOkoshi.label>
+  <CookOkoshi.description>穀物類を加工して飴でかためる。</CookOkoshi.description>
+  <CookOkoshi.jobString>おこしを作る</CookOkoshi.jobString>
+
+  <CookKasutera.label>ベビーカステラ(2)</CookKasutera.label>
+  <CookKasutera.description>ベビーカステラを2個作る</CookKasutera.description>
+  <CookKasutera.jobString>ベビーカステラを作る</CookKasutera.jobString>
+
+  <CookKompeito.label>金平糖(2)</CookKompeito.label>
+  <CookKompeito.description>金平糖を2個作る</CookKompeito.description>
+  <CookKompeito.jobString>金平糖を作る</CookKompeito.jobString>
+
+  <CookCottonCandy.label>わたあめ(2)</CookCottonCandy.label>
+  <CookCottonCandy.description>わたあめを2個作る</CookCottonCandy.description>
+  <CookCottonCandy.jobString>わたあめを作る</CookCottonCandy.jobString>
+
+  <CookBoiledEdamame.label>塩茹で枝豆(2)</CookBoiledEdamame.label>
+  <CookBoiledEdamame.description>枝豆を茹でててから塩を振る。</CookBoiledEdamame.description>
+  <CookBoiledEdamame.jobString>塩茹で枝豆を作る</CookBoiledEdamame.jobString>
+
+  <CookYakitori.label>焼き鳥(2)</CookYakitori.label>
+  <CookYakitori.description>味付け肉と長ネギを串に刺して焼く</CookYakitori.description>
+  <CookYakitori.jobString>焼き鳥を作る</CookYakitori.jobString>
+
+  <CookHiyayakko.label>冷奴(2)</CookHiyayakko.label>
+  <CookHiyayakko.description>豆腐に薬味をのせて醤油をかける。</CookHiyayakko.description>
+  <CookHiyayakko.jobString>冷奴を作る</CookHiyayakko.jobString>
+
+  <CookMisotanpo.label>みそたんぽ(2)</CookMisotanpo.label>
+  <CookMisotanpo.description>みそたんぽを2個作る。</CookMisotanpo.description>
+  <CookMisotanpo.jobString>みそたんぽを作る</CookMisotanpo.jobString>
+
 
 </LanguageData>
