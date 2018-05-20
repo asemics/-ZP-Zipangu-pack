@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <R_CookAlcoholBarrel.label>製作清酒桶</R_CookAlcoholBarrel.label>
+  <R_CookAlcoholBarrel.description>製作一桶可用於釀造清酒的原材料。</R_CookAlcoholBarrel.description>
+  <R_CookAlcoholBarrel.jobString>正在製作清酒桶。</R_CookAlcoholBarrel.jobString>
+
+  <MakeGinjoSake.label>釀造吟釀酒(x25)</MakeGinjoSake.label>
+  <MakeGinjoSake.description>釀造吟釀酒。</MakeGinjoSake.description>
+  <MakeGinjoSake.jobString>正在釀造吟釀酒。</MakeGinjoSake.jobString>
+
+
+</LanguageData>

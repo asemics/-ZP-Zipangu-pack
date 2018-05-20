@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 簡単な食事 ご飯 -->
+
+  <CookBRGohan1.label>烹煮糙米飯</CookBRGohan1.label>
+  <CookBRGohan1.description>煮一份糙米飯。</CookBRGohan1.description>
+  <CookBRGohan1.jobString>正在烹煮米飯。</CookBRGohan1.jobString>
+
+  <CookBRGohan4.label>烹煮糙米飯(x4)</CookBRGohan4.label>
+  <CookBRGohan4.description>煮一鍋糙米飯。</CookBRGohan4.description>
+  <CookBRGohan4.jobString>正在烹煮米飯。</CookBRGohan4.jobString>
+
+  <CookGohan1.label>烹煮白米飯</CookGohan1.label>
+  <CookGohan1.description>煮一份白米飯。</CookGohan1.description>
+  <CookGohan1.jobString>正在烹煮米飯。</CookGohan1.jobString>
+
+  <CookGohan4.label>烹煮白米飯(x4)</CookGohan4.label>
+  <CookGohan4.description>煮一鍋白米飯。</CookGohan4.description>
+  <CookGohan4.jobString>正在烹煮米飯。</CookGohan4.jobString>
+
+
+  <!-- 簡単な食事 単品 -->
+
+  <CookTsukudani.label>製作蟲肉佃煮(x4)</CookTsukudani.label>
+  <CookTsukudani.description>用佃煮的方式把蟲肉處理一下。</CookTsukudani.description>
+  <CookTsukudani.jobString>烹飪中。</CookTsukudani.jobString>
+
+  <CookKorokke4.label>コロッケ(4)</CookKorokke4.label>
+  <CookKorokke4.description>コロッケを４個作る</CookKorokke4.description>
+  <CookKorokke4.jobString>コロッケを作る</CookKorokke4.jobString>
+
+
+  <!-- 簡單な食事 ご飯 -->
+  <!-- 簡單な食事 單品 -->
+
+</LanguageData>

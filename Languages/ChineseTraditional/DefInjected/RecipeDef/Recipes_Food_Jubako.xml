@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 豪華な食事　重箱 -->
+
+  <CookBRJubako4.label>製作漆盒便當【糙米】(x4)</CookBRJubako4.label>
+  <CookBRJubako4.description>製作4份糙米漆盒便當。</CookBRJubako4.description>
+  <CookBRJubako4.jobString>正在製作漆盒便當。</CookBRJubako4.jobString>
+
+  <CookWRJubako4.label>製作漆盒便當【白米】(x4)</CookWRJubako4.label>
+  <CookWRJubako4.description>製作4份漆盒便當。</CookWRJubako4.description>
+  <CookWRJubako4.jobString>正在製作漆盒便當。</CookWRJubako4.jobString>
+
+
+</LanguageData>

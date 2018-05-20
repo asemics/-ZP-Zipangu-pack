@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 調味料 -->
+
+  <R_CookNaturalSalt.label>提取天然鹽(x25)</R_CookNaturalSalt.label>
+  <R_CookNaturalSalt.description>從含鹽份的水中蒸煮提取出精鹽。</R_CookNaturalSalt.description>
+  <R_CookNaturalSalt.jobString>正在提取鹽。</R_CookNaturalSalt.jobString>
+
+  <R_CookSyrup10.label>製作米糖(x25)</R_CookSyrup10.label>
+  <R_CookSyrup10.description>通過熬煮大米來獲得米糖漿。</R_CookSyrup10.description>
+  <R_CookSyrup10.jobString>正在製作米糖。</R_CookSyrup10.jobString>
+
+  <R_CookVinegarBarrel.label>製作米醋桶</R_CookVinegarBarrel.label>
+  <R_CookVinegarBarrel.description>製作一個裝滿用於釀製米醋的原料的桶。</R_CookVinegarBarrel.description>
+  <R_CookVinegarBarrel.jobString>正在製作米醋桶。</R_CookVinegarBarrel.jobString>
+
+  <R_CookVinegar10.label>釀製米醋(x25)</R_CookVinegar10.label>
+  <R_CookVinegar10.description>釀製米醋。</R_CookVinegar10.description>
+  <R_CookVinegar10.jobString>正在釀製米醋。</R_CookVinegar10.jobString>
+
+  <R_CookSoySauceBarrel.label>製作醬油桶</R_CookSoySauceBarrel.label>
+  <R_CookSoySauceBarrel.description>製作一個裝滿用於釀製醬油的原料的桶。</R_CookSoySauceBarrel.description>
+  <R_CookSoySauceBarrel.jobString>正在製作醬油桶。</R_CookSoySauceBarrel.jobString>
+
+  <R_CookSoySauce10.label>釀製醬油(x25)</R_CookSoySauce10.label>
+  <R_CookSoySauce10.description>釀製醬油。</R_CookSoySauce10.description>
+  <R_CookSoySauce10.jobString>正在釀製醬油。</R_CookSoySauce10.jobString>
+
+  <R_CookMisoBarrel.label>製作味噌桶</R_CookMisoBarrel.label>
+  <R_CookMisoBarrel.description>製作一個裝滿用於釀製味噌的原料的桶。</R_CookMisoBarrel.description>
+  <R_CookMisoBarrel.jobString>正在製作味噌桶。</R_CookMisoBarrel.jobString>
+
+  <R_CookMiso10.label>釀製味噌(x25)</R_CookMiso10.label>
+  <R_CookMiso10.description>製作味噌。</R_CookMiso10.description>
+  <R_CookMiso10.jobString>正在釀製味噌。</R_CookMiso10.jobString>
+
+
+</LanguageData>

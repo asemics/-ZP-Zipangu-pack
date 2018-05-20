@@ -3,52 +3,72 @@
 
   <!-- 手の込んだ食事　卵かけご飯 -->
 
-  <CookBRTKG1.label>蛋盖饭【糙米】</CookBRTKG1.label>
-  <CookBRTKG1.description>在饭上面打上一个蛋。</CookBRTKG1.description>
-  <CookBRTKG1.jobString>在饭上加蛋</CookBRTKG1.jobString>
+  <CookBRTKG1.label>制作蛋盖饭【糙米】</CookBRTKG1.label>
+  <CookBRTKG1.description>在饭上面加上一个生蛋。</CookBRTKG1.description>
+  <CookBRTKG1.jobString>在饭上加蛋。</CookBRTKG1.jobString>
 
-  <CookBRTKG4.label>蛋盖饭【糙米】(4)</CookBRTKG4.label>
-  <CookBRTKG4.description>在饭上面打上一个蛋。</CookBRTKG4.description>
-  <CookBRTKG4.jobString>在饭上加蛋</CookBRTKG4.jobString>
+  <CookBRTKG4.label>制作蛋盖饭【糙米】(x4)</CookBRTKG4.label>
+  <CookBRTKG4.description>在饭上面加上一个生蛋。</CookBRTKG4.description>
+  <CookBRTKG4.jobString>在饭上加蛋。</CookBRTKG4.jobString>
 
-  <CookWRTKG1.label>蛋盖饭【白米】</CookWRTKG1.label>
-  <CookWRTKG1.description>在饭上面打上一个蛋。</CookWRTKG1.description>
-  <CookWRTKG1.jobString>在饭上加蛋</CookWRTKG1.jobString>
+  <CookWRTKG1.label>制作蛋盖饭【白米】</CookWRTKG1.label>
+  <CookWRTKG1.description>在饭上面加上一个生蛋。</CookWRTKG1.description>
+  <CookWRTKG1.jobString>在饭上加蛋。</CookWRTKG1.jobString>
 
-  <CookWRTKG4.label>蛋盖饭【白米】(4)</CookWRTKG4.label>
-  <CookWRTKG4.description>在饭上面打上一个蛋。</CookWRTKG4.description>
-  <CookWRTKG4.jobString>在饭上加蛋</CookWRTKG4.jobString>
+  <CookWRTKG4.label>制作蛋盖饭【白米】(x4)</CookWRTKG4.label>
+  <CookWRTKG4.description>在饭上面加上一个生蛋。</CookWRTKG4.description>
+  <CookWRTKG4.jobString>在饭上加蛋。</CookWRTKG4.jobString>
 
 
   <!-- 手の込んだ食事　肉丼 -->
 
-  <CookBRGyudon1.label>肉丼【糙米】</CookBRGyudon1.label>
+  <CookBRGyudon1.label>烹饪肉丼【糙米】</CookBRGyudon1.label>
   <CookBRGyudon1.description>烹饪1份糙米肉丼饭。</CookBRGyudon1.description>
-  <CookBRGyudon1.jobString>正在烹饪肉丼</CookBRGyudon1.jobString>
+  <CookBRGyudon1.jobString>正在烹饪肉丼。</CookBRGyudon1.jobString>
 
-  <CookBRGyudon4.label>肉丼【糙米】(4)</CookBRGyudon4.label>
+  <CookBRGyudon4.label>烹饪肉丼【糙米】(x4)</CookBRGyudon4.label>
   <CookBRGyudon4.description>烹饪4份糙米肉丼饭。</CookBRGyudon4.description>
-  <CookBRGyudon4.jobString>正在烹饪肉丼</CookBRGyudon4.jobString>
+  <CookBRGyudon4.jobString>正在烹饪肉丼。</CookBRGyudon4.jobString>
 
-  <CookWRGyudon1.label>肉丼【白米】</CookWRGyudon1.label>
+  <CookWRGyudon1.label>烹饪肉丼【白米】</CookWRGyudon1.label>
   <CookWRGyudon1.description>烹饪1份肉丼。</CookWRGyudon1.description>
-  <CookWRGyudon1.jobString>正在烹饪肉丼</CookWRGyudon1.jobString>
+  <CookWRGyudon1.jobString>正在烹饪肉丼。</CookWRGyudon1.jobString>
 
-  <CookWRGyudon4.label>肉丼【白米】(4)</CookWRGyudon4.label>
+  <CookWRGyudon4.label>烹饪肉丼【白米】(x4)</CookWRGyudon4.label>
   <CookWRGyudon4.description>烹饪4份肉丼。</CookWRGyudon4.description>
-  <CookWRGyudon4.jobString>正在烹饪肉丼</CookWRGyudon4.jobString>
+  <CookWRGyudon4.jobString>正在烹饪肉丼。</CookWRGyudon4.jobString>
 
-  <CookSasimi8.label>赤身鱼刺身(8)</CookSasimi8.label>
-  <CookSasimi8.description>制作鱼刺身。</CookSasimi8.description>
-  <CookSasimi8.jobString>正在制作鱼刺身</CookSasimi8.jobString>
+  <CookSasimi8.label>制作赤身鱼刺身(x8)</CookSasimi8.label>
+  <CookSasimi8.description>制作赤身鱼刺身。</CookSasimi8.description>
+  <CookSasimi8.jobString>正在制作赤身鱼刺身。</CookSasimi8.jobString>
 
-  <CookSaltGrilledFish8.label>盐烤鱼(8)</CookSaltGrilledFish8.label>
+  <CookSaltGrilledFish8.label>盐烤鱼(x8)</CookSaltGrilledFish8.label>
   <CookSaltGrilledFish8.description>将鱼抹上盐然后串在竹签上用炭火烘焙。</CookSaltGrilledFish8.description>
-  <CookSaltGrilledFish8.jobString>正在烤鱼</CookSaltGrilledFish8.jobString>
+  <CookSaltGrilledFish8.jobString>正在烤鱼。</CookSaltGrilledFish8.jobString>
 
-  <CookSteamedFish8.label>煮鱼(8)</CookSteamedFish8.label>
-  <CookSteamedFish8.description>将鱼煮熟。</CookSteamedFish8.description>
-  <CookSteamedFish8.jobString>正在煮鱼</CookSteamedFish8.jobString>
+  <CookSteamedFish8.label>煮鱼(x8)</CookSteamedFish8.label>
+  <CookSteamedFish8.description>将鱼放入汤中煮熟。</CookSteamedFish8.description>
+  <CookSteamedFish8.jobString>正在煮鱼。</CookSteamedFish8.jobString>
+
+  <CookGRTakikomi4.label>炊き込みご飯(4)</CookGRTakikomi4.label>
+  <CookGRTakikomi4.description>もち米と一緒に野菜類と肉類を炊き込んで作るご飯。</CookGRTakikomi4.description>
+  <CookGRTakikomi4.jobString>炊き込みご飯を作る</CookGRTakikomi4.jobString>
+
+  <CookTendon4.label>天丼(4)</CookTendon4.label>
+  <CookTendon4.description>天丼を４個作る</CookTendon4.description>
+  <CookTendon4.jobString>天丼を作る</CookTendon4.jobString>
+
+  <CookOkonomiyaki4.label>お好み焼(4)</CookOkonomiyaki4.label>
+  <CookOkonomiyaki4.description>お好み焼を４個作る</CookOkonomiyaki4.description>
+  <CookOkonomiyaki4.jobString>お好み焼を作る</CookOkonomiyaki4.jobString>
+
+  <CookUdon4.label>うどん(4)</CookUdon4.label>
+  <CookUdon4.description>うどんを４個作る</CookUdon4.description>
+  <CookUdon4.jobString>うどんを作る</CookUdon4.jobString>
+
+  <CookOden8.label>おでん(8)</CookOden8.label>
+  <CookOden8.description>おでんを8個作る</CookOden8.description>
+  <CookOden8.jobString>おでんを作る</CookOden8.jobString>
 
 
 </LanguageData>

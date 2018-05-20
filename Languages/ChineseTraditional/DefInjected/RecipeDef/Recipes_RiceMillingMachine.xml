@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 精米機　籾米⇒白米 -->
+
+  <MakeRiceMillingMachineRice200N.label>籾米⇒白米(精磨 x200)</MakeRiceMillingMachineRice200N.label>
+  <MakeRiceMillingMachineRice200N.description>將籾米精磨成白米。副產物會在加工過程中攪碎並處理掉，因此不會產生副產物袋。</MakeRiceMillingMachineRice200N.description>
+  <MakeRiceMillingMachineRice200N.jobString>精米中。</MakeRiceMillingMachineRice200N.jobString>
+
+  <MakeRiceMillingMachineGRice200N.label>N:籾米(もち米)をもち米にする(200)</MakeRiceMillingMachineGRice200N.label>
+  <MakeRiceMillingMachineGRice200N.description>籾米(もち米)をもち米にする。副産物は粉砕して消滅させる。</MakeRiceMillingMachineGRice200N.description>
+  <MakeRiceMillingMachineGRice200N.jobString>籾摺り中</MakeRiceMillingMachineGRice200N.jobString>
+
+  <MakeRiceMillingMachineBRice200N.label>N:籾米を玄米にする(200)</MakeRiceMillingMachineBRice200N.label>
+  <MakeRiceMillingMachineBRice200N.description>籾米を玄米にする。副産物は粉砕して消滅させる。</MakeRiceMillingMachineBRice200N.description>
+  <MakeRiceMillingMachineBRice200N.jobString>精米中</MakeRiceMillingMachineBRice200N.jobString>
+
+  <MakeRiceMillingMachineRice10.label>籾米⇒白米(x10)</MakeRiceMillingMachineRice10.label>
+  <MakeRiceMillingMachineRice10.description>將籾米加工分離出白米、谷殼和糠麩。</MakeRiceMillingMachineRice10.description>
+  <MakeRiceMillingMachineRice10.jobString>精米中。</MakeRiceMillingMachineRice10.jobString>
+
+  <MakeRiceMillingMachineRice50.label>籾米⇒白米(x50)</MakeRiceMillingMachineRice50.label>
+  <MakeRiceMillingMachineRice50.description>將籾米加工分離出白米、谷殼和糠麩。</MakeRiceMillingMachineRice50.description>
+  <MakeRiceMillingMachineRice50.jobString>精米中。</MakeRiceMillingMachineRice50.jobString>
+
+  <MakeRiceMillingMachineRice100.label>籾米⇒白米(x100)</MakeRiceMillingMachineRice100.label>
+  <MakeRiceMillingMachineRice100.description>將籾米加工分離出白米、谷殼和糠麩。</MakeRiceMillingMachineRice100.description>
+  <MakeRiceMillingMachineRice100.jobString>精米中。</MakeRiceMillingMachineRice100.jobString>
+
+  <MakeRiceMillingMachineRice200.label>籾米⇒白米(x200)</MakeRiceMillingMachineRice200.label>
+  <MakeRiceMillingMachineRice200.description>將籾米加工分離出白米、稻殼和糠麩。</MakeRiceMillingMachineRice200.description>
+  <MakeRiceMillingMachineRice200.jobString>精米中。</MakeRiceMillingMachineRice200.jobString>
+
+
+  <!-- 精米機　米(籾)⇒玄米 -->
+
+  <MakeRiceMillingMachineRice10_4.label>籾米(もち米)をもち米にする(10)</MakeRiceMillingMachineRice10_4.label>
+  <MakeRiceMillingMachineRice10_4.description>籾を外してもち米と籾殻にわける。</MakeRiceMillingMachineRice10_4.description>
+  <MakeRiceMillingMachineRice10_4.jobString>籾摺り中</MakeRiceMillingMachineRice10_4.jobString>
+
+  <MakeRiceMillingMachineRice50_4.label>籾米(もち米)をもち米にする(50)</MakeRiceMillingMachineRice50_4.label>
+  <MakeRiceMillingMachineRice50_4.description>籾を外してもち米と籾殻にわける。</MakeRiceMillingMachineRice50_4.description>
+  <MakeRiceMillingMachineRice50_4.jobString>籾摺り中</MakeRiceMillingMachineRice50_4.jobString>
+
+  <MakeRiceMillingMachineRice100_4.label>籾米(もち米)をもち米にする(100)</MakeRiceMillingMachineRice100_4.label>
+  <MakeRiceMillingMachineRice100_4.description>籾を外してもち米と籾殻にわける。</MakeRiceMillingMachineRice100_4.description>
+  <MakeRiceMillingMachineRice100_4.jobString>籾摺り中</MakeRiceMillingMachineRice100_4.jobString>
+
+  <MakeRiceMillingMachineRice200_4.label>籾米(もち米)をもち米にする(200)</MakeRiceMillingMachineRice200_4.label>
+  <MakeRiceMillingMachineRice200_4.description>籾を外してもち米と籾殻にわける。</MakeRiceMillingMachineRice200_4.description>
+  <MakeRiceMillingMachineRice200_4.jobString>籾摺り中</MakeRiceMillingMachineRice200_4.jobString>
+
+  <MakeRiceMillingMachineRice10_2.label>籾米⇒糙米(x10)</MakeRiceMillingMachineRice10_2.label>
+  <MakeRiceMillingMachineRice10_2.description>將籾米加工分離出糙米和稻殼。</MakeRiceMillingMachineRice10_2.description>
+  <MakeRiceMillingMachineRice10_2.jobString>正在將籾米去殼。</MakeRiceMillingMachineRice10_2.jobString>
+
+  <MakeRiceMillingMachineRice50_2.label>籾米⇒糙米(x50)</MakeRiceMillingMachineRice50_2.label>
+  <MakeRiceMillingMachineRice50_2.description>將籾米加工分離出糙米和糠麩。</MakeRiceMillingMachineRice50_2.description>
+  <MakeRiceMillingMachineRice50_2.jobString>正在將籾米去殼。</MakeRiceMillingMachineRice50_2.jobString>
+
+  <MakeRiceMillingMachineRice100_2.label>籾米⇒糙米(x100)</MakeRiceMillingMachineRice100_2.label>
+  <MakeRiceMillingMachineRice100_2.description>將籾米加工分離出糙米和糠麩。</MakeRiceMillingMachineRice100_2.description>
+  <MakeRiceMillingMachineRice100_2.jobString>正在將籾米去殼。</MakeRiceMillingMachineRice100_2.jobString>
+
+  <MakeRiceMillingMachineRice200_2.label>籾米⇒糙米(x200)</MakeRiceMillingMachineRice200_2.label>
+  <MakeRiceMillingMachineRice200_2.description>將籾米加工分離出糙米和糠麩。</MakeRiceMillingMachineRice200_2.description>
+  <MakeRiceMillingMachineRice200_2.jobString>正在將籾米去殼。</MakeRiceMillingMachineRice200_2.jobString>
+
+
+  <!-- 精米機　玄米⇒白米 -->
+
+  <MakeRiceMillingMachineRice10_3.label>糙米⇒白米(x10)</MakeRiceMillingMachineRice10_3.label>
+  <MakeRiceMillingMachineRice10_3.description>將糙米加工分離出白米和糠麩。</MakeRiceMillingMachineRice10_3.description>
+  <MakeRiceMillingMachineRice10_3.jobString>精米中。</MakeRiceMillingMachineRice10_3.jobString>
+
+  <MakeRiceMillingMachineRice50_3.label>糙米⇒白米(x50)</MakeRiceMillingMachineRice50_3.label>
+  <MakeRiceMillingMachineRice50_3.description>將糙米加工分離出白米和糠麩。</MakeRiceMillingMachineRice50_3.description>
+  <MakeRiceMillingMachineRice50_3.jobString>精米中。</MakeRiceMillingMachineRice50_3.jobString>
+
+  <MakeRiceMillingMachineRice100_3.label>糙米⇒白米(x100)</MakeRiceMillingMachineRice100_3.label>
+  <MakeRiceMillingMachineRice100_3.description>將糙米加工分離出白米和糠麩。</MakeRiceMillingMachineRice100_3.description>
+  <MakeRiceMillingMachineRice100_3.jobString>精米中。</MakeRiceMillingMachineRice100_3.jobString>
+
+  <MakeRiceMillingMachineRice200_3.label>糙米⇒白米(x200)</MakeRiceMillingMachineRice200_3.label>
+  <MakeRiceMillingMachineRice200_3.description>將糙米加工分離出白米和糠麩。</MakeRiceMillingMachineRice200_3.description>
+  <MakeRiceMillingMachineRice200_3.jobString>精米中。</MakeRiceMillingMachineRice200_3.jobString>
+
+
+  <!-- 精米機　米(籾)⇒白米 -->
+
+</LanguageData>

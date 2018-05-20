@@ -3,7 +3,7 @@
 
   <!-- Apparel 分類 下着 -->
 
-  <ZP_Dogi.label>道服</ZP_Dogi.label>
+  <ZP_Dogi.label>武道服</ZP_Dogi.label>
   <ZP_Dogi.description>日本的武道家们常穿的道服。轻薄的设计使得这种服装在近接战斗时非常方便灵活。</ZP_Dogi.description>
 
   <ZP_Underwear.label>内衣</ZP_Underwear.label>

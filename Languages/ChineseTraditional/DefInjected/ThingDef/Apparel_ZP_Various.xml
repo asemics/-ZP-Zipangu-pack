@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Apparel 分類 下着 -->
+
+  <ZP_Dogi.label>道服</ZP_Dogi.label>
+  <ZP_Dogi.description>日本的武道家們常穿的道服。輕薄的設計使得這種服裝在近接戰鬥時非常方便靈活。</ZP_Dogi.description>
+
+  <ZP_Underwear.label>內衣</ZP_Underwear.label>
+  <ZP_Underwear.description>無論是誰穿上都會顯現出魅力的不可思議的服裝。</ZP_Underwear.description>
+
+  <ZP_NinjaApparel.label>忍者裝束</ZP_NinjaApparel.label>
+  <ZP_NinjaApparel.description>專為偵察、滲透等隱秘行動而設計的非常輕便的裝束。只要你的動作夠快，你就可以奪得先機。</ZP_NinjaApparel.description>
+
+  <ZP_MikoApparel.label>巫女裝束</ZP_MikoApparel.label>
+  <ZP_MikoApparel.description>神道教遵循著日本傳統的萬物有靈論，而這套服飾通常便是由神職人員之巫女所穿。八百萬神祇曾說過它們會存在於萬物之中，庇佑聖潔的他們不受邪惡思想的侵害。</ZP_MikoApparel.description>
+
+  <ZP_GujiApparel.label>神官裝束</ZP_GujiApparel.label>
+  <ZP_GujiApparel.description>神道教遵循著日本傳統的萬物有靈論，而這套服飾通常便是由神職人員之神道官司所穿。 八百萬神祇曾說過它們會存在於萬物之中，庇佑聖潔的他們不受邪惡思想的侵害。</ZP_GujiApparel.description>
+
+  <ZP_SamuraiApparel.label>侍服</ZP_SamuraiApparel.label>
+  <ZP_SamuraiApparel.description>武士穿的衣服。下裝的袴前面有五條折痕，代表五倫、五常，五倫即：君臣、父子、夫婦、兄弟、朋友；五常即：仁、義、禮、智、信，是武士要恪守的倫理道德准則，後面則有兩條，代表天與地、陰與陽、忠與孝。秉持傳統信念的武士，很看重服裝的齊整，因為身為武士，散漫是絕對不可以的。</ZP_SamuraiApparel.description>
+
+  <ZP_Longjohns.label>股引</ZP_Longjohns.label>
+  <ZP_Longjohns.description>一種日本傳統褲裝。褲型是從腰到腳踝，較為緊身的樣式。腰的部分用類似皮帶的帶子扎起來就可以了。</ZP_Longjohns.description>
+
+  <ZP_Loincloth.label>兜襠布</ZP_Loincloth.label>
+  <ZP_Loincloth.description>一種日本傳統的內衣，同時也是男子漢的像征。</ZP_Loincloth.description>
+
+
+  <!-- 羽織 Base パーカー -->
+
+  <ZP_HaoriApparel.label>羽織</ZP_HaoriApparel.label>
+  <ZP_HaoriApparel.description>適合寒冷冬天穿的外套。除此以外它還可以作為正式服裝，有助於在重要的場合發揮。\n\n日本戰國時代的武將在戰場上為了防寒，通常會在鎧甲外面套上陣織羽，因為其使用的便利性所以很快也就成為了日常裝。那時候還沒有“羽織”這個名稱，而是被叫作“胴服”。就服裝的順位而言，與覲見將軍時候使用直垂、大紋、素襖（すおう），以及作為士分制服的裃相比，羽織是較下等的階級的物品，作為平民服裝而存在。另一方面、在士分階級以外，“紋付羽織袴”則是僅次於“裃”的正裝。\n現在，一般的人僅僅在祭典和cosplay等少數情況下會穿著“裃”、而“紋付羽織袴”作為男性的正裝的習慣在現代則仍然保留著。</ZP_HaoriApparel.description>
+
+
+  <!-- 蓑 Base ダスターコート -->
+
+  <ZP_Mino.label>蓑衣</ZP_Mino.label>
+  <ZP_Mino.description>用稻草做的鬥篷，披在身上與頭上的鬥笠配合使用以遮風擋雨，同時可防野獸抓咬，也不會妨礙活動，十分方便。</ZP_Mino.description>
+
+
+  <!-- 胸当て Base 防弾チョッキ -->
+
+  <ZP_ArcherArmor.label>胸當</ZP_ArcherArmor.label>
+  <ZP_ArcherArmor.description>日本的弓道手常佩戴的護具，除了提供防護以外還可以起到防止弓弦掃到衣服造成擾弦從而提高射擊精度的作用。</ZP_ArcherArmor.description>
+
+
+  <!-- 足軽具足 Base 防弾チョッキ -->
+
+  <ZP_AsigaruArmor.label>足輕具足</ZP_AsigaruArmor.label>
+  <ZP_AsigaruArmor.description>配備給步卒的護甲。獨特的設計可以讓穿著者的行動不會受到太大的影響，因此可以應對各種突發狀況。\n戰國時代的足輕具足經常也被稱為“御貸具足”。顧名思義，“御貸具足”就是“借來的鎧甲”，與能夠自備鎧甲的武士階層不同，足輕鎧甲大多數是由大名主持制造再配發給基層士兵的。作為大量制造的廉價軍用品，戰國時代的日本足輕具足形制非常的簡樸和統一，沒有什麼“個性化”可言。</ZP_AsigaruArmor.description>
+
+
+  <!-- 将軍鎧 Base パワーアーマー -->
+
+  <ZP_SyogunArmor.label>將軍大鎧</ZP_SyogunArmor.label>
+  <ZP_SyogunArmor.description>裝飾華麗，是將領級別的上層武士才能夠穿戴的奢侈品。\n這種鎧甲通常是由皮革和金屬復合製作而成，而不像人們常常認為的那樣用竹子制成。在防御力方面可能不及西方的重型板甲，但它的製作工藝精湛，裝飾用的精巧附件也很多，因此每一件將軍大鎧都堪稱藝術品。</ZP_SyogunArmor.description>
+
+  <ZP_TetateShield.label>手盾</ZP_TetateShield.label>
+  <ZP_TetateShield.description>一種由弓箭手裝備的盾牌，除了可以提高對攻擊的抵抗力以外，還能對射擊起到穩定作用。</ZP_TetateShield.description>
+
+
+  <!-- Apparel 分類 下著 -->
+  <!-- 胸當て Base 防弾チョッキ -->
+  <!-- 將軍鎧 Base パワーアーマー -->
+
+</LanguageData>

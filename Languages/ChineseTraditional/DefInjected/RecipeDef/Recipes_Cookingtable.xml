@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 味付け肉 -->
+
+  <MakeR_SeasonedMeat5.label>醃製肉(x5)</MakeR_SeasonedMeat5.label>
+  <MakeR_SeasonedMeat5.description>用調料醃製過的肉，比生肉的營養價值要高一點，而且儲存時間也更長。</MakeR_SeasonedMeat5.description>
+  <MakeR_SeasonedMeat5.jobString>正在醃製生肉。</MakeR_SeasonedMeat5.jobString>
+
+  <MakeR_SeasonedMeat20.label>醃製肉(x20)</MakeR_SeasonedMeat20.label>
+  <MakeR_SeasonedMeat20.description>用調料醃製過的肉，比生肉的營養價值要高一點，而且儲存時間也更長。</MakeR_SeasonedMeat20.description>
+  <MakeR_SeasonedMeat20.jobString>正在醃製生肉。</MakeR_SeasonedMeat20.jobString>
+
+  <MakeR_SeasonedMeat50.label>醃製肉(x50)</MakeR_SeasonedMeat50.label>
+  <MakeR_SeasonedMeat50.description>用調料醃製過的肉，比生肉的營養價值要高一點，而且儲存時間也更長。</MakeR_SeasonedMeat50.description>
+  <MakeR_SeasonedMeat50.jobString>正在醃製生肉。</MakeR_SeasonedMeat50.jobString>
+
+
+  <!-- 凍り餅 -->
+
+  <CookFreezeMochi10.label>製作凍米餅(x10)</CookFreezeMochi10.label>
+  <CookFreezeMochi10.description>將米飯浸濕、揉製、冷凍，然後放置在涼風中風乾。這樣處理過的米餅可以儲存更長時間。</CookFreezeMochi10.description>
+  <CookFreezeMochi10.jobString>正在製作凍米餅。</CookFreezeMochi10.jobString>
+
+
+  <!-- 削除予定 -->
+
+  <CookFreezeMochi20.label>製作凍米餅(x20)</CookFreezeMochi20.label>
+  <CookFreezeMochi20.description>將米飯浸濕、揉製、冷凍，然後放置在涼風中風乾。這樣處理過的米餅可以儲存更長時間。</CookFreezeMochi20.description>
+  <CookFreezeMochi20.jobString>正在製作凍米餅。</CookFreezeMochi20.jobString>
+
+  <CookFreezeMochi50.label>製作凍米餅(x50)</CookFreezeMochi50.label>
+  <CookFreezeMochi50.description>將米飯浸濕、揉製、冷凍，然後放置在涼風中風乾。這樣處理過的米餅可以儲存更長時間。</CookFreezeMochi50.description>
+  <CookFreezeMochi50.jobString>正在製作凍米餅。</CookFreezeMochi50.jobString>
+
+  <CookFreezeMochi100.label>製作凍米餅(x100)</CookFreezeMochi100.label>
+  <CookFreezeMochi100.description>將米飯浸濕、揉製、冷凍，然後放置在涼風中風乾。這樣處理過的米餅可以儲存更長時間。</CookFreezeMochi100.description>
+  <CookFreezeMochi100.jobString>正在製作凍米餅。</CookFreezeMochi100.jobString>
+
+
+  <!-- たんぽ -->
+
+  <CookTanpo10.label>たんぽ(10)</CookTanpo10.label>
+  <CookTanpo10.description>潰した米粒を木の棒に纏わせるように成形する。</CookTanpo10.description>
+  <CookTanpo10.jobString>たんぽを作る</CookTanpo10.jobString>
+
+  <CookTanpo50.label>たんぽ(50)</CookTanpo50.label>
+  <CookTanpo50.description>潰した米粒を木の棒に纏わせるように成形する。</CookTanpo50.description>
+  <CookTanpo50.jobString>たんぽを作る</CookTanpo50.jobString>
+
+
+  <!-- ぬか漬け -->
+
+  <CookRiceBranPickled10.label>醃製米糠醬菜(x10)</CookRiceBranPickled10.label>
+  <CookRiceBranPickled10.description>用米糠和鹽來醃製醬菜。</CookRiceBranPickled10.description>
+  <CookRiceBranPickled10.jobString>正在醃製米糠醬菜。</CookRiceBranPickled10.jobString>
+
+
+  <!-- 削除予定 -->
+
+  <CookRiceBranPickled20.label>醃製米糠醬菜(x20)</CookRiceBranPickled20.label>
+  <CookRiceBranPickled20.description>用米糠和鹽來醃製醬菜。</CookRiceBranPickled20.description>
+  <CookRiceBranPickled20.jobString>正在醃製米糠醬菜。</CookRiceBranPickled20.jobString>
+
+  <CookRiceBranPickled50.label>醃製米糠醬菜(x50)</CookRiceBranPickled50.label>
+  <CookRiceBranPickled50.description>用米糠和鹽來醃製醬菜。</CookRiceBranPickled50.description>
+  <CookRiceBranPickled50.jobString>正在醃製米糠醬菜。</CookRiceBranPickled50.jobString>
+
+
+  <!-- 納豆 -->
+
+  <CookFermentedSoybeans10.label>製作納豆(x10)</CookFermentedSoybeans10.label>
+  <CookFermentedSoybeans10.description>將大豆包裹在秸稈之中進行發酵，從而獲得納豆。</CookFermentedSoybeans10.description>
+  <CookFermentedSoybeans10.jobString>正在製作納豆。</CookFermentedSoybeans10.jobString>
+
+
+  <!-- 削除予定 -->
+
+  <CookFermentedSoybeans20.label>製作納豆(x20)</CookFermentedSoybeans20.label>
+  <CookFermentedSoybeans20.description>將大豆包裹在秸稈之中進行發酵，從而獲得納豆。</CookFermentedSoybeans20.description>
+  <CookFermentedSoybeans20.jobString>正在製作納豆。</CookFermentedSoybeans20.jobString>
+
+  <CookFermentedSoybeans50.label>製作納豆(x50)</CookFermentedSoybeans50.label>
+  <CookFermentedSoybeans50.description>將大豆包裹在秸稈之中進行發酵，從而獲得納豆。</CookFermentedSoybeans50.description>
+  <CookFermentedSoybeans50.jobString>正在製作納豆。</CookFermentedSoybeans50.jobString>
+
+  <CookDriedFish10.label>曬製魚乾(x10)</CookDriedFish10.label>
+  <CookDriedFish10.description>將新鮮魚肉充分曬乾，使它們可以儲存更長時間。</CookDriedFish10.description>
+  <CookDriedFish10.jobString>正在曬製魚乾</CookDriedFish10.jobString>
+
+  <CookDriedFish20.label>曬製魚乾(x20)</CookDriedFish20.label>
+  <CookDriedFish20.description>將新鮮魚肉充分曬乾，使它們可以儲存更長時間。</CookDriedFish20.description>
+  <CookDriedFish20.jobString>正在曬製魚乾。</CookDriedFish20.jobString>
+
+  <CookDriedFish50.label>曬製魚乾(x50)</CookDriedFish50.label>
+  <CookDriedFish50.description>將新鮮魚肉充分曬乾，使它們可以儲存更長時間。</CookDriedFish50.description>
+  <CookDriedFish50.jobString>正在曬製魚乾。</CookDriedFish50.jobString>
+
+  <CookTikuwa5.label>ちくわ(10)</CookTikuwa5.label>
+  <CookTikuwa5.description>生魚をすりおろしてちくわを作る</CookTikuwa5.description>
+  <CookTikuwa5.jobString>ちくわを作る</CookTikuwa5.jobString>
+
+  <CookTikuwa10.label>ちくわ(50)</CookTikuwa10.label>
+  <CookTikuwa10.description>生魚をすりおろしてちくわを作る</CookTikuwa10.description>
+  <CookTikuwa10.jobString>ちくわを作る</CookTikuwa10.jobString>
+
+  <CookFishFillet.label>魚の切り身(10)</CookFishFillet.label>
+  <CookFishFillet.description>生魚をさばいて切り身にする。</CookFishFillet.description>
+  <CookFishFillet.jobString>切り身を作る</CookFishFillet.jobString>
+
+  <CookFishFillet10.label>魚の切り身(50)</CookFishFillet10.label>
+  <CookFishFillet10.description>生魚をさばいて切り身にする。</CookFishFillet10.description>
+  <CookFishFillet10.jobString>切り身を作る</CookFishFillet10.jobString>
+
+  <ZP_CookTofu10.label>豆腐(10)</ZP_CookTofu10.label>
+  <ZP_CookTofu10.description>豆乳を使って豆腐を作る</ZP_CookTofu10.description>
+  <ZP_CookTofu10.jobString>豆腐を作る</ZP_CookTofu10.jobString>
+
+  <ZP_CookTofu50.label>豆腐(50)</ZP_CookTofu50.label>
+  <ZP_CookTofu50.description>豆乳を使って豆腐を作る</ZP_CookTofu50.description>
+  <ZP_CookTofu50.jobString>豆腐を作る</ZP_CookTofu50.jobString>
+
+
+</LanguageData>

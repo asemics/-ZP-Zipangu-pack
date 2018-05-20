@@ -4,9 +4,9 @@
   <Tawara.label>俵</Tawara.label>
   <ZP_Seasoning.label>调味料</ZP_Seasoning.label>
   <ZP_Grain.label>谷物</ZP_Grain.label>
-  <ZP_Protein.label>蛋白质 </ZP_Protein.label>
   <AnimalFeed.label>动物饲料</AnimalFeed.label>
   <ZP_FoodMeals.label>日式料理</ZP_FoodMeals.label>
+  <ZPLuxury.label>嗜好品</ZPLuxury.label>
 
 
   <!-- Weapon -->
@@ -26,7 +26,7 @@
   <BodyOnSkin.label>服装</BodyOnSkin.label>
   <BodyArmour.label>护甲</BodyArmour.label>
   <Outergear.label>外衣</Outergear.label>
-  <VanillaBodygear.label>原版</VanillaBodygear.label>
+  <VanillaBodygear.label>原版装备</VanillaBodygear.label>
 
 
   <!-- Hand -->
@@ -42,7 +42,9 @@
   <!-- Acessories -->
 
   <Accessories.label>附件</Accessories.label>
-  <Zipangu.label>和風戰國</Zipangu.label>
+  <Zipangu.label>和风战国</Zipangu.label>
 
+
+  <!--<ZP_Protein.label>蛋白质 </ZP_Protein.label>-->
 
 </LanguageData>

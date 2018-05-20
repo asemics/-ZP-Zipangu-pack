@@ -3,8 +3,8 @@
 
   <ZPAmazake.label>甘酒</ZPAmazake.label>
   <ZPAmazake.description>一种日本传统的、在新年和节日祭典时很常见的甜味饮品，虽然名字里带有“酒”，但实际上酒精含量不足1%呢。\n这种饮品的外观发白且浑浊，因此也被称作“甜粥”。\n它的营养很丰富，而且在夏天时饮用清凉舒爽、冬天时饮用则温暖驱寒，是一种美味而健康的饮品。</ZPAmazake.description>
-  <ZPAmazake.ingestible.ingestCommandString>饮用 {0}</ZPAmazake.ingestible.ingestCommandString>
-  <ZPAmazake.ingestible.ingestReportString>正在饮用 {0}.</ZPAmazake.ingestible.ingestReportString>
+  <ZPAmazake.ingestible.ingestCommandString>饮用{0}</ZPAmazake.ingestible.ingestCommandString>
+  <ZPAmazake.ingestible.ingestReportString>正在饮用{0}。</ZPAmazake.ingestible.ingestReportString>
 
 
 </LanguageData>

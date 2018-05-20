@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 肥料作成 -->
+
+  <MakeTatamiStraw18.label>製作建設用秸稈(x18)</MakeTatamiStraw18.label>
+  <MakeTatamiStraw18.description>將秸稈進行處理，使它們可以應用在建設方面。</MakeTatamiStraw18.description>
+  <MakeTatamiStraw18.jobString>正在處理秸稈。</MakeTatamiStraw18.jobString>
+
+  <MakeTatamiStraw30.label>製作建設用秸稈(x30)</MakeTatamiStraw30.label>
+  <MakeTatamiStraw30.description>將秸稈進行處理，使它們可以應用在建設方面。</MakeTatamiStraw30.description>
+  <MakeTatamiStraw30.jobString>正在處理秸稈。</MakeTatamiStraw30.jobString>
+
+  <MakeTatamiStraw60.label>製作建設用秸稈(x60)</MakeTatamiStraw60.label>
+  <MakeTatamiStraw60.description>將秸稈進行處理，使它們可以應用在建設方面。</MakeTatamiStraw60.description>
+  <MakeTatamiStraw60.jobString>正在處理秸稈。</MakeTatamiStraw60.jobString>
+
+  <MakeTatamiG.label>製作榻榻米(1格)</MakeTatamiG.label>
+  <MakeTatamiG.description>用處理過的秸稈來製作榻榻米。</MakeTatamiG.description>
+  <MakeTatamiG.jobString>正在製作榻榻米。</MakeTatamiG.jobString>
+
+  <MakeR_Compost10.label>製作堆肥(x10)</MakeR_Compost10.label>
+  <MakeR_Compost10.description>用秸稈和米糠發酵來製作建設稻田時需要用到的肥料。</MakeR_Compost10.description>
+  <MakeR_Compost10.jobString>正在製作堆肥。</MakeR_Compost10.jobString>
+
+  <MakeR_Compost50.label>製作堆肥(x50)</MakeR_Compost50.label>
+  <MakeR_Compost50.description>用秸稈和米糠發酵來製作建設稻田時需要用到的肥料。</MakeR_Compost50.description>
+  <MakeR_Compost50.jobString>正在製作堆肥。</MakeR_Compost50.jobString>
+
+  <MakeR_Compost100.label>製作堆肥(x100)</MakeR_Compost100.label>
+  <MakeR_Compost100.description>用秸稈和米糠發酵來製作建設稻田時需要用到的肥料。</MakeR_Compost100.description>
+  <MakeR_Compost100.jobString>正在製作堆肥。</MakeR_Compost100.jobString>
+
+
+  <!-- 燃料作成 -->
+
+  <MakeMomigalite10.label>燒製谷穀炭(x10)</MakeMomigalite10.label>
+  <MakeMomigalite10.description>將無用的穀物外殼加工成燃料。</MakeMomigalite10.description>
+  <MakeMomigalite10.jobString>正在燒製谷穀炭。</MakeMomigalite10.jobString>
+
+  <MakeMomigalite50.label>燒製谷穀炭(x50)</MakeMomigalite50.label>
+  <MakeMomigalite50.description>將無用的穀物外殼加工成燃料。</MakeMomigalite50.description>
+  <MakeMomigalite50.jobString>正在燒製谷穀炭。</MakeMomigalite50.jobString>
+
+  <MakeMomigalite100.label>燒製谷穀炭(x100)</MakeMomigalite100.label>
+  <MakeMomigalite100.description>將無用的穀物外殼加工成燃料。</MakeMomigalite100.description>
+  <MakeMomigalite100.jobString>正在燒製谷穀炭。</MakeMomigalite100.jobString>
+
+  <MakeFuelStraw10.label>將秸稈加工成燃料(x10)</MakeFuelStraw10.label>
+  <MakeFuelStraw10.description>將秸稈加工成燃料。</MakeFuelStraw10.description>
+  <MakeFuelStraw10.jobString>正在將秸稈加工成燃料。</MakeFuelStraw10.jobString>
+
+  <MakeFuelStraw50.label>將秸稈加工成燃料(x50)</MakeFuelStraw50.label>
+  <MakeFuelStraw50.description>將秸稈加工成燃料。</MakeFuelStraw50.description>
+  <MakeFuelStraw50.jobString>正在將秸稈加工成燃料。</MakeFuelStraw50.jobString>
+
+  <MakeFuelStraw100.label>將秸稈加工成燃料x(100)</MakeFuelStraw100.label>
+  <MakeFuelStraw100.description>將秸稈加工成燃料。</MakeFuelStraw100.description>
+  <MakeFuelStraw100.jobString>正在將秸稈加工成燃料。</MakeFuelStraw100.jobString>
+
+
+  <!-- 泥収集 -->
+
+  <ZP_CollectMud.label>採掘泥土</ZP_CollectMud.label>
+  <ZP_CollectMud.description>採集一些泥土。</ZP_CollectMud.description>
+  <ZP_CollectMud.jobString>採掘中。</ZP_CollectMud.jobString>
+
+
+  <!-- 副産物袋 -->
+
+  <MakeRiceByproduct.label>製作副產物袋(x100)</MakeRiceByproduct.label>
+  <MakeRiceByproduct.description>製作副產物袋。</MakeRiceByproduct.description>
+  <MakeRiceByproduct.jobString>正在製作副產物袋。</MakeRiceByproduct.jobString>
+
+  <TakeRiceByproduct_RC.label>取出米糠和穀物外殼</TakeRiceByproduct_RC.label>
+  <TakeRiceByproduct_RC.description>從副產物袋中取出米糠和穀物外殼。</TakeRiceByproduct_RC.description>
+  <TakeRiceByproduct_RC.jobString>正在取出米糠和穀物外殼。</TakeRiceByproduct_RC.jobString>
+
+  <TakeRiceByproduct_R.label>取出米糠</TakeRiceByproduct_R.label>
+  <TakeRiceByproduct_R.description>從副產物袋中取出米糠。\n注意：其中的穀物外殼將會被浪費掉。</TakeRiceByproduct_R.description>
+  <TakeRiceByproduct_R.jobString>正在取出米糠。</TakeRiceByproduct_R.jobString>
+
+  <TakeRiceByproduct_C.label>取出穀物外殼</TakeRiceByproduct_C.label>
+  <TakeRiceByproduct_C.description>從副產物袋中取出穀物外殼。\n注意：其中的米糠會被浪費掉。</TakeRiceByproduct_C.description>
+  <TakeRiceByproduct_C.jobString>正在取出谷殼。</TakeRiceByproduct_C.jobString>
+
+  <MakeChemfuelFromRice.label>精製化合燃料</MakeChemfuelFromRice.label>
+  <MakeChemfuelFromRice.description>用大米副產物和秸稈來制取化合燃料。</MakeChemfuelFromRice.description>
+  <MakeChemfuelFromRice.jobString>正在精煉化合燃料。</MakeChemfuelFromRice.jobString>
+
+  <MakeRBCeramic.label>製作RB陶瓷磚(x10)</MakeRBCeramic.label>
+  <MakeRBCeramic.description>通過將稻米生產過程中產生的副產品攪碎、脫脂、壓縮並進行熱處理後製成一種特別的陶瓷磚。</MakeRBCeramic.description>
+  <MakeRBCeramic.jobString>正在製作RB陶瓷磚。</MakeRBCeramic.jobString>
+
+
+  <!-- 副■物袋 -->
+
+</LanguageData>

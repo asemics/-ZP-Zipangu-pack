@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RiceCraftingSpot.label>農作物加工點</RiceCraftingSpot.label>
+  <RiceCraftingSpot.description>專門用於對農作物及其副產品進行加工的場所。</RiceCraftingSpot.description>
+  <RiceCraftingSpot_Blueprint.label>農作物加工點 (藍圖)</RiceCraftingSpot_Blueprint.label>
+  <RiceCraftingSpot_Frame.label>農作物加工點 (建造中)</RiceCraftingSpot_Frame.label>
+  <RiceCraftingSpot_Frame.description>專門用於對農作物及其副產品進行加工的場所。</RiceCraftingSpot_Frame.description>
+
+  <JPstyleBlacksmith.label>鍛冶場</JPstyleBlacksmith.label>
+  <JPstyleBlacksmith.description>專門用於鍛造那些古代和風武器裝備的場所，配備有完整的爐灶、水池、鐵砧和工具組。</JPstyleBlacksmith.description>
+  <JPstyleBlacksmith_Blueprint.label>鍛冶場 (藍圖)</JPstyleBlacksmith_Blueprint.label>
+  <JPstyleBlacksmith_Frame.label>鍛冶場 (建造中)</JPstyleBlacksmith_Frame.label>
+  <JPstyleBlacksmith_Frame.description>專門用於鍛造那些古代和風武器裝備的場所，配備有完整的爐灶、水池、鐵砧和工具組。</JPstyleBlacksmith_Frame.description>
+
+  <ZP_MudCollectingPlace.label>泥土採集點</ZP_MudCollectingPlace.label>
+  <ZP_MudCollectingPlace.description>\n【可放置地形：泥地、沼澤、淺水、沿岸流】一個用以採掘泥土的場所。</ZP_MudCollectingPlace.description>
+  <ZP_MudCollectingPlace_Blueprint.label>泥土採集點 (藍圖)</ZP_MudCollectingPlace_Blueprint.label>
+  <ZP_MudCollectingPlace_Frame.label>泥土採集點 (建造中)</ZP_MudCollectingPlace_Frame.label>
+  <ZP_MudCollectingPlace_Frame.description>\n【可放置地形：泥地、沼澤、淺水、沿岸流】一個用以採掘泥土的場所。</ZP_MudCollectingPlace_Frame.description>
+
+  <PaddyField.label>水田</PaddyField.label>
+  <PaddyField.description>能培育粳米的水稻田，擁有200%的土壤肥沃度。\n只能安放在泥漿、濕地和淺水區域。由於它具有豐富的營養和水分，因此相對於泛用型田地來說它更為高效。</PaddyField.description>
+  <PaddyField_Blueprint.label>水田 (藍圖)</PaddyField_Blueprint.label>
+  <PaddyField_Frame.label>水田 (建造中)</PaddyField_Frame.label>
+  <PaddyField_Frame.description>能培育粳米的水稻田，擁有200%的土壤肥沃度。\n只能安放在泥漿、濕地和淺水區域。由於它具有豐富的營養和水分，因此相對於普通田地來說它更為高效。</PaddyField_Frame.description>
+
+  <PaddyField_GP.label>水田(泛用型)</PaddyField_GP.label>
+  <PaddyField_GP.description>能培育稻米的泛用型稻田，擁有140%的土壤肥沃度。\n除了水邊哪裡都可以安放。</PaddyField_GP.description>
+  <PaddyField_GP_Blueprint.label>水田(泛用型) (藍圖)</PaddyField_GP_Blueprint.label>
+  <PaddyField_GP_Frame.label>水田(泛用型) (建造中)</PaddyField_GP_Frame.label>
+  <PaddyField_GP_Frame.description>能培育稻米的泛用型稻田，擁有140%的土壤肥沃度。\n除了水邊哪裡都可以安放。</PaddyField_GP_Frame.description>
+
+  <ZP_EarthwormCollectionPlace.label>蚯蚓採集點</ZP_EarthwormCollectionPlace.label>
+  <ZP_EarthwormCollectionPlace.description>\n蚯蚓可以用於土地改良或是作為魚食，而你則需要一個場所來採集它們。</ZP_EarthwormCollectionPlace.description>
+  <ZP_EarthwormCollectionPlace_Blueprint.label>蚯蚓採集點 (藍圖)</ZP_EarthwormCollectionPlace_Blueprint.label>
+  <ZP_EarthwormCollectionPlace_Frame.label>蚯蚓採集點 (建造中)</ZP_EarthwormCollectionPlace_Frame.label>
+  <ZP_EarthwormCollectionPlace_Frame.description>\n蚯蚓可以用於土地改良或是作為魚食，而你則需要一個場所來採集它們。</ZP_EarthwormCollectionPlace_Frame.description>
+
+  <ZP_AquacultureNet.label>養殖網箱(3x3)</ZP_AquacultureNet.label>
+  <ZP_AquacultureNet.description>【可放置地形：泥地、沼澤、淺水、沿岸流】\n【餌料備選：蚯蚓、魚食、蟲肉】\n你可以在這些養殖網箱中投放魚苗，然後等待它們長成。\n【注意】如果長時間未投喂餌料的話，魚群會有破壞網箱並逃離的可能。</ZP_AquacultureNet.description>
+  <ZP_AquacultureNet_Blueprint.label>養殖網(3x3) (藍圖)</ZP_AquacultureNet_Blueprint.label>
+  <ZP_AquacultureNet_Frame.label>養殖網(3x3) (建造中)</ZP_AquacultureNet_Frame.label>
+  <ZP_AquacultureNet_Frame.description>【可放置地形：泥地、沼澤、淺水、沿岸流】\n【餌料備選：蚯蚓、魚食、蟲肉】\n你可以在這些養殖網箱中投放魚苗，然後等待它們長成。\n【注意】如果長時間未投喂餌料的話，魚群會有破壞網箱並逃離的可能。</ZP_AquacultureNet_Frame.description>
+
+  <ZP_AquacultureNet_Large.label>大型養殖網箱(4x5)</ZP_AquacultureNet_Large.label>
+  <ZP_AquacultureNet_Large.description>【可放置地形：泥地、沼澤、淺水、沿岸流】\n【餌料備選：蚯蚓、魚食、蟲肉】\n你可以在這些養殖網箱中投放魚苗，然後等待它們長成。\n【注意】如果長時間未投喂餌料的話，魚群會有破壞網箱並逃離的可能。</ZP_AquacultureNet_Large.description>
+  <ZP_AquacultureNet_Large_Blueprint.label>養殖網(4x5) (藍圖)</ZP_AquacultureNet_Large_Blueprint.label>
+  <ZP_AquacultureNet_Large_Frame.label>養殖網(4x5) (建造中)</ZP_AquacultureNet_Large_Frame.label>
+  <ZP_AquacultureNet_Large_Frame.description>【可放置地形：泥地、沼澤、淺水、沿岸流】\n【餌料備選：蚯蚓、魚食、蟲肉】\n你可以在這些養殖網箱中投放魚苗，然後等待它們長成。\n【注意】如果長時間未投喂餌料的話，魚群會有破壞網箱並逃離的可能。</ZP_AquacultureNet_Large_Frame.description>
+
+  <ZP_FloatingSunLamp_Fuel.label>漂浮式太陽燈(燃料)</ZP_FloatingSunLamp_Fuel.label>
+  <ZP_FloatingSunLamp_Fuel.description>僅消耗燃料的、用於農田或是養殖網箱的漂浮式太陽燈，可放置於水面等複雜地形。\n消耗燃料的太陽燈是無法達到使用電力驅動的太陽燈那種效果的，你應該很清楚對吧？</ZP_FloatingSunLamp_Fuel.description>
+  <ZP_FloatingSunLamp_Fuel_Blueprint.label>漂浮式太陽燈(燃料) (藍圖)</ZP_FloatingSunLamp_Fuel_Blueprint.label>
+  <ZP_FloatingSunLamp_Fuel_Blueprint_Install.label>漂浮式太陽燈(燃料)(藍圖)</ZP_FloatingSunLamp_Fuel_Blueprint_Install.label>
+  <ZP_FloatingSunLamp_Fuel_Frame.label>漂浮式太陽燈(燃料)(建造中)</ZP_FloatingSunLamp_Fuel_Frame.label>
+  <ZP_FloatingSunLamp_Fuel_Frame.description>僅消耗燃料的、用於農田或是養殖網箱的漂浮式太陽燈，可放置於水面等複雜地形。\n消耗燃料的太陽燈是無法達到使用電力驅動的太陽燈那種效果的，你應該很清楚對吧？</ZP_FloatingSunLamp_Fuel_Frame.description>
+
+  <ZP_FloatingSunLamp.label>漂浮式太陽燈</ZP_FloatingSunLamp.label>
+  <ZP_FloatingSunLamp.description>用於農田或是養殖網箱的漂浮式太陽燈，可放置於水面等複雜地形，會在夜晚自動關閉。</ZP_FloatingSunLamp.description>
+  <ZP_FloatingSunLamp.comps.4.offMessage>於植物休眠期間關閉</ZP_FloatingSunLamp.comps.4.offMessage>
+  <ZP_FloatingSunLamp_Blueprint.label>漂浮式太陽燈(藍圖)</ZP_FloatingSunLamp_Blueprint.label>
+  <ZP_FloatingSunLamp_Blueprint_Install.label>漂浮式太陽燈(藍圖)</ZP_FloatingSunLamp_Blueprint_Install.label>
+  <ZP_FloatingSunLamp_Frame.label>漂浮式太陽燈(建造中)</ZP_FloatingSunLamp_Frame.label>
+  <ZP_FloatingSunLamp_Frame.description>用於農田或是養殖網箱的漂浮式太陽燈，可放置於水面等複雜地形，會在夜晚自動關閉。</ZP_FloatingSunLamp_Frame.description>
+
+
+  <!--<ZP_FloatingSunLamp.comps.3.offMessage>Off for plant resting period</ZP_FloatingSunLamp.comps.3.offMessage>-->
+
+</LanguageData>

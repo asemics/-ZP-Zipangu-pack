@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ZPMOD_Kakashi.label>豐穰稻草人</ZPMOD_Kakashi.label>
+  <ZPMOD_Kakashi.description>(效果:土地肥沃度提升30%，範圍9x9)一種寄宿著豐穰之神明的稻草人，可以促進周圍作物的生長，但是需要按時供奉。\n如果長時間沒有供奉的話，稻草人會消失掉。\n供奉物可以是三色團子、醋餅、磯部餅、五平餅、豆泥糕等。</ZPMOD_Kakashi.description>
+  <ZPMOD_Kakashi_Blueprint.label>豐穰稻草人 (藍圖)</ZPMOD_Kakashi_Blueprint.label>
+  <ZPMOD_Kakashi_Blueprint_Install.label>豐穰稻草人 (藍圖)</ZPMOD_Kakashi_Blueprint_Install.label>
+  <ZPMOD_Kakashi_Frame.label>豐穰稻草人 (建造中)</ZPMOD_Kakashi_Frame.label>
+  <ZPMOD_Kakashi_Frame.description>(效果:土地肥沃度提升30%，範圍9x9)一種寄宿著豐穰之神的稻草人，可以促進周圍作物的生長，但是需要按時供奉。\n如果長時間沒有供奉的話，稻草人會消失掉。\n供奉物可以是三色團子、醋餅、磯部餅、五平餅、豆泥糕等。</ZPMOD_Kakashi_Frame.description>
+
+
+</LanguageData>

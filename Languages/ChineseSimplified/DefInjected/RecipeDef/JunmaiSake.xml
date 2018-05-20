@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <R_CookJunmaiSakeBarrel.label>米酒桶</R_CookJunmaiSakeBarrel.label>
+  <R_CookJunmaiSakeBarrel.label>制作米酒桶</R_CookJunmaiSakeBarrel.label>
   <R_CookJunmaiSakeBarrel.description>制作一桶可以用于酿制米酒的原料。</R_CookJunmaiSakeBarrel.description>
-  <R_CookJunmaiSakeBarrel.jobString>正在制作米酒桶</R_CookJunmaiSakeBarrel.jobString>
+  <R_CookJunmaiSakeBarrel.jobString>正在制作米酒桶。</R_CookJunmaiSakeBarrel.jobString>
 
-  <MakeJunmaiSake.label>纯米酒(25)</MakeJunmaiSake.label>
+  <MakeJunmaiSake.label>酿制纯米酒(x25)</MakeJunmaiSake.label>
   <MakeJunmaiSake.description>酿制纯米酒。</MakeJunmaiSake.description>
   <MakeJunmaiSake.jobString>正在酿制纯米酒。</MakeJunmaiSake.jobString>
 

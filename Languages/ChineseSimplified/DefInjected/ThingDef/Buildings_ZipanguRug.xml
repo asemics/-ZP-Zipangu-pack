@@ -3,18 +3,18 @@
 
   <!-- 畳 -->
 
-  <Tatami_1Green.label>1 榻榻米(绿)</Tatami_1Green.label>
+  <Tatami_1Green.label>绿色榻榻米(1格)</Tatami_1Green.label>
   <Tatami_1Green.description>单独的一块榻榻米。稻草制成的地板材料。榻榻米可以净化空气，调节湿度。 \n榻榻米的阻燃性能也很好，所以它不会燃烧，即使发生火灾也一样。</Tatami_1Green.description>
-  <Tatami_1Green_Blueprint.label>1 榻榻米(绿) (蓝图)</Tatami_1Green_Blueprint.label>
+  <Tatami_1Green_Blueprint.label>绿色榻榻米(1格) (蓝图)</Tatami_1Green_Blueprint.label>
   <Tatami_1Green_Blueprint_Install.label>榻榻米(绿) (蓝图)</Tatami_1Green_Blueprint_Install.label>
-  <Tatami_1Green_Frame.label>1 榻榻米(绿) (建造中)</Tatami_1Green_Frame.label>
+  <Tatami_1Green_Frame.label>绿色榻榻米(1格) (建造中)</Tatami_1Green_Frame.label>
   <Tatami_1Green_Frame.description>单独的一块榻榻米。稻草制成的地板材料。榻榻米可以净化空气，调节湿度。 \n榻榻米的阻燃性能也很好，所以它不会燃烧，即使发生火灾也一样。</Tatami_1Green_Frame.description>
 
-  <Tatami_1Yellow.label>1 榻榻米(黄)</Tatami_1Yellow.label>
+  <Tatami_1Yellow.label>黄色榻榻米(1格)</Tatami_1Yellow.label>
   <Tatami_1Yellow.description>单独的一块榻榻米。稻草制成的地板材料。榻榻米可以净化空气，调节湿度。 \n榻榻米的阻燃性能也很好，所以它不会燃烧，即使发生火灾也一样。</Tatami_1Yellow.description>
-  <Tatami_1Yellow_Blueprint.label>1 榻榻米(黄) (蓝图)</Tatami_1Yellow_Blueprint.label>
-  <Tatami_1Yellow_Blueprint_Install.label>1榻榻米(黄) (蓝图)</Tatami_1Yellow_Blueprint_Install.label>
-  <Tatami_1Yellow_Frame.label>1 榻榻米(黄) (建造中)</Tatami_1Yellow_Frame.label>
+  <Tatami_1Yellow_Blueprint.label>黄色榻榻米(1格) (蓝图)</Tatami_1Yellow_Blueprint.label>
+  <Tatami_1Yellow_Blueprint_Install.label>榻榻米(黄) (蓝图)</Tatami_1Yellow_Blueprint_Install.label>
+  <Tatami_1Yellow_Frame.label>黄色榻榻米(1格) (建造中)</Tatami_1Yellow_Frame.label>
   <Tatami_1Yellow_Frame.description>单独的一块榻榻米。稻草制成的地板材料。榻榻米可以净化空气，调节湿度。 \n榻榻米的阻燃性能也很好，所以它不会燃烧，即使发生火灾也一样。</Tatami_1Yellow_Frame.description>
 
 

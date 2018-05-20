@@ -22,6 +22,13 @@
   <RiceCooker_Frame.label>煮饭器 (建造中)</RiceCooker_Frame.label>
   <RiceCooker_Frame.description>一个煮饭或是煮汤都很便利的烹饪台。\n因为配置了最先进的烹饪器具，所以烹饪速度会提升30%。</RiceCooker_Frame.description>
 
+  <ZPIrori.label>囲炉裏</ZPIrori.label>
+  <ZPIrori.description>日本家屋に設けられる炉の一種。主に暖房と調理が目的だが人々の集いの場所でもありリラクゼーションをもたらしてくれる。</ZPIrori.description>
+  <ZPIrori_Blueprint.label>囲炉裏 (blueprint)</ZPIrori_Blueprint.label>
+  <ZPIrori_Blueprint_Install.label>囲炉裏 (blueprint)</ZPIrori_Blueprint_Install.label>
+  <ZPIrori_Frame.label>囲炉裏 (building)</ZPIrori_Frame.label>
+  <ZPIrori_Frame.description>日本家屋に設けられる炉の一種。主に暖房と調理が目的だが人々の集いの場所でもありリラクゼーションをもたらしてくれる。</ZPIrori_Frame.description>
+
   <CookingTable.label>料理台</CookingTable.label>
   <CookingTable.description>专门用于准备食材和调料的工作台。</CookingTable.description>
   <CookingTable_Blueprint.label>料理台 (蓝图)</CookingTable_Blueprint.label>
@@ -37,11 +44,11 @@
   <PestleAndMortar_Frame.description>用于制作糕点的杵和臼。</PestleAndMortar_Frame.description>
 
   <Nukadoko.label>酱菜缸</Nukadoko.label>
-  <Nukadoko.description>一个用以腌制酱菜的大缸。</Nukadoko.description>
+  <Nukadoko.description>一个用以腌制酱菜的大坛子。</Nukadoko.description>
   <Nukadoko_Blueprint.label>酱菜缸(蓝图)</Nukadoko_Blueprint.label>
   <Nukadoko_Blueprint_Install.label>酱菜缸(蓝图)</Nukadoko_Blueprint_Install.label>
   <Nukadoko_Frame.label>酱菜缸(建造中)</Nukadoko_Frame.label>
-  <Nukadoko_Frame.description>一个用以腌制酱菜的大缸。</Nukadoko_Frame.description>
+  <Nukadoko_Frame.description>一个用以腌制酱菜的大坛子。</Nukadoko_Frame.description>
 
 
 </LanguageData>

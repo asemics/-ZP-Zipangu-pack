@@ -58,11 +58,13 @@
 
   <ZP_FloatingSunLamp.label>漂浮式太阳灯</ZP_FloatingSunLamp.label>
   <ZP_FloatingSunLamp.description>用于农田或是养殖网箱的漂浮式太阳灯，可放置于水面等复杂地形，会在夜晚自动关闭。</ZP_FloatingSunLamp.description>
-  <ZP_FloatingSunLamp.comps.3.offMessage>Off for plant resting period</ZP_FloatingSunLamp.comps.3.offMessage>
+  <ZP_FloatingSunLamp.comps.4.offMessage>植物休眠期间关闭</ZP_FloatingSunLamp.comps.4.offMessage>
   <ZP_FloatingSunLamp_Blueprint.label>漂浮式太阳灯(蓝图)</ZP_FloatingSunLamp_Blueprint.label>
   <ZP_FloatingSunLamp_Blueprint_Install.label>漂浮式太阳灯(蓝图)</ZP_FloatingSunLamp_Blueprint_Install.label>
   <ZP_FloatingSunLamp_Frame.label>漂浮式太阳灯(建造中)</ZP_FloatingSunLamp_Frame.label>
   <ZP_FloatingSunLamp_Frame.description>用于农田或是养殖网箱的漂浮式太阳灯，可放置于水面等复杂地形，会在夜晚自动关闭。</ZP_FloatingSunLamp_Frame.description>
 
+
+  <!--<ZP_FloatingSunLamp.comps.3.offMessage>Off for plant resting period</ZP_FloatingSunLamp.comps.3.offMessage>-->
 
 </LanguageData>

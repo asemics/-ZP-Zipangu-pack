@@ -3,80 +3,89 @@
 
   <!-- 米関係 y=0 -->
 
-  <ReUplandRice.label>陆稻种植技术</ReUplandRice.label>
+  <ReUplandRice.label>ZP：陆稻种植技术</ReUplandRice.label>
   <ReUplandRice.description>改良在陆地上种植米稻的技术，以增强生产力。</ReUplandRice.description>
 
-  <ReWetlandRice.label>水稻种植技术</ReWetlandRice.label>
+  <ReWetlandRice.label>ZP：水稻种植技术</ReWetlandRice.label>
   <ReWetlandRice.description>通过发展水稻田技术以进一步提高大米的生产力。</ReWetlandRice.description>
+
+  <ReGlutinousRice.label>もち米</ReGlutinousRice.label>
+  <ReGlutinousRice.description>もちもちとした食感のお米に品種改良をする。\n解放⇒もち米(要：栽培ｽｷﾙ 4),杵臼,もち米レシピ7種類</ReGlutinousRice.description>
+
+  <ReThreshingRiceMillingMachine.label>ZP：全能型脱壳精米机械</ReThreshingRiceMillingMachine.label>
+  <ReThreshingRiceMillingMachine.description>将现有的农业机械的功能合而为一进行改良，以此构建出一种可以省去大量繁琐工作的先进机械。</ReThreshingRiceMillingMachine.description>
 
 
   <!-- 栽培関係 y=1 -->
 
-  <ReAquacultureFish.label>鱼类养殖技术</ReAquacultureFish.label>
+  <ReAquacultureFish.label>ZP：鱼类养殖技术</ReAquacultureFish.label>
   <ReAquacultureFish.description>学会如何养殖一种培育时间很长但营养价值很高的可食用鱼类。\n【注意】在培育过程中，合适的温度、足够的光照和饲料供给（鱼食/蚯蚓/虫肉）都是必要的。\n【解锁】鱼类养殖（需求：种植技能10）、养殖网箱（3X3）</ReAquacultureFish.description>
 
-  <ReAquacultureNet.label>大型养殖网箱技术</ReAquacultureNet.label>
+  <ReAquacultureNet.label>ZP：大型养殖网箱技术</ReAquacultureNet.label>
   <ReAquacultureNet.description>通过改良养殖网箱以养殖更多的鱼，提高生产力。\n【解锁】大型养殖网箱（4X5）</ReAquacultureNet.description>
 
-  <ReBeans.label>豆类种植技术</ReBeans.label>
+  <ReFloatingSunLamp.label>ZP：燃料式漂浮太阳灯</ReFloatingSunLamp.label>
+  <ReFloatingSunLamp.description>学习构建燃料式悬浮太阳灯的方法——它们可以安放于复杂地形且不消耗电力。\n【解锁】悬浮型太阳灯（燃料）</ReFloatingSunLamp.description>
+
+  <ReBeans.label>ZP：豆类种植技术</ReBeans.label>
   <ReBeans.description>学习大豆和毛豆的种植方法。\n【解锁】大豆（需求：种植技能4）、毛豆（需求：种植技能4）</ReBeans.description>
 
 
   <!-- 土壌開発 y=2 -->
 
-  <ReZPSoil.label>土壤改造技术</ReZPSoil.label>
+  <ReZPSoil.label>ZP：土壤改造技术</ReZPSoil.label>
   <ReZPSoil.description>研发土壤改造技术。\n这种技术可以应用于沙地、冰面、砂砾、粗糙/光滑的岩石地面上，通过翻整、增肥，将它们改造成可供作物生长的土壤。\n【解锁】土壤（肥沃度100%）</ReZPSoil.description>
 
-  <ReZPSoilRich.label>土壤增肥技术</ReZPSoilRich.label>
+  <ReZPSoilRich.label>ZP：土壤增肥技术</ReZPSoilRich.label>
   <ReZPSoilRich.description>通过进一步翻整和增肥，可以将一般的土地改造成更适合作物生长的肥沃土壤。\n【解锁】肥沃土壤（肥沃度140%）</ReZPSoilRich.description>
 
-  <ReZPMud.label>采泥技术</ReZPMud.label>
+  <ReZPMud.label>ZP：采泥技术</ReZPMud.label>
   <ReZPMud.description>研究如何获得泥——建造水田的基础。\n【解锁】泥、泥土采集点</ReZPMud.description>
 
-  <ReZPLandfillSoil.label>复垦土壤技术</ReZPLandfillSoil.label>
+  <ReZPLandfillSoil.label>ZP：复垦土壤技术</ReZPLandfillSoil.label>
   <ReZPLandfillSoil.description>通过填埋、压实来对一些复杂的地形进行初步的改造。\n【解锁】复垦土壤</ReZPLandfillSoil.description>
+
+  <ReScarecrow.label>ZP：丰穣稻草人</ReScarecrow.label>
+  <ReScarecrow.description>学习如何制作一种寄宿着丰穣之神的稻草人。\n只要有按时供奉，丰穣之神明就可以使以稻草人为中心9X9个方格内土壤肥沃度提高30%。\n【注意】稻田和水栽培盆无法受益。</ReScarecrow.description>
 
 
   <!-- 食料関係 y=3 -->
 
-  <ReSeasoning.label>调味品制作工艺</ReSeasoning.label>
+  <ReSeasoning.label>ZP：调味品制作工艺</ReSeasoning.label>
   <ReSeasoning.description>学习制作调料的方法，使原本简单的饮食变得丰富。\n【解锁】米糖、米醋、酱油、味噌</ReSeasoning.description>
 
-  <RePreservedFood.label>食物贮存工艺</RePreservedFood.label>
+  <RePreservedFood.label>ZP：食物贮存工艺</RePreservedFood.label>
   <RePreservedFood.description>学习如何处理食物使它们变得耐以储存。\n【解锁】酱菜、熏鱼、纳豆、酱菜缸</RePreservedFood.description>
+
+  <ReZPLuxury.label>嗜好品</ReZPLuxury.label>
+  <ReZPLuxury.description>嗜好品の作り方を学ぶ。\n解放⇒飲み物レシピ2種,嗜好品レシピ7種</ReZPLuxury.description>
 
 
   <!-- 家具 y=4 -->
 
-  <ReZPFurniture.label>和风家具</ReZPFurniture.label>
-  <ReZPFurniture.description>学习如何建造和风家具，以提升居住环境及质量。\n【解锁】稻草编织床、团扇、火钵</ReZPFurniture.description>
+  <ReZPFurniture.label>ZP：和风家居</ReZPFurniture.label>
+  <ReZPFurniture.description>学习如何建造及布置和风家具，以提升居住环境及质量。\n【解锁】稻草编织床、团扇、火钵</ReZPFurniture.description>
 
-  <ReThreshingRiceMillingMachine.label>全能型脱壳精米机械</ReThreshingRiceMillingMachine.label>
-  <ReThreshingRiceMillingMachine.description>将现有的农业机械的功能合而为一进行改良，以此构建出一种可以省去大量繁琐工作的先进机械。</ReThreshingRiceMillingMachine.description>
-
-  <ReScarecrow.label>丰穣稻草人</ReScarecrow.label>
-  <ReScarecrow.description>学习如何制作一种寄宿着丰穣之神的稻草人。\n只要有按时供奉，丰穣之神灵就可以使以稻草人为中心9X9个方格内土壤肥沃度提高30%。\n【注意】稻田和水栽培盆无法受益。</ReScarecrow.description>
-
-  <ReFloatingSunLamp.label>燃料式漂浮太阳灯</ReFloatingSunLamp.label>
-  <ReFloatingSunLamp.description>学习构建燃料式悬浮太阳灯的方法——它们可以安放于复杂地形且不消耗电力。\n【解锁】悬浮型太阳灯（燃料）</ReFloatingSunLamp.description>
-
-  <ReDefenseBase.label>防御设施</ReDefenseBase.label>
-  <ReDefenseBase.description>学习构筑防御阵地的方法。\n【解锁】大盾、稻草垛、火药稻草垛</ReDefenseBase.description>
+  <ReZPFurniture2nd.label>和風家具Ⅱ</ReZPFurniture2nd.label>
+  <ReZPFurniture2nd.description>住環境をよくする和風家具Ⅱの建て方を学ぶ。\n解放⇒布団,囲炉裏,炬燵,座布団</ReZPFurniture2nd.description>
 
 
   <!-- 装備関係 y=5 -->
 
-  <BlacksmithApprentice.label>锻冶技术【入门】</BlacksmithApprentice.label>
+  <BlacksmithApprentice.label>ZP：锻冶技术【入门】</BlacksmithApprentice.label>
   <BlacksmithApprentice.description>通过粗略地研究古老的锻冶缝纫技术，可以让你的殖民者学会制作一些简单的装备，包括侍服、忍者装束、胸当、钵金、刀、长枪、薙刀、和弓、刺叉。</BlacksmithApprentice.description>
 
-  <BlacksmithArtisan.label>锻冶技术【匠人】</BlacksmithArtisan.label>
+  <BlacksmithArtisan.label>ZP：锻冶技术【匠人】</BlacksmithArtisan.label>
   <BlacksmithArtisan.description>通过进一步研究古老的锻冶缝纫技术，可以让你的殖民者习得制作一些比较复杂的装备的工艺，例如大太刀、蛇弓、足轻具足、阵笠等。</BlacksmithArtisan.description>
 
-  <BlacksmithMaster.label>锻冶技术【大师】</BlacksmithMaster.label>
+  <BlacksmithMaster.label>ZP：锻冶技术【大师】</BlacksmithMaster.label>
   <BlacksmithMaster.description>通过完全地研究古老的锻冶缝纫技术，你的殖民者就可以掌握所有日式装备的制作工艺了。</BlacksmithMaster.description>
 
-  <BlacksmithTanegasima.label>锻冶技术【铳】</BlacksmithTanegasima.label>
-  <BlacksmithTanegasima.description>学习制作種子島——一种简单而威力强大的火绳枪的方法。</BlacksmithTanegasima.description>
+  <BlacksmithTanegasima.label>ZP：锻冶技术【铳】</BlacksmithTanegasima.label>
+  <BlacksmithTanegasima.description>学习制作种子岛——一种简单而威力强大的火绳枪的方法。</BlacksmithTanegasima.description>
+
+  <ReDefenseBase.label>ZP：阵地学</ReDefenseBase.label>
+  <ReDefenseBase.description>学习构筑防御阵地的方法。\n【解锁】大盾、稻草垛、火药稻草垛</ReDefenseBase.description>
 
 
 </LanguageData>

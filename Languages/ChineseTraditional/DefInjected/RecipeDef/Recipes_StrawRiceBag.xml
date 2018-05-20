@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 米俵をつくる -->
+
+  <MakeStrawRiceBag_RawRice.label>裝填米俵(稻米)</MakeStrawRiceBag_RawRice.label>
+  <MakeStrawRiceBag_RawRice.description>能夠儲存300單位的稻米，可以作為農產品出售\n【注意】由於密封性並不是太好，打開時會發現有存量下降的情況發生。</MakeStrawRiceBag_RawRice.description>
+  <MakeStrawRiceBag_RawRice.jobString>正在裝填米俵(稻米)。</MakeStrawRiceBag_RawRice.jobString>
+
+  <MakeStrawRiceBag_RiceMomi.label>裝填米俵(籾米)</MakeStrawRiceBag_RiceMomi.label>
+  <MakeStrawRiceBag_RiceMomi.description>能夠儲存300單位的籾米，可以作為農產品出售。\n【注意】由於密封性並不是太好，打開時會發現有存量下降的情況發生。</MakeStrawRiceBag_RiceMomi.description>
+  <MakeStrawRiceBag_RiceMomi.jobString>正在裝填米俵(籾米)。</MakeStrawRiceBag_RiceMomi.jobString>
+
+  <MakeStrawRiceBag_BrownRice.label>裝填米俵(糙米)</MakeStrawRiceBag_BrownRice.label>
+  <MakeStrawRiceBag_BrownRice.description>可以儲存300單位的糙米，且可以作為農產品高價出售。\n【注意】由於密封性並不是太好，打開時會發現有存量下降的情況發生。</MakeStrawRiceBag_BrownRice.description>
+  <MakeStrawRiceBag_BrownRice.jobString>正在裝填米俵(糙米)。</MakeStrawRiceBag_BrownRice.jobString>
+
+  <MakeStrawRiceBag_GlutinousRice.label>米俵(もち米)を作る</MakeStrawRiceBag_GlutinousRice.label>
+  <MakeStrawRiceBag_GlutinousRice.description>もち米を300個保管できて、特産品として高く売れる。\n！！注意！！　気密性が悪いのでほどく時に中身が減ります。</MakeStrawRiceBag_GlutinousRice.description>
+  <MakeStrawRiceBag_GlutinousRice.jobString>俵に米をつめる</MakeStrawRiceBag_GlutinousRice.jobString>
+
+  <MakeStrawRiceBag_WhiteRice.label>裝填米俵(白米)</MakeStrawRiceBag_WhiteRice.label>
+  <MakeStrawRiceBag_WhiteRice.description>可以儲存300單位的白米，且可以作為特產品以很高的價格出售。\n【注意】由於密封性並不是太好，打開時會發現有存量下降的情況發生。</MakeStrawRiceBag_WhiteRice.description>
+  <MakeStrawRiceBag_WhiteRice.jobString>正在裝填米俵(白米)。</MakeStrawRiceBag_WhiteRice.jobString>
+
+
+  <!-- 米俵をほどく -->
+
+  <UnwindStrawRiceBag_RawRice.label>打開米俵(稻米)</UnwindStrawRiceBag_RawRice.label>
+  <UnwindStrawRiceBag_RawRice.description>打開米俵，將裏面的稻米拿出來。\n 由於密封性並不是太好，打開時會發現有存量下降的情況發生。</UnwindStrawRiceBag_RawRice.description>
+  <UnwindStrawRiceBag_RawRice.jobString>打開米俵。</UnwindStrawRiceBag_RawRice.jobString>
+
+  <UnwindStrawRiceBag_RiceMomi.label>打開米俵(籾米)</UnwindStrawRiceBag_RiceMomi.label>
+  <UnwindStrawRiceBag_RiceMomi.description>打開米俵，將裏面的籾米拿出來。\n 由於密封性並不是太好，打開時會發現有存量下降的情況發生。</UnwindStrawRiceBag_RiceMomi.description>
+  <UnwindStrawRiceBag_RiceMomi.jobString>打開米俵。</UnwindStrawRiceBag_RiceMomi.jobString>
+
+  <UnwindStrawRiceBag_BrownRice.label>打開米俵(糙米)</UnwindStrawRiceBag_BrownRice.label>
+  <UnwindStrawRiceBag_BrownRice.description>打開米俵，將裏面的糙米拿出來。\n 由於密封性並不是太好，打開時會發現有存量下降的情況發生。</UnwindStrawRiceBag_BrownRice.description>
+  <UnwindStrawRiceBag_BrownRice.jobString>打開米俵。</UnwindStrawRiceBag_BrownRice.jobString>
+
+  <UnwindStrawRiceBag_GlutinousRice.label>米俵(もち米)をほどく</UnwindStrawRiceBag_GlutinousRice.label>
+  <UnwindStrawRiceBag_GlutinousRice.description>米俵から中身をとりだす。\n気密性が悪いのでほどくさいに中身がこぼれて減っている。</UnwindStrawRiceBag_GlutinousRice.description>
+  <UnwindStrawRiceBag_GlutinousRice.jobString>Unwind a bales.</UnwindStrawRiceBag_GlutinousRice.jobString>
+
+  <UnwindStrawRiceBag_WhiteRice.label>打開米俵(白米)</UnwindStrawRiceBag_WhiteRice.label>
+  <UnwindStrawRiceBag_WhiteRice.description>打開米俵，將裏面的白米拿出來。\n 由於密封性並不是太好，打開時會發現有存量下降的情況發生。</UnwindStrawRiceBag_WhiteRice.description>
+  <UnwindStrawRiceBag_WhiteRice.jobString>打開米俵。</UnwindStrawRiceBag_WhiteRice.jobString>
+
+
+</LanguageData>

@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 米関係 y=0 -->
+
+  <ReUplandRice.label>ZP：旱稻種植法</ReUplandRice.label>
+  <ReUplandRice.description>改良在陸地上種植米稻的方法，進一步提高生產力。</ReUplandRice.description>
+
+  <ReWetlandRice.label>ZP：水稻種植法</ReWetlandRice.label>
+  <ReWetlandRice.description>通過發展水稻田技術來再進一步提高生產力。</ReWetlandRice.description>
+
+  <ReGlutinousRice.label>もち米</ReGlutinousRice.label>
+  <ReGlutinousRice.description>もちもちとした食感のお米に品種改良をする。\n解放⇒もち米(要：栽培ｽｷﾙ 4),杵臼,もち米レシピ7種類</ReGlutinousRice.description>
+
+  <ReThreshingRiceMillingMachine.label>全能型脫殼精米機械</ReThreshingRiceMillingMachine.label>
+  <ReThreshingRiceMillingMachine.description>將現有的農業器械的功能合而為一並進行改良，以此構建出一種可以省去大量繁瑣工作的先進加工機械。</ReThreshingRiceMillingMachine.description>
+
+
+  <!-- 栽培関係 y=1 -->
+
+  <ReAquacultureFish.label>ZP：魚類養殖技術</ReAquacultureFish.label>
+  <ReAquacultureFish.description>學會養殖某種培育時間很長、但營養價值很高的可食用魚類的方法。\n【注意】在養殖過程中，合適的溫度、足夠的光照和充足的飼料供給（魚食/蚯蚓/蟲肉）都是非常必要的。\n【解鎖】魚類養殖（需求：種植技能10）、養殖網箱（3X3）</ReAquacultureFish.description>
+
+  <ReAquacultureNet.label>ZP：大型養殖網箱技術</ReAquacultureNet.label>
+  <ReAquacultureNet.description>通過改良養殖網箱來養殖更多的魚，提高生產力。\n【解鎖】大型養殖網箱（4X5）</ReAquacultureNet.description>
+
+  <ReFloatingSunLamp.label>ZP：燃料式浮游太陽燈</ReFloatingSunLamp.label>
+  <ReFloatingSunLamp.description>學習構建燃料式懸浮太陽燈的方法——它們可以安放於復雜地形且不消耗電力。\n【解鎖】浮游式太陽燈（燃料）</ReFloatingSunLamp.description>
+
+  <ReBeans.label>ZP：豆類種植技術</ReBeans.label>
+  <ReBeans.description>學習大豆和毛豆的種植方法。\n【解鎖】大豆（需求：種植技能4）、毛豆（需求：種植技能4）</ReBeans.description>
+
+
+  <!-- 土壌開発 y=2 -->
+
+  <ReZPSoil.label>ZP：土壤改造技術</ReZPSoil.label>
+  <ReZPSoil.description>研發土壤改造技術。\n這種技術可以應用於沙地、冰面、砂礫、粗糙/光滑的巖石地面上，通過翻整、增肥，將它們改造成可供作物生長的土壤。\n【解瑣】土壤（肥沃度100%）</ReZPSoil.description>
+
+  <ReZPSoilRich.label>ZP：土壤增肥技術</ReZPSoilRich.label>
+  <ReZPSoilRich.description>通過進一步翻整和增肥，可以將一般的土地改造成更適合作物生長的肥沃土壤。\n【解鎖】肥沃土壤（肥沃度140%）</ReZPSoilRich.description>
+
+  <ReZPMud.label>ZP：泥土採集技術</ReZPMud.label>
+  <ReZPMud.description>研發如何採集建築水稻田的基礎——泥的技術。\n【解鎖】泥、泥土採集點</ReZPMud.description>
+
+  <ReZPLandfillSoil.label>復墾土壤技術</ReZPLandfillSoil.label>
+  <ReZPLandfillSoil.description>通過填埋、壓實來對地形進行初步的改造。\n【解鎖】復墾土壤</ReZPLandfillSoil.description>
+
+  <ReScarecrow.label>ZP：豐穣稻草人</ReScarecrow.label>
+  <ReScarecrow.description>學習如何製作一種寄宿著豐穣之神的稻草人。\n只要有按時供奉，豐穣之神明就可以使以稻草人為中心9X9個方格內土壤肥沃度提高30%。\n【注意】稻田和水栽培盆無法受益。</ReScarecrow.description>
+
+
+  <!-- 食料関係 y=3 -->
+
+  <ReSeasoning.label>ZP：調味料製作工藝</ReSeasoning.label>
+  <ReSeasoning.description>學習製作調味品的方法，使得原本簡單的料理方式變得豐富。\n【解鎖】米糖、米醋、醬油、味噌</ReSeasoning.description>
+
+  <RePreservedFood.label>ZP：食物儲存工藝</RePreservedFood.label>
+  <RePreservedFood.description>學習處理食物的方式，使它們可以儲存更長時間。\n【解鎖】米糠醬菜、魚乾、納豆、醬菜缸</RePreservedFood.description>
+
+  <ReZPLuxury.label>嗜好品</ReZPLuxury.label>
+  <ReZPLuxury.description>嗜好品の作り方を学ぶ。\n解放⇒飲み物レシピ2種,嗜好品レシピ7種</ReZPLuxury.description>
+
+
+  <!-- 家具 y=4 -->
+
+  <ReZPFurniture.label>ZP：和風家居</ReZPFurniture.label>
+  <ReZPFurniture.description>學習如何構築和風家居的方法，來提升居住環境和質量。\n【解鎖】稻草編織床、團扇、火鉢</ReZPFurniture.description>
+
+  <ReZPFurniture2nd.label>和風家具Ⅱ</ReZPFurniture2nd.label>
+  <ReZPFurniture2nd.description>住環境をよくする和風家具Ⅱの建て方を学ぶ。\n解放⇒布団,囲炉裏,炬燵,座布団</ReZPFurniture2nd.description>
+
+
+  <!-- 装備関係 y=5 -->
+
+  <BlacksmithApprentice.label>ZP：鍛冶技術【入門】</BlacksmithApprentice.label>
+  <BlacksmithApprentice.description>通過粗略地研究古老的鍛冶縫紉技術，可以讓你的殖民者學會製作一些簡單的裝備，包括侍服、忍者裝束、胸當、鉢金、打刀、長槍、薙刀、和弓、刺叉。</BlacksmithApprentice.description>
+
+  <BlacksmithArtisan.label>ZP：鍛冶技術【匠人】</BlacksmithArtisan.label>
+  <BlacksmithArtisan.description>通過進一步研究古老的鍛冶縫紉技術，可以讓你的殖民者習得製作一些比較復雜的裝備的工藝，例如大太刀、蛇弓、足輕具足、陣笠等。</BlacksmithArtisan.description>
+
+  <BlacksmithMaster.label>ZP：鍛冶技術【大師】</BlacksmithMaster.label>
+  <BlacksmithMaster.description>通過完全地研究古老的鍛冶縫紉技術，你的殖民者就可以掌握所有日式裝備的製作工藝了。</BlacksmithMaster.description>
+
+  <BlacksmithTanegasima.label>鍛冶技術【銃】</BlacksmithTanegasima.label>
+  <BlacksmithTanegasima.description>學習製作種子島——一種簡單卻威力強大的火繩槍的方法。</BlacksmithTanegasima.description>
+
+  <ReDefenseBase.label>ZP：陣地學</ReDefenseBase.label>
+  <ReDefenseBase.description>學習構築防禦陣地的方法。\n【解鎖】大盾、稻草垛、火藥稻草垛</ReDefenseBase.description>
+
+
+  <!-- 裝備関係 y=5 -->
+
+</LanguageData>

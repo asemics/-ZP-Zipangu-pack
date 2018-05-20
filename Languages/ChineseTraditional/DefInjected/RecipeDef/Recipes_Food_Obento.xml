@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 手の込んだ食事 日の丸弁当 -->
+
+  <CookBRBento4.label>製作糙米飯便當(x4)</CookBRBento4.label>
+  <CookBRBento4.description>製作4份糙米飯便當。</CookBRBento4.description>
+  <CookBRBento4.jobString>正在製作便當。</CookBRBento4.jobString>
+
+  <CookWRBento4.label>製作日之丸便當(x4)</CookWRBento4.label>
+  <CookWRBento4.description>製作4份日之丸便當。</CookWRBento4.description>
+  <CookWRBento4.jobString>正在製作便當。</CookWRBento4.jobString>
+
+
+</LanguageData>

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Tatami_Green.label>綠色榻榻米</Tatami_Green.label>
+  <Tatami_Green.description>稻草製成的地板材料。榻榻米可以凈化空氣，調節濕度。 \n榻榻米的阻燃性能也很好，所以它不會燃燒，即使發生火災也一樣。</Tatami_Green.description>
+
+  <Tatami_Yellow.label>黃色榻榻米</Tatami_Yellow.label>
+  <Tatami_Yellow.description>稻草製成的地板材料。榻榻米可以凈化空氣，調節濕度。 \n榻榻米的阻燃性能也很好，所以它不會燃燒，即使發生火災也一樣。</Tatami_Yellow.description>
+
+  <RBCeramicTile.label>RB瓷磚地板</RBCeramicTile.label>
+  <RBCeramicTile.description>這種光滑的瓷磚地板不容易被弄髒，而且便於清洗，不過抗菌能力沒有無菌地磚那麼強。</RBCeramicTile.description>
+
+
+  <!-- 土壌 -->
+
+  <ZP_Soil.label>土壤</ZP_Soil.label>
+  <ZP_Soil.description>（肥沃度:100%）\n使地形變得可以種植作物。\n可以應用於沙地、冰面、砂礫、粗糙/光滑的岩石地面上。</ZP_Soil.description>
+
+  <ZP_SoilRich.label>肥沃土壤</ZP_SoilRich.label>
+  <ZP_SoilRich.description>（肥沃度:140%）\n可以種植作物、擁有更高肥沃度的土地。</ZP_SoilRich.description>
+
+  <ZP_Mud.label>泥地</ZP_Mud.label>
+  <ZP_Mud.description>建設水田所需的泥地。</ZP_Mud.description>
+
+  <ZP_LandfillSoil.label>復墾土地</ZP_LandfillSoil.label>
+  <ZP_LandfillSoil.description>（肥沃度:50%）\n用基本的填埋、壓實來對地形作基本的改造。\n可以應用於泥地、沼澤、淺灘等複雜地形。</ZP_LandfillSoil.description>
+
+
+</LanguageData>

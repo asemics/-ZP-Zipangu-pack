@@ -3,90 +3,97 @@
 
   <!-- 肥料作成 -->
 
-  <MakeTatamiStraw18.label>建筑用稻草(18)</MakeTatamiStraw18.label>
-  <MakeTatamiStraw18.description>将稻草进行处理，使它们可以用在建设方面。</MakeTatamiStraw18.description>
-  <MakeTatamiStraw18.jobString>正在处理稻草</MakeTatamiStraw18.jobString>
+  <MakeTatamiStraw18.label>制作建筑用秸秆(x18)</MakeTatamiStraw18.label>
+  <MakeTatamiStraw18.description>将秸秆进行处理，使它们可以用在建设方面。</MakeTatamiStraw18.description>
+  <MakeTatamiStraw18.jobString>正在处理秸秆。</MakeTatamiStraw18.jobString>
 
-  <MakeTatamiStraw30.label>建筑用稻草(30)</MakeTatamiStraw30.label>
-  <MakeTatamiStraw30.description>将稻草进行处理，使它们可以用在建设方面。</MakeTatamiStraw30.description>
-  <MakeTatamiStraw30.jobString>正在处理稻草</MakeTatamiStraw30.jobString>
+  <MakeTatamiStraw30.label>制作建筑用秸秆(x30)</MakeTatamiStraw30.label>
+  <MakeTatamiStraw30.description>将秸秆进行处理，使它们可以用在建设方面。</MakeTatamiStraw30.description>
+  <MakeTatamiStraw30.jobString>正在处理秸秆。</MakeTatamiStraw30.jobString>
 
-  <MakeTatamiStraw60.label>建筑用稻草(60)</MakeTatamiStraw60.label>
-  <MakeTatamiStraw60.description>将稻草进行处理，使它们可以用在建设方面。</MakeTatamiStraw60.description>
-  <MakeTatamiStraw60.jobString>正在处理稻草</MakeTatamiStraw60.jobString>
+  <MakeTatamiStraw60.label>制作建筑用秸秆(x60)</MakeTatamiStraw60.label>
+  <MakeTatamiStraw60.description>将秸秆进行处理，使它们可以用在建设方面。</MakeTatamiStraw60.description>
+  <MakeTatamiStraw60.jobString>正在处理秸秆。</MakeTatamiStraw60.jobString>
 
-  <MakeTatamiG.label>榻榻米 (1格)</MakeTatamiG.label>
-  <MakeTatamiG.description>用处理过的稻草来制作榻榻米。</MakeTatamiG.description>
-  <MakeTatamiG.jobString>制作榻榻米</MakeTatamiG.jobString>
+  <MakeTatamiG.label>制作榻榻米(1格)</MakeTatamiG.label>
+  <MakeTatamiG.description>用处理过的秸秆来制作榻榻米。</MakeTatamiG.description>
+  <MakeTatamiG.jobString>制作榻榻米。</MakeTatamiG.jobString>
 
-  <MakeR_Compost10.label>堆肥(10)</MakeR_Compost10.label>
-  <MakeR_Compost10.description>用稻草和糠麸发酵来作成建设稻田时需要用到的肥料。</MakeR_Compost10.description>
-  <MakeR_Compost10.jobString>制作堆肥</MakeR_Compost10.jobString>
+  <MakeR_Compost10.label>制作堆肥(x10)</MakeR_Compost10.label>
+  <MakeR_Compost10.description>用秸秆和糠麸发酵来制成建设稻田时需要用到的肥料。</MakeR_Compost10.description>
+  <MakeR_Compost10.jobString>制作堆肥。</MakeR_Compost10.jobString>
 
-  <MakeR_Compost50.label>堆肥(50)</MakeR_Compost50.label>
-  <MakeR_Compost50.description>用稻草和糠麸发酵来作成建设稻田时需要用到的肥料。</MakeR_Compost50.description>
-  <MakeR_Compost50.jobString>制作堆肥</MakeR_Compost50.jobString>
+  <MakeR_Compost50.label>制作堆肥(x50)</MakeR_Compost50.label>
+  <MakeR_Compost50.description>用秸秆和糠麸发酵来制成建设稻田时需要用到的肥料。</MakeR_Compost50.description>
+  <MakeR_Compost50.jobString>制作堆肥。</MakeR_Compost50.jobString>
 
-  <MakeR_Compost100.label>堆肥(100)</MakeR_Compost100.label>
-  <MakeR_Compost100.description>用稻草和糠麸发酵来作成建设稻田时需要用到的肥料。</MakeR_Compost100.description>
-  <MakeR_Compost100.jobString>制作堆肥</MakeR_Compost100.jobString>
+  <MakeR_Compost100.label>制作堆肥(x100)</MakeR_Compost100.label>
+  <MakeR_Compost100.description>用秸秆和糠麸发酵来制成建设稻田时需要用到的肥料。</MakeR_Compost100.description>
+  <MakeR_Compost100.jobString>制作堆肥。</MakeR_Compost100.jobString>
 
 
   <!-- 燃料作成 -->
 
-  <MakeMomigalite10.label>谷壳炭(10)</MakeMomigalite10.label>
-  <MakeMomigalite10.description>把谷壳加工成燃料。</MakeMomigalite10.description>
-  <MakeMomigalite10.jobString>烧制谷壳炭</MakeMomigalite10.jobString>
+  <MakeMomigalite10.label>烧制谷壳炭(x10)</MakeMomigalite10.label>
+  <MakeMomigalite10.description>将无用的谷物外壳加工成燃料。</MakeMomigalite10.description>
+  <MakeMomigalite10.jobString>烧制谷壳炭。</MakeMomigalite10.jobString>
 
-  <MakeMomigalite50.label>谷壳炭(50)</MakeMomigalite50.label>
-  <MakeMomigalite50.description>把谷壳加工成燃料。</MakeMomigalite50.description>
-  <MakeMomigalite50.jobString>烧制谷壳炭</MakeMomigalite50.jobString>
+  <MakeMomigalite50.label>烧制谷壳炭(x50)</MakeMomigalite50.label>
+  <MakeMomigalite50.description>将无用的谷物外壳加工成燃料。</MakeMomigalite50.description>
+  <MakeMomigalite50.jobString>烧制谷壳炭。</MakeMomigalite50.jobString>
 
-  <MakeMomigalite100.label>谷壳炭(100)</MakeMomigalite100.label>
-  <MakeMomigalite100.description>把谷壳加工成燃料。</MakeMomigalite100.description>
-  <MakeMomigalite100.jobString>烧制谷壳炭</MakeMomigalite100.jobString>
+  <MakeMomigalite100.label>烧制谷壳炭(x100)</MakeMomigalite100.label>
+  <MakeMomigalite100.description>将无用的谷物外壳加工成燃料。</MakeMomigalite100.description>
+  <MakeMomigalite100.jobString>烧制谷壳炭。</MakeMomigalite100.jobString>
 
-  <MakeFuelStraw10.label>燃料用秸秆(10)</MakeFuelStraw10.label>
+  <MakeFuelStraw10.label>把秸秆加工成燃料(x10)</MakeFuelStraw10.label>
   <MakeFuelStraw10.description>把秸秆加工成燃料。</MakeFuelStraw10.description>
-  <MakeFuelStraw10.jobString>正在把秸秆加工成燃料</MakeFuelStraw10.jobString>
+  <MakeFuelStraw10.jobString>正在把秸秆加工成燃料。</MakeFuelStraw10.jobString>
 
-  <MakeFuelStraw50.label>燃料用秸秆(50)</MakeFuelStraw50.label>
+  <MakeFuelStraw50.label>把秸秆加工成燃料(x50)</MakeFuelStraw50.label>
   <MakeFuelStraw50.description>把秸秆加工成燃料。</MakeFuelStraw50.description>
-  <MakeFuelStraw50.jobString>正在把秸秆加工成燃料</MakeFuelStraw50.jobString>
+  <MakeFuelStraw50.jobString>正在把秸秆加工成燃料。</MakeFuelStraw50.jobString>
 
-  <MakeFuelStraw100.label>燃料用秸秆(100)</MakeFuelStraw100.label>
+  <MakeFuelStraw100.label>制作燃料用秸秆(x100)</MakeFuelStraw100.label>
   <MakeFuelStraw100.description>把秸秆加工成燃料。</MakeFuelStraw100.description>
-  <MakeFuelStraw100.jobString>正在把秸秆加工成燃料</MakeFuelStraw100.jobString>
+  <MakeFuelStraw100.jobString>正在把秸秆加工成燃料。</MakeFuelStraw100.jobString>
 
 
   <!-- 泥収集 -->
 
   <ZP_CollectMud.label>采掘泥土</ZP_CollectMud.label>
   <ZP_CollectMud.description>采集一些泥土。</ZP_CollectMud.description>
-  <ZP_CollectMud.jobString>采掘中</ZP_CollectMud.jobString>
+  <ZP_CollectMud.jobString>采掘中。</ZP_CollectMud.jobString>
 
 
   <!-- 副産物袋 -->
 
-  <MakeRiceByproduct.label>制作副产物袋(100)</MakeRiceByproduct.label>
+  <MakeRiceByproduct.label>制作副产物袋(x100)</MakeRiceByproduct.label>
   <MakeRiceByproduct.description>制作副产物袋。</MakeRiceByproduct.description>
-  <MakeRiceByproduct.jobString>正在制作副产物袋</MakeRiceByproduct.jobString>
+  <MakeRiceByproduct.jobString>正在制作副产物袋。</MakeRiceByproduct.jobString>
 
   <TakeRiceByproduct_RC.label>取出米糠和谷壳</TakeRiceByproduct_RC.label>
   <TakeRiceByproduct_RC.description>从副产物袋中取出米糠和谷壳。</TakeRiceByproduct_RC.description>
-  <TakeRiceByproduct_RC.jobString>正在取出</TakeRiceByproduct_RC.jobString>
+  <TakeRiceByproduct_RC.jobString>正在取出米糠和谷壳。</TakeRiceByproduct_RC.jobString>
 
   <TakeRiceByproduct_R.label>取出米糠</TakeRiceByproduct_R.label>
   <TakeRiceByproduct_R.description>从副产物袋中取出米糠。\n注意：其中的谷壳将会被浪费掉。</TakeRiceByproduct_R.description>
-  <TakeRiceByproduct_R.jobString>正在取出</TakeRiceByproduct_R.jobString>
+  <TakeRiceByproduct_R.jobString>正在取出米糠。</TakeRiceByproduct_R.jobString>
 
   <TakeRiceByproduct_C.label>取出谷壳</TakeRiceByproduct_C.label>
   <TakeRiceByproduct_C.description>从副产物袋中取出谷壳。\n注意：其中的米糠将会被浪费掉。</TakeRiceByproduct_C.description>
-  <TakeRiceByproduct_C.jobString>正在取出</TakeRiceByproduct_C.jobString>
+  <TakeRiceByproduct_C.jobString>正在取出谷壳。</TakeRiceByproduct_C.jobString>
 
   <MakeChemfuelFromRice.label>精制化合燃料</MakeChemfuelFromRice.label>
-  <MakeChemfuelFromRice.description>用大米副产物和秸秆来制取化合燃料</MakeChemfuelFromRice.description>
-  <MakeChemfuelFromRice.jobString>正在制取化合燃料</MakeChemfuelFromRice.jobString>
+  <MakeChemfuelFromRice.description>用大米副产物和秸秆来制取化合燃料。</MakeChemfuelFromRice.description>
+  <MakeChemfuelFromRice.jobString>正在制取化合燃料。</MakeChemfuelFromRice.jobString>
 
+  <MakeRBCeramic.label>制作RB陶瓷砖(x10)</MakeRBCeramic.label>
+  <MakeRBCeramic.description>通过将稻米生产过程中产生的副产品搅碎、脱脂、压缩并进行热处理后制成一种特别的陶瓷砖。</MakeRBCeramic.description>
+  <MakeRBCeramic.jobString>正在制作RB陶瓷砖。</MakeRBCeramic.jobString>
+
+
+  <!-- 肥料制成 -->
+  <!-- 燃料制成 -->
 
 </LanguageData>

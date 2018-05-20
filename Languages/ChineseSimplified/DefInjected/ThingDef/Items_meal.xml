@@ -53,7 +53,40 @@
   <ZP_SaltGrilledFish.description>将鲜鱼抹上盐然后串在竹签上用炭火烘焙，这种简单而美味的吃法无论在哪里都相当受欢迎呢。</ZP_SaltGrilledFish.description>
 
   <ZP_SteamedFish.label>煮鱼</ZP_SteamedFish.label>
-  <ZP_SteamedFish.description>将鱼用合适的火候煮熟、调味再加上配菜，就成了可以放心食用的餐品了。</ZP_SteamedFish.description>
+  <ZP_SteamedFish.description>将鱼和味噌一起用合适的火候煮熟、调味再加上配菜，就成了可以放心食用的美味餐品了。</ZP_SteamedFish.description>
+
+  <GR_Takikomi.label>炊き込みご飯</GR_Takikomi.label>
+  <GR_Takikomi.description>もち米と具を一緒に炊き込んで作るご飯。</GR_Takikomi.description>
+
+  <ZP_Tendon.label>天丼</ZP_Tendon.label>
+  <ZP_Tendon.description>白飯の上に天ぷらをのせたどんぶり。揚げたてサクサクの天ぷらは食欲をそそります。</ZP_Tendon.description>
+
+  <ZP_Udon.label>うどん</ZP_Udon.label>
+  <ZP_Udon.description>穀物粉を練って長く伸ばした白い麺。もちもちとした食感とツルっとしたのどこしが特徴の麺。</ZP_Udon.description>
+
+  <ZP_Ramen.label>ラーメン</ZP_Ramen.label>
+  <ZP_Ramen.description>穀物粉を練って長く伸ばした細い黄色い麺。中華スープに様々な具材を食みあわせた麺料理。</ZP_Ramen.description>
+
+  <ZP_Tyannko.label>ちゃんこ鍋</ZP_Tyannko.label>
+  <ZP_Tyannko.description>具沢山の野菜や肉を沢山入れて煮込んだ鍋。栄養を沢山とれるので元気になれる。</ZP_Tyannko.description>
+
+  <ZP_Okonomiyaki.label>お好み焼き</ZP_Okonomiyaki.label>
+  <ZP_Okonomiyaki.description>水に溶いた穀物粉を生地に野菜と肉を材料に鉄板で焼く日本の庶民的料理。</ZP_Okonomiyaki.description>
+
+  <ZP_Korokke.label>コロッケ</ZP_Korokke.label>
+  <ZP_Korokke.description>ジャガイモを潰してペーストにし衣をつけた揚げ物料理。どこでも食べれる。</ZP_Korokke.description>
+
+  <ZP_Oden.label>おでん</ZP_Oden.label>
+  <ZP_Oden.description>鰹節とコンブでとった出汁にコンニャク、大根、ちくわを長時間煮込んだ煮込み料理。</ZP_Oden.description>
+
+  <ZP_aRice.label>アルファ米</ZP_aRice.label>
+  <ZP_aRice.description>非常用食品。いつでもお米が食べられるように乾燥させたもの。食べる時は水かお湯で戻せば美味しいご飯ができる。</ZP_aRice.description>
+
+  <ZP_Hardtack.label>乾パン</ZP_Hardtack.label>
+  <ZP_Hardtack.description>非常用食品。長期保存のために固く焼き上げたビスケットの一種。</ZP_Hardtack.description>
+
+  <ZP_Timaki.label>ちまき</ZP_Timaki.label>
+  <ZP_Timaki.description>非常用食品。もち米を植物の葉に包み蒸したもの。事前に灰汁でもち米を煮込む事で保存性を高めてる。</ZP_Timaki.description>
 
 
 </LanguageData>

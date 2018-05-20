@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Cook5MealSimple.label>烹調間單料理(x5)</Cook5MealSimple.label>
+  <Cook5MealSimple.description>用少量原材料來製作一份相對間單的食物。</Cook5MealSimple.description>
+  <Cook5MealSimple.jobString>正在烹調簡單料理。</Cook5MealSimple.jobString>
+
+  <!--[Core] <CookMealFine.label>烹調精緻的料理</CookMealFine.label>-->
+  <!--[Core] <CookMealFine.description>用肉和植物組合作為原料烹調一份相對複雜的料理。</CookMealFine.description>-->
+  <!--[Core] <CookMealFine.jobString>烹調精緻料理。</CookMealFine.jobString>-->
+
+  <Cook5MealFine.label>烹調精緻料理(x5)</Cook5MealFine.label>
+  <Cook5MealFine.description>將生肉和素食材料組合，烹調一份相對復雜的食物。\n\n必須同時有肉食和素食。</Cook5MealFine.description>
+  <Cook5MealFine.jobString>正在烹調精緻料理。</Cook5MealFine.jobString>
+
+  <!--[Core] <CookMealLavish.label>烹調奢侈的料理</CookMealLavish.label>-->
+  <!--[Core] <CookMealLavish.description>用肉和植物組合作為原料烹調一份非常複雜精緻的料理。絕大多數原料會被浪費掉。</CookMealLavish.description>-->
+  <!--[Core] <CookMealLavish.jobString>烹調精緻料理。</CookMealLavish.jobString>-->
+
+  <Cook5MealLavish.label>烹調豪華料理(x5)</Cook5MealLavish.label>
+  <Cook5MealLavish.description>將生肉和素食材料組合，烹調一份非常復雜的食物。大部分材料會被浪費。\n\n必須同時有肉食和素食。</Cook5MealLavish.description>
+  <Cook5MealLavish.jobString>正在烹調豪華料理。</Cook5MealLavish.jobString>
+
+  <!--[Core] <CookMealSurvival.label>烹調生存食品包</CookMealSurvival.label>-->
+  <!--[Core] <CookMealSurvival.description>用肉和植物組合作為原料烹調一份生存食品包，許多營養值會被浪費掉。</CookMealSurvival.description>-->
+  <!--[Core] <CookMealSurvival.jobString>烹調生存食品包。</CookMealSurvival.jobString>-->
+
+  <Cook5MealSurvival.label>烹調生存食品包(x5)</Cook5MealSurvival.label>
+  <Cook5MealSurvival.description>將生肉和素食材料組合，烹調一份生存食品包。大部分材料會被浪費。\n\n必須同時有肉食和素食。</Cook5MealSurvival.description>
+  <Cook5MealSurvival.jobString>正在烹調生存食品包。</Cook5MealSurvival.jobString>
+
+  <!--[Core] <MakeKibble.label>製作飼料</MakeKibble.label>-->
+  <!--[Core] <MakeKibble.description>混合生肉和作物製成動物飼料。</MakeKibble.description>-->
+  <!--[Core] <MakeKibble.jobString>磨製飼料。</MakeKibble.jobString>-->
+
+  <Make6Kibble.label>製作飼料(x300)</Make6Kibble.label>
+  <Make6Kibble.description>用肉和植物原料製作動物飼料。</Make6Kibble.description>
+  <Make6Kibble.jobString>正在製作粗飼料。</Make6Kibble.jobString>
+
+  <!--[Core] <MakePemmican.label>製作肉餅</MakePemmican.label>-->
+  <!--[Core] <MakePemmican.description>混合肉類、作物製作的乾燥加工食品，雖稱不上美味，但可以於常溫存放一年以上。</MakePemmican.description>-->
+  <!--[Core] <MakePemmican.jobString>製作肉餅。</MakePemmican.jobString>-->
+
+  <Make9Pemmican.label>製作乾肉餅(x10)</Make9Pemmican.label>
+  <Make9Pemmican.description>混合肉類、作物製作的乾燥加工食品，雖稱不上美味，但可以於常溫存放一年以上。</Make9Pemmican.description>
+  <Make9Pemmican.jobString>正在製作乾肉餅。</Make9Pemmican.jobString>
+
+
+  <!--[Core] <MakePemmican.label>製作乾肉餅</MakePemmican.label>-->
+  <!--[Core] <MakePemmican.jobString>製作乾肉餅。</MakePemmican.jobString>-->
+
+</LanguageData>

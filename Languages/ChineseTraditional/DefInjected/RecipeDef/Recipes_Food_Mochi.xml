@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <CookRoastedMochi5.label>製作烤米餅(x5)</CookRoastedMochi5.label>
+  <CookRoastedMochi5.description>將凍米餅烘焙一下。</CookRoastedMochi5.description>
+  <CookRoastedMochi5.jobString>正在烘焙米餅。</CookRoastedMochi5.jobString>
+
+  <CookThreeColoredDumplings5.label>製作三色糰子(x5)</CookThreeColoredDumplings5.label>
+  <CookThreeColoredDumplings5.description>用凍米餅和砂糖攪拌著色來製作三色糰子。</CookThreeColoredDumplings5.description>
+  <CookThreeColoredDumplings5.jobString>正在製作三色糰子。</CookThreeColoredDumplings5.jobString>
+
+  <CookVinegarMochi5.label>製作醋餅(x5)</CookVinegarMochi5.label>
+  <CookVinegarMochi5.description>用凍米餅、醋和蘿蔔泥來製作醋餅。</CookVinegarMochi5.description>
+  <CookVinegarMochi5.jobString>正在製作醋餅。</CookVinegarMochi5.jobString>
+
+  <CookIsobeMochi5.label>製作磯辺餅(x5)</CookIsobeMochi5.label>
+  <CookIsobeMochi5.description>用凍米餅、醬油還有海苔來製作磯辺餅。</CookIsobeMochi5.description>
+  <CookIsobeMochi5.jobString>正在製作磯辺餅。</CookIsobeMochi5.jobString>
+
+  <CookGoheiMochi5.label>製作伍平餅(x5)</CookGoheiMochi5.label>
+  <CookGoheiMochi5.description>用凍米餅和味噌來製作伍平餅。</CookGoheiMochi5.description>
+  <CookGoheiMochi5.jobString>正在製作伍平餅。</CookGoheiMochi5.jobString>
+
+  <CookZundaMochi5.label>製作枝豆麻糬(x5)</CookZundaMochi5.label>
+  <CookZundaMochi5.description>用搗碎的毛豆泥包裹焙米餅來製成糕點。</CookZundaMochi5.description>
+  <CookZundaMochi5.jobString>正在製作枝豆麻糬。</CookZundaMochi5.jobString>
+
+
+</LanguageData>

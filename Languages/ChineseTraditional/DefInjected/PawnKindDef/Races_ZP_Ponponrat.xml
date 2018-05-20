@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- ポン菓子ロープ -->
+
+  <ZP_Ponponrat.label>甜甜鼠</ZP_Ponponrat.label>
+  <ZP_Ponponrat.labelPlural>甜甜鼠</ZP_Ponponrat.labelPlural>
+  <ZP_Ponponrat.lifeStages.0.label>甜甜鼠寶寶</ZP_Ponponrat.lifeStages.0.label>
+  <ZP_Ponponrat.lifeStages.0.labelPlural>甜甜鼠寶寶</ZP_Ponponrat.lifeStages.0.labelPlural>
+  <ZP_Ponponrat.lifeStages.0.labelMale>雄性甜甜鼠寶寶</ZP_Ponponrat.lifeStages.0.labelMale>
+  <ZP_Ponponrat.lifeStages.0.labelMalePlural>雄性甜甜鼠寶寶</ZP_Ponponrat.lifeStages.0.labelMalePlural>
+  <ZP_Ponponrat.lifeStages.0.labelFemale>雌性甜甜鼠寶寶</ZP_Ponponrat.lifeStages.0.labelFemale>
+  <ZP_Ponponrat.lifeStages.0.labelFemalePlural>雌性甜甜鼠寶寶</ZP_Ponponrat.lifeStages.0.labelFemalePlural>
+  <ZP_Ponponrat.lifeStages.1.label>小甜甜鼠</ZP_Ponponrat.lifeStages.1.label>
+  <ZP_Ponponrat.lifeStages.1.labelPlural>小甜甜鼠</ZP_Ponponrat.lifeStages.1.labelPlural>
+  <ZP_Ponponrat.lifeStages.1.labelMale>雄性小甜甜鼠</ZP_Ponponrat.lifeStages.1.labelMale>
+  <ZP_Ponponrat.lifeStages.1.labelMalePlural>雄性小甜甜鼠</ZP_Ponponrat.lifeStages.1.labelMalePlural>
+  <ZP_Ponponrat.lifeStages.1.labelFemale>雌性小甜甜鼠</ZP_Ponponrat.lifeStages.1.labelFemale>
+  <ZP_Ponponrat.lifeStages.1.labelFemalePlural>雌性小甜甜鼠</ZP_Ponponrat.lifeStages.1.labelFemalePlural>
+  <ZP_Ponponrat.lifeStages.2.label>甜甜鼠</ZP_Ponponrat.lifeStages.2.label>
+  <ZP_Ponponrat.lifeStages.2.labelPlural>甜甜鼠</ZP_Ponponrat.lifeStages.2.labelPlural>
+  <ZP_Ponponrat.lifeStages.2.labelMale>雄性甜甜鼠</ZP_Ponponrat.lifeStages.2.labelMale>
+  <ZP_Ponponrat.lifeStages.2.labelMalePlural>雄性甜甜鼠</ZP_Ponponrat.lifeStages.2.labelMalePlural>
+  <ZP_Ponponrat.lifeStages.2.labelFemale>雌性甜甜鼠</ZP_Ponponrat.lifeStages.2.labelFemale>
+  <ZP_Ponponrat.lifeStages.2.labelFemalePlural>雌性甜甜鼠</ZP_Ponponrat.lifeStages.2.labelFemalePlural>
+  <ZP_Ponponrat.labelMale>雄性甜甜鼠</ZP_Ponponrat.labelMale>
+  <ZP_Ponponrat.labelMalePlural>雄性甜甜鼠</ZP_Ponponrat.labelMalePlural>
+  <ZP_Ponponrat.labelFemale>雌性甜甜鼠</ZP_Ponponrat.labelFemale>
+  <ZP_Ponponrat.labelFemalePlural>雌性甜甜鼠</ZP_Ponponrat.labelFemalePlural>
+
+
+</LanguageData>
