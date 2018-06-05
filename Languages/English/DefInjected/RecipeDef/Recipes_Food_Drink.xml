@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-	<CookMisosiru.label>Miso soup(2)</CookMisosiru.label>
-	<CookMisosiru.description>味噌を溶かしただし汁にお好みの具材を入れよう。</CookMisosiru.description>
-	<CookMisosiru.jobString>味噌汁を作る</CookMisosiru.jobString>
-	<CookSoyMilkShake.label>Soy milk shake(2)</CookSoyMilkShake.label>
-	<CookSoyMilkShake.description></CookSoyMilkShake.description>
-	<CookSoyMilkShake.jobString>豆乳シェイクを作る</CookSoyMilkShake.jobString>
+	<CookMisosiru.label>Cook Miso soup(2)</CookMisosiru.label>
+	<CookMisosiru.description>Dissolving Miso into boiling water and adding your favorite ingredients.</CookMisosiru.description>
+	<CookMisosiru.jobString>Cook Miso Soup</CookMisosiru.jobString>
+	<CookSoyMilkShake.label>Cook Soy milk shake(2)</CookSoyMilkShake.label>
+	<CookSoyMilkShake.description>It is a milk shake, only made with Soy milk.</CookSoyMilkShake.description>
+	<CookSoyMilkShake.jobString>Cook Soy Milk Shake</CookSoyMilkShake.jobString>
 </LanguageData>
