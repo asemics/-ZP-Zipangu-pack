@@ -1,26 +1,26 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <HedMochi.label>【速】떡 파워</HedMochi.label>
+  <HedMochi.label>【속력】모찌 파워</HedMochi.label>
   <HedMochi.stages.0.label>떡을 먹었다</HedMochi.stages.0.label>
 
-  <HedMochi2.label>【技】떡 파워</HedMochi2.label>
+  <HedMochi2.label>【쾌락】모찌 파워</HedMochi2.label>
   <HedMochi2.stages.0.label>떡을 먹었다</HedMochi2.stages.0.label>
 
   <HedPuffedRice.label>나의 몸에 폭발적인 힘이 머문다!!</HedPuffedRice.label>
-  <HedPuffedRice.stages.0.label>튀긴 곡류 과자를 먹었다.</HedPuffedRice.stages.0.label>
+  <HedPuffedRice.stages.0.label>튀긴 곡류 과자를 먹었다</HedPuffedRice.stages.0.label>
 
-  <HedFermentedFood.label>Fermented food with a smell</HedFermentedFood.label>
-  <HedFermentedFood.stages.0.label>I ate Fermented food</HedFermentedFood.stages.0.label>
+  <HedFermentedFood.label>발효된 음식의 냄새</HedFermentedFood.label>
+  <HedFermentedFood.stages.0.label>발효된 음식을 먹었어</HedFermentedFood.stages.0.label>
 
-  <HedFishFood.label>Fish power!!</HedFishFood.label>
-  <HedFishFood.stages.0.label>I ate fish dishes</HedFishFood.stages.0.label>
+  <HedFishFood.label>생선 파워!!</HedFishFood.label>
+  <HedFishFood.stages.0.label>생선을 먹었어</HedFishFood.stages.0.label>
 
-  <HedFreshFishFood.label>Fresh fish power!!</HedFreshFishFood.label>
-  <HedFreshFishFood.stages.0.label>I ate Seafood dishes</HedFreshFishFood.stages.0.label>
+  <HedFreshFishFood.label>해물 천국!!</HedFreshFishFood.label>
+  <HedFreshFishFood.stages.0.label>해물 요리를 먹었어</HedFreshFishFood.stages.0.label>
 
-  <HedNabeFood.label>ごっつあんです!!</HedNabeFood.label>
-  <HedNabeFood.stages.0.label>たらふく食べた</HedNabeFood.stages.0.label>
+  <HedNabeFood.label>매우 잘 먹었습니다!!</HedNabeFood.label>
+  <HedNabeFood.stages.0.label>배터지게 먹었다</HedNabeFood.stages.0.label>
 
 
 </LanguageData>
