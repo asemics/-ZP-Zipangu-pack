@@ -2,12 +2,12 @@
 <LanguageData>
 
   <CookMisosiru.label>미소 된장국(2)</CookMisosiru.label>
-  <CookMisosiru.description>된장을 녹인 국물에 좋아하는 식재료를 넣고 끓인다.</CookMisosiru.description>
-  <CookMisosiru.jobString>미소 된장국 요리</CookMisosiru.jobString>
+  <CookMisosiru.description>된장을 녹인 국물에 좋아하는 식재료를 넣고 끓입니다.</CookMisosiru.description>
+  <CookMisosiru.jobString>미소 된장국 준비</CookMisosiru.jobString>
 
   <CookSoyMilkShake.label>두유 쉐이크(2)</CookSoyMilkShake.label>
-  <CookSoyMilkShake.description>두유를 넣어 만든 밀크쉐이크를 만든다.</CookSoyMilkShake.description>
-  <CookSoyMilkShake.jobString>두유 쉐이크 요리</CookSoyMilkShake.jobString>
+  <CookSoyMilkShake.description>두유를 넣어 만든 밀크쉐이크를 만.</CookSoyMilkShake.description>
+  <CookSoyMilkShake.jobString>두유 쉐이크 준비</CookSoyMilkShake.jobString>
 
 
 </LanguageData>
