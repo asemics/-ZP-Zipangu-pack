@@ -1,0 +1,167 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <StrawBed.label>藁ベッド</StrawBed.label>
+  <StrawBed.description>【売却不可】\n寝心地は最悪だが無いよりマシな寝床。</StrawBed.description>
+  <StrawBed_Blueprint.label>藁ベッド (blueprint)</StrawBed_Blueprint.label>
+  <StrawBed_Blueprint_Install.label>藁ベッド (blueprint)</StrawBed_Blueprint_Install.label>
+  <StrawBed_Frame.label>藁ベッド (building)</StrawBed_Frame.label>
+  <StrawBed_Frame.description>【売却不可】\n寝心地は最悪だが無いよりマシな寝床。</StrawBed_Frame.description>
+
+  <DoubleStrawBed.label>ダブル藁ベッド</DoubleStrawBed.label>
+  <DoubleStrawBed.description>【売却不可】\n寝心地は最悪だが無いよりマシな寝床。</DoubleStrawBed.description>
+  <DoubleStrawBed_Blueprint.label>ダブル藁ベッド (blueprint)</DoubleStrawBed_Blueprint.label>
+  <DoubleStrawBed_Blueprint_Install.label>ダブル藁ベッド (blueprint)</DoubleStrawBed_Blueprint_Install.label>
+  <DoubleStrawBed_Frame.label>ダブル藁ベッド (building)</DoubleStrawBed_Frame.label>
+  <DoubleStrawBed_Frame.description>【売却不可】\n寝心地は最悪だが無いよりマシな寝床。</DoubleStrawBed_Frame.description>
+
+  <SuperiorStrawBed.label>藁編みベッド</SuperiorStrawBed.label>
+  <SuperiorStrawBed.description>藁ベッドを改良して寝心地をよくした上質な藁ベッド。\nそれでも通常のベッドより質は少し落ちる。</SuperiorStrawBed.description>
+  <SuperiorStrawBed_Blueprint.label>藁編みベッド (blueprint)</SuperiorStrawBed_Blueprint.label>
+  <SuperiorStrawBed_Blueprint_Install.label>藁編みベッド (blueprint)</SuperiorStrawBed_Blueprint_Install.label>
+  <SuperiorStrawBed_Frame.label>藁編みベッド (building)</SuperiorStrawBed_Frame.label>
+  <SuperiorStrawBed_Frame.description>藁ベッドを改良して寝心地をよくした上質な藁ベッド。\nそれでも通常のベッドより質は少し落ちる。</SuperiorStrawBed_Frame.description>
+
+  <SuperiorDoubleStrawBed.label>ダブル藁編みベッド</SuperiorDoubleStrawBed.label>
+  <SuperiorDoubleStrawBed.description>藁ベッドを改良して寝心地をよくした上質な藁ベッド。\nそれでも通常のベッドより質は少し落ちる。</SuperiorDoubleStrawBed.description>
+  <SuperiorDoubleStrawBed_Blueprint.label>ダブル藁編みベッド (blueprint)</SuperiorDoubleStrawBed_Blueprint.label>
+  <SuperiorDoubleStrawBed_Blueprint_Install.label>ダブル藁編みベッド (blueprint)</SuperiorDoubleStrawBed_Blueprint_Install.label>
+  <SuperiorDoubleStrawBed_Frame.label>ダブル藁編みベッド (building)</SuperiorDoubleStrawBed_Frame.label>
+  <SuperiorDoubleStrawBed_Frame.description>藁ベッドを改良して寝心地をよくした上質な藁ベッド。\nそれでも通常のベッドより質は少し落ちる。</SuperiorDoubleStrawBed_Frame.description>
+
+  <ZP_Ofuton.label>お布団</ZP_Ofuton.label>
+  <ZP_Ofuton.description>日本で使われている伝統的な寝具。\n布袋の中に綿や羽毛などを入れたもので敷き布団と掛け布団がある。</ZP_Ofuton.description>
+  <ZP_Ofuton_Blueprint.label>お布団 (blueprint)</ZP_Ofuton_Blueprint.label>
+  <ZP_Ofuton_Blueprint_Install.label>お布団 (blueprint)</ZP_Ofuton_Blueprint_Install.label>
+  <ZP_Ofuton_Frame.label>お布団 (building)</ZP_Ofuton_Frame.label>
+  <ZP_Ofuton_Frame.description>日本で使われている伝統的な寝具。\n布袋の中に綿や羽毛などを入れたもので敷き布団と掛け布団がある。</ZP_Ofuton_Frame.description>
+
+  <ZP_DoubleOfuton.label>2人用お布団</ZP_DoubleOfuton.label>
+  <ZP_DoubleOfuton.description>2人用の布団。日本で使われている伝統的な寝具。\n布袋の中に綿や羽毛などを入れたもので敷き布団と掛け布団がある。</ZP_DoubleOfuton.description>
+  <ZP_DoubleOfuton_Blueprint.label>2人用お布団 (blueprint)</ZP_DoubleOfuton_Blueprint.label>
+  <ZP_DoubleOfuton_Blueprint_Install.label>2人用お布団 (blueprint)</ZP_DoubleOfuton_Blueprint_Install.label>
+  <ZP_DoubleOfuton_Frame.label>2人用お布団 (building)</ZP_DoubleOfuton_Frame.label>
+  <ZP_DoubleOfuton_Frame.description>2人用の布団。日本で使われている伝統的な寝具。\n布袋の中に綿や羽毛などを入れたもので敷き布団と掛け布団がある。</ZP_DoubleOfuton_Frame.description>
+
+  <ZPAndon.label>行灯</ZPAndon.label>
+  <ZPAndon.description>日本の伝統的な室内照明器具のひとつ。ベッドの近くに置くと優しい光に照らされて快適性が少し上がります。</ZPAndon.description>
+  <ZPAndon_Blueprint.label>行灯 (blueprint)</ZPAndon_Blueprint.label>
+  <ZPAndon_Blueprint_Install.label>行灯 (blueprint)</ZPAndon_Blueprint_Install.label>
+  <ZPAndon_Frame.label>行灯 (building)</ZPAndon_Frame.label>
+  <ZPAndon_Frame.description>日本の伝統的な室内照明器具のひとつ。ベッドの近くに置くと優しい光に照らされて快適性が少し上がります。</ZPAndon_Frame.description>
+
+  <AnimalStrawBedSmall.label>動物用藁ベッド(小)</AnimalStrawBedSmall.label>
+  <AnimalStrawBedSmall.description>【売却不可】\n鶏やウサギなどの小型動物に最適な藁ベッドです。</AnimalStrawBedSmall.description>
+  <AnimalStrawBedSmall_Blueprint.label>動物用藁ベッド(小) (blueprint)</AnimalStrawBedSmall_Blueprint.label>
+  <AnimalStrawBedSmall_Blueprint_Install.label>動物用藁ベッド(小) (blueprint)</AnimalStrawBedSmall_Blueprint_Install.label>
+  <AnimalStrawBedSmall_Frame.label>動物用藁ベッド(小) (building)</AnimalStrawBedSmall_Frame.label>
+  <AnimalStrawBedSmall_Frame.description>【売却不可】\n鶏やウサギなどの小型動物に最適な藁ベッドです。</AnimalStrawBedSmall_Frame.description>
+
+  <AnimalStrawBed.label>動物用藁ベッド</AnimalStrawBed.label>
+  <AnimalStrawBed.description>【売却不可】\n犬からマッファローまでの中型動物に最適な藁ベッドです。</AnimalStrawBed.description>
+  <AnimalStrawBed_Blueprint.label>動物用藁ベッド (blueprint)</AnimalStrawBed_Blueprint.label>
+  <AnimalStrawBed_Blueprint_Install.label>動物用藁ベッド (blueprint)</AnimalStrawBed_Blueprint_Install.label>
+  <AnimalStrawBed_Frame.label>動物用藁ベッド (building)</AnimalStrawBed_Frame.label>
+  <AnimalStrawBed_Frame.description>【売却不可】\n犬からマッファローまでの中型動物に最適な藁ベッドです。</AnimalStrawBed_Frame.description>
+
+  <AnimalStrawBedBig.label>動物用藁ベッド(大)</AnimalStrawBedBig.label>
+  <AnimalStrawBedBig.description>【売却不可】\nスランボや象などの大型動物に最適な藁ベッドです。</AnimalStrawBedBig.description>
+  <AnimalStrawBedBig_Blueprint.label>動物用藁ベッド(大) (blueprint)</AnimalStrawBedBig_Blueprint.label>
+  <AnimalStrawBedBig_Blueprint_Install.label>動物用藁ベッド(大) (blueprint)</AnimalStrawBedBig_Blueprint_Install.label>
+  <AnimalStrawBedBig_Frame.label>動物用藁ベッド(大) (building)</AnimalStrawBedBig_Frame.label>
+  <AnimalStrawBedBig_Frame.description>【売却不可】\nスランボや象などの大型動物に最適な藁ベッドです。</AnimalStrawBedBig_Frame.description>
+
+  <GroundSit.label>地べたに座る</GroundSit.label>
+  <GroundSit.description>地べたに座ることができるのでレジャーシートと一緒に使おう</GroundSit.description>
+  <GroundSit_Blueprint.label>地べたに座る (blueprint)</GroundSit_Blueprint.label>
+  <GroundSit_Frame.label>地べたに座る (building)</GroundSit_Frame.label>
+  <GroundSit_Frame.description>地べたに座ることができるのでレジャーシートと一緒に使おう</GroundSit_Frame.description>
+
+  <ZPWaraZabuton.label>筵</ZPWaraZabuton.label>
+  <ZPWaraZabuton.description>藁で編んだ簡素な座席。\n床に座る際にお尻や脚の負担を軽減するための敷物です。性能はスツールと同等です。</ZPWaraZabuton.description>
+  <ZPWaraZabuton_Blueprint.label>筵 (blueprint)</ZPWaraZabuton_Blueprint.label>
+  <ZPWaraZabuton_Blueprint_Install.label>筵 (blueprint)</ZPWaraZabuton_Blueprint_Install.label>
+  <ZPWaraZabuton_Frame.label>筵 (building)</ZPWaraZabuton_Frame.label>
+  <ZPWaraZabuton_Frame.description>藁で編んだ簡素な座席。\n床に座る際にお尻や脚の負担を軽減するための敷物です。性能はスツールと同等です。</ZPWaraZabuton_Frame.description>
+
+  <ZPZabuton.label>座布団</ZPZabuton.label>
+  <ZPZabuton.description>クッションの一種。\n畳や床の上に座る際にお尻や脚の負担を軽減するための布団です。\n性能はダイニングチェアと同等です。\n Lost Forestの作者様より借用許可を頂きました。</ZPZabuton.description>
+  <ZPZabuton_Blueprint.label>座布団 (blueprint)</ZPZabuton_Blueprint.label>
+  <ZPZabuton_Blueprint_Install.label>座布団 (blueprint)</ZPZabuton_Blueprint_Install.label>
+  <ZPZabuton_Frame.label>座布団 (building)</ZPZabuton_Frame.label>
+  <ZPZabuton_Frame.description>クッションの一種。\n畳や床の上に座る際にお尻や脚の負担を軽減するための布団です。\n性能はダイニングチェアと同等です。\n Lost Forestの作者様より借用許可を頂きました。</ZPZabuton_Frame.description>
+
+  <ZPZabuton1st.label>座布団(赤)</ZPZabuton1st.label>
+  <ZPZabuton1st.description>クッションの一種。\n畳や床の上に座る際にお尻や脚の負担を軽減するための布団です。\n性能はダイニングチェアと同等です。\n Lost Forestの作者様より借用許可を頂きました。</ZPZabuton1st.description>
+  <ZPZabuton1st_Blueprint.label>座布団(赤) (blueprint)</ZPZabuton1st_Blueprint.label>
+  <ZPZabuton1st_Blueprint_Install.label>座布団(赤) (blueprint)</ZPZabuton1st_Blueprint_Install.label>
+  <ZPZabuton1st_Frame.label>座布団(赤) (building)</ZPZabuton1st_Frame.label>
+  <ZPZabuton1st_Frame.description>クッションの一種。\n畳や床の上に座る際にお尻や脚の負担を軽減するための布団です。\n性能はダイニングチェアと同等です。\n Lost Forestの作者様より借用許可を頂きました。</ZPZabuton1st_Frame.description>
+
+  <ZPZabuton2nd.label>座布団(青)</ZPZabuton2nd.label>
+  <ZPZabuton2nd.description>クッションの一種。\n畳や床の上に座る際にお尻や脚の負担を軽減するための布団です。性能はダインイングチェアと同等です。\n性能はダイニングチェアと同等です。\n Lost Forestの作者様より借用許可を頂きました。</ZPZabuton2nd.description>
+  <ZPZabuton2nd_Blueprint.label>座布団(青) (blueprint)</ZPZabuton2nd_Blueprint.label>
+  <ZPZabuton2nd_Blueprint_Install.label>座布団(青) (blueprint)</ZPZabuton2nd_Blueprint_Install.label>
+  <ZPZabuton2nd_Frame.label>座布団(青) (building)</ZPZabuton2nd_Frame.label>
+  <ZPZabuton2nd_Frame.description>クッションの一種。\n畳や床の上に座る際にお尻や脚の負担を軽減するための布団です。性能はダインイングチェアと同等です。\n性能はダイニングチェアと同等です。\n Lost Forestの作者様より借用許可を頂きました。</ZPZabuton2nd_Frame.description>
+
+  <ZPZabuton3rd.label>座布団(紫)</ZPZabuton3rd.label>
+  <ZPZabuton3rd.description>クッションの一種。\n畳や床の上に座る際にお尻や脚の負担を軽減するための布団です。性能はダインイングチェアと同等です。\n性能はダイニングチェアと同等です。\n Lost Forestの作者様より借用許可を頂きました。</ZPZabuton3rd.description>
+  <ZPZabuton3rd_Blueprint.label>座布団(紫) (blueprint)</ZPZabuton3rd_Blueprint.label>
+  <ZPZabuton3rd_Blueprint_Install.label>座布団(紫) (blueprint)</ZPZabuton3rd_Blueprint_Install.label>
+  <ZPZabuton3rd_Frame.label>座布団(紫) (building)</ZPZabuton3rd_Frame.label>
+  <ZPZabuton3rd_Frame.description>クッションの一種。\n畳や床の上に座る際にお尻や脚の負担を軽減するための布団です。性能はダインイングチェアと同等です。\n性能はダイニングチェアと同等です。\n Lost Forestの作者様より借用許可を頂きました。</ZPZabuton3rd_Frame.description>
+
+  <ZP_Tyabudai.label>ちゃぶ台</ZP_Tyabudai.label>
+  <ZP_Tyabudai.description>イスを向き合うように配置すると、ここで食事を摂るようになります。\n Lost Forestの作者様より借用許可を頂きました。</ZP_Tyabudai.description>
+  <ZP_Tyabudai_Blueprint.label>ちゃぶ台 (blueprint)</ZP_Tyabudai_Blueprint.label>
+  <ZP_Tyabudai_Blueprint_Install.label>ちゃぶ台 (blueprint)</ZP_Tyabudai_Blueprint_Install.label>
+  <ZP_Tyabudai_Frame.label>ちゃぶ台 (building)</ZP_Tyabudai_Frame.label>
+  <ZP_Tyabudai_Frame.description>イスを向き合うように配置すると、ここで食事を摂るようになります。\n Lost Forestの作者様より借用許可を頂きました。</ZP_Tyabudai_Frame.description>
+
+
+  <!-- 茣蓙(ござ) -->
+
+  <R_Goza_large.label>茣蓙(大)</R_Goza_large.label>
+  <R_Goza_large.description>外で食べるさいにテーブル代わりになる茣蓙。\n撤去不可だが素材はほぼ返ってきます。</R_Goza_large.description>
+  <R_Goza_large_Blueprint.label>茣蓙(大) (blueprint)</R_Goza_large_Blueprint.label>
+  <R_Goza_large_Frame.label>茣蓙(大) (building)</R_Goza_large_Frame.label>
+  <R_Goza_large_Frame.description>外で食べるさいにテーブル代わりになる茣蓙。\n撤去不可だが素材はほぼ返ってきます。</R_Goza_large_Frame.description>
+
+  <R_Goza.label>茣蓙</R_Goza.label>
+  <R_Goza.description>外で食べるさいにテーブル代わりになる茣蓙。\n撤去不可だが素材はほぼ返ってきます。</R_Goza.description>
+  <R_Goza_Blueprint.label>茣蓙 (blueprint)</R_Goza_Blueprint.label>
+  <R_Goza_Frame.label>茣蓙 (building)</R_Goza_Frame.label>
+  <R_Goza_Frame.description>外で食べるさいにテーブル代わりになる茣蓙。\n撤去不可だが素材はほぼ返ってきます。</R_Goza_Frame.description>
+
+
+  <!-- レジャーシート -->
+
+  <PicnicSheet_large.label>レジャーシート(大)</PicnicSheet_large.label>
+  <PicnicSheet_large.description>外で食べるさいにテーブル代わりになるレジャーシート。\n撤去不可だが素材はほぼ返ってきます。</PicnicSheet_large.description>
+  <PicnicSheet_large_Blueprint.label>レジャーシート(大) (blueprint)</PicnicSheet_large_Blueprint.label>
+  <PicnicSheet_large_Frame.label>レジャーシート(大) (building)</PicnicSheet_large_Frame.label>
+  <PicnicSheet_large_Frame.description>外で食べるさいにテーブル代わりになるレジャーシート。\n撤去不可だが素材はほぼ返ってきます。</PicnicSheet_large_Frame.description>
+
+  <PicnicSheet.label>レジャーシート</PicnicSheet.label>
+  <PicnicSheet.description>外で食べるさいにテーブル代わりになるレジャーシート。\n撤去不可だが素材はほぼ返ってきます。</PicnicSheet.description>
+  <PicnicSheet_Blueprint.label>レジャーシート (blueprint)</PicnicSheet_Blueprint.label>
+  <PicnicSheet_Frame.label>レジャーシート (building)</PicnicSheet_Frame.label>
+  <PicnicSheet_Frame.description>外で食べるさいにテーブル代わりになるレジャーシート。\n撤去不可だが素材はほぼ返ってきます。</PicnicSheet_Frame.description>
+
+  <ZP_Tuitate.label>衝立</ZP_Tuitate.label>
+  <ZP_Tuitate.description>撤去できる目隠し用の壁。部屋を一時的に区切ったり、奥の部屋を見せないように目隠しにも使われる。光は遮らないのでレイアウトには困りません。</ZP_Tuitate.description>
+  <ZP_Tuitate_Blueprint.label>衝立 (blueprint)</ZP_Tuitate_Blueprint.label>
+  <ZP_Tuitate_Blueprint_Install.label>衝立 (blueprint)</ZP_Tuitate_Blueprint_Install.label>
+  <ZP_Tuitate_Frame.label>衝立 (building)</ZP_Tuitate_Frame.label>
+  <ZP_Tuitate_Frame.description>撤去できる目隠し用の壁。部屋を一時的に区切ったり、奥の部屋を見せないように目隠しにも使われる。光は遮らないのでレイアウトには困りません。</ZP_Tuitate_Frame.description>
+
+  <ZP_Tuitate2nd.label>衝立</ZP_Tuitate2nd.label>
+  <ZP_Tuitate2nd.description>撤去できる目隠し用の壁。部屋を一時的に区切ったり、奥の部屋を見せないように目隠しにも使われる。光は遮らないのでレイアウトには困りません。</ZP_Tuitate2nd.description>
+  <ZP_Tuitate2nd_Blueprint.label>衝立 (blueprint)</ZP_Tuitate2nd_Blueprint.label>
+  <ZP_Tuitate2nd_Blueprint_Install.label>衝立 (blueprint)</ZP_Tuitate2nd_Blueprint_Install.label>
+  <ZP_Tuitate2nd_Frame.label>衝立 (building)</ZP_Tuitate2nd_Frame.label>
+  <ZP_Tuitate2nd_Frame.description>撤去できる目隠し用の壁。部屋を一時的に区切ったり、奥の部屋を見せないように目隠しにも使われる。光は遮らないのでレイアウトには困りません。</ZP_Tuitate2nd_Frame.description>
+
+
+</LanguageData>

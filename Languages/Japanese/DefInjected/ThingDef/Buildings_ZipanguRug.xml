@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 畳 -->
+
+  <Tatami_1Green.label>1畳(緑)</Tatami_1Green.label>
+  <Tatami_1Green.description>１帖分の大きさの畳。畳は空気を浄化し湿度を調整する機能を持っている。\nまた難燃性も大変優れているので火事がおきても燃えない。</Tatami_1Green.description>
+  <Tatami_1Green_Blueprint.label>1畳(緑) (blueprint)</Tatami_1Green_Blueprint.label>
+  <Tatami_1Green_Blueprint_Install.label>1畳(緑) (blueprint)</Tatami_1Green_Blueprint_Install.label>
+  <Tatami_1Green_Frame.label>1畳(緑) (building)</Tatami_1Green_Frame.label>
+  <Tatami_1Green_Frame.description>１帖分の大きさの畳。畳は空気を浄化し湿度を調整する機能を持っている。\nまた難燃性も大変優れているので火事がおきても燃えない。</Tatami_1Green_Frame.description>
+
+  <Tatami_1Yellow.label>1畳(黄)</Tatami_1Yellow.label>
+  <Tatami_1Yellow.description>１帖分の大きさの畳。畳は空気を浄化し湿度を調整する機能を持っている。\nまた難燃性も大変優れているので火事がおきても燃えない。</Tatami_1Yellow.description>
+  <Tatami_1Yellow_Blueprint.label>1畳(黄) (blueprint)</Tatami_1Yellow_Blueprint.label>
+  <Tatami_1Yellow_Blueprint_Install.label>1畳(黄) (blueprint)</Tatami_1Yellow_Blueprint_Install.label>
+  <Tatami_1Yellow_Frame.label>1畳(黄) (building)</Tatami_1Yellow_Frame.label>
+  <Tatami_1Yellow_Frame.description>１帖分の大きさの畳。畳は空気を浄化し湿度を調整する機能を持っている。\nまた難燃性も大変優れているので火事がおきても燃えない。</Tatami_1Yellow_Frame.description>
+
+
+</LanguageData>

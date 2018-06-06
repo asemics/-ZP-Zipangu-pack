@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Tawara.label>俵</Tawara.label>
+  <ZP_Seasoning.label>調味料</ZP_Seasoning.label>
+  <ZP_Grain.label>穀物</ZP_Grain.label>
+  <AnimalFeed.label>動物飼料</AnimalFeed.label>
+  <ZP_FoodMeals.label>日本食</ZP_FoodMeals.label>
+  <ZPLuxury.label>嗜好品</ZPLuxury.label>
+
+
+  <!-- Weapon -->
+
+  <ZipanguWeapon.label>ジパング</ZipanguWeapon.label>
+  <ZipanguWeaponRanged.label>ジパング</ZipanguWeaponRanged.label>
+
+
+  <!-- Headgear -->
+
+  <ZipanguHeadgear.label>ジパング</ZipanguHeadgear.label>
+
+
+  <!-- Body -->
+
+  <Bodygear.label>体装備</Bodygear.label>
+  <BodyOnSkin.label>肌着</BodyOnSkin.label>
+  <BodyArmour.label>鎧</BodyArmour.label>
+  <Outergear.label>外套</Outergear.label>
+  <VanillaBodygear.label>バニラ装備</VanillaBodygear.label>
+
+
+  <!-- Hand -->
+
+  <Handgear.label>手装備</Handgear.label>
+
+
+  <!-- Foot -->
+
+  <Footgear.label>足装備</Footgear.label>
+
+
+  <!-- Acessories -->
+
+  <Accessories.label>アクセサリー</Accessories.label>
+  <Zipangu.label>ジパング</Zipangu.label>
+
+
+</LanguageData>

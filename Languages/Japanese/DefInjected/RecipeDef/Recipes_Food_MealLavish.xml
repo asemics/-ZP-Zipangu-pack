@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 豪華な食事　カレーライス -->
+
+  <CookWRJPCurryRice8.label>カレーライス(4)</CookWRJPCurryRice8.label>
+  <CookWRJPCurryRice8.description>カレーライスを4個作る</CookWRJPCurryRice8.description>
+  <CookWRJPCurryRice8.jobString>カレーライスを作る</CookWRJPCurryRice8.jobString>
+
+
+  <!-- 豪華な食事　寿司 -->
+
+  <CookWRSushi8.label>握り寿司(4)</CookWRSushi8.label>
+  <CookWRSushi8.description>握り寿司を4個作る</CookWRSushi8.description>
+  <CookWRSushi8.jobString>握り寿司を作る</CookWRSushi8.jobString>
+
+  <CookRamen4.label>ラーメン(4)</CookRamen4.label>
+  <CookRamen4.description>穀物粉、味付け肉、野菜、調味料を使ってラーメンを作る。隠し味の香辛料も忘れずに入れよう。</CookRamen4.description>
+  <CookRamen4.jobString>ラーメンを作る</CookRamen4.jobString>
+
+  <CookTyannko4.label>ちゃんこ鍋(4)</CookTyannko4.label>
+  <CookTyannko4.description>加工品類(穀物粉,凍り餅,たんぽ,豆腐)、肉類、野菜類をたっぷり入れた鍋を4つ作る</CookTyannko4.description>
+  <CookTyannko4.jobString>ちゃんこ鍋を作る</CookTyannko4.jobString>
+
+
+</LanguageData>

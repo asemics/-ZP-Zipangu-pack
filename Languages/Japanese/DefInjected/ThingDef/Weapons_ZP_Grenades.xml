@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Molotov cocktail -->
+
+  <Weapon_GrenadeHorokudama.label>焙烙玉</Weapon_GrenadeHorokudama.label>
+  <Weapon_GrenadeHorokudama.description>戦国時代の日本で使用されていた焼夷弾。</Weapon_GrenadeHorokudama.description>
+  <Weapon_GrenadeHorokudama.verbs.0.label>焙烙玉</Weapon_GrenadeHorokudama.verbs.0.label>
+
+  <Proj_GrenadeHorokudama.label>焙烙玉</Proj_GrenadeHorokudama.label>
+
+
+</LanguageData>

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <HedBadBreath.label>口臭</HedBadBreath.label>
+  <HedFull.label>満腹で体が重い・・・</HedFull.label>
+
+  <HedDHA.label>DHAパワー</HedDHA.label>
+  <HedDHA.stages.0.label>魚を食べた</HedDHA.stages.0.label>
+
+  <HedMuscle.label>筋肉こそ正義!!</HedMuscle.label>
+  <HedKungFuFighter.label>カンフーファイター</HedKungFuFighter.label>
+  <HedAppetite.label>食欲増進Ⅰ</HedAppetite.label>
+  <HedAppetite2nd.label>食欲増進Ⅱ</HedAppetite2nd.label>
+  <HedFickle.label>シェフの気まぐれ</HedFickle.label>
+  <HedFickle2nd.label>シェフの気まぐれⅡ</HedFickle2nd.label>
+  <HedFickle3rd.label>シェフの気まぐれⅢ</HedFickle3rd.label>
+  <HedFickle4th.label>シェフの気まぐれⅣ</HedFickle4th.label>
+  <HedFickle5th.label>シェフの気まぐれⅤ</HedFickle5th.label>
+  <HedFickle6th.label>シェフの気まぐれⅥ</HedFickle6th.label>
+  <HedFickle7th.label>シェフの気まぐれⅦ</HedFickle7th.label>
+  <HedFickle8th.label>シェフの気まぐれⅧ</HedFickle8th.label>
+  <HedFickle9th.label>シェフの気まぐれⅨ</HedFickle9th.label>
+
+
+</LanguageData>

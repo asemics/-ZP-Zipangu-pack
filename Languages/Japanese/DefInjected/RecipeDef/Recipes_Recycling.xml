@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 作業場 -->
+
+  <RecycleWeAp.label>装備のリサイクル</RecycleWeAp.label>
+  <RecycleWeAp.description>限られた資源を有効に活用するために素材に戻す。</RecycleWeAp.description>
+  <RecycleWeAp.jobString>リサイクル中</RecycleWeAp.jobString>
+
+
+  <!-- 鍛冶場 -->
+
+  <ZPRecycleApparel.label>服装のリサイクル</ZPRecycleApparel.label>
+  <ZPRecycleApparel.description>限られた資源を有効に活用するために素材に戻す。</ZPRecycleApparel.description>
+  <ZPRecycleApparel.jobString>リサイクル中</ZPRecycleApparel.jobString>
+
+  <ZPRecycleWeapon.label>武器のリサイクル</ZPRecycleWeapon.label>
+  <ZPRecycleWeapon.description>限られた資源を有効に活用するために素材に戻す。</ZPRecycleWeapon.description>
+  <ZPRecycleWeapon.jobString>リサイクル中</ZPRecycleWeapon.jobString>
+
+
+</LanguageData>

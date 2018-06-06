@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Apparel 分類 下着 -->
+
+  <ZP_Dogi.label>道着</ZP_Dogi.label>
+  <ZP_Dogi.description>日本の武道で使われる格闘服。近接戦闘に便利な服です。</ZP_Dogi.description>
+
+  <ZP_Underwear.label>下着</ZP_Underwear.label>
+  <ZP_Underwear.description>着るだけで誰かを魅了してしまう、けしからん下着。</ZP_Underwear.description>
+
+  <ZP_NinjaApparel.label>忍装束</ZP_NinjaApparel.label>
+  <ZP_NinjaApparel.description>隠密や偵察に使われる衣装。素早く移動できるので奇襲することができる。</ZP_NinjaApparel.description>
+
+  <ZP_MikoApparel.label>巫女装束</ZP_MikoApparel.label>
+  <ZP_MikoApparel.description>神道の巫女が着用する衣装。神の加護が宿っており邪悪な気から守ってくれる。</ZP_MikoApparel.description>
+
+  <ZP_GujiApparel.label>神官装束</ZP_GujiApparel.label>
+  <ZP_GujiApparel.description>神道の宮司が着用する衣装。神の加護が宿っており邪悪な気から守ってくれる。</ZP_GujiApparel.description>
+
+  <ZP_SamuraiApparel.label>侍服</ZP_SamuraiApparel.label>
+  <ZP_SamuraiApparel.description>侍が着用する衣装。侍魂が宿っているので近接戦闘の際に恩恵を得ることが出来る。</ZP_SamuraiApparel.description>
+
+  <ZP_Longjohns.label>股引</ZP_Longjohns.label>
+  <ZP_Longjohns.description>日本の伝統的なズボンであり下着としても使われる。</ZP_Longjohns.description>
+
+  <ZP_Loincloth.label>ふんどし</ZP_Loincloth.label>
+  <ZP_Loincloth.description>日本の伝統的な下着。</ZP_Loincloth.description>
+
+
+  <!-- 羽織 Base パーカー -->
+
+  <ZP_HaoriApparel.label>羽織</ZP_HaoriApparel.label>
+  <ZP_HaoriApparel.description>寒い冬にぴったりな上着。礼服としても使えるので大事な御もてなしの際にも重宝する。</ZP_HaoriApparel.description>
+
+
+  <!-- 蓑 Base ダスターコート -->
+
+  <ZP_Mino.label>蓑</ZP_Mino.label>
+  <ZP_Mino.description>藁で作られた外套。</ZP_Mino.description>
+
+
+  <!-- 胸当て Base 防弾チョッキ -->
+
+  <ZP_ArcherArmor.label>胸当て</ZP_ArcherArmor.label>
+  <ZP_ArcherArmor.description>弓兵がつける防具。安定した射撃をする事ができる。</ZP_ArcherArmor.description>
+
+
+  <!-- 足軽具足 Base 防弾チョッキ -->
+
+  <ZP_AsigaruArmor.label>足軽具足</ZP_AsigaruArmor.label>
+  <ZP_AsigaruArmor.description>足軽が着る鎧。どんな状況でも対応できるように動きやすい工夫が施されている。</ZP_AsigaruArmor.description>
+
+
+  <!-- 将軍鎧 Base パワーアーマー -->
+
+  <ZP_SyogunArmor.label>将軍鎧</ZP_SyogunArmor.label>
+  <ZP_SyogunArmor.description>将軍のみつける事が許された鎧。分厚い装甲によって守られているので合戦の覇者になれる。</ZP_SyogunArmor.description>
+
+  <ZP_TetateShield.label>手盾</ZP_TetateShield.label>
+  <ZP_TetateShield.description>Protective gear worn by archers. Stable shooting can be done.</ZP_TetateShield.description>
+
+
+</LanguageData>
