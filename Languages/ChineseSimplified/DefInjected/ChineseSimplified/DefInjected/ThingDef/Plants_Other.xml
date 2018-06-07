@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ZP_PrantJapaneseRadish.label>萝卜</ZP_PrantJapaneseRadish.label>
+  <ZP_PrantJapaneseRadish.description>生长期短而且产量大的萝卜，唯一的缺点就是不便于贮存。</ZP_PrantJapaneseRadish.description>
+
+  <ZP_PrantGreenOnion.label>葱</ZP_PrantGreenOnion.label>
+  <ZP_PrantGreenOnion.description>生长期长产量低，但是很耐寒耐枯萎。</ZP_PrantGreenOnion.description>
+
+  <ZP_PrantTaro.label>芋</ZP_PrantTaro.label>
+  <ZP_PrantTaro.description>生长期长，产量大，淀粉含量很高。</ZP_PrantTaro.description>
+
+  <ZP_PrantSpice.label>香辛料</ZP_PrantSpice.label>
+  <ZP_PrantSpice.description>各种各样可以用作调料的植物。</ZP_PrantSpice.description>
+
+  <ZP_PlantMandarinOrange.label>柑橘树</ZP_PlantMandarinOrange.label>
+  <ZP_PlantMandarinOrange.description>会长出柑橘的树。收获一次果实之后，很快就能收获第二次。</ZP_PlantMandarinOrange.description>
+
+
+</LanguageData>

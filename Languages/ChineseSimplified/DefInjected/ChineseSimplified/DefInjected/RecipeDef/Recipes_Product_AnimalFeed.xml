@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 飼い葉作成 -->
+
+  <MakeR_Manger10.label>制作饲草(x10)</MakeR_Manger10.label>
+  <MakeR_Manger10.description>将秸秆、米糠以及一些谷物混合制成粗制的食料，用以喂养动物。</MakeR_Manger10.description>
+  <MakeR_Manger10.jobString>正在制作饲草。</MakeR_Manger10.jobString>
+
+
+  <!-- 削除予定 -->
+
+  <MakeR_Manger20.label>制作饲草(x20)</MakeR_Manger20.label>
+  <MakeR_Manger20.description>将秸秆、米糠以及一些谷物混合制成粗制的食料，用以喂养动物。</MakeR_Manger20.description>
+  <MakeR_Manger20.jobString>正在制作饲草。</MakeR_Manger20.jobString>
+
+  <MakeR_Manger30.label>制作饲草(x30)</MakeR_Manger30.label>
+  <MakeR_Manger30.description>将秸秆、米糠以及一些谷物混合制成粗制的食料，用以喂养动物。</MakeR_Manger30.description>
+  <MakeR_Manger30.jobString>正在制作饲草。</MakeR_Manger30.jobString>
+
+
+  <!-- ペットフード作成 -->
+
+  <MakeR_PetFood150.label>制作宠物饲料(x150)</MakeR_PetFood150.label>
+  <MakeR_PetFood150.description>进一步处理粗饲料。</MakeR_PetFood150.description>
+  <MakeR_PetFood150.jobString>混合中。</MakeR_PetFood150.jobString>
+
+  <MakeR_FishFood150.label>制作鱼食(x150)</MakeR_FishFood150.label>
+  <MakeR_FishFood150.description>可以喂鱼的颗粒状饵料。</MakeR_FishFood150.description>
+  <MakeR_FishFood150.jobString>正在制作鱼食。</MakeR_FishFood150.jobString>
+
+
+  <!-- ミミズ採取 -->
+
+  <ZP_CollectEarthworms.label>捕捉蚯蚓</ZP_CollectEarthworms.label>
+  <ZP_CollectEarthworms.description>捉一些蚯蚓。</ZP_CollectEarthworms.description>
+  <ZP_CollectEarthworms.jobString>正在捕捉蚯蚓。</ZP_CollectEarthworms.jobString>
+
+
+</LanguageData>

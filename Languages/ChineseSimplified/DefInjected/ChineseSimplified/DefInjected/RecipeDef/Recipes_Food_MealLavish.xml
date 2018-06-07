@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 豪華な食事　カレーライス -->
+
+  <CookWRJPCurryRice8.label>烹饪日式咖喱饭(x8)</CookWRJPCurryRice8.label>
+  <CookWRJPCurryRice8.description>烹饪8人份的日式咖喱饭。</CookWRJPCurryRice8.description>
+  <CookWRJPCurryRice8.jobString>正在烹饪咖喱饭。</CookWRJPCurryRice8.jobString>
+
+
+  <!-- 豪華な食事　寿司 -->
+
+  <CookWRSushi8.label>制作手握寿司(x8)</CookWRSushi8.label>
+  <CookWRSushi8.description>制作寿司。</CookWRSushi8.description>
+  <CookWRSushi8.jobString>正在制作寿司。</CookWRSushi8.jobString>
+
+  <CookRamen4.label>制作拉面(x4)</CookRamen4.label>
+  <CookRamen4.description>制作4碗拉面。</CookRamen4.description>
+  <CookRamen4.jobString>正在制作拉面。</CookRamen4.jobString>
+
+  <CookTyannko4.label>制作相扑锅(x4)</CookTyannko4.label>
+  <CookTyannko4.description>将稻米加工品、肉类和一些野菜一起放入锅中炖煮。</CookTyannko4.description>
+  <CookTyannko4.jobString>正在制作相扑锅。</CookTyannko4.jobString>
+
+
+</LanguageData>
