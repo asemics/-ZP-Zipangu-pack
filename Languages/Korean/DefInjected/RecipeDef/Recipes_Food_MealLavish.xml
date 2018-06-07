@@ -4,23 +4,23 @@
   <!-- 豪華な食事　カレーライス -->
 
   <CookWRJPCurryRice8.label>카레라이스(8)</CookWRJPCurryRice8.label>
-  <CookWRJPCurryRice8.description>카레라이스를 8개 만든다</CookWRJPCurryRice8.description>
-  <CookWRJPCurryRice8.jobString>카레라이스를 만든다</CookWRJPCurryRice8.jobString>
+  <CookWRJPCurryRice8.description>일본식 카레라이스를 8개 만듭니다.</CookWRJPCurryRice8.description>
+  <CookWRJPCurryRice8.jobString>카레라이스 요리</CookWRJPCurryRice8.jobString>
 
 
   <!-- 豪華な食事　寿司 -->
 
-  <CookWRSushi8.label>Sushi(8)</CookWRSushi8.label>
-  <CookWRSushi8.description>Make Sushi.</CookWRSushi8.description>
-  <CookWRSushi8.jobString>Making sushi</CookWRSushi8.jobString>
+  <CookWRSushi8.label>초밥(8)</CookWRSushi8.label>
+  <CookWRSushi8.description>밥위에 생선 회를 얹은 초밥을 요리합니다.</CookWRSushi8.description>
+  <CookWRSushi8.jobString>초밥 요리</CookWRSushi8.jobString>
 
-  <CookRamen4.label>ラーメン(4)</CookRamen4.label>
-  <CookRamen4.description>ラーメンを4個作る</CookRamen4.description>
-  <CookRamen4.jobString>ラーメンを作る</CookRamen4.jobString>
+  <CookRamen4.label>라멘(4)</CookRamen4.label>
+  <CookRamen4.description>일본식 라멘을 4그릇 요리합니다.</CookRamen4.description>
+  <CookRamen4.jobString>라멘 요리</CookRamen4.jobString>
 
-  <CookTyannko4.label>ちゃんこ鍋(4)</CookTyannko4.label>
-  <CookTyannko4.description>米加工品、肉、野菜をたっぷり入れた鍋を4つ作る</CookTyannko4.description>
-  <CookTyannko4.jobString>ちゃんこ鍋を作る</CookTyannko4.jobString>
+  <CookTyannko4.label>장코나베(4)</CookTyannko4.label>
+  <CookTyannko4.description>미국 가공품, 고기 및 각종 야채를 듬뿍 넣은 냄비 요리를 4개 만듭니다.</CookTyannko4.description>
+  <CookTyannko4.jobString>장코나베 요리</CookTyannko4.jobString>
 
 
 </LanguageData>
