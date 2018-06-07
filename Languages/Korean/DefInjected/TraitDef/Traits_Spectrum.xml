@@ -1,21 +1,21 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Zipangu.degreeDatas.0.label>Stubborn craftsman</Zipangu.degreeDatas.0.label>
-  <Zipangu.degreeDatas.0.description>NAME does not care about the surroundings and is dedicating life to making things. NAME became unsociable to associate humans too much with fervor.</Zipangu.degreeDatas.0.description>
-  <Zipangu.degreeDatas.1.label>Karakuri master</Zipangu.degreeDatas.1.label>
-  <Zipangu.degreeDatas.1.description>NAME loves to make karakuri(old Japanese machine). HE often look for a new type of machine. And HE is passionate to dismantle machine and study.On the other hand, because butchering of animals is not interesting, it becomes appropriate.</Zipangu.degreeDatas.1.description>
-  <Zipangu.degreeDatas.2.label>Kitoshi</Zipangu.degreeDatas.2.label>
-  <Zipangu.degreeDatas.2.description>Kito means pray,shi means person. NAME prays everyday aiming for harmony between people and nature.Because HE does not care fine things, so HE may be able to do artistic cuisine.</Zipangu.degreeDatas.2.description>
-  <Zipangu.degreeDatas.3.label>Hikyaku</Zipangu.degreeDatas.3.label>
-  <Zipangu.degreeDatas.3.description>A Japanese  porter. NAME has a transportation business carrying luggage anywhere as ordered as a business. Because HE is running everyday, HE is not good at sewing and smithing which can not move the body exactly.</Zipangu.degreeDatas.3.description>
+  <Zipangu.degreeDatas.0.label>완고한 장인</Zipangu.degreeDatas.0.label>
+  <Zipangu.degreeDatas.0.description>NAME(은)는 주위를 개의치 않고 언제나 무언가를 제작하는데에 시간을 보냈습니다. 너무 열중한 나머지, NAME(은)는 사람과의 교류를 잘 못하게 되었습니다.</Zipangu.degreeDatas.0.description>
+  <Zipangu.degreeDatas.1.label>가라쿠리 전문가</Zipangu.degreeDatas.1.label>
+  <Zipangu.degreeDatas.1.description>NAME(은)는 가라쿠리 (일본 자동 인형)을 만드는것을 매우 좋아합니다. HE 언제나 새로운 자동 인형을 찾으며 해체하고 연구하는 일에 정성을 쏟아붓습니다. 반면에 살아있는것을 해체하는 일에 흥미가 없어, 대충해버립니다.</Zipangu.degreeDatas.1.description>
+  <Zipangu.degreeDatas.2.label>기도사</Zipangu.degreeDatas.2.label>
+  <Zipangu.degreeDatas.2.description>NAME(은)는 사람과 자연의 조화를 목표로 매일 기도를 올립니다. HE 유연하고 세세한 것을 신경 쓰지 않기에 예술적인 요리가 될 때가 있습니다.</Zipangu.degreeDatas.2.description>
+  <Zipangu.degreeDatas.3.label>파발꾼</Zipangu.degreeDatas.3.label>
+  <Zipangu.degreeDatas.3.description>NAME(은)는 주문이라면 어디든지 짐을 나르는 운반업을 생업으로 삼고 있습니다. 운반하는 일에는 뛰어나지만 재단 및 제련 작업에 취약합니다.</Zipangu.degreeDatas.3.description>
 
-  <ZiPangu.degreeDatas.0.label>Hyakusyo</ZiPangu.degreeDatas.0.label>
-  <ZiPangu.degreeDatas.0.description>A Japanese farmer. NAME lives in agriculture as a living. Because HE coexists with nature, HE is resistant to some degree of threat. However, HE cannot handle weapons well, since HE does not use weapons often.</ZiPangu.degreeDatas.0.description>
-  <ZiPangu.degreeDatas.1.label>Matagi</ZiPangu.degreeDatas.1.label>
-  <ZiPangu.degreeDatas.1.description>A Japanese hunter. NAME is hunting big beasts such as bears as a living. I do a lot of hard work to carry prey and dismantle. 栽培の時は力加減がわからずダメにしてしまうことがある。</ZiPangu.degreeDatas.1.description>
-  <ZiPangu.degreeDatas.2.label>Bushido</ZiPangu.degreeDatas.2.label>
-  <ZiPangu.degreeDatas.2.description>A Japanese soldier. From the early age NAME has been training the two ways of fighting and studing to survive the world of war. However, HE was not very good at general work as menial took care of HIM.</ZiPangu.degreeDatas.2.description>
+  <ZiPangu.degreeDatas.0.label>백성</ZiPangu.degreeDatas.0.label>
+  <ZiPangu.degreeDatas.0.description>NAME(은)는 농업을 생업으로 삼는 백성입니다. 자연과 공존하고 있으므로 어느 정도 위협에는 내성이 있습니다. 하지만, 평소에 무기를 사용하지 않기 때문에 무기 사용이 매우 서투릅니다.</ZiPangu.degreeDatas.0.description>
+  <ZiPangu.degreeDatas.1.label>마타기</ZiPangu.degreeDatas.1.label>
+  <ZiPangu.degreeDatas.1.description>NAME(은)는 곰 등의 대형 동물을 사냥하는것을 생업으로 삼고있습니다. 사냥감을 운반하거나 도축하는 작업에는 능숙하지만, 농작물을 재배하는것이 매우 서투르기에 농삿일에 부적합합니다.</ZiPangu.degreeDatas.1.description>
+  <ZiPangu.degreeDatas.2.label>무사도</ZiPangu.degreeDatas.2.label>
+  <ZiPangu.degreeDatas.2.description>NAME(은)는 어린 시절부터 전란의 세상을 살아남기위해 문무양도의 단련을 쌓아왔습니다. 하지만 수발은 시종들에게 맡겨왔기 때문에 HE 전반적인 작업에 취약합니다.</ZiPangu.degreeDatas.2.description>
 
 
 </LanguageData>
