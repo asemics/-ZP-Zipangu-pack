@@ -7,16 +7,16 @@
   <ZP_Dogi.description>무예 수련을위한의복. 무술을 하는데에 가장 적합하게 만들어져있으며 바람이 잘 통하고 움직이기 편합니다.</ZP_Dogi.description>
 
   <ZP_Underwear.label>속옷</ZP_Underwear.label>
-  <ZP_Underwear.description>속옷입니다. 입으면 끝내줍니다.</ZP_Underwear.description>
+  <ZP_Underwear.description>이것만 입고있으면 누군가를 유혹하기 쉽습니다. 괘씸한 속옷.</ZP_Underwear.description>
 
   <ZP_NinjaApparel.label>닌자복</ZP_NinjaApparel.label>
   <ZP_NinjaApparel.description>은폐가 생명인 닌자들의 복장. 소리를 내지않기위한 가벼운 디자인입니다.</ZP_NinjaApparel.description>
 
   <ZP_MikoApparel.label>무녀복</ZP_MikoApparel.label>
-  <ZP_MikoApparel.description>신도의 신을 받드는 무녀들이 주로 입는 옷으로, 종교적인 의미를 가진 옷입니다.</ZP_MikoApparel.description>
+  <ZP_MikoApparel.description>신도의 무녀가 입는 의상. 신의 가호가 깃들어 있고 사악한 기운을 막아줍니다.</ZP_MikoApparel.description>
 
-  <ZP_GujiApparel.label>신주복</ZP_GujiApparel.label>
-  <ZP_GujiApparel.description>신도의 신을 받드는 신주들이 주로 입는 옷으로, 종교적인 의미를 가진 옷입니다.</ZP_GujiApparel.description>
+  <ZP_GujiApparel.label>사제복</ZP_GujiApparel.label>
+  <ZP_GujiApparel.description>신도의 사제가 입는 의상. 신의 가호가 깃들어 있고 사악한 기운을 막아줍니다.</ZP_GujiApparel.description>
 
   <ZP_SamuraiApparel.label>무사복</ZP_SamuraiApparel.label>
   <ZP_SamuraiApparel.description>사무라이들이 주로 입는 복장으로, 근접전에 활동하기 편리합니다.</ZP_SamuraiApparel.description>
