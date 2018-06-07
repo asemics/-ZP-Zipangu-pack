@@ -1,13 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <R_CookAlcoholBarrel.label>Ginjo barrel</R_CookAlcoholBarrel.label>
-  <R_CookAlcoholBarrel.description>Making a Ginjo(a kind of Japanese alchole) barrel as a raw material for Ginjo.</R_CookAlcoholBarrel.description>
-  <R_CookAlcoholBarrel.jobString>making Ginjo barrel</R_CookAlcoholBarrel.jobString>
+  <R_CookAlcoholBarrel.label>긴조 술통</R_CookAlcoholBarrel.label>
+  <R_CookAlcoholBarrel.description>세미와 침청, 그리고 누룩 및 기타 재료를 술통에 담고 제조합니다.</R_CookAlcoholBarrel.description>
+  <R_CookAlcoholBarrel.jobString>긴조 술통 준비</R_CookAlcoholBarrel.jobString>
 
-  <MakeGinjoSake.label>Ginjo(25)</MakeGinjoSake.label>
-  <MakeGinjoSake.description>Make Ginjo(a kind of Japanese alchole)</MakeGinjoSake.description>
-  <MakeGinjoSake.jobString>Making Ginjo</MakeGinjoSake.jobString>
+  <MakeGinjoSake.label>긴조(25)</MakeGinjoSake.label>
+  <MakeGinjoSake.description>술통에서 긴조를 술병에 나눠 담습니다.</MakeGinjoSake.description>
+  <MakeGinjoSake.jobString>긴조 </MakeGinjoSake.jobString>
 
 
 </LanguageData>
