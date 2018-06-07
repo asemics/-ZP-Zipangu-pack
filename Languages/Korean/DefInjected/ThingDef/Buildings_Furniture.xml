@@ -1,167 +1,167 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <StrawBed.label>짚 침대</StrawBed.label>
-  <StrawBed.description>자기에는 최적이지만 조금 비위생적인 침대.【매각불가】</StrawBed.description>
-  <StrawBed_Blueprint.label>짚 침대 (blueprint)</StrawBed_Blueprint.label>
-  <StrawBed_Blueprint_Install.label>藁ベッド (blueprint)</StrawBed_Blueprint_Install.label>
-  <StrawBed_Frame.label>짚 침대 (building)</StrawBed_Frame.label>
-  <StrawBed_Frame.description>자기에는 최적이지만 조금 비위생적인 침대.【매각불가】</StrawBed_Frame.description>
+  <StrawBed.label>짚 더미</StrawBed.label>
+  <StrawBed.description>【매각불가】/n잠자리는 최악이지만 없는것 보다는 나은 잠자리.</StrawBed.description>
+  <StrawBed_Blueprint.label>짚 더미(도면)</StrawBed_Blueprint.label>
+  <StrawBed_Blueprint_Install.label>짚 더미(도면)</StrawBed_Blueprint_Install.label>
+  <StrawBed_Frame.label>짚 더미(건설 중)</StrawBed_Frame.label>
+  <StrawBed_Frame.description>【매각불가】/n잠자리는 최악이지만 없는것 보다는 나은 잠자리.</StrawBed_Frame.description>
 
-  <DoubleStrawBed.label>Double straw bed</DoubleStrawBed.label>
-  <DoubleStrawBed.description>Ideal for sleeping but slightly unsanitary bed. (Not available for sale)</DoubleStrawBed.description>
-  <DoubleStrawBed_Blueprint.label>Double straw bed(blueprint)</DoubleStrawBed_Blueprint.label>
-  <DoubleStrawBed_Blueprint_Install.label>Double straw bed(blueprint)</DoubleStrawBed_Blueprint_Install.label>
-  <DoubleStrawBed_Frame.label>Double straw bed(building)</DoubleStrawBed_Frame.label>
-  <DoubleStrawBed_Frame.description>Ideal for sleeping but slightly unsanitary bed. (Not available for sale)</DoubleStrawBed_Frame.description>
+  <DoubleStrawBed.label>큰 짚 더미</DoubleStrawBed.label>
+  <DoubleStrawBed.description>【매각불가】/n잠자리는 최악이지만 없는것 보다는 나은 잠자리.</DoubleStrawBed.description>
+  <DoubleStrawBed_Blueprint.label>큰 짚 더미대(도면)</DoubleStrawBed_Blueprint.label>
+  <DoubleStrawBed_Blueprint_Install.label>더블 짚 침대(도면)</DoubleStrawBed_Blueprint_Install.label>
+  <DoubleStrawBed_Frame.label>큰 짚 더미(건설 중)</DoubleStrawBed_Frame.label>
+  <DoubleStrawBed_Frame.description>【매각불가】/n잠자리는 최악이지만 없는것 보다는 나은 잠자리.(Not available for sale)</DoubleStrawBed_Frame.description>
 
-  <SuperiorStrawBed.label>Superior straw bed</SuperiorStrawBed.label>
-  <SuperiorStrawBed.description>Superior straw bed with superior straw bed.\n Still the quality falls a bit lower than normal beds.</SuperiorStrawBed.description>
-  <SuperiorStrawBed_Blueprint.label>Superior straw bed (blueprint)</SuperiorStrawBed_Blueprint.label>
-  <SuperiorStrawBed_Blueprint_Install.label>Superior straw bed (blueprint)</SuperiorStrawBed_Blueprint_Install.label>
-  <SuperiorStrawBed_Frame.label>Superior straw bed(building)</SuperiorStrawBed_Frame.label>
-  <SuperiorStrawBed_Frame.description>Superior straw bed with superior straw bed.\n Still the quality falls a bit lower than normal beds.</SuperiorStrawBed_Frame.description>
+  <SuperiorStrawBed.label>짚 침대</SuperiorStrawBed.label>
+  <SuperiorStrawBed.description>짚을 이용하여 좀 더 침대같이 만든 짚 침대.\n 그래도 통상의 침대보다 질은 조금 떨어진다.</SuperiorStrawBed.description>
+  <SuperiorStrawBed_Blueprint.label>짚 침대(도면)</SuperiorStrawBed_Blueprint.label>
+  <SuperiorStrawBed_Blueprint_Install.label>짚 침대(도면)</SuperiorStrawBed_Blueprint_Install.label>
+  <SuperiorStrawBed_Frame.label>짚 침대(건설 중)</SuperiorStrawBed_Frame.label>
+  <SuperiorStrawBed_Frame.description>짚을 이용하여 좀 더 침대같이 만든 짚 침대.\n 그래도 통상의 침대보다 질은 조금 떨어진다.</SuperiorStrawBed_Frame.description>
 
-  <SuperiorDoubleStrawBed.label>Superior double straw bed</SuperiorDoubleStrawBed.label>
-  <SuperiorDoubleStrawBed.description>Superior straw bed with superior straw bed.\n Still the quality falls a bit lower than normal beds.</SuperiorDoubleStrawBed.description>
-  <SuperiorDoubleStrawBed_Blueprint.label>Superior double straw bed(blueprint)</SuperiorDoubleStrawBed_Blueprint.label>
-  <SuperiorDoubleStrawBed_Blueprint_Install.label>Superior double straw bed(blueprint)</SuperiorDoubleStrawBed_Blueprint_Install.label>
-  <SuperiorDoubleStrawBed_Frame.label>Superior double straw bed(building)</SuperiorDoubleStrawBed_Frame.label>
-  <SuperiorDoubleStrawBed_Frame.description>Superior straw bed with superior straw bed.\n Still the quality falls a bit lower than normal beds.</SuperiorDoubleStrawBed_Frame.description>
+  <SuperiorDoubleStrawBed.label>더블 짚 침대</SuperiorDoubleStrawBed.label>
+  <SuperiorDoubleStrawBed.description>짚을 이용하여 좀 더 침대같이 만든 짚 침대.\n 그래도 통상의 침대보다 질은 조금 떨어진다.</SuperiorDoubleStrawBed.description>
+  <SuperiorDoubleStrawBed_Blueprint.label>더블 짚 침대(도면)</SuperiorDoubleStrawBed_Blueprint.label>
+  <SuperiorDoubleStrawBed_Blueprint_Install.label>더블 짚 침대(도면)</SuperiorDoubleStrawBed_Blueprint_Install.label>
+  <SuperiorDoubleStrawBed_Frame.label>더블 짚 침대(건설 중)</SuperiorDoubleStrawBed_Frame.label>
+  <SuperiorDoubleStrawBed_Frame.description>짚을 이용하여 좀 더 침대같이 만든 짚 침대.\n 그래도 통상의 침대보다 질은 조금 떨어진다.</SuperiorDoubleStrawBed_Frame.description>
 
-  <ZP_Ofuton.label>お布団</ZP_Ofuton.label>
-  <ZP_Ofuton.description>日本で使われている寝具。布袋の中に綿や羽毛などを入れたもので敷き布団と掛け布団がある。</ZP_Ofuton.description>
-  <ZP_Ofuton_Blueprint.label>お布団 (blueprint)</ZP_Ofuton_Blueprint.label>
-  <ZP_Ofuton_Blueprint_Install.label>お布団 (blueprint)</ZP_Ofuton_Blueprint_Install.label>
-  <ZP_Ofuton_Frame.label>お布団 (building)</ZP_Ofuton_Frame.label>
-  <ZP_Ofuton_Frame.description>日本で使われている寝具。布袋の中に綿や羽毛などを入れたもので敷き布団と掛け布団がある。</ZP_Ofuton_Frame.description>
+  <ZP_Ofuton.label>이불</ZP_Ofuton.label>
+  <ZP_Ofuton.description>일본에서 사용되고 있는 침구. 속에 솜과 깃털을 넣은것으로 깔 이불도 포함되어있다.</ZP_Ofuton.description>
+  <ZP_Ofuton_Blueprint.label>이불(도면)</ZP_Ofuton_Blueprint.label>
+  <ZP_Ofuton_Blueprint_Install.label>이불(도면)</ZP_Ofuton_Blueprint_Install.label>
+  <ZP_Ofuton_Frame.label>이불(건설 중)</ZP_Ofuton_Frame.label>
+  <ZP_Ofuton_Frame.description>일본에서 사용되고 있는 침구. 속에 솜과 깃털을 넣은것으로 깔 이불도 포함되어있다.</ZP_Ofuton_Frame.description>
 
-  <ZP_DoubleOfuton.label>家族用お布団</ZP_DoubleOfuton.label>
-  <ZP_DoubleOfuton.description>2人用の布団。日本で使われている寝具。布袋の中に綿や羽毛などを入れたもので敷き布団と掛け布団がある。</ZP_DoubleOfuton.description>
-  <ZP_DoubleOfuton_Blueprint.label>家族用お布団 (blueprint)</ZP_DoubleOfuton_Blueprint.label>
-  <ZP_DoubleOfuton_Blueprint_Install.label>家族用お布団 (blueprint)</ZP_DoubleOfuton_Blueprint_Install.label>
-  <ZP_DoubleOfuton_Frame.label>家族用お布団 (building)</ZP_DoubleOfuton_Frame.label>
-  <ZP_DoubleOfuton_Frame.description>2人用の布団。日本で使われている寝具。布袋の中に綿や羽毛などを入れたもので敷き布団と掛け布団がある。</ZP_DoubleOfuton_Frame.description>
+  <ZP_DoubleOfuton.label>2인용 이불</ZP_DoubleOfuton.label>
+  <ZP_DoubleOfuton.description>2인용 이불. 속에 솜과 깃털을 넣은것으로 깔 이불도 포함되어있다.</ZP_DoubleOfuton.description>
+  <ZP_DoubleOfuton_Blueprint.label>2인용 이불(도면)</ZP_DoubleOfuton_Blueprint.label>
+  <ZP_DoubleOfuton_Blueprint_Install.label>2인용 이불(도면)</ZP_DoubleOfuton_Blueprint_Install.label>
+  <ZP_DoubleOfuton_Frame.label>2인용 이불(건설 중)</ZP_DoubleOfuton_Frame.label>
+  <ZP_DoubleOfuton_Frame.description>2인용 이불. 속에 솜과 깃털을 넣은것으로 깔 이불도 포함되어있다</ZP_DoubleOfuton_Frame.description>
 
-  <ZPAndon.label>Andon</ZPAndon.label>
-  <ZPAndon.description>One of the traditional Japanese indoor lighting fixtures. Gives a small comfort bonus to all nearby beds.</ZPAndon.description>
-  <ZPAndon_Blueprint.label>Andon (blueprint)</ZPAndon_Blueprint.label>
-  <ZPAndon_Blueprint_Install.label>Andon (blueprint)</ZPAndon_Blueprint_Install.label>
-  <ZPAndon_Frame.label>Andon (building)</ZPAndon_Frame.label>
-  <ZPAndon_Frame.description>One of the traditional Japanese indoor lighting fixtures. Gives a small comfort bonus to all nearby beds.</ZPAndon_Frame.description>
+  <ZPAndon.label>사방등</ZPAndon.label>
+  <ZPAndon.description>일본의 전통적인 실내 조명 기구중 하나. 침대 근처에 두면 부드럽게 빛을 받으며 쾌적성이 조금 올라갑니다.</ZPAndon.description>
+  <ZPAndon_Blueprint.label>사방등(도면)</ZPAndon_Blueprint.label>
+  <ZPAndon_Blueprint_Install.label>사방등(도면)</ZPAndon_Blueprint_Install.label>
+  <ZPAndon_Frame.label>사방등(건설 중)</ZPAndon_Frame.label>
+  <ZPAndon_Frame.description>일본의 전통적인 실내 조명 기구중 하나. 침대 근처에 두면 부드럽게 빛을 받으며 쾌적성이 조금 올라갑니다.</ZPAndon_Frame.description>
 
-  <AnimalStrawBedSmall.label>동물용 짚 침대(소)</AnimalStrawBedSmall.label>
-  <AnimalStrawBedSmall.description>동물용 짚 침대。\n【매각불가】\n닭이나 토끼등의 소형동물에 최적입니다.</AnimalStrawBedSmall.description>
-  <AnimalStrawBedSmall_Blueprint.label>동물용 짚 침대(소) (blueprint)</AnimalStrawBedSmall_Blueprint.label>
-  <AnimalStrawBedSmall_Blueprint_Install.label>動物用藁ベッド(小) (blueprint)</AnimalStrawBedSmall_Blueprint_Install.label>
-  <AnimalStrawBedSmall_Frame.label>동물용 짚 침대(소) (building)</AnimalStrawBedSmall_Frame.label>
-  <AnimalStrawBedSmall_Frame.description>동물용 짚 침대。\n【매각불가】\n닭이나 토끼등의 소형동물에 최적입니다.</AnimalStrawBedSmall_Frame.description>
+  <AnimalStrawBedSmall.label>동물용 짚 더미 (소)</AnimalStrawBedSmall.label>
+  <AnimalStrawBedSmall.description>【매각불가】\n짚으로 만든 동물들의 잠자리.\n닭이나 토끼등의 소형 동물들이 잠을 자기에 적합합니다.</AnimalStrawBedSmall.description>
+  <AnimalStrawBedSmall_Blueprint.label>동물용 짚 더미(소)(도면)</AnimalStrawBedSmall_Blueprint.label>
+  <AnimalStrawBedSmall_Blueprint_Install.label>동물용 짚 더미(소)(도면)</AnimalStrawBedSmall_Blueprint_Install.label>
+  <AnimalStrawBedSmall_Frame.label>동물용 짚 더미(소)(건설 중)</AnimalStrawBedSmall_Frame.label>
+  <AnimalStrawBedSmall_Frame.description>【매각불가】\n짚으로 만든 동물들의 잠자리.\n닭이나 토끼등의 소형 동물들이 잠을 자기에 적합합니다.</AnimalStrawBedSmall_Frame.description>
 
-  <AnimalStrawBed.label>동물용 짚 침대</AnimalStrawBed.label>
-  <AnimalStrawBed.description>동물용 짚 침대\n【매각불가】\n개부터 머팔로까지의 중형동물에 최적입니다.</AnimalStrawBed.description>
-  <AnimalStrawBed_Blueprint.label>동물용 짚 침대 (blueprint)</AnimalStrawBed_Blueprint.label>
-  <AnimalStrawBed_Blueprint_Install.label>動物用藁ベッド (blueprint)</AnimalStrawBed_Blueprint_Install.label>
-  <AnimalStrawBed_Frame.label>동물용 짚 침대 (building)</AnimalStrawBed_Frame.label>
-  <AnimalStrawBed_Frame.description>동물용 짚 침대\n【매각불가】\n개부터 머팔로까지의 중형동물에 최적입니다.</AnimalStrawBed_Frame.description>
+  <AnimalStrawBed.label>동물용 짚 더미 (중)</AnimalStrawBed.label>
+  <AnimalStrawBed.description>【매각불가】\n짚으로 만든 동물들의 잠자리.\n개부터 머팔로 정도의 중형 동물들이 잠을 자기에 적합합니다.</AnimalStrawBed.description>
+  <AnimalStrawBed_Blueprint.label>동물용 짚 더미 (중)(도면)</AnimalStrawBed_Blueprint.label>
+  <AnimalStrawBed_Blueprint_Install.label>동물용 짚 더미 (중)(도면)</AnimalStrawBed_Blueprint_Install.label>
+  <AnimalStrawBed_Frame.label>동물용 짚 더미 (중)(건설 중)</AnimalStrawBed_Frame.label>
+  <AnimalStrawBed_Frame.description>【매각불가】\n짚으로 만든 동물들의 잠자리.\n개부터 머팔로 정도의 중형 동물들이 잠을 자기에 적합합니다.</AnimalStrawBed_Frame.description>
 
-  <AnimalStrawBedBig.label>동물용 짚 침대(대)</AnimalStrawBedBig.label>
-  <AnimalStrawBedBig.description>동물용 짚 침대\n【매각불가】\n트럼보나 코끼리등의 대형동물에 최적입니다.</AnimalStrawBedBig.description>
-  <AnimalStrawBedBig_Blueprint.label>동물용 짚 침대(대) (blueprint)</AnimalStrawBedBig_Blueprint.label>
-  <AnimalStrawBedBig_Blueprint_Install.label>動物用藁ベッド(大) (blueprint)</AnimalStrawBedBig_Blueprint_Install.label>
-  <AnimalStrawBedBig_Frame.label>동물용 짚 침대(대) (building)</AnimalStrawBedBig_Frame.label>
-  <AnimalStrawBedBig_Frame.description>동물용 짚 침대\n【매각불가】\n트럼보나 코끼리등의 대형동물에 최적입니다.</AnimalStrawBedBig_Frame.description>
+  <AnimalStrawBedBig.label>동물용 짚 더미 (대)</AnimalStrawBedBig.label>
+  <AnimalStrawBedBig.description>【매각불가】\n짚으로 만든 동물들의 잠자리.\n코끼리나 트럼보 등의 대형 동물들이 잠을 자기에 적합합니다.</AnimalStrawBedBig.description>
+  <AnimalStrawBedBig_Blueprint.label>동물용 짚 더미 (대) (도면)</AnimalStrawBedBig_Blueprint.label>
+  <AnimalStrawBedBig_Blueprint_Install.label>동물용 짚 더미 (대) (도면)</AnimalStrawBedBig_Blueprint_Install.label>
+  <AnimalStrawBedBig_Frame.label>동물용 짚 더미 (대) (건설 중)</AnimalStrawBedBig_Frame.label>
+  <AnimalStrawBedBig_Frame.description>【매각불가】\n짚으로 만든 동물들의 잠자리.\n코끼리나 트럼보 등의 대형 동물들이 잠을 자기에 적합합니다.</AnimalStrawBedBig_Frame.description>
 
-  <GroundSit.label>땅바닥에 앉는다</GroundSit.label>
-  <GroundSit.description>땅바닥에 앉는 것이 가능하기에 피크닉용 돗자리와 함께 쓰인다.</GroundSit.description>
-  <GroundSit_Blueprint.label>땅바닥에 앉는다 (blueprint)</GroundSit_Blueprint.label>
-  <GroundSit_Frame.label>땅바닥에 앉는다 (building)</GroundSit_Frame.label>
-  <GroundSit_Frame.description>땅바닥에 앉는 것이 가능하기에 피크닉용 돗자리와 함께 쓰인다.</GroundSit_Frame.description>
+  <GroundSit.label>바닥에 앉는다</GroundSit.label>
+  <GroundSit.description>맨바닥에 앉는 것이 가능하기에 피크닉용 돗자리와 함께 쓰인다.</GroundSit.description>
+  <GroundSit_Blueprint.label>바닥에 앉는다 (도면)</GroundSit_Blueprint.label>
+  <GroundSit_Frame.label>바닥에 앉는다 (건설 중)</GroundSit_Frame.label>
+  <GroundSit_Frame.description>맨바닥에 앉는 것이 가능하기에 피크닉용 돗자리와 함께 쓰인다.</GroundSit_Frame.description>
 
-  <ZPWaraZabuton.label>藁座布団</ZPWaraZabuton.label>
-  <ZPWaraZabuton.description>クッションの一種。畳や床の上に座る際にお尻や脚の負担を軽減するための布団です。性能はスツールとと同等です。</ZPWaraZabuton.description>
-  <ZPWaraZabuton_Blueprint.label>藁座布団 (blueprint)</ZPWaraZabuton_Blueprint.label>
-  <ZPWaraZabuton_Blueprint_Install.label>藁座布団 (blueprint)</ZPWaraZabuton_Blueprint_Install.label>
-  <ZPWaraZabuton_Frame.label>藁座布団 (building)</ZPWaraZabuton_Frame.label>
-  <ZPWaraZabuton_Frame.description>クッションの一種。畳や床の上に座る際にお尻や脚の負担を軽減するための布団です。性能はスツールとと同等です。</ZPWaraZabuton_Frame.description>
+  <ZPWaraZabuton.label>짚 방석</ZPWaraZabuton.label>
+  <ZPWaraZabuton.description>짚으로 엮은 간소한 좌석./n바닥에 앉을 때 엉덩이나 다리의 부담을 덜어주는 깔개입니다. 성능은 의자와 동등합니다.</ZPWaraZabuton.description>
+  <ZPWaraZabuton_Blueprint.label>짚 방석 (도면)</ZPWaraZabuton_Blueprint.label>
+  <ZPWaraZabuton_Blueprint_Install.label>짚 방석 (도면)</ZPWaraZabuton_Blueprint_Install.label>
+  <ZPWaraZabuton_Frame.label>짚 방석 (건설 중)</ZPWaraZabuton_Frame.label>
+  <ZPWaraZabuton_Frame.description>짚으로 엮은 간소한 좌석./n바닥에 앉을 때 엉덩이나 다리의 부담을 덜어주는 깔개입니다. 성능은 의자와 동등합니다.</ZPWaraZabuton_Frame.description>
 
-  <ZPZabuton.label>座布団</ZPZabuton.label>
-  <ZPZabuton.description>クッションの一種。\n畳や床の上に座る際にお尻や脚の負担を軽減するための布団です。性能はダインイングチェアと同等です。</ZPZabuton.description>
+  <ZPZabuton.label>방석</ZPZabuton.label>
+  <ZPZabuton.description>쿠션의 일종./n다다미나 바닥 위에 앉을 때 엉덩이나 다리의 부담을 덜어주는 부드러운 방석입니다. 성능은 식탁 의자와 동등합니다.</ZPZabuton.description>
   <ZPZabuton_Blueprint.label>座布団 (blueprint)</ZPZabuton_Blueprint.label>
   <ZPZabuton_Blueprint_Install.label>座布団 (blueprint)</ZPZabuton_Blueprint_Install.label>
   <ZPZabuton_Frame.label>座布団 (building)</ZPZabuton_Frame.label>
-  <ZPZabuton_Frame.description>クッションの一種。\n畳や床の上に座る際にお尻や脚の負担を軽減するための布団です。性能はダインイングチェアと同等です。</ZPZabuton_Frame.description>
+  <ZPZabuton_Frame.description>쿠션의 일종./n다다미나 바닥 위에 앉을 때 엉덩이나 다리의 부담을 덜어주는 부드러운 방석입니다. 성능은 식탁 의자와 동등합니다.</ZPZabuton_Frame.description>
 
-  <ZPZabuton1st.label>座布団(赤)</ZPZabuton1st.label>
-  <ZPZabuton1st.description>クッションの一種。\n畳や床の上に座る際にお尻や脚の負担を軽減するための布団です。性能はダインイングチェアと同等です。</ZPZabuton1st.description>
-  <ZPZabuton1st_Blueprint.label>座布団(赤) (blueprint)</ZPZabuton1st_Blueprint.label>
-  <ZPZabuton1st_Blueprint_Install.label>座布団(赤) (blueprint)</ZPZabuton1st_Blueprint_Install.label>
-  <ZPZabuton1st_Frame.label>座布団(赤) (building)</ZPZabuton1st_Frame.label>
-  <ZPZabuton1st_Frame.description>クッションの一種。\n畳や床の上に座る際にお尻や脚の負担を軽減するための布団です。性能はダインイングチェアと同等です。</ZPZabuton1st_Frame.description>
+  <ZPZabuton1st.label>방석 (적)</ZPZabuton1st.label>
+  <ZPZabuton1st.description>쿠션의 일종./n다다미나 바닥 위에 앉을 때 엉덩이나 다리의 부담을 덜어주는 부드러운 방석입니다. 성능은 식탁 의자와 동등합니다.</ZPZabuton1st.description>
+  <ZPZabuton1st_Blueprint.label>방석 (적) (도면)</ZPZabuton1st_Blueprint.label>
+  <ZPZabuton1st_Blueprint_Install.label>방석(적) (도면)</ZPZabuton1st_Blueprint_Install.label>
+  <ZPZabuton1st_Frame.label>방석 (적) (건설 중)</ZPZabuton1st_Frame.label>
+  <ZPZabuton1st_Frame.description>쿠션의 일종./n다다미나 바닥 위에 앉을 때 엉덩이나 다리의 부담을 덜어주는 부드러운 방석입니다. 성능은 식탁 의자와 동등합니다.</ZPZabuton1st_Frame.description>
 
-  <ZPZabuton2nd.label>座布団(青)</ZPZabuton2nd.label>
-  <ZPZabuton2nd.description>クッションの一種。\n畳や床の上に座る際にお尻や脚の負担を軽減するための布団です。性能はダインイングチェアと同等です。</ZPZabuton2nd.description>
-  <ZPZabuton2nd_Blueprint.label>座布団(青) (blueprint)</ZPZabuton2nd_Blueprint.label>
-  <ZPZabuton2nd_Blueprint_Install.label>座布団(青) (blueprint)</ZPZabuton2nd_Blueprint_Install.label>
-  <ZPZabuton2nd_Frame.label>座布団(青) (building)</ZPZabuton2nd_Frame.label>
-  <ZPZabuton2nd_Frame.description>クッションの一種。\n畳や床の上に座る際にお尻や脚の負担を軽減するための布団です。性能はダインイングチェアと同等です。</ZPZabuton2nd_Frame.description>
+  <ZPZabuton2nd.label>방석 (청)</ZPZabuton2nd.label>
+  <ZPZabuton2nd.description>쿠션의 일종./n다다미나 바닥 위에 앉을 때 엉덩이나 다리의 부담을 덜어주는 부드러운 방석입니다. 성능은 식탁 의자와 동등합니다.</ZPZabuton2nd.description>
+  <ZPZabuton2nd_Blueprint.label>방석 (청) (도면)</ZPZabuton2nd_Blueprint.label>
+  <ZPZabuton2nd_Blueprint_Install.label>방석(청) (도면)</ZPZabuton2nd_Blueprint_Install.label>
+  <ZPZabuton2nd_Frame.label>방석 (청) (건설 중)</ZPZabuton2nd_Frame.label>
+  <ZPZabuton2nd_Frame.description>쿠션의 일종./n다다미나 바닥 위에 앉을 때 엉덩이나 다리의 부담을 덜어주는 부드러운 방석입니다. 성능은 식탁 의자와 동등합니다.</ZPZabuton2nd_Frame.description>
 
-  <ZPZabuton3rd.label>座布団(紫)</ZPZabuton3rd.label>
-  <ZPZabuton3rd.description>クッションの一種。\n畳や床の上に座る際にお尻や脚の負担を軽減するための布団です。性能はダインイングチェアと同等です。</ZPZabuton3rd.description>
-  <ZPZabuton3rd_Blueprint.label>座布団(紫) (blueprint)</ZPZabuton3rd_Blueprint.label>
-  <ZPZabuton3rd_Blueprint_Install.label>座布団(紫) (blueprint)</ZPZabuton3rd_Blueprint_Install.label>
-  <ZPZabuton3rd_Frame.label>座布団(紫) (building)</ZPZabuton3rd_Frame.label>
-  <ZPZabuton3rd_Frame.description>クッションの一種。\n畳や床の上に座る際にお尻や脚の負担を軽減するための布団です。性能はダインイングチェアと同等です。</ZPZabuton3rd_Frame.description>
+  <ZPZabuton3rd.label>방석 (자)</ZPZabuton3rd.label>
+  <ZPZabuton3rd.description>쿠션의 일종./n다다미나 바닥 위에 앉을 때 엉덩이나 다리의 부담을 덜어주는 부드러운 방석입니다. 성능은 식탁 의자와 동등합니다.</ZPZabuton3rd.description>
+  <ZPZabuton3rd_Blueprint.label>방석 (자) (도면)</ZPZabuton3rd_Blueprint.label>
+  <ZPZabuton3rd_Blueprint_Install.label>방석(자) (도면)</ZPZabuton3rd_Blueprint_Install.label>
+  <ZPZabuton3rd_Frame.label>방석 (자) (건설 중)</ZPZabuton3rd_Frame.label>
+  <ZPZabuton3rd_Frame.description>쿠션의 일종./n다다미나 바닥 위에 앉을 때 엉덩이나 다리의 부담을 덜어주는 부드러운 방석입니다. 성능은 식탁 의자와 동등합니다.</ZPZabuton3rd_Frame.description>
 
-  <ZP_Tyabudai.label>ちゃぶ台</ZP_Tyabudai.label>
-  <ZP_Tyabudai.description>イスを向き合うように配置すると、ここで食事を摂るようになります。</ZP_Tyabudai.description>
-  <ZP_Tyabudai_Blueprint.label>ちゃぶ台 (blueprint)</ZP_Tyabudai_Blueprint.label>
-  <ZP_Tyabudai_Blueprint_Install.label>ちゃぶ台 (blueprint)</ZP_Tyabudai_Blueprint_Install.label>
-  <ZP_Tyabudai_Frame.label>ちゃぶ台 (building)</ZP_Tyabudai_Frame.label>
-  <ZP_Tyabudai_Frame.description>イスを向き合うように配置すると、ここで食事を摂るようになります。</ZP_Tyabudai_Frame.description>
+  <ZP_Tyabudai.label>밥상</ZP_Tyabudai.label>
+  <ZP_Tyabudai.description>일본의 전통적인 식탁입니다. 이곳에서 밥을 먹으며 바닥에 방석을 깔고 앉아 먹기 좋게 다리가 짧습니다.</ZP_Tyabudai.description>
+  <ZP_Tyabudai_Blueprint.label>밥상 (도면)</ZP_Tyabudai_Blueprint.label>
+  <ZP_Tyabudai_Blueprint_Install.label>밥상 (도면)</ZP_Tyabudai_Blueprint_Install.label>
+  <ZP_Tyabudai_Frame.label>밥상 (건설 중)</ZP_Tyabudai_Frame.label>
+  <ZP_Tyabudai_Frame.description>일본의 전통적인 식탁입니다. 이곳에서 밥을 먹으며 바닥에 방석을 깔고 앉아 먹기 좋게 다리가 짧습니다.</ZP_Tyabudai_Frame.description>
 
 
   <!-- 茣蓙(ござ) -->
 
-  <R_Goza_large.label>돗자리(대)</R_Goza_large.label>
+  <R_Goza_large.label>돗자리 (대)</R_Goza_large.label>
   <R_Goza_large.description>밖에서 음식을 먹을 때에 테이블 대용이 되어주는 돗자리.\n매각이 불가능 하지만 소재는 대부분 돌아갑니다.</R_Goza_large.description>
-  <R_Goza_large_Blueprint.label>돗자리(대) (blueprint)</R_Goza_large_Blueprint.label>
-  <R_Goza_large_Frame.label>돗자리(대) (building)</R_Goza_large_Frame.label>
+  <R_Goza_large_Blueprint.label>돗자리 (대) (도면)</R_Goza_large_Blueprint.label>
+  <R_Goza_large_Frame.label>돗자리 (대) (건설 중)</R_Goza_large_Frame.label>
   <R_Goza_large_Frame.description>밖에서 음식을 먹을 때에 테이블 대용이 되어주는 돗자리.\n매각이 불가능 하지만 소재는 대부분 돌아갑니다.</R_Goza_large_Frame.description>
 
   <R_Goza.label>돗자리</R_Goza.label>
   <R_Goza.description>밖에서 음식을 먹을 때에 테이블 대용이 되어주는 돗자리.\n매각이 불가능 하지만 소재는 대부분 돌아갑니다.</R_Goza.description>
-  <R_Goza_Blueprint.label>돗자리 (blueprint)</R_Goza_Blueprint.label>
-  <R_Goza_Frame.label>돗자리 (building)</R_Goza_Frame.label>
+  <R_Goza_Blueprint.label>돗자리 (도면)</R_Goza_Blueprint.label>
+  <R_Goza_Frame.label>돗자리 (건설 중)</R_Goza_Frame.label>
   <R_Goza_Frame.description>밖에서 음식을 먹을 때에 테이블 대용이 되어주는 돗자리.\n매각이 불가능 하지만 소재는 대부분 돌아갑니다.</R_Goza_Frame.description>
 
 
   <!-- レジャーシート -->
 
-  <PicnicSheet_large.label>피크닉용 돗자리(대)</PicnicSheet_large.label>
+  <PicnicSheet_large.label>피크닉용 돗자 리(대)</PicnicSheet_large.label>
   <PicnicSheet_large.description>밖에서 음식을 먹을 때에 테이블 대용이 되어주는 피크닉용 돗자리.\n매각이 불가능 하지만 소재는 대부분 돌아갑니다.</PicnicSheet_large.description>
-  <PicnicSheet_large_Blueprint.label>피크닉용 돗자리(대) (blueprint)</PicnicSheet_large_Blueprint.label>
-  <PicnicSheet_large_Frame.label>피크닉용 돗자리(대) (building)</PicnicSheet_large_Frame.label>
+  <PicnicSheet_large_Blueprint.label>피크닉용 돗자리 (대) (도면)</PicnicSheet_large_Blueprint.label>
+  <PicnicSheet_large_Frame.label>피크닉용 돗자리 (대) (건설 중)</PicnicSheet_large_Frame.label>
   <PicnicSheet_large_Frame.description>밖에서 음식을 먹을 때에 테이블 대용이 되어주는 피크닉용 돗자리.\n매각이 불가능 하지만 소재는 대부분 돌아갑니다.</PicnicSheet_large_Frame.description>
 
   <PicnicSheet.label>피크닉용 돗자리</PicnicSheet.label>
   <PicnicSheet.description>밖에서 음식을 먹을 때에 테이블 대용이 되어주는 피크닉용 돗자리.\n매각이 불가능 하지만 소재는 대부분 돌아갑니다.</PicnicSheet.description>
-  <PicnicSheet_Blueprint.label>피크닉용 돗자리 (blueprint)</PicnicSheet_Blueprint.label>
-  <PicnicSheet_Frame.label>피크닉용 돗자리 (building)</PicnicSheet_Frame.label>
+  <PicnicSheet_Blueprint.label>피크닉용 돗자리 (도면)</PicnicSheet_Blueprint.label>
+  <PicnicSheet_Frame.label>피크닉용 돗자리 (건설 중)</PicnicSheet_Frame.label>
   <PicnicSheet_Frame.description>밖에서 음식을 먹을 때에 테이블 대용이 되어주는 피크닉용 돗자리.\n매각이 불가능 하지만 소재는 대부분 돌아갑니다.</PicnicSheet_Frame.description>
 
-  <ZP_Tuitate.label>衝立</ZP_Tuitate.label>
-  <ZP_Tuitate.description>撤去できる壁。部屋を一時的に区切ったり、奥の部屋を見せないように目隠しにも使われる。光は遮らないのでレイアウトには困らない。</ZP_Tuitate.description>
-  <ZP_Tuitate_Blueprint.label>衝立 (blueprint)</ZP_Tuitate_Blueprint.label>
-  <ZP_Tuitate_Blueprint_Install.label>衝立 (blueprint)</ZP_Tuitate_Blueprint_Install.label>
-  <ZP_Tuitate_Frame.label>衝立 (building)</ZP_Tuitate_Frame.label>
-  <ZP_Tuitate_Frame.description>撤去できる壁。部屋を一時的に区切ったり、奥の部屋を見せないように目隠しにも使われる。光は遮らないのでレイアウトには困らない。</ZP_Tuitate_Frame.description>
+  <ZP_Tuitate.label>칸막이</ZP_Tuitate.label>
+  <ZP_Tuitate.description>재배치가 가능한 벽. 방을 일시적으로 분할하거나 안쪽을 보지 못하게 막는데에도 사용됩니다. 빛은 차단하지 않습니다.</ZP_Tuitate.description>
+  <ZP_Tuitate_Blueprint.label>칸막이 (도면)</ZP_Tuitate_Blueprint.label>
+  <ZP_Tuitate_Blueprint_Install.label>칸막이 (도면)</ZP_Tuitate_Blueprint_Install.label>
+  <ZP_Tuitate_Frame.label>칸막이 (건설 중)</ZP_Tuitate_Frame.label>
+  <ZP_Tuitate_Frame.description>재배치가 가능한 벽. 방을 일시적으로 분할하거나 안쪽을 보지 못하게 막는데에도 사용됩니다. 빛은 차단하지 않습니다.</ZP_Tuitate_Frame.description>
 
-  <ZP_Tuitate2nd.label>衝立</ZP_Tuitate2nd.label>
-  <ZP_Tuitate2nd.description>撤去できる壁。部屋を一時的に区切ったり、奥の部屋を見せないように目隠しにも使われる。光は遮らないのでレイアウトには困らない。</ZP_Tuitate2nd.description>
-  <ZP_Tuitate2nd_Blueprint.label>衝立 (blueprint)</ZP_Tuitate2nd_Blueprint.label>
-  <ZP_Tuitate2nd_Blueprint_Install.label>衝立 (blueprint)</ZP_Tuitate2nd_Blueprint_Install.label>
-  <ZP_Tuitate2nd_Frame.label>衝立 (building)</ZP_Tuitate2nd_Frame.label>
-  <ZP_Tuitate2nd_Frame.description>撤去できる壁。部屋を一時的に区切ったり、奥の部屋を見せないように目隠しにも使われる。光は遮らないのでレイアウトには困らない。</ZP_Tuitate2nd_Frame.description>
+  <ZP_Tuitate2nd.label>칸막이</ZP_Tuitate2nd.label>
+  <ZP_Tuitate2nd.description>재배치가 가능한 벽. 방을 일시적으로 분할하거나 안쪽을 보지 못하게 막는데에도 사용됩니다. 빛은 차단하지 않습니다.</ZP_Tuitate2nd.description>
+  <ZP_Tuitate2nd_Blueprint.label>칸막이 (도면)</ZP_Tuitate2nd_Blueprint.label>
+  <ZP_Tuitate2nd_Blueprint_Install.label>칸막이 (도면)</ZP_Tuitate2nd_Blueprint_Install.label>
+  <ZP_Tuitate2nd_Frame.label>칸막이 (건설 중)</ZP_Tuitate2nd_Frame.label>
+  <ZP_Tuitate2nd_Frame.description>재배치가 가능한 벽. 방을 일시적으로 분할하거나 안쪽을 보지 못하게 막는데에도 사용됩니다. 빛은 차단하지 않습니다.</ZP_Tuitate2nd_Frame.description>
 
 
 </LanguageData>
