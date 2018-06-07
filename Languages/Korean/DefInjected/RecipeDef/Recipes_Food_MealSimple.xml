@@ -4,31 +4,31 @@
   <!-- 簡単な食事 ご飯 -->
 
   <CookBRGohan1.label>현미 밥</CookBRGohan1.label>
-  <CookBRGohan1.description>밥을 만든다</CookBRGohan1.description>
-  <CookBRGohan1.jobString>밥을 만든다</CookBRGohan1.jobString>
+  <CookBRGohan1.description>현미로 밥을 짓습니다.</CookBRGohan1.description>
+  <CookBRGohan1.jobString>현미 밥짓기</CookBRGohan1.jobString>
 
-  <CookBRGohan4.label>현미 밥 (4)</CookBRGohan4.label>
-  <CookBRGohan4.description>밥을 4개 만든다</CookBRGohan4.description>
-  <CookBRGohan4.jobString>밥을 만든다</CookBRGohan4.jobString>
+  <CookBRGohan4.label>현미 밥(4)</CookBRGohan4.label>
+  <CookBRGohan4.description>현미로 밥을 4인분 짓습니다.</CookBRGohan4.description>
+  <CookBRGohan4.jobString>현미 밥짓기</CookBRGohan4.jobString>
 
   <CookGohan1.label>밥</CookGohan1.label>
-  <CookGohan1.description>밥을 만든다</CookGohan1.description>
-  <CookGohan1.jobString>밥을 만든다</CookGohan1.jobString>
+  <CookGohan1.description>백미로 밥을 짓습니다.</CookGohan1.description>
+  <CookGohan1.jobString>밥짓기</CookGohan1.jobString>
 
   <CookGohan4.label>밥(4)</CookGohan4.label>
-  <CookGohan4.description>밥을 4개 만든다</CookGohan4.description>
-  <CookGohan4.jobString>밥을 만든다</CookGohan4.jobString>
+  <CookGohan4.description>백미로 밥을 4인분 짓습니다.</CookGohan4.description>
+  <CookGohan4.jobString>밥짓기</CookGohan4.jobString>
 
 
   <!-- 簡単な食事 単品 -->
 
-  <CookTsukudani.label>Tsukudani of insects(4)</CookTsukudani.label>
-  <CookTsukudani.description>Boil the insect meat sweetly with sugar and soy sauce.</CookTsukudani.description>
-  <CookTsukudani.jobString>Boiling...</CookTsukudani.jobString>
+  <CookTsukudani.label>벌레 조림(4)</CookTsukudani.label>
+  <CookTsukudani.description>벌레 고기를 설탕과 간장으로 달콥 짭짤하게 조립니다.</CookTsukudani.description>
+  <CookTsukudani.jobString>벌레 조림 요리</CookTsukudani.jobString>
 
-  <CookKorokke4.label>コロッケ(4)</CookKorokke4.label>
-  <CookKorokke4.description>コロッケを４個作る</CookKorokke4.description>
-  <CookKorokke4.jobString>コロッケを作る</CookKorokke4.jobString>
+  <CookKorokke4.label>고로케(4)</CookKorokke4.label>
+  <CookKorokke4.description>고로케를 4개 튀깁니다.</CookKorokke4.description>
+  <CookKorokke4.jobString>고로케 </CookKorokke4.jobString>
 
 
 </LanguageData>
