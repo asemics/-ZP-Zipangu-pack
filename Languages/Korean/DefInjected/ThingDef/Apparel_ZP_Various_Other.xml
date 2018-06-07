@@ -3,50 +3,50 @@
 
   <!-- 藁装備 Base カウボーイハット -->
 
-  <ZP_MugiwaraBosi.label>Straw hat</ZP_MugiwaraBosi.label>
-  <ZP_MugiwaraBosi.description>A hat knitted with straw. It is used as a sunshade during farm work.</ZP_MugiwaraBosi.description>
+  <ZP_MugiwaraBosi.label>밀짚 모자</ZP_MugiwaraBosi.label>
+  <ZP_MugiwaraBosi.description>짚으로 짜인 모자. 햇빛으로부터 얼굴을 보호하기위해 자주 착용합니다.</ZP_MugiwaraBosi.description>
 
-  <ZP_Sugekasa.label>Sugekasa</ZP_Sugekasa.label>
-  <ZP_Sugekasa.description>Straw woven kasa(hat), was worn by samurais, ninjas, monks , ronins , traders and farmers in old-eastern-world, can be used to shelter from the sunshine, rain falls, even snowy.</ZP_Sugekasa.description>
+  <ZP_Sugekasa.label>삿갓</ZP_Sugekasa.label>
+  <ZP_Sugekasa.description>짚으로 짜인 삿갓. 눈과 비를 막아주며, 농부나 승려, 도인들이 애용한다.</ZP_Sugekasa.description>
 
-  <ZP_Tengai.label>Tengai</ZP_Tengai.label>
-  <ZP_Tengai.description>A fully covered helmet, woven by straw. Has religious means. However, when you wearing it, your face is out of sight, so it gives others a creepy feeling. </ZP_Tengai.description>
+  <ZP_Tengai.label>텐가이</ZP_Tengai.label>
+  <ZP_Tengai.description>짚으로 짜인 바구니 같은 삿갓. 허무승들이 쓰는 종교적인 삿갓으로, 얼굴이 가려져있어서 섬뜩한 기분을 줍니다.</ZP_Tengai.description>
 
 
   <!-- 鉢巻 Base ヘルメット -->
 
-  <ZP_HeadBand.label>Hatigane</ZP_HeadBand.label>
-  <ZP_HeadBand.description>Simple head equipment that does not block visibility. This is put the metal in the forehead part so that the forehead is not broken.</ZP_HeadBand.description>
+  <ZP_HeadBand.label>하치가네</ZP_HeadBand.label>
+  <ZP_HeadBand.description>간이형 이마 보호구. 암살 및 결투 등 갑옷이나 머리 보호구가 마땅히 없을때 쓰며, 이마 부분에 철판으로 보강되어있어 착용자를 보호해줍니다.</ZP_HeadBand.description>
 
 
   <!-- 陣笠 Base ヘルメット -->
 
-  <ZP_JingasaHelmet.label>Jingasa Helmet</ZP_JingasaHelmet.label>
-  <ZP_JingasaHelmet.description>A Jingasa(helmet) to protect the head of Ashigaru(soldier).</ZP_JingasaHelmet.description>
+  <ZP_JingasaHelmet.label>진가사 투구</ZP_JingasaHelmet.label>
+  <ZP_JingasaHelmet.description>최하급 무사들에게 지급되는 삿갓입니다. 눈과 비로부터 착용자를 보호해줍니다.</ZP_JingasaHelmet.description>
 
 
   <!-- 将軍兜 Base パワーアーマヘルメット -->
 
-  <ZP_SyougunHelmet.label>Kabuto Helmet</ZP_SyougunHelmet.label>
-  <ZP_SyougunHelmet.description>A Kabuto(helmet) that was only allowed to be worn by the Syogun(general). Have a strong spirit as Syogun(general).</ZP_SyougunHelmet.description>
+  <ZP_SyougunHelmet.label>카부토 투구</ZP_SyougunHelmet.label>
+  <ZP_SyougunHelmet.description>장수 풍뎅이의 머리를 닮은 투구. 강인한 정신을 가진 일부 장군들에게만 허용된 투구입니다.</ZP_SyougunHelmet.description>
 
 
   <!-- 足装備 -->
 
-  <ZP_Warazi.label>Warazi Shoes</ZP_Warazi.label>
-  <ZP_Warazi.description>Japanese traditional footwear made of straw. It fits the feet and makes the movement comfortable.</ZP_Warazi.description>
+  <ZP_Warazi.label>와라지</ZP_Warazi.label>
+  <ZP_Warazi.description>짚으로 만든 일본의 전통적인 짚신. 산행 및 장거리 보행에 알맞은 신발입니다.</ZP_Warazi.description>
 
-  <ZP_WoodenClogs.label>Geta</ZP_WoodenClogs.label>
-  <ZP_WoodenClogs.description>Japanese traditional footwear made of woodLog. It fits the feet and makes the movement comfortable.</ZP_WoodenClogs.description>
+  <ZP_WoodenClogs.label>나막신</ZP_WoodenClogs.label>
+  <ZP_WoodenClogs.description>목재로 만든 일본의 전통적인 신발. 신는데 불편함이 없으며 걷기 편한 신발입니다.</ZP_WoodenClogs.description>
 
-  <ZP_IronClogs.label>Steel Geta</ZP_IronClogs.label>
-  <ZP_IronClogs.description>A kind og Geta made of steel for forking legs transmitted from old times.Although the moving speed drops by 50%, it is possible to gain a lot of experience value by gifts of gut and training.</ZP_IronClogs.description>
+  <ZP_IronClogs.label>철나막신</ZP_IronClogs.label>
+  <ZP_IronClogs.description>옛날에 사용되던 하체를 단련하기위한 신발. 이동속도가 50% 감소하지만, 근성과 단련으로 인해 경험치를 많이 얻을 수 있습니다.</ZP_IronClogs.description>
 
-  <ZP_TravelBag.label>Tourists' bag</ZP_TravelBag.label>
-  <ZP_TravelBag.description>A traditional Japanese travel bag. It is convenient to transport as it can hold lots of luggage.</ZP_TravelBag.description>
+  <ZP_TravelBag.label>여행 가방</ZP_TravelBag.label>
+  <ZP_TravelBag.description>일본의 전통적인 여행 가방. 짐을 많이 넣을 수 있어 여행하기에 편리합니다.</ZP_TravelBag.description>
 
-  <ZP_Tekko.label>Tekko</ZP_Tekko.label>
-  <ZP_Tekko.description>Protective hands to prevent dirt and trauma during blacksmithing etc.</ZP_Tekko.description>
+  <ZP_Tekko.label>손장갑</ZP_Tekko.label>
+  <ZP_Tekko.description>손을 보호하며 제련을 할때 부상 등을 막기 위한 손토시입니다.</ZP_Tekko.description>
 
 
 </LanguageData>
