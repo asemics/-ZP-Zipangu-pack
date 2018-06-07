@@ -16,11 +16,11 @@
   <HedFishFood.label>Fish power!!</HedFishFood.label>
   <HedFishFood.stages.0.label>I ate fish a dish</HedFishFood.stages.0.label>
 
-  <HedFreshFishFood.label>Fresh fish power!!</HedFreshFishFood.label>
+  <HedFreshFishFood.label>Seafood Heaven!!</HedFreshFishFood.label>
   <HedFreshFishFood.stages.0.label>I ate a seafood dish</HedFreshFishFood.stages.0.label>
 
-  <HedNabeFood.label>ごっつあんです!!</HedNabeFood.label>
-  <HedNabeFood.stages.0.label>たらふく食べた</HedNabeFood.stages.0.label>
+  <HedNabeFood.label>I'm stuffed!!</HedNabeFood.label>
+  <HedNabeFood.stages.0.label>I can't eat anymore</HedNabeFood.stages.0.label>
 
 
 </LanguageData>
