@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <R_CookJunmaiSakeBarrel.label>Junmai barrel</R_CookJunmaiSakeBarrel.label>
-  <R_CookJunmaiSakeBarrel.description>Make a Junmai(a kind of Japanese alchole) barrel as a tool for Junmai.</R_CookJunmaiSakeBarrel.description>
-  <R_CookJunmaiSakeBarrel.jobString>Makeing a Junmai barrel</R_CookJunmaiSakeBarrel.jobString>
+  <R_CookJunmaiSakeBarrel.label>준마이 술통</R_CookJunmaiSakeBarrel.label>
+  <R_CookJunmaiSakeBarrel.description>쌀과 그 외 재료를 술통에 담고 빚어내 준마이를 만듭니다.</R_CookJunmaiSakeBarrel.description>
+  <R_CookJunmaiSakeBarrel.jobString>준마이 술통 준비</R_CookJunmaiSakeBarrel.jobString>
 
-  <MakeJunmaiSake.label>Junmai(25)</MakeJunmaiSake.label>
-  <MakeJunmaiSake.description>Make a Junmai(a kind of Japanese alchole).</MakeJunmaiSake.description>
+  <MakeJunmaiSake.label>준마이(25)</MakeJunmaiSake.label>
+  <MakeJunmaiSake.description>술통에서 준마이를 술병에 나눠 담습니다.</MakeJunmaiSake.description>
   <MakeJunmaiSake.jobString>Making a Junmai</MakeJunmaiSake.jobString>
 
 
