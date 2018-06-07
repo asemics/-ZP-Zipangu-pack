@@ -1,14 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <ZPJunmaiSake.label>纯米酒</ZPJunmaiSake.label>
-  <ZPJunmaiSake.description>日本清酒的一种，仅以米、米曲和水为原料，不外加食用酒精。\n由于清酒酿造业受到历史上“乱世”（指第二次世界大战）的影响，给日本消费者留下了不良的印象，加上新一代日本人崇尚饮用啤酒和烈性酒，所以清酒的存在可能很快也要被湮没在尘埃之中了。</ZPJunmaiSake.description>
-  <ZPJunmaiSake.tools.1.label>颈</ZPJunmaiSake.tools.1.label>
-  <ZPJunmaiSake.ingestible.ingestCommandString>饮用{0}</ZPJunmaiSake.ingestible.ingestCommandString>
-  <ZPJunmaiSake.ingestible.ingestReportString>正在饮用{0}。</ZPJunmaiSake.ingestible.ingestReportString>
+  <ZPJunmaiSake.label>純米酒</ZPJunmaiSake.label>
+  <ZPJunmaiSake.description>日本清酒的一種，僅以米、米曲和水為原料，不外加食用酒精。\n由於清酒釀造業受到歷史上“亂世”（指第二次世界大戰）的影響，給日本消費者留下了不良的印象，加上新一代日本人崇尚飲用啤酒和烈性酒，所以清酒的存在可能很快也要被湮沒在塵埃之中了。</ZPJunmaiSake.description>
+  <ZPJunmaiSake.tools.1.label>頸</ZPJunmaiSake.tools.1.label>
+  <ZPJunmaiSake.ingestible.ingestCommandString>飲用{0}</ZPJunmaiSake.ingestible.ingestCommandString>
+  <ZPJunmaiSake.ingestible.ingestReportString>正在飲用{0}。</ZPJunmaiSake.ingestible.ingestReportString>
 
   <R_JunmaiSakeBarrel.label>米酒桶</R_JunmaiSakeBarrel.label>
-  <R_JunmaiSakeBarrel.description>一桶可供酿制米酒的原料，就这样还不能喝。</R_JunmaiSakeBarrel.description>
+  <R_JunmaiSakeBarrel.description>一桶可供釀製米酒的原料，就這樣還不能喝。</R_JunmaiSakeBarrel.description>
 
 
 </LanguageData>

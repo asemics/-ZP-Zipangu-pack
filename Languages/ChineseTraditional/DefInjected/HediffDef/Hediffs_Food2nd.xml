@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <HedBadBreath.label>口臭</HedBadBreath.label>
+  <HedFull.label>吃飽了身體很沉重...</HedFull.label>
+
+  <HedDHA.label>DHA攝入</HedDHA.label>
+  <HedDHA.stages.0.label>食用了魚</HedDHA.stages.0.label>
+
+  <HedMuscle.label>功夫纖維</HedMuscle.label>
+  <HedKungFuFighter.label>功夫鬥士</HedKungFuFighter.label>
+  <HedAppetite.label>食欲増進Ⅰ</HedAppetite.label>
+  <HedAppetite2nd.label>食欲増進Ⅱ</HedAppetite2nd.label>
+  <HedFickle.label>廚師的反復無常</HedFickle.label>
+  <HedFickle2nd.label>廚師的反復無常 Ⅱ</HedFickle2nd.label>
+  <HedFickle3rd.label>廚師的反復無常 Ⅲ</HedFickle3rd.label>
+  <HedFickle4th.label>廚師的反復無常 Ⅳ</HedFickle4th.label>
+  <HedFickle5th.label>廚師的反復無常 Ⅴ</HedFickle5th.label>
+  <HedFickle6th.label>廚師的反復無常 Ⅵ</HedFickle6th.label>
+  <HedFickle7th.label>廚師的反復無常 Ⅶ</HedFickle7th.label>
+  <HedFickle8th.label>廚師的反復無常 Ⅷ</HedFickle8th.label>
+  <HedFickle9th.label>廚師的反復無常 Ⅸ</HedFickle9th.label>
+
+
+  <!--[Duplicated] <HedMuscle.label>ナイスマッスル!!</HedMuscle.label>-->
+
+</LanguageData>

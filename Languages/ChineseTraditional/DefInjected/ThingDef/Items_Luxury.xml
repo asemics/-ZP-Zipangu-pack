@@ -4,34 +4,34 @@
   <!-- Luxury -->
 
   <R_PuffedRice.label>爆米花</R_PuffedRice.label>
-  <R_PuffedRice.description>在密封容器内不断施用高压然后一下子打开，容器内的大米就会膨化成这种口感松脆的甜点。</R_PuffedRice.description>
+  <R_PuffedRice.description>在密封容器內不斷施用高壓然後一下子打開，容器內的大米就會膨化成這種口感松脆的甜點。</R_PuffedRice.description>
 
-  <ZP_RiceCracker.label>煎餅</ZP_RiceCracker.label>
-  <ZP_RiceCracker.description>とても歯ごたえのあるお菓子。醤油、味噌等で好きな味付けを楽しもう。</ZP_RiceCracker.description>
+  <ZP_RiceCracker.label>仙貝</ZP_RiceCracker.label>
+  <ZP_RiceCracker.description>非常有嚼勁的鹹點心。用醬油、味噌等調料調味。</ZP_RiceCracker.description>
 
-  <ZP_Okoshi.label>おこし</ZP_Okoshi.label>
-  <ZP_Okoshi.description>米を熱して干した後に米飴で固めた和菓子。戦国時代は「身を起こし 家を起こし 国を起こす」縁起の良いお菓子として広く人々に親しまれていた。</ZP_Okoshi.description>
+  <ZP_Okoshi.label>粔籹</ZP_Okoshi.label>
+  <ZP_Okoshi.description>將米烤乾後用米糖固定的點心。其日文名おこし(okoshi)在日文裡有“修身治國平天下”之美意。是廣受喜愛的點心。</ZP_Okoshi.description>
 
-  <ZP_Kasutera.label>ベビーカステラ</ZP_Kasutera.label>
-  <ZP_Kasutera.description>縁日の定番お菓子。素朴なカステラのような味で、何個も口に入れてしまうほど美味しい。</ZP_Kasutera.description>
+  <ZP_Kasutera.label>迷你蛋糕</ZP_Kasutera.label>
+  <ZP_Kasutera.description>廟會上常見的點心。和樸素的蛋糕一樣的味道，不管吃多少，都不會膩。</ZP_Kasutera.description>
 
   <ZP_Kompeito.label>金平糖</ZP_Kompeito.label>
-  <ZP_Kompeito.description>戦国時代にポルトガルから日本に伝来したお菓子。カラフルな見た目と優しい甘さが入植者を癒してくれる。</ZP_Kompeito.description>
+  <ZP_Kompeito.description>戰國時代時自葡萄牙傳入的糖果。多彩的外表，溫柔的甜味，非常治愈。</ZP_Kompeito.description>
 
-  <ZP_CottonCandy.label>わたあめ</ZP_CottonCandy.label>
-  <ZP_CottonCandy.description>縁日の定番お菓子。ふわふわした食感と甘さを楽しむ事ができる。\n時間が経つと萎んで固くなってしまうのではやめに食べよう。</ZP_CottonCandy.description>
+  <ZP_CottonCandy.label>棉花糖</ZP_CottonCandy.label>
+  <ZP_CottonCandy.description>廟會上常見的點心。軟綿綿的，吃起來非常有趣。\n放置時間長了就會塌陷，不再適合食用。</ZP_CottonCandy.description>
 
-  <ZP_BoiledEdamame.label>塩茹で枝豆</ZP_BoiledEdamame.label>
-  <ZP_BoiledEdamame.description>枝豆を塩茹でした日本の定番おつまみ。暑い日に冷えたビールのお供にすることが多い。</ZP_BoiledEdamame.description>
+  <ZP_BoiledEdamame.label>枝豆鹽茹</ZP_BoiledEdamame.label>
+  <ZP_BoiledEdamame.description>枝豆煮過後抹上鹽。是日本的必備下酒菜之一。在炎熱的夏天就著啤酒食用，是一種享受呢。</ZP_BoiledEdamame.description>
 
-  <ZP_Yakitori.label>焼き鳥</ZP_Yakitori.label>
-  <ZP_Yakitori.description>肉を一口大に切った後に串に刺して焼いた日本の定番おつまみ。味は塩かタレを選べます。</ZP_Yakitori.description>
+  <ZP_Yakitori.label>燒鳥</ZP_Yakitori.label>
+  <ZP_Yakitori.description>雞肉切成塊，串成串兒烤。是日本的必備下酒菜之一。可以有鹹味、咖喱味等多種口味。</ZP_Yakitori.description>
 
   <ZP_Hiyayakko.label>冷奴</ZP_Hiyayakko.label>
-  <ZP_Hiyayakko.description>豆腐に薬味をのせ醤油をかけたシンプルな料理。酒の肴やおかずに1品足したい時に便利。</ZP_Hiyayakko.description>
+  <ZP_Hiyayakko.description>以豆腐和醬油製成的簡單料理。很方便的下酒菜。</ZP_Hiyayakko.description>
 
-  <ZP_Misotanpo.label>みそたんぽ</ZP_Misotanpo.label>
-  <ZP_Misotanpo.description>焼いたたんぽに味噌をつけたもの。秋田県の郷土料理。</ZP_Misotanpo.description>
+  <ZP_Misotanpo.label>味噌蒲英</ZP_Misotanpo.label>
+  <ZP_Misotanpo.description>味噌調味的蒲英米卷。秋田縣的鄉土料理。</ZP_Misotanpo.description>
 
 
 </LanguageData>

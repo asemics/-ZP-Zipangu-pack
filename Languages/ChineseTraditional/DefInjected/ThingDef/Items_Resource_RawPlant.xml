@@ -1,17 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <ZP_RawJapaneseRadish.label>大根</ZP_RawJapaneseRadish.label>
-  <ZP_RawJapaneseRadish.description>生の大根</ZP_RawJapaneseRadish.description>
+  <ZP_RawJapaneseRadish.label>蘿蔔</ZP_RawJapaneseRadish.label>
+  <ZP_RawJapaneseRadish.description>生蘿蔔。</ZP_RawJapaneseRadish.description>
 
-  <ZP_RawTaro.label>里芋</ZP_RawTaro.label>
-  <ZP_RawTaro.description>生の里芋。コンニャク芋の代わりにもなる。</ZP_RawTaro.description>
+  <ZP_RawTaro.label>芋頭</ZP_RawTaro.label>
+  <ZP_RawTaro.description>生芋頭。可以做成蒟蒻。</ZP_RawTaro.description>
 
-  <ZP_RawGreenOnion.label>長ネギ</ZP_RawGreenOnion.label>
-  <ZP_RawGreenOnion.description>生の長ネギ。</ZP_RawGreenOnion.description>
+  <ZP_RawGreenOnion.label>蔥</ZP_RawGreenOnion.label>
+  <ZP_RawGreenOnion.description>生大蔥。</ZP_RawGreenOnion.description>
 
-  <ZP_MandarinOrange.label>みかん</ZP_MandarinOrange.label>
-  <ZP_MandarinOrange.description>甘酸っぱくて美味しいみかん。</ZP_MandarinOrange.description>
+  <ZP_MandarinOrange.label>橘子</ZP_MandarinOrange.label>
+  <ZP_MandarinOrange.description>酸酸甜甜美味可口的橘子。</ZP_MandarinOrange.description>
 
 
 </LanguageData>

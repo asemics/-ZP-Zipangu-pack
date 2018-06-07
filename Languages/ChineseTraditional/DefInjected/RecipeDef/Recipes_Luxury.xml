@@ -5,41 +5,41 @@
   <CookPuffedRice5.description>通過高壓使大米膨化，成為另一種美味的食品。</CookPuffedRice5.description>
   <CookPuffedRice5.jobString>正在製作爆米花。</CookPuffedRice5.jobString>
 
-  <CookRiceCracker.label>煎餅(2)</CookRiceCracker.label>
-  <CookRiceCracker.description>煎餅を2個作る</CookRiceCracker.description>
-  <CookRiceCracker.jobString>煎餅を作る</CookRiceCracker.jobString>
+  <CookRiceCracker.label>製作仙貝(x2)</CookRiceCracker.label>
+  <CookRiceCracker.description>製作2個仙貝。</CookRiceCracker.description>
+  <CookRiceCracker.jobString>正在做仙貝。</CookRiceCracker.jobString>
 
-  <CookOkoshi.label>おこし(2)</CookOkoshi.label>
-  <CookOkoshi.description>穀物類を加工して飴でかためる。</CookOkoshi.description>
-  <CookOkoshi.jobString>おこしを作る</CookOkoshi.jobString>
+  <CookOkoshi.label>製作粔籹(x2)</CookOkoshi.label>
+  <CookOkoshi.description>穀物製成的點心。</CookOkoshi.description>
+  <CookOkoshi.jobString>正在製作粔籹。</CookOkoshi.jobString>
 
-  <CookKasutera.label>ベビーカステラ(2)</CookKasutera.label>
-  <CookKasutera.description>ベビーカステラを2個作る</CookKasutera.description>
-  <CookKasutera.jobString>ベビーカステラを作る</CookKasutera.jobString>
+  <CookKasutera.label>製作迷你蛋糕(x2)</CookKasutera.label>
+  <CookKasutera.description>製作2個迷你蛋糕。</CookKasutera.description>
+  <CookKasutera.jobString>正在製作迷你蛋糕。</CookKasutera.jobString>
 
-  <CookKompeito.label>金平糖(2)</CookKompeito.label>
-  <CookKompeito.description>金平糖を2個作る</CookKompeito.description>
-  <CookKompeito.jobString>金平糖を作る</CookKompeito.jobString>
+  <CookKompeito.label>製作金平糖(x2)</CookKompeito.label>
+  <CookKompeito.description>製作兩個金平糖。</CookKompeito.description>
+  <CookKompeito.jobString>正在製作金平糖。</CookKompeito.jobString>
 
-  <CookCottonCandy.label>わたあめ(2)</CookCottonCandy.label>
-  <CookCottonCandy.description>わたあめを2個作る</CookCottonCandy.description>
-  <CookCottonCandy.jobString>わたあめを作る</CookCottonCandy.jobString>
+  <CookCottonCandy.label>棉花糖(x2)</CookCottonCandy.label>
+  <CookCottonCandy.description>做2個棉花糖。</CookCottonCandy.description>
+  <CookCottonCandy.jobString>正在製作棉花糖。</CookCottonCandy.jobString>
 
-  <CookBoiledEdamame.label>塩茹で枝豆(2)</CookBoiledEdamame.label>
-  <CookBoiledEdamame.description>枝豆を茹でててから塩を振る。</CookBoiledEdamame.description>
-  <CookBoiledEdamame.jobString>塩茹で枝豆を作る</CookBoiledEdamame.jobString>
+  <CookBoiledEdamame.label>枝豆鹽茹(x2)</CookBoiledEdamame.label>
+  <CookBoiledEdamame.description>將枝豆煮熟後抹上鹽。</CookBoiledEdamame.description>
+  <CookBoiledEdamame.jobString>正在製作枝豆鹽茹。</CookBoiledEdamame.jobString>
 
-  <CookYakitori.label>焼き鳥(2)</CookYakitori.label>
-  <CookYakitori.description>味付け肉と長ネギを串に刺して焼く</CookYakitori.description>
-  <CookYakitori.jobString>焼き鳥を作る</CookYakitori.jobString>
+  <CookYakitori.label>製作燒鳥(x2)</CookYakitori.label>
+  <CookYakitori.description>把調味的肉和蔥一起串串烤。</CookYakitori.description>
+  <CookYakitori.jobString>正在製作燒鳥。</CookYakitori.jobString>
 
-  <CookHiyayakko.label>冷奴(2)</CookHiyayakko.label>
-  <CookHiyayakko.description>豆腐に薬味をのせて醤油をかける。</CookHiyayakko.description>
-  <CookHiyayakko.jobString>冷奴を作る</CookHiyayakko.jobString>
+  <CookHiyayakko.label>製作冷奴(x2)</CookHiyayakko.label>
+  <CookHiyayakko.description>豆腐與醬油混合而成。</CookHiyayakko.description>
+  <CookHiyayakko.jobString>正在製作冷奴。</CookHiyayakko.jobString>
 
-  <CookMisotanpo.label>みそたんぽ(2)</CookMisotanpo.label>
-  <CookMisotanpo.description>みそたんぽを2個作る。</CookMisotanpo.description>
-  <CookMisotanpo.jobString>みそたんぽを作る</CookMisotanpo.jobString>
+  <CookMisotanpo.label>製作味噌蒲英(x2)</CookMisotanpo.label>
+  <CookMisotanpo.description>做兩個味噌蒲英。</CookMisotanpo.description>
+  <CookMisotanpo.jobString>正在製作味噌蒲英。</CookMisotanpo.jobString>
 
 
 </LanguageData>

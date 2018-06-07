@@ -4,25 +4,25 @@
   <!-- 大盾　Base 土嚢 -->
 
   <ZP_KaiShield.label>大盾</ZP_KaiShield.label>
-  <ZP_KaiShield.description>一种易于架设、对枪弹和箭矢具有良好抵挡能力的盾墙，不过需要注意的是，它们易碎且不防火。</ZP_KaiShield.description>
-  <ZP_KaiShield_Blueprint.label>大盾 (蓝图)</ZP_KaiShield_Blueprint.label>
+  <ZP_KaiShield.description>一種易於架設、對槍彈和箭矢具有良好抵擋能力的盾墻，不過需要注意的是，它們易碎且不防火。</ZP_KaiShield.description>
+  <ZP_KaiShield_Blueprint.label>大盾 (藍圖)</ZP_KaiShield_Blueprint.label>
   <ZP_KaiShield_Frame.label>大盾 (建造中)</ZP_KaiShield_Frame.label>
-  <ZP_KaiShield_Frame.description>一种易于架设、对枪弹和箭矢具有良好抵挡能力的盾墙，不过需要注意的是，它们易碎且不防火。</ZP_KaiShield_Frame.description>
+  <ZP_KaiShield_Frame.description>一種易於架設、對槍彈和箭矢具有良好抵擋能力的盾墻，不過需要注意的是，它們易碎且不防火。</ZP_KaiShield_Frame.description>
 
 
   <!-- 火計用藁　Base 土嚢 -->
 
   <ZP_StrawLump.label>稻草垛</ZP_StrawLump.label>
-  <ZP_StrawLump.description>实施火计时可以用到的稻草垛，非常易燃，因此需要掌握好使用的时机。</ZP_StrawLump.description>
-  <ZP_StrawLump_Blueprint.label>稻草垛 (蓝图)</ZP_StrawLump_Blueprint.label>
-  <ZP_StrawLump_Frame.label>稻草垛 (建造中)</ZP_StrawLump_Frame.label>
-  <ZP_StrawLump_Frame.description>实施火计时可以用到的稻草垛，非常易燃，因此需要掌握好使用的时机。</ZP_StrawLump_Frame.description>
+  <ZP_StrawLump.description>實施火計時可以用到的稻草垛，非常易燃，因此需要掌握好使用的時機。</ZP_StrawLump.description>
+  <ZP_StrawLump_Blueprint.label>稻草垛(藍圖)</ZP_StrawLump_Blueprint.label>
+  <ZP_StrawLump_Frame.label>稻草垛(建造中)</ZP_StrawLump_Frame.label>
+  <ZP_StrawLump_Frame.description>實施火計時可以用到的稻草垛，非常易燃，因此需要掌握好使用的時機。</ZP_StrawLump_Frame.description>
 
-  <ZP_StrawLump_Gunpowder.label>火药稻草垛</ZP_StrawLump_Gunpowder.label>
-  <ZP_StrawLump_Gunpowder.description>实施火计时可以用到的稻草垛，其中混有火药，在接触到火焰时会发生爆炸，因此需要掌握好使用的时机。</ZP_StrawLump_Gunpowder.description>
-  <ZP_StrawLump_Gunpowder_Blueprint.label>火药稻草垛 (蓝图)</ZP_StrawLump_Gunpowder_Blueprint.label>
-  <ZP_StrawLump_Gunpowder_Frame.label>火药稻草垛 (建造中)</ZP_StrawLump_Gunpowder_Frame.label>
-  <ZP_StrawLump_Gunpowder_Frame.description>实施火计时可以用到的稻草垛，其中混有火药，在接触到火焰时会发生爆炸，因此需要掌握好使用的时机。</ZP_StrawLump_Gunpowder_Frame.description>
+  <ZP_StrawLump_Gunpowder.label>火藥稻草垛</ZP_StrawLump_Gunpowder.label>
+  <ZP_StrawLump_Gunpowder.description>實施火計時可以用到的稻草垛，其中混有火藥，在接觸到火焰時會發生爆炸，因此需要掌握好使用的時機。</ZP_StrawLump_Gunpowder.description>
+  <ZP_StrawLump_Gunpowder_Blueprint.label>火藥稻草垛(藍圖)</ZP_StrawLump_Gunpowder_Blueprint.label>
+  <ZP_StrawLump_Gunpowder_Frame.label>火藥稻草垛(建造中)</ZP_StrawLump_Gunpowder_Frame.label>
+  <ZP_StrawLump_Gunpowder_Frame.description>實施火計時可以用到的稻草垛，其中混有火藥，在接觸到火焰時會發生爆炸，因此需要掌握好使用的時機。</ZP_StrawLump_Gunpowder_Frame.description>
 
 
 </LanguageData>

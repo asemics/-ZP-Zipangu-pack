@@ -50,25 +50,25 @@
   <CookSteamedFish8.description>将魚放入湯中煮熟。</CookSteamedFish8.description>
   <CookSteamedFish8.jobString>正在煮魚。</CookSteamedFish8.jobString>
 
-  <CookGRTakikomi4.label>炊き込みご飯(4)</CookGRTakikomi4.label>
-  <CookGRTakikomi4.description>もち米と一緒に野菜類と肉類を炊き込んで作るご飯。</CookGRTakikomi4.description>
-  <CookGRTakikomi4.jobString>炊き込みご飯を作る</CookGRTakikomi4.jobString>
+  <CookGRTakikomi4.label>製作五目飯(x4)</CookGRTakikomi4.label>
+  <CookGRTakikomi4.description>把糯米和各種蔬菜肉類一起蒸。</CookGRTakikomi4.description>
+  <CookGRTakikomi4.jobString>正在製作五目飯。</CookGRTakikomi4.jobString>
 
-  <CookTendon4.label>天丼(4)</CookTendon4.label>
-  <CookTendon4.description>天丼を４個作る</CookTendon4.description>
-  <CookTendon4.jobString>天丼を作る</CookTendon4.jobString>
+  <CookTendon4.label>製作天丼(x4)</CookTendon4.label>
+  <CookTendon4.description>製作4個天丼。</CookTendon4.description>
+  <CookTendon4.jobString>正在製作天丼。</CookTendon4.jobString>
 
-  <CookOkonomiyaki4.label>お好み焼(4)</CookOkonomiyaki4.label>
-  <CookOkonomiyaki4.description>お好み焼を４個作る</CookOkonomiyaki4.description>
-  <CookOkonomiyaki4.jobString>お好み焼を作る</CookOkonomiyaki4.jobString>
+  <CookOkonomiyaki4.label>製作什錦燒(x4)</CookOkonomiyaki4.label>
+  <CookOkonomiyaki4.description>製作4個什錦燒。</CookOkonomiyaki4.description>
+  <CookOkonomiyaki4.jobString>正在製作什錦燒。</CookOkonomiyaki4.jobString>
 
-  <CookUdon4.label>うどん(4)</CookUdon4.label>
-  <CookUdon4.description>うどんを４個作る</CookUdon4.description>
-  <CookUdon4.jobString>うどんを作る</CookUdon4.jobString>
+  <CookUdon4.label>製作烏冬面(x4)</CookUdon4.label>
+  <CookUdon4.description>做4碗烏冬面。</CookUdon4.description>
+  <CookUdon4.jobString>正在製作烏冬面。</CookUdon4.jobString>
 
-  <CookOden8.label>おでん(8)</CookOden8.label>
-  <CookOden8.description>おでんを8個作る</CookOden8.description>
-  <CookOden8.jobString>おでんを作る</CookOden8.jobString>
+  <CookOden8.label>製作關東煮(x8)</CookOden8.label>
+  <CookOden8.description>做8個關東煮。</CookOden8.description>
+  <CookOden8.jobString>正在製作關東煮。</CookOden8.jobString>
 
 
 </LanguageData>

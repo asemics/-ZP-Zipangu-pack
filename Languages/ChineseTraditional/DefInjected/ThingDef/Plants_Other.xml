@@ -1,20 +1,20 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <ZP_PrantJapaneseRadish.label>大根</ZP_PrantJapaneseRadish.label>
-  <ZP_PrantJapaneseRadish.description>生育期間が短くたくさん収穫できるが大きい大根なので保存場所に困る。</ZP_PrantJapaneseRadish.description>
+  <ZP_PrantJapaneseRadish.label>蘿蔔</ZP_PrantJapaneseRadish.label>
+  <ZP_PrantJapaneseRadish.description>生長期短而產量大的蘿蔔。唯一的弱點就是不便儲存。</ZP_PrantJapaneseRadish.description>
 
-  <ZP_PrantGreenOnion.label>長ネギ</ZP_PrantGreenOnion.label>
-  <ZP_PrantGreenOnion.description>生育期間が長く収穫量も少ないが耐寒性が高いので枯れにくい。</ZP_PrantGreenOnion.description>
+  <ZP_PrantGreenOnion.label>蔥</ZP_PrantGreenOnion.label>
+  <ZP_PrantGreenOnion.description>生長期長產量低，但是很耐寒耐枯萎。</ZP_PrantGreenOnion.description>
 
-  <ZP_PrantTaro.label>里芋</ZP_PrantTaro.label>
-  <ZP_PrantTaro.description>生育期間が長く収穫量も多い。コンニャクを作る際の素材になる。</ZP_PrantTaro.description>
+  <ZP_PrantTaro.label>芋頭</ZP_PrantTaro.label>
+  <ZP_PrantTaro.description>生長期長，產量大。制作蒟蒻的材料。</ZP_PrantTaro.description>
 
   <ZP_PrantSpice.label>香辛料</ZP_PrantSpice.label>
   <ZP_PrantSpice.description></ZP_PrantSpice.description>
 
-  <ZP_PlantMandarinOrange.label>みかんの木</ZP_PlantMandarinOrange.label>
-  <ZP_PlantMandarinOrange.description>みかんの木。最初は木が成長するまで遅いが1度実ると次の収穫までがはやくなる。</ZP_PlantMandarinOrange.description>
+  <ZP_PlantMandarinOrange.label>橘子樹</ZP_PlantMandarinOrange.label>
+  <ZP_PlantMandarinOrange.description>橘子的樹。收獲一次果實之後，很快就能收獲第二次。</ZP_PlantMandarinOrange.description>
 
 
 </LanguageData>

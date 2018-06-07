@@ -26,9 +26,9 @@
   <CookTsukudani.description>用佃煮的方式把蟲肉處理一下。</CookTsukudani.description>
   <CookTsukudani.jobString>烹飪中。</CookTsukudani.jobString>
 
-  <CookKorokke4.label>コロッケ(4)</CookKorokke4.label>
-  <CookKorokke4.description>コロッケを４個作る</CookKorokke4.description>
-  <CookKorokke4.jobString>コロッケを作る</CookKorokke4.jobString>
+  <CookKorokke4.label>製作可樂餅(x4)</CookKorokke4.label>
+  <CookKorokke4.description>製作四個可樂餅。</CookKorokke4.description>
+  <CookKorokke4.jobString>正在製作可樂餅。</CookKorokke4.jobString>
 
 
   <!-- 簡單な食事 ご飯 -->

@@ -1,14 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <ZPGinjoSake.label>吟酿酒</ZPGinjoSake.label>
-  <ZPGinjoSake.description>日本清酒的一种，用白米和粮食酿制而成的酒。\n华美醇香的气味和清润爽滑的口感是这种酒引以为豪的特征。</ZPGinjoSake.description>
-  <ZPGinjoSake.tools.1.label>颈</ZPGinjoSake.tools.1.label>
-  <ZPGinjoSake.ingestible.ingestCommandString>饮用{0}</ZPGinjoSake.ingestible.ingestCommandString>
-  <ZPGinjoSake.ingestible.ingestReportString>正在饮用{0}。</ZPGinjoSake.ingestible.ingestReportString>
+  <ZPGinjoSake.label>吟釀酒</ZPGinjoSake.label>
+  <ZPGinjoSake.description>日本清酒的一種，用白米和糧食釀製而成的酒。\n華美醇香的氣味和清潤爽滑的口感是這種酒引以為豪的特徵。</ZPGinjoSake.description>
+  <ZPGinjoSake.tools.1.label>頸</ZPGinjoSake.tools.1.label>
+  <ZPGinjoSake.ingestible.ingestCommandString>飲用{0}</ZPGinjoSake.ingestible.ingestCommandString>
+  <ZPGinjoSake.ingestible.ingestReportString>正在飲用{0}。</ZPGinjoSake.ingestible.ingestReportString>
 
   <R_GinjoSakeBarrel.label>清酒桶</R_GinjoSakeBarrel.label>
-  <R_GinjoSakeBarrel.description>一个装满清酒原酒的桶，还需要经过处理才可以喝。</R_GinjoSakeBarrel.description>
+  <R_GinjoSakeBarrel.description>一個裝滿清酒原酒的桶，還需要經過處理才可以喝。</R_GinjoSakeBarrel.description>
 
 
 </LanguageData>

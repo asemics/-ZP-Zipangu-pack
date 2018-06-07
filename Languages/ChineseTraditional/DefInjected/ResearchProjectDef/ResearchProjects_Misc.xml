@@ -9,10 +9,10 @@
   <ReWetlandRice.label>ZP：水稻種植法</ReWetlandRice.label>
   <ReWetlandRice.description>通過發展水稻田技術來再進一步提高生產力。</ReWetlandRice.description>
 
-  <ReGlutinousRice.label>もち米</ReGlutinousRice.label>
-  <ReGlutinousRice.description>もちもちとした食感のお米に品種改良をする。\n解放⇒もち米(要：栽培ｽｷﾙ 4),杵臼,もち米レシピ7種類</ReGlutinousRice.description>
+  <ReGlutinousRice.label>ZP：糯米</ReGlutinousRice.label>
+  <ReGlutinousRice.description>改良大米品種，可種植軟糯的糯米。\n【解鎖】糯米(需種植4級)、杵臼、7種糯米菜譜</ReGlutinousRice.description>
 
-  <ReThreshingRiceMillingMachine.label>全能型脫殼精米機械</ReThreshingRiceMillingMachine.label>
+  <ReThreshingRiceMillingMachine.label>ZP：全能型脫殼精米機械</ReThreshingRiceMillingMachine.label>
   <ReThreshingRiceMillingMachine.description>將現有的農業器械的功能合而為一並進行改良，以此構建出一種可以省去大量繁瑣工作的先進加工機械。</ReThreshingRiceMillingMachine.description>
 
 
@@ -28,7 +28,7 @@
   <ReFloatingSunLamp.description>學習構建燃料式懸浮太陽燈的方法——它們可以安放於復雜地形且不消耗電力。\n【解鎖】浮游式太陽燈（燃料）</ReFloatingSunLamp.description>
 
   <ReBeans.label>ZP：豆類種植技術</ReBeans.label>
-  <ReBeans.description>學習大豆和毛豆的種植方法。\n【解鎖】大豆（需求：種植技能4）、毛豆（需求：種植技能4）</ReBeans.description>
+  <ReBeans.description>學習大豆和枝豆的種植方法。\n【解鎖】大豆（需求：種植技能4）、枝豆（需求：種植技能4）</ReBeans.description>
 
 
   <!-- 土壌開発 y=2 -->
@@ -58,7 +58,7 @@
   <RePreservedFood.description>學習處理食物的方式，使它們可以儲存更長時間。\n【解鎖】米糠醬菜、魚乾、納豆、醬菜缸</RePreservedFood.description>
 
   <ReZPLuxury.label>嗜好品</ReZPLuxury.label>
-  <ReZPLuxury.description>嗜好品の作り方を学ぶ。\n解放⇒飲み物レシピ2種,嗜好品レシピ7種</ReZPLuxury.description>
+  <ReZPLuxury.description>習得嗜好品製作方法。\n【解鎖】2種飲料，7種嗜好品</ReZPLuxury.description>
 
 
   <!-- 家具 y=4 -->
@@ -67,7 +67,7 @@
   <ReZPFurniture.description>學習如何構築和風家居的方法，來提升居住環境和質量。\n【解鎖】稻草編織床、團扇、火鉢</ReZPFurniture.description>
 
   <ReZPFurniture2nd.label>和風家具Ⅱ</ReZPFurniture2nd.label>
-  <ReZPFurniture2nd.description>住環境をよくする和風家具Ⅱの建て方を学ぶ。\n解放⇒布団,囲炉裏,炬燵,座布団</ReZPFurniture2nd.description>
+  <ReZPFurniture2nd.description>學習如何建造及布置【II級】和風傢具，以提升居住環境及質量。\n【解鎖】布團、圍爐裡、被爐、座布團</ReZPFurniture2nd.description>
 
 
   <!-- 装備関係 y=5 -->
@@ -81,7 +81,7 @@
   <BlacksmithMaster.label>ZP：鍛冶技術【大師】</BlacksmithMaster.label>
   <BlacksmithMaster.description>通過完全地研究古老的鍛冶縫紉技術，你的殖民者就可以掌握所有日式裝備的製作工藝了。</BlacksmithMaster.description>
 
-  <BlacksmithTanegasima.label>鍛冶技術【銃】</BlacksmithTanegasima.label>
+  <BlacksmithTanegasima.label>ZP：鍛冶技術【銃】</BlacksmithTanegasima.label>
   <BlacksmithTanegasima.description>學習製作種子島——一種簡單卻威力強大的火繩槍的方法。</BlacksmithTanegasima.description>
 
   <ReDefenseBase.label>ZP：陣地學</ReDefenseBase.label>

@@ -40,13 +40,13 @@
 
   <!-- たんぽ -->
 
-  <CookTanpo10.label>たんぽ(10)</CookTanpo10.label>
-  <CookTanpo10.description>潰した米粒を木の棒に纏わせるように成形する。</CookTanpo10.description>
-  <CookTanpo10.jobString>たんぽを作る</CookTanpo10.jobString>
+  <CookTanpo10.label>製作蒲英(x10)</CookTanpo10.label>
+  <CookTanpo10.description>將米搗碎卷在棒上烤製蒲英。</CookTanpo10.description>
+  <CookTanpo10.jobString>正在製作蒲英。</CookTanpo10.jobString>
 
-  <CookTanpo50.label>たんぽ(50)</CookTanpo50.label>
-  <CookTanpo50.description>潰した米粒を木の棒に纏わせるように成形する。</CookTanpo50.description>
-  <CookTanpo50.jobString>たんぽを作る</CookTanpo50.jobString>
+  <CookTanpo50.label>製作蒲英(x50)</CookTanpo50.label>
+  <CookTanpo50.description>將米搗碎卷在棒上烤製蒲英。</CookTanpo50.description>
+  <CookTanpo50.jobString>正在製作蒲英。</CookTanpo50.jobString>
 
 
   <!-- ぬか漬け -->
@@ -96,29 +96,29 @@
   <CookDriedFish50.description>將新鮮魚肉充分曬乾，使它們可以儲存更長時間。</CookDriedFish50.description>
   <CookDriedFish50.jobString>正在曬製魚乾。</CookDriedFish50.jobString>
 
-  <CookTikuwa5.label>ちくわ(10)</CookTikuwa5.label>
-  <CookTikuwa5.description>生魚をすりおろしてちくわを作る</CookTikuwa5.description>
-  <CookTikuwa5.jobString>ちくわを作る</CookTikuwa5.jobString>
+  <CookTikuwa5.label>製作竹輪(x10)</CookTikuwa5.label>
+  <CookTikuwa5.description>將魚肉搗碎，製作竹輪。</CookTikuwa5.description>
+  <CookTikuwa5.jobString>正在製作竹輪</CookTikuwa5.jobString>
 
-  <CookTikuwa10.label>ちくわ(50)</CookTikuwa10.label>
-  <CookTikuwa10.description>生魚をすりおろしてちくわを作る</CookTikuwa10.description>
-  <CookTikuwa10.jobString>ちくわを作る</CookTikuwa10.jobString>
+  <CookTikuwa10.label>製作竹輪(x50)</CookTikuwa10.label>
+  <CookTikuwa10.description>將魚肉搗碎，製作竹輪。</CookTikuwa10.description>
+  <CookTikuwa10.jobString>正在製作竹輪。</CookTikuwa10.jobString>
 
-  <CookFishFillet.label>魚の切り身(10)</CookFishFillet.label>
-  <CookFishFillet.description>生魚をさばいて切り身にする。</CookFishFillet.description>
-  <CookFishFillet.jobString>切り身を作る</CookFishFillet.jobString>
+  <CookFishFillet.label>製作魚塊(x10)</CookFishFillet.label>
+  <CookFishFillet.description>將生魚切成塊。</CookFishFillet.description>
+  <CookFishFillet.jobString>正在切魚塊。</CookFishFillet.jobString>
 
-  <CookFishFillet10.label>魚の切り身(50)</CookFishFillet10.label>
-  <CookFishFillet10.description>生魚をさばいて切り身にする。</CookFishFillet10.description>
-  <CookFishFillet10.jobString>切り身を作る</CookFishFillet10.jobString>
+  <CookFishFillet10.label>製作魚塊(x50)</CookFishFillet10.label>
+  <CookFishFillet10.description>將生魚切成塊。</CookFishFillet10.description>
+  <CookFishFillet10.jobString>正在切魚塊。</CookFishFillet10.jobString>
 
-  <ZP_CookTofu10.label>豆腐(10)</ZP_CookTofu10.label>
-  <ZP_CookTofu10.description>豆乳を使って豆腐を作る</ZP_CookTofu10.description>
-  <ZP_CookTofu10.jobString>豆腐を作る</ZP_CookTofu10.jobString>
+  <ZP_CookTofu10.label>製作豆腐(x10)</ZP_CookTofu10.label>
+  <ZP_CookTofu10.description>用豆漿做豆腐。</ZP_CookTofu10.description>
+  <ZP_CookTofu10.jobString>正在做豆腐。</ZP_CookTofu10.jobString>
 
-  <ZP_CookTofu50.label>豆腐(50)</ZP_CookTofu50.label>
-  <ZP_CookTofu50.description>豆乳を使って豆腐を作る</ZP_CookTofu50.description>
-  <ZP_CookTofu50.jobString>豆腐を作る</ZP_CookTofu50.jobString>
+  <ZP_CookTofu50.label>製作豆腐(x50)</ZP_CookTofu50.label>
+  <ZP_CookTofu50.description>用豆漿做豆腐。</ZP_CookTofu50.description>
+  <ZP_CookTofu50.jobString>正在做豆腐。</ZP_CookTofu50.jobString>
 
 
 </LanguageData>

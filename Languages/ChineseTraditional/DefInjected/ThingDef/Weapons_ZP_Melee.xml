@@ -4,75 +4,72 @@
   <!-- 十手 Base クラブ -->
 
   <MeleeWeapon_Jitte.label>十手</MeleeWeapon_Jitte.label>
-  <MeleeWeapon_Jitte.description>或称“铁尺”，一种源自于中国的冷兵器，在19世纪末琉球被日本吞并后，随之传入日本。十手是专门用以克制刀剑的武器，用于卡刃——断刃——攻喉，因此很明显，其防御力强于攻击力。\n至于“Ninja dagger（忍者匕首）”这种叫法是自《Teenage Mutant Ninja Turtles（忍者神龟）》这一系列的动画而产生的。</MeleeWeapon_Jitte.description>
+  <MeleeWeapon_Jitte.description>或稱“鐵尺”，一種源自於中國的冷兵器，在19世紀末琉球被日本吞並後，隨之傳入日本。十手是專門用以克制刀劍的武器，用於卡刃——斷刃——攻喉，因此很明顯，其防御力強於攻擊力。\n至於“Ninja dagger（忍者匕首）”這種叫法是自《Teenage Mutant Ninja Turtles（忍者神龜）》這一系列的動畫而產生的。</MeleeWeapon_Jitte.description>
   <MeleeWeapon_Jitte.tools.0.label>柄</MeleeWeapon_Jitte.tools.0.label>
-  <MeleeWeapon_Jitte.tools.1.label>尖头</MeleeWeapon_Jitte.tools.1.label>
+  <MeleeWeapon_Jitte.tools.1.label>尖頭</MeleeWeapon_Jitte.tools.1.label>
 
   <MeleeWeapon_Marohoshi.label>星十手</MeleeWeapon_Marohoshi.label>
-  <MeleeWeapon_Marohoshi.description>一种改进过的十手，在更容易克制敌方攻势的同时也强化了攻击力。</MeleeWeapon_Marohoshi.description>
+  <MeleeWeapon_Marohoshi.description>由十手改進而來的武器，在更容易克制敵方攻勢的同時也強化了攻擊力。</MeleeWeapon_Marohoshi.description>
   <MeleeWeapon_Marohoshi.tools.0.label>柄</MeleeWeapon_Marohoshi.tools.0.label>
-  <MeleeWeapon_Marohoshi.tools.1.label>尖头</MeleeWeapon_Marohoshi.tools.1.label>
+  <MeleeWeapon_Marohoshi.tools.1.label>尖頭</MeleeWeapon_Marohoshi.tools.1.label>
 
   <MeleeWeapon_Sasumata.label>刺叉</MeleeWeapon_Sasumata.label>
-  <MeleeWeapon_Sasumata.description>一种可以完全克制对方行动的长柄武器，也是现代镇暴叉的前身。</MeleeWeapon_Sasumata.description>
+  <MeleeWeapon_Sasumata.description>一種可以完全克制對方行動的長柄武器，也是現代鎮暴叉的前身。</MeleeWeapon_Sasumata.description>
   <MeleeWeapon_Sasumata.tools.0.label>柄</MeleeWeapon_Sasumata.tools.0.label>
-  <MeleeWeapon_Sasumata.tools.1.label>尖头</MeleeWeapon_Sasumata.tools.1.label>
+  <MeleeWeapon_Sasumata.tools.1.label>尖頭</MeleeWeapon_Sasumata.tools.1.label>
 
 
   <!-- 脇差 Base グラディウス -->
 
-  <MeleeWeapon_Wakizasi.label>协差</MeleeWeapon_Wakizasi.label>
-  <MeleeWeapon_Wakizasi.description>通常的武士除了常用的刀以外，都会另外携带一把协差，除了可以在必要的情况下自卫以外，还可以在最后关头切腹自尽——为了维护武士的尊严与荣誉。</MeleeWeapon_Wakizasi.description>
+  <MeleeWeapon_Wakizasi.label>協差</MeleeWeapon_Wakizasi.label>
+  <MeleeWeapon_Wakizasi.description>通常的武士除了常用的刀以外，都會另外攜帶一把協差，除了可以在必要的情況下自衛以外，還可以在最後關頭切腹自盡——為了維護武士的尊嚴與榮譽。</MeleeWeapon_Wakizasi.description>
   <MeleeWeapon_Wakizasi.tools.0.label>刺戳</MeleeWeapon_Wakizasi.tools.0.label>
-  <MeleeWeapon_Wakizasi.tools.1.label>挥砍</MeleeWeapon_Wakizasi.tools.1.label>
-  <MeleeWeapon_Wakizasi.tools.2.label>纵砍</MeleeWeapon_Wakizasi.tools.2.label>
+  <MeleeWeapon_Wakizasi.tools.1.label>揮砍</MeleeWeapon_Wakizasi.tools.1.label>
+  <MeleeWeapon_Wakizasi.tools.2.label>縱砍</MeleeWeapon_Wakizasi.tools.2.label>
 
 
   <!-- 刀 Base ロングソード -->
 
   <MeleeWeapon_KATANA.label>打刀</MeleeWeapon_KATANA.label>
-  <MeleeWeapon_KATANA.description>标准尺寸的东洋武士刀。和西方的长剑相比，虽然所需的材料和工序都更多更复杂了，但是斩味和硬度也都相应地提高了。通过技艺精湛的匠人打造出来的刀拥有不可小觑的威力。</MeleeWeapon_KATANA.description>
+  <MeleeWeapon_KATANA.description>標准尺寸的東洋武士刀。和西方的長劍相比，雖然所需的材料和工序都更多更復雜了，但是斬味和硬度都相應地變高了。</MeleeWeapon_KATANA.description>
   <MeleeWeapon_KATANA.tools.0.label>刺戳</MeleeWeapon_KATANA.tools.0.label>
-  <MeleeWeapon_KATANA.tools.1.label>挥砍</MeleeWeapon_KATANA.tools.1.label>
-  <MeleeWeapon_KATANA.tools.2.label>纵砍</MeleeWeapon_KATANA.tools.2.label>
+  <MeleeWeapon_KATANA.tools.1.label>揮砍</MeleeWeapon_KATANA.tools.1.label>
+  <MeleeWeapon_KATANA.tools.2.label>縱砍</MeleeWeapon_KATANA.tools.2.label>
 
 
   <!-- 大太刀 Base 刀 -->
 
   <ZP_Odachi.label>大太刀</ZP_Odachi.label>
-  <ZP_Odachi.description>又称野太刀，太刀长度在5尺以上的皆属此类。这种武器在日本现代的主流武道中是不常见的，虽然在古代军队兵器史上经常被提及，但在武术史上精于此武器技巧的人却寥若星辰。</ZP_Odachi.description>
+  <ZP_Odachi.description>又稱野太刀，太刀長度在5尺以上的皆屬此類。這種武器在日本現代的主流武道中是不常見的，雖然在古代軍隊兵器史上經常被提及，但在武術史上精於此武器技巧的人卻寥若星辰。</ZP_Odachi.description>
   <ZP_Odachi.tools.0.label>刺戳</ZP_Odachi.tools.0.label>
-  <ZP_Odachi.tools.1.label>挥砍</ZP_Odachi.tools.1.label>
-  <ZP_Odachi.tools.2.label>纵砍</ZP_Odachi.tools.2.label>
+  <ZP_Odachi.tools.1.label>揮砍</ZP_Odachi.tools.1.label>
+  <ZP_Odachi.tools.2.label>縱砍</ZP_Odachi.tools.2.label>
 
 
   <!-- 長槍 Base スピア -->
 
-  <ZP_LongSpear.label>长枪</ZP_LongSpear.label>
-  <ZP_LongSpear.description>一种在长柄上装有锐利尖头的兵械。俗话说一寸长一寸强，掌握了距离优势对付起敌人来应该会得心应手一点吧。</ZP_LongSpear.description>
-  <ZP_LongSpear.tools.0.label>击打</ZP_LongSpear.tools.0.label>
+  <ZP_LongSpear.label>長槍</ZP_LongSpear.label>
+  <ZP_LongSpear.description>一種在長柄上裝有銳利尖頭的兵械。俗話說一寸長一寸強，掌握了距離優勢對付起敵人來應該會得心應手一點吧。</ZP_LongSpear.description>
+  <ZP_LongSpear.tools.0.label>擊打</ZP_LongSpear.tools.0.label>
   <ZP_LongSpear.tools.1.label>刺戳</ZP_LongSpear.tools.1.label>
 
 
   <!-- 十文字槍 Base スピア -->
 
-  <ZP_JumonjiSpear.label>十文字枪</ZP_JumonjiSpear.label>
-  <ZP_JumonjiSpear.description>如其名是拥有十字型的枪刃的长枪，镰枪的一种。\n虽然这种兵器带有一点宗教意义，不过也确实是一种不容易使用的好武器呢。</ZP_JumonjiSpear.description>
+  <ZP_JumonjiSpear.label>十文字槍</ZP_JumonjiSpear.label>
+  <ZP_JumonjiSpear.description>如其名是擁有十字型的槍刃的長槍，鐮槍的一種。\n雖然這種兵器帶有一點宗教意義，不過也確實是一種不容易使用的好武器呢。</ZP_JumonjiSpear.description>
   <ZP_JumonjiSpear.tools.0.label>猛砍</ZP_JumonjiSpear.tools.0.label>
-  <ZP_JumonjiSpear.tools.1.label>击打</ZP_JumonjiSpear.tools.1.label>
+  <ZP_JumonjiSpear.tools.1.label>擊打</ZP_JumonjiSpear.tools.1.label>
   <ZP_JumonjiSpear.tools.2.label>刺戳</ZP_JumonjiSpear.tools.2.label>
 
 
   <!-- 長槍 Base スピア -->
 
   <ZP_Naginata.label>薙刀</ZP_Naginata.label>
-  <ZP_Naginata.description>带有弧形刀刃的长柄武器，在很久很久以前的日本战国时代曾是战场上的主要武器。后来逐渐没落，但作为“武家女子必修之武术”而流传了下来。</ZP_Naginata.description>
+  <ZP_Naginata.description>帶有弧形刀刃的長柄武器，在很久很久以前的日本戰國時代曾是戰場上的主要武器。後來逐漸沒落，但作為“武家女子必修之武術”而流傳了下來。</ZP_Naginata.description>
   <ZP_Naginata.tools.0.label>刺戳</ZP_Naginata.tools.0.label>
-  <ZP_Naginata.tools.1.label>挥砍</ZP_Naginata.tools.1.label>
-  <ZP_Naginata.tools.2.label>纵砍</ZP_Naginata.tools.2.label>
+  <ZP_Naginata.tools.1.label>揮砍</ZP_Naginata.tools.1.label>
+  <ZP_Naginata.tools.2.label>縱砍</ZP_Naginata.tools.2.label>
 
-
-  <!-- 長枪 Base スピア -->
-  <!-- 十文字枪 Base スピア -->
 
 </LanguageData>

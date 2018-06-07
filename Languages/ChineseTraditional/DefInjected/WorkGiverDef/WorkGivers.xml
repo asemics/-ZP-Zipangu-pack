@@ -1,31 +1,31 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Thresh_Polish.label>脱殻精米</Thresh_Polish.label>
-  <Thresh_Polish.verb>脱殻和精米</Thresh_Polish.verb>
-  <Thresh_Polish.gerund>脱殻、精米</Thresh_Polish.gerund>
+  <Thresh_Polish.label>脫殼精米</Thresh_Polish.label>
+  <Thresh_Polish.verb>脫殼和精米</Thresh_Polish.verb>
+  <Thresh_Polish.gerund>脫殼、精米</Thresh_Polish.gerund>
 
-  <Threshing_Husk.label>脱殻</Threshing_Husk.label>
-  <Threshing_Husk.verb>脱殻</Threshing_Husk.verb>
-  <Threshing_Husk.gerund>脱殻</Threshing_Husk.gerund>
+  <Threshing_Husk.label>脫殼</Threshing_Husk.label>
+  <Threshing_Husk.verb>脫殼</Threshing_Husk.verb>
+  <Threshing_Husk.gerund>脫殼</Threshing_Husk.gerund>
 
   <Process_Rice.label>精米</Process_Rice.label>
-  <Process_Rice.verb>处理</Process_Rice.verb>
-  <Process_Rice.gerund>处理</Process_Rice.gerund>
+  <Process_Rice.verb>處理</Process_Rice.verb>
+  <Process_Rice.gerund>處理</Process_Rice.gerund>
 
-  <DoBillsRiceCook.label>烹饪</DoBillsRiceCook.label>
-  <DoBillsRiceCook.verb>烹饪</DoBillsRiceCook.verb>
-  <DoBillsRiceCook.gerund>烹饪</DoBillsRiceCook.gerund>
+  <DoBillsRiceCook.label>烹飪</DoBillsRiceCook.label>
+  <DoBillsRiceCook.verb>烹飪</DoBillsRiceCook.verb>
+  <DoBillsRiceCook.gerund>烹飪</DoBillsRiceCook.gerund>
 
-  <DoBillsRicePreparation.label>烹饪</DoBillsRicePreparation.label>
-  <DoBillsRicePreparation.verb>烹饪</DoBillsRicePreparation.verb>
-  <DoBillsRicePreparation.gerund>烹饪</DoBillsRicePreparation.gerund>
+  <DoBillsRicePreparation.label>烹飪</DoBillsRicePreparation.label>
+  <DoBillsRicePreparation.verb>烹飪</DoBillsRicePreparation.verb>
+  <DoBillsRicePreparation.gerund>烹飪</DoBillsRicePreparation.gerund>
 
-  <DoBillsUseDiggingHole.label>完成采掘点的工作清单</DoBillsUseDiggingHole.label>
-  <DoBillsUseDiggingHole.verb>采掘</DoBillsUseDiggingHole.verb>
-  <DoBillsUseDiggingHole.gerund>采掘</DoBillsUseDiggingHole.gerund>
+  <DoBillsUseDiggingHole.label>完成採掘點的工作清單</DoBillsUseDiggingHole.label>
+  <DoBillsUseDiggingHole.verb>採掘</DoBillsUseDiggingHole.verb>
+  <DoBillsUseDiggingHole.gerund>採掘</DoBillsUseDiggingHole.gerund>
 
-  <DoBillsUseRiceCraftingSpot.label>完成加工点的工作清单</DoBillsUseRiceCraftingSpot.label>
+  <DoBillsUseRiceCraftingSpot.label>完成加工點的工作清單</DoBillsUseRiceCraftingSpot.label>
   <DoBillsUseRiceCraftingSpot.verb>加工</DoBillsUseRiceCraftingSpot.verb>
   <DoBillsUseRiceCraftingSpot.gerund>加工</DoBillsUseRiceCraftingSpot.gerund>
 

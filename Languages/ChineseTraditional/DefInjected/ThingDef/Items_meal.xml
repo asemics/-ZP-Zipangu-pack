@@ -1,92 +1,92 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <BR_Gohan.label>糙米饭</BR_Gohan.label>
-  <BR_Gohan.description>一碗很健康的糙米饭，请好好享受吧。</BR_Gohan.description>
+  <BR_Gohan.label>糙米飯</BR_Gohan.label>
+  <BR_Gohan.description>一碗很健康的糙米飯，請好好享受吧。</BR_Gohan.description>
 
-  <WR_Gohan.label>白米饭</WR_Gohan.label>
-  <WR_Gohan.description>不加任何配菜，就这么好好享受白米饭纯粹的美味吧。</WR_Gohan.description>
+  <WR_Gohan.label>白米飯</WR_Gohan.label>
+  <WR_Gohan.description>不加任何配菜，就這麼好好享受白米飯純粹的美味吧。</WR_Gohan.description>
 
-  <BR_TKG.label>蛋盖糙米饭</BR_TKG.label>
-  <BR_TKG.description>一碗糙米饭，上面还打了一个生蛋，看起来就很好吃的样子。\n不过有人觉得加生鸡蛋是黑暗料理般的吃法呢。</BR_TKG.description>
+  <BR_TKG.label>蛋蓋糙米飯</BR_TKG.label>
+  <BR_TKG.description>一碗糙米飯，上面還打了一個生蛋，看起來就很好吃的樣子。\n不過有人覺得加生雞蛋是黑暗料理般的吃法呢。</BR_TKG.description>
 
-  <WR_TKG.label>蛋盖白米饭</WR_TKG.label>
-  <WR_TKG.description>一碗米饭，上面还打了一个生蛋，看起来就很好吃的样子。\n不过有人觉得加生鸡蛋是黑暗料理般的吃法呢。</WR_TKG.description>
+  <WR_TKG.label>蛋蓋白米飯</WR_TKG.label>
+  <WR_TKG.description>一碗米飯，上面還打了一個生蛋，看起來就很好吃的樣子。\n不過有人覺得加生雞蛋是黑暗料理般的吃法呢。</WR_TKG.description>
 
   <BR_Gyudon.label>糙米肉丼</BR_Gyudon.label>
-  <BR_Gyudon.description>在饭上面盖有很多肉的大碗糙米饭。\n伴随着肉和饭一起吃进肚子里的、还有满满的幸福感呢。</BR_Gyudon.description>
+  <BR_Gyudon.description>在飯上面蓋有很多肉的大碗糙米飯。\n伴隨著肉和飯一起吃進肚子裡的、還有滿滿的幸福感呢。</BR_Gyudon.description>
 
   <WR_Gyudon.label>白米肉丼</WR_Gyudon.label>
-  <WR_Gyudon.description>在饭上面盖有很多肉的大碗白米饭。\n伴随着肉和饭一起吃进肚子里的、还有满满的幸福感呢。</WR_Gyudon.description>
+  <WR_Gyudon.description>在飯上面蓋有很多肉的大碗白米飯。\n伴隨著肉和飯一起吃進肚子裡的、還有滿滿的幸福感呢。</WR_Gyudon.description>
 
-  <BR_Onigiri.label>糙米饭团</BR_Onigiri.label>
-  <BR_Onigiri.description>日本的人们发明出来的无论到哪里都可以很方便吃到的传统手握饭团。</BR_Onigiri.description>
+  <BR_Onigiri.label>糙米飯糰</BR_Onigiri.label>
+  <BR_Onigiri.description>日本的人們發明出來的無論到哪裡都可以很方便吃到的傳統手握飯糰。</BR_Onigiri.description>
 
-  <WR_Onigiri.label>白米饭团</WR_Onigiri.label>
-  <WR_Onigiri.description>日本的人们发明出来的无论到哪里都可以很方便吃到的手握饭团，可以通过制作者的爱好来添加不同的配料。</WR_Onigiri.description>
+  <WR_Onigiri.label>白米飯糰</WR_Onigiri.label>
+  <WR_Onigiri.description>日本的人們發明出來的無論到哪裡都可以很方便吃到的手握飯糰，可以通過製作者的愛好來添加不同的配料。</WR_Onigiri.description>
 
-  <BR_Bento.label>糙米饭便当</BR_Bento.label>
-  <BR_Bento.description>一份日式糙米饭便当，可以在远行等没有餐桌之类的情况下享用到饭菜。 </BR_Bento.description>
+  <BR_Bento.label>糙米飯便當</BR_Bento.label>
+  <BR_Bento.description>一份日式糙米飯便當，可以在遠行等沒有餐桌之類的情況下享用到飯菜。 </BR_Bento.description>
 
-  <WR_Bento.label>日之丸便当</WR_Bento.label>
-  <WR_Bento.description>一份日式便当，可以在远行等没有餐桌之类的情况下享用到饭菜。</WR_Bento.description>
+  <WR_Bento.label>日之丸便當</WR_Bento.label>
+  <WR_Bento.description>一份日式便當，可以在遠行等沒有餐桌之類的情況下享用到飯菜。</WR_Bento.description>
 
-  <BR_Jubako.label>豪华漆盒糙米饭便当</BR_Jubako.label>
-  <BR_Jubako.description>一份用精致漆器便当盒盛装的糙米饭便当，用以在远行等没有正式餐桌之类的情况下享受美味的饭菜。漆盒本身便是古典的东方艺术，加上艺术品一般精致的便当实在是更胜一筹呢。</BR_Jubako.description>
+  <BR_Jubako.label>豪華漆盒糙米飯便當</BR_Jubako.label>
+  <BR_Jubako.description>一份用精緻漆器便當盒盛裝的糙米飯便當，用以在遠行等沒有正式餐桌之類的情況下享受美味的飯菜。漆盒本身便是古典的東方藝術，加上藝術品一般精緻的便當實在是更勝一籌呢。</BR_Jubako.description>
 
-  <WR_Jubako.label>豪华漆盒白米饭便当</WR_Jubako.label>
-  <WR_Jubako.description>一份用精致漆器便当盒盛装的米饭便当，用以在远行等没有正式餐桌之类的情况下享受美味的饭菜。漆盒本身便是古典的东方艺术，加上艺术品一般精致的便当实在是更胜一筹呢。</WR_Jubako.description>
+  <WR_Jubako.label>豪華漆盒白米飯便當</WR_Jubako.label>
+  <WR_Jubako.description>一份用精緻漆器便當盒盛裝的米飯便當，用以在遠行等沒有正式餐桌之類的情況下享受美味的飯菜。漆盒本身便是古典的東方藝術，加上藝術品一般精緻的便當實在是更勝一籌呢。</WR_Jubako.description>
 
-  <WR_JPCurryRice.label>日式咖喱饭</WR_JPCurryRice.label>
-  <WR_JPCurryRice.description>据说在某个国家引起了因为吃法和食材之类的战争的充满魅惑的食物。而对日本的人们来说，是无论到哪里都会很怀念的味道呢。</WR_JPCurryRice.description>
+  <WR_JPCurryRice.label>日式咖喱飯</WR_JPCurryRice.label>
+  <WR_JPCurryRice.description>據說在某個國家引起了因為吃法和食材之類的戰爭的充滿魅惑的食物。而對日本的人們來說，是無論到哪裡都會很懷念的味道呢。</WR_JPCurryRice.description>
 
-  <Tukudani.label>虫肉佃煮</Tukudani.label>
-  <Tukudani.description>用佃煮的方式把虫肉处理一下，就可以让它们变得好吃一点了。\n“佃煮”是日本的一种料理方式，是用酱油和糖将食物裹上一层酱油糖衣的样子。</Tukudani.description>
+  <Tukudani.label>蟲肉佃煮</Tukudani.label>
+  <Tukudani.description>用佃煮的方式把蟲肉處理一下，就可以讓它們變得好吃一點了。\n“佃煮”是日本的一種料理方式，是用醬油和糖將食物裹上一層醬油糖衣的樣子。</Tukudani.description>
 
-  <ZP_WRSushi.label>手握寿司</ZP_WRSushi.label>
-  <ZP_WRSushi.description>日本特色传统美食之一。\n主要材料是用寿司醋调味过的、维持在与人体体温相近温度的米饭块，再加上海鲜、蔬菜或鸡蛋等作配料制成。这种食品味道鲜美，很受日本民众和外国游客的喜爱。</ZP_WRSushi.description>
+  <ZP_WRSushi.label>手握壽司</ZP_WRSushi.label>
+  <ZP_WRSushi.description>日本特色傳統美食之一。\n主要材料是用壽司醋調味過的、維持在與人體體溫相近溫度的米飯塊，再加上海鮮、蔬菜或雞蛋等作配料製成。這種食品味道鮮美，很受日本民眾和外國遊客的喜愛。</ZP_WRSushi.description>
 
-  <ZP_Sasimi.label>赤身鱼刺身</ZP_Sasimi.label>
-  <ZP_Sasimi.description>日本特色传统美食之一。\n早在唐朝时期的中国就有用生鱼片款待贵客的习惯，而那时跟中国关系很好的日本当然也把这种习惯带到了自己的国家了。直到现在中国的人们早已忘记了这种美味的时候，日本的人们仍然还记得呢。</ZP_Sasimi.description>
+  <ZP_Sasimi.label>刺身</ZP_Sasimi.label>
+  <ZP_Sasimi.description>日本特色傳統美食之一。\n早在唐朝時期的中國就有用生魚片款待貴客的習慣，而那時跟中國關係很好的日本當然也把這種習慣帶到了自己的國家了。直到現在中國的人們早已忘記了這種美味的時候，日本的人們仍然還記得呢。</ZP_Sasimi.description>
 
-  <ZP_SaltGrilledFish.label>盐烤鱼</ZP_SaltGrilledFish.label>
-  <ZP_SaltGrilledFish.description>将鲜鱼抹上盐然后串在竹签上用炭火烘焙，这种简单而美味的吃法无论在哪里都相当受欢迎呢。</ZP_SaltGrilledFish.description>
+  <ZP_SaltGrilledFish.label>鹽烤魚</ZP_SaltGrilledFish.label>
+  <ZP_SaltGrilledFish.description>將鮮魚抹上鹽然後串在竹簽上用炭火烘焙，這種簡單而美味的吃法無論在哪裡都相當受歡迎呢。</ZP_SaltGrilledFish.description>
 
-  <ZP_SteamedFish.label>煮鱼</ZP_SteamedFish.label>
-  <ZP_SteamedFish.description>将鱼和味噌一起用合适的火候煮熟、调味再加上配菜，就成了可以放心食用的美味餐品了。</ZP_SteamedFish.description>
+  <ZP_SteamedFish.label>煮魚</ZP_SteamedFish.label>
+  <ZP_SteamedFish.description>將魚和味噌一起用合適的火候煮熟、調味再加上配菜，就成了可以放心食用的美味餐品了。</ZP_SteamedFish.description>
 
-  <GR_Takikomi.label>炊き込みご飯</GR_Takikomi.label>
-  <GR_Takikomi.description>もち米と具を一緒に炊き込んで作るご飯。</GR_Takikomi.description>
+  <GR_Takikomi.label>五目飯</GR_Takikomi.label>
+  <GR_Takikomi.description>伴著糯米一起蒸成的飯。</GR_Takikomi.description>
 
   <ZP_Tendon.label>天丼</ZP_Tendon.label>
-  <ZP_Tendon.description>白飯の上に天ぷらをのせたどんぶり。揚げたてサクサクの天ぷらは食欲をそそります。</ZP_Tendon.description>
+  <ZP_Tendon.description>於白米飯上放上天婦羅。炸得脆生生的天婦羅，讓人垂涎欲滴。</ZP_Tendon.description>
 
-  <ZP_Udon.label>うどん</ZP_Udon.label>
-  <ZP_Udon.description>穀物粉を練って長く伸ばした白い麺。もちもちとした食感とツルっとしたのどこしが特徴の麺。</ZP_Udon.description>
+  <ZP_Udon.label>烏冬面</ZP_Udon.label>
+  <ZP_Udon.description>將面抻長而製成的白色麵條。口感軟糯而爽滑。</ZP_Udon.description>
 
-  <ZP_Ramen.label>ラーメン</ZP_Ramen.label>
-  <ZP_Ramen.description>穀物粉を練って長く伸ばした細い黄色い麺。中華スープに様々な具材を食みあわせた麺料理。</ZP_Ramen.description>
+  <ZP_Ramen.label>拉麵</ZP_Ramen.label>
+  <ZP_Ramen.description>將面抻長而製成的纖細黃色麵條。可以配合中華湯等各種湯料食用。</ZP_Ramen.description>
 
-  <ZP_Tyannko.label>ちゃんこ鍋</ZP_Tyannko.label>
-  <ZP_Tyannko.description>具沢山の野菜や肉を沢山入れて煮込んだ鍋。栄養を沢山とれるので元気になれる。</ZP_Tyannko.description>
+  <ZP_Tyannko.label>相撲火鍋</ZP_Tyannko.label>
+  <ZP_Tyannko.description>豐富的蔬菜和大量的肉煮成的滿滿一鍋。豐富的營養，讓人元氣滿滿。</ZP_Tyannko.description>
 
-  <ZP_Okonomiyaki.label>お好み焼き</ZP_Okonomiyaki.label>
-  <ZP_Okonomiyaki.description>水に溶いた穀物粉を生地に野菜と肉を材料に鉄板で焼く日本の庶民的料理。</ZP_Okonomiyaki.description>
+  <ZP_Okonomiyaki.label>什錦煎餅</ZP_Okonomiyaki.label>
+  <ZP_Okonomiyaki.description>將穀物的粉混同蔬菜和肉一起在鐵板上烤制而成。是日本的平民料理。</ZP_Okonomiyaki.description>
 
-  <ZP_Korokke.label>コロッケ</ZP_Korokke.label>
-  <ZP_Korokke.description>ジャガイモを潰してペーストにし衣をつけた揚げ物料理。どこでも食べれる。</ZP_Korokke.description>
+  <ZP_Korokke.label>可樂餅</ZP_Korokke.label>
+  <ZP_Korokke.description>碎馬鈴薯裹在肉餡外面，炸成的餅狀食物。方便攜帶各處食用。</ZP_Korokke.description>
 
-  <ZP_Oden.label>おでん</ZP_Oden.label>
-  <ZP_Oden.description>鰹節とコンブでとった出汁にコンニャク、大根、ちくわを長時間煮込んだ煮込み料理。</ZP_Oden.description>
+  <ZP_Oden.label>關東煮</ZP_Oden.label>
+  <ZP_Oden.description>由柴魚片和海帶煮成的湯，裡面煮上蒟蒻、蘿蔔、竹輪等，長時間烹煮而成。</ZP_Oden.description>
 
-  <ZP_aRice.label>アルファ米</ZP_aRice.label>
-  <ZP_aRice.description>非常用食品。いつでもお米が食べられるように乾燥させたもの。食べる時は水かお湯で戻せば美味しいご飯ができる。</ZP_aRice.description>
+  <ZP_aRice.label>乾燥米飯</ZP_aRice.label>
+  <ZP_aRice.description>儲備用食品。為方便隨時食用，將米乾燥起來。食用時候泡在水或者湯裡，就又是一道美味佳肴。</ZP_aRice.description>
 
-  <ZP_Hardtack.label>乾パン</ZP_Hardtack.label>
-  <ZP_Hardtack.description>非常用食品。長期保存のために固く焼き上げたビスケットの一種。</ZP_Hardtack.description>
+  <ZP_Hardtack.label>硬麵餅</ZP_Hardtack.label>
+  <ZP_Hardtack.description>儲備用食品。為長期保存而烤乾，可視作餅乾的一種。</ZP_Hardtack.description>
 
-  <ZP_Timaki.label>ちまき</ZP_Timaki.label>
-  <ZP_Timaki.description>非常用食品。もち米を植物の葉に包み蒸したもの。事前に灰汁でもち米を煮込む事で保存性を高めてる。</ZP_Timaki.description>
+  <ZP_Timaki.label>粽子</ZP_Timaki.label>
+  <ZP_Timaki.description>儲備用食品。以葉子包裹糯米製成。若事先用灰汁煮一遍糯米，就可以長期保存。</ZP_Timaki.description>
 
 
 </LanguageData>

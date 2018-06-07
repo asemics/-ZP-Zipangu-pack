@@ -4,14 +4,16 @@
   <!-- ポン菓子ロープ -->
 
   <ZP_Ponponrat.label>甜甜鼠</ZP_Ponponrat.label>
-  <ZP_Ponponrat.description>爆炸鼠的亚种。\n它们的移动速度比起通常的爆炸鼠要快，而且在当你屠宰它们的时候好像还有几率可以获得一些小点心的样子。\n这种亚种爆炸鼠实际上并不是经由自然因素产生，而是在某个殖民地中的爆炸鼠被喂养了爆米花后不经意间发生了突变的结果，爆米花的爆发力加成效果使得这些小家伙的速度和爆发力都得到了加强。\n虽然平时没有什么危害，但当它们进入极度兴奋的状态时，就会变成非常危险的移动炸弹，因此要特别注意。\n这种动物在一些爱好者之中很受欢迎，而且因为突变的缘故它们的智力变得很高，因此想要训练它们也很容易。</ZP_Ponponrat.description>
+  <ZP_Ponponrat.description>爆炸鼠的亞種。\n它們的移動速度比通常的爆炸鼠要快，而且在當你屠宰它們的時候好像還有幾率可以獲得一些爆米花的樣子。\n這種亞種爆炸鼠實際上並不是經由自然因素產生，而是在某個殖民地中的爆炸鼠被喂養了爆米花後不經意間發生了突變的結果，爆米花的爆發力加成效果使得這些小傢伙的速度和爆發力都得到了加強。\n雖然平時沒有什麼危害，但當它們進入高度興奮的狀態時，就會變成非常危險的移動炸彈，因此要特別注意。\n這種動物在一些愛好者之中很受歡迎，而且因為突變的緣故它們的智力變得很高，因此想要訓練它們也很容易。</ZP_Ponponrat.description>
   <ZP_Ponponrat.tools.0.label>左爪</ZP_Ponponrat.tools.0.label>
   <ZP_Ponponrat.tools.1.label>右爪</ZP_Ponponrat.tools.1.label>
-  <ZP_Ponponrat.tools.3.label>头部</ZP_Ponponrat.tools.3.label>
+  <ZP_Ponponrat.tools.3.label>頭部</ZP_Ponponrat.tools.3.label>
   <!-- Use Leather From: Boomrat -->
   <!-- Use Meat From: Boomrat -->
   <ZP_Ponponrat_Corpse.label>甜甜鼠（死亡）</ZP_Ponponrat_Corpse.label>
-  <ZP_Ponponrat_Corpse.description>甜甜鼠的尸体。</ZP_Ponponrat_Corpse.description>
+  <ZP_Ponponrat_Corpse.description>甜甜鼠的屍體。</ZP_Ponponrat_Corpse.description>
 
+
+  <!-- ポン■子ロープ -->
 
 </LanguageData>

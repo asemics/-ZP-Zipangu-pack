@@ -7,25 +7,25 @@
   <MakeThreshingRiceMillingMachine200N.description>將稻穗加工成白米。副產物會在加工過程中攪碎並處理掉，因此不會產生副產物袋。</MakeThreshingRiceMillingMachine200N.description>
   <MakeThreshingRiceMillingMachine200N.jobString>脫粒、精米中。</MakeThreshingRiceMillingMachine200N.jobString>
 
-  <MakeThreshingRiceMillingMachineGR200N.label>N:稲穂をもち米にする(200)</MakeThreshingRiceMillingMachineGR200N.label>
-  <MakeThreshingRiceMillingMachineGR200N.description>稲穂を脱穀精米してもち米にする。副産物は粉砕して消滅させる。</MakeThreshingRiceMillingMachineGR200N.description>
-  <MakeThreshingRiceMillingMachineGR200N.jobString>脱穀精米中</MakeThreshingRiceMillingMachineGR200N.jobString>
+  <MakeThreshingRiceMillingMachineGR200N.label>稻穗⇒糯米(精磨 x200)</MakeThreshingRiceMillingMachineGR200N.label>
+  <MakeThreshingRiceMillingMachineGR200N.description>將稻穗加工成糯米。副產物會在加工過程中攪碎並處理掉，因此不會產生副產物袋。</MakeThreshingRiceMillingMachineGR200N.description>
+  <MakeThreshingRiceMillingMachineGR200N.jobString>脫穀精米中。</MakeThreshingRiceMillingMachineGR200N.jobString>
 
-  <MakeThreshingRiceMillingMachineBR200N.label>N:稲穂を玄米にする(200)</MakeThreshingRiceMillingMachineBR200N.label>
-  <MakeThreshingRiceMillingMachineBR200N.description>稲穂を脱穀精米して玄米にする。副産物は粉砕して消滅させる。</MakeThreshingRiceMillingMachineBR200N.description>
-  <MakeThreshingRiceMillingMachineBR200N.jobString>脱穀精米中</MakeThreshingRiceMillingMachineBR200N.jobString>
+  <MakeThreshingRiceMillingMachineBR200N.label>稻穗⇒糙米(精磨 x200)</MakeThreshingRiceMillingMachineBR200N.label>
+  <MakeThreshingRiceMillingMachineBR200N.description>將稻穗加工成糙米。副產物會在加工過程中攪碎並處理掉，因此不會產生副產物袋</MakeThreshingRiceMillingMachineBR200N.description>
+  <MakeThreshingRiceMillingMachineBR200N.jobString>脫穀精米中。</MakeThreshingRiceMillingMachineBR200N.jobString>
 
   <MakeThreshingRiceMillingMachine200C.label>稻穗⇒白米(精煉 x200)</MakeThreshingRiceMillingMachine200C.label>
   <MakeThreshingRiceMillingMachine200C.description>將稻穗加工成白米。副產物會在加工過程中進行精煉處理，因此不會產生副產物袋，還會獲得少量的化合燃料。</MakeThreshingRiceMillingMachine200C.description>
   <MakeThreshingRiceMillingMachine200C.jobString>脫粒、精米中。</MakeThreshingRiceMillingMachine200C.jobString>
 
-  <MakeThreshingRiceMillingMachineGR200C.label>C:稲穂をもち米にする(200)</MakeThreshingRiceMillingMachineGR200C.label>
-  <MakeThreshingRiceMillingMachineGR200C.description>稲穂を脱穀精米してもち米にする。副産物は少量のバイオ科学燃料に変換される。</MakeThreshingRiceMillingMachineGR200C.description>
-  <MakeThreshingRiceMillingMachineGR200C.jobString>脱穀精米中</MakeThreshingRiceMillingMachineGR200C.jobString>
+  <MakeThreshingRiceMillingMachineGR200C.label>稻穗⇒糯米(精煉燃料 x200)</MakeThreshingRiceMillingMachineGR200C.label>
+  <MakeThreshingRiceMillingMachineGR200C.description>將稻穗加工成糯米。副產物會在加工過程中進行精煉處理，因此不會產生副產物袋，還會獲得少量的化合燃料。</MakeThreshingRiceMillingMachineGR200C.description>
+  <MakeThreshingRiceMillingMachineGR200C.jobString>脫穀精米中。</MakeThreshingRiceMillingMachineGR200C.jobString>
 
-  <MakeThreshingRiceMillingMachineBR200C.label>C:稲穂を玄米にする(200)</MakeThreshingRiceMillingMachineBR200C.label>
-  <MakeThreshingRiceMillingMachineBR200C.description>稲穂を脱穀精米して玄米にする。副産物は少量のバイオ科学燃料に変換される。</MakeThreshingRiceMillingMachineBR200C.description>
-  <MakeThreshingRiceMillingMachineBR200C.jobString>脱穀精米中</MakeThreshingRiceMillingMachineBR200C.jobString>
+  <MakeThreshingRiceMillingMachineBR200C.label>稻穗⇒糙米(精煉燃料 x200)</MakeThreshingRiceMillingMachineBR200C.label>
+  <MakeThreshingRiceMillingMachineBR200C.description>將稻穗加工成糙米。副產物會在加工過程中進行精煉處理，因此不會產生副產物袋，還會獲得少量的化合燃料。</MakeThreshingRiceMillingMachineBR200C.description>
+  <MakeThreshingRiceMillingMachineBR200C.jobString>脫穀精米中。</MakeThreshingRiceMillingMachineBR200C.jobString>
 
   <MakeThreshingRiceMillingMachine10.label>稻穗⇒白米(x10)</MakeThreshingRiceMillingMachine10.label>
   <MakeThreshingRiceMillingMachine10.description>將稻穗加工分離出白米、秸稈、谷殼以及糠麩。</MakeThreshingRiceMillingMachine10.description>
@@ -46,21 +46,21 @@
 
   <!-- マルチ式脱穀精米機　稲穂⇒もち米 -->
 
-  <MakeThreshingRiceMillingMachine10_4.label>稲穂をもち米にする(10)</MakeThreshingRiceMillingMachine10_4.label>
-  <MakeThreshingRiceMillingMachine10_4.description>稲穂を脱穀してもち米、藁、籾殻にわける</MakeThreshingRiceMillingMachine10_4.description>
-  <MakeThreshingRiceMillingMachine10_4.jobString>脱穀中</MakeThreshingRiceMillingMachine10_4.jobString>
+  <MakeThreshingRiceMillingMachine10_4.label>稻穗⇒糯米(x10)</MakeThreshingRiceMillingMachine10_4.label>
+  <MakeThreshingRiceMillingMachine10_4.description>將稻穗加工分離出糯米、秸稈以及谷殼。</MakeThreshingRiceMillingMachine10_4.description>
+  <MakeThreshingRiceMillingMachine10_4.jobString>脫穀中。</MakeThreshingRiceMillingMachine10_4.jobString>
 
-  <MakeThreshingRiceMillingMachine50_4.label>稲穂をもち米にする(50)</MakeThreshingRiceMillingMachine50_4.label>
-  <MakeThreshingRiceMillingMachine50_4.description>稲穂を脱穀してもち米、藁、籾殻にわける</MakeThreshingRiceMillingMachine50_4.description>
-  <MakeThreshingRiceMillingMachine50_4.jobString>脱穀中</MakeThreshingRiceMillingMachine50_4.jobString>
+  <MakeThreshingRiceMillingMachine50_4.label>稻穗⇒糯米(x50)</MakeThreshingRiceMillingMachine50_4.label>
+  <MakeThreshingRiceMillingMachine50_4.description>將稻穗加工分離出糯米、秸稈以及谷殼。</MakeThreshingRiceMillingMachine50_4.description>
+  <MakeThreshingRiceMillingMachine50_4.jobString>脫穀中。</MakeThreshingRiceMillingMachine50_4.jobString>
 
-  <MakeThreshingRiceMillingMachine100_4.label>稲穂をもち米にする(100)</MakeThreshingRiceMillingMachine100_4.label>
-  <MakeThreshingRiceMillingMachine100_4.description>稲穂を脱穀してもち米、藁、籾殻にわける</MakeThreshingRiceMillingMachine100_4.description>
-  <MakeThreshingRiceMillingMachine100_4.jobString>脱穀中</MakeThreshingRiceMillingMachine100_4.jobString>
+  <MakeThreshingRiceMillingMachine100_4.label>稻穗⇒糯米(x100)</MakeThreshingRiceMillingMachine100_4.label>
+  <MakeThreshingRiceMillingMachine100_4.description>將稻穗加工分離出糯米、秸稈以及谷殼。</MakeThreshingRiceMillingMachine100_4.description>
+  <MakeThreshingRiceMillingMachine100_4.jobString>脫穀中。</MakeThreshingRiceMillingMachine100_4.jobString>
 
-  <MakeThreshingRiceMillingMachine200_4.label>稲穂をもち米にする(200)</MakeThreshingRiceMillingMachine200_4.label>
-  <MakeThreshingRiceMillingMachine200_4.description>稲穂を脱穀してもち米、藁、籾殻にわける</MakeThreshingRiceMillingMachine200_4.description>
-  <MakeThreshingRiceMillingMachine200_4.jobString>脱穀中</MakeThreshingRiceMillingMachine200_4.jobString>
+  <MakeThreshingRiceMillingMachine200_4.label>稻穗⇒糯米(x200)</MakeThreshingRiceMillingMachine200_4.label>
+  <MakeThreshingRiceMillingMachine200_4.description>將稻穗加工分離出糯米、秸稈以及谷殼。</MakeThreshingRiceMillingMachine200_4.description>
+  <MakeThreshingRiceMillingMachine200_4.jobString>脫穀中。</MakeThreshingRiceMillingMachine200_4.jobString>
 
 
   <!-- マルチ式脱穀精米機　稲穂⇒玄米 -->

@@ -1,26 +1,26 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <RoundHandFan.label>团扇</RoundHandFan.label>
-  <RoundHandFan.description>一种日本传统的降温器具。\n只要拿着它们扇风就可以起到驱散炎热的效果，因此是度过夏日的必需品呢。\n\n不过，在夏季结束的时候就会悄然消失掉了。</RoundHandFan.description>
-  <RoundHandFan_Blueprint.label>团扇 (蓝图)</RoundHandFan_Blueprint.label>
-  <RoundHandFan_Blueprint_Install.label>团扇 (蓝图)</RoundHandFan_Blueprint_Install.label>
-  <RoundHandFan_Frame.label>团扇 (建造中)</RoundHandFan_Frame.label>
-  <RoundHandFan_Frame.description>一种日本传统的降温器具。\n只要拿着它们扇风就可以起到驱散炎热的效果，因此是度过夏日的必需品呢。\n\n不过，在夏季结束的时候就会悄然消失掉了。</RoundHandFan_Frame.description>
+  <RoundHandFan.label>團扇</RoundHandFan.label>
+  <RoundHandFan.description>一種日本傳統的降溫器具。\n只要拿著它們扇風就可以起到驅散炎熱的效果，是度過夏日的必需品呢。\n在夏季結束時，它們就會悄然消失了。</RoundHandFan.description>
+  <RoundHandFan_Blueprint.label>團扇 (藍圖)</RoundHandFan_Blueprint.label>
+  <RoundHandFan_Blueprint_Install.label>團扇 (藍圖)</RoundHandFan_Blueprint_Install.label>
+  <RoundHandFan_Frame.label>團扇 (建造中)</RoundHandFan_Frame.label>
+  <RoundHandFan_Frame.description>一種日本傳統的降溫器具。\n只要拿著它們扇風就可以起到驅散炎熱的效果，是度過夏日的必需品呢。\n在夏季結束時，它們就會悄然消失了。</RoundHandFan_Frame.description>
 
   <ZP_Brazier.label>火缽</ZP_Brazier.label>
-  <ZP_Brazier.description>一种传统的取暖器具。\n除了取暖以外，还可以用来烤制食品哦。</ZP_Brazier.description>
-  <ZP_Brazier_Blueprint.label>火钵 (蓝图)</ZP_Brazier_Blueprint.label>
-  <ZP_Brazier_Blueprint_Install.label>火钵 (蓝图)</ZP_Brazier_Blueprint_Install.label>
-  <ZP_Brazier_Frame.label>火钵 (建造中)</ZP_Brazier_Frame.label>
-  <ZP_Brazier_Frame.description>一种传统的取暖器具。\n除了取暖以外，还可以用来烤制食品哦。</ZP_Brazier_Frame.description>
+  <ZP_Brazier.description>一種傳統的取暖工具。\n除了取暖以外，還可以用來烤製食品。</ZP_Brazier.description>
+  <ZP_Brazier_Blueprint.label>火缽 (藍圖)</ZP_Brazier_Blueprint.label>
+  <ZP_Brazier_Blueprint_Install.label>火缽 (藍圖)</ZP_Brazier_Blueprint_Install.label>
+  <ZP_Brazier_Frame.label>火缽 (建造中)</ZP_Brazier_Frame.label>
+  <ZP_Brazier_Frame.description>一種傳統的取暖工具。\n除了取暖以外，還可以用來烤製食品。</ZP_Brazier_Frame.description>
 
-  <ZP_Kotatu.label>炬燵</ZP_Kotatu.label>
-  <ZP_Kotatu.description>日本の伝統的な暖房器具。机の上に布団を被せその中に熱源を置く事で暖かくする。</ZP_Kotatu.description>
-  <ZP_Kotatu_Blueprint.label>炬燵 (blueprint)</ZP_Kotatu_Blueprint.label>
-  <ZP_Kotatu_Blueprint_Install.label>炬燵 (blueprint)</ZP_Kotatu_Blueprint_Install.label>
-  <ZP_Kotatu_Frame.label>炬燵 (building)</ZP_Kotatu_Frame.label>
-  <ZP_Kotatu_Frame.description>日本の伝統的な暖房器具。机の上に布団を被せその中に熱源を置く事で暖かくする。</ZP_Kotatu_Frame.description>
+  <ZP_Kotatu.label>被爐</ZP_Kotatu.label>
+  <ZP_Kotatu.description>日語稱為“炬燵”，日本傳統的取暖設備。桌子上鋪上被子，中間放上熱源，就可以取暖了。</ZP_Kotatu.description>
+  <ZP_Kotatu_Blueprint.label>被爐 (藍圖)</ZP_Kotatu_Blueprint.label>
+  <ZP_Kotatu_Blueprint_Install.label>被爐 (藍圖)</ZP_Kotatu_Blueprint_Install.label>
+  <ZP_Kotatu_Frame.label>被爐 (建造中)</ZP_Kotatu_Frame.label>
+  <ZP_Kotatu_Frame.description>日語稱為“炬燵”，日本傳統的取暖設備。桌子上鋪上被子，中間放上熱源，就可以取暖了。</ZP_Kotatu_Frame.description>
 
 
 </LanguageData>

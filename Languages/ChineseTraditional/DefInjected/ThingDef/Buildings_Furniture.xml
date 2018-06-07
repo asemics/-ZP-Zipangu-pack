@@ -2,166 +2,166 @@
 <LanguageData>
 
   <StrawBed.label>稻草床</StrawBed.label>
-  <StrawBed.description>可以稍微将就着睡下、但对你的背部来说不是那么友好的床，而且也稍微有些不卫生。 【不可出售】</StrawBed.description>
-  <StrawBed_Blueprint.label>稻草床 (蓝图)</StrawBed_Blueprint.label>
-  <StrawBed_Blueprint_Install.label>稻草床 (蓝图)</StrawBed_Blueprint_Install.label>
+  <StrawBed.description>可以稍微將就著睡下、但對你的背部來說不是那麼友好的床，而且也稍微有些不衛生。 【不可出售】</StrawBed.description>
+  <StrawBed_Blueprint.label>稻草床 (藍圖)</StrawBed_Blueprint.label>
+  <StrawBed_Blueprint_Install.label>稻草床 (藍圖)</StrawBed_Blueprint_Install.label>
   <StrawBed_Frame.label>稻草床 (建造中)</StrawBed_Frame.label>
-  <StrawBed_Frame.description>可以稍微将就着睡下、但对你的背部来说不是那么友好的床，而且也稍微有些不卫生。 【不可出售】</StrawBed_Frame.description>
+  <StrawBed_Frame.description>可以稍微將就著睡下、但對你的背部來說不是那麼友好的床，而且也稍微有些不衛生。 【不可出售】</StrawBed_Frame.description>
 
   <DoubleStrawBed.label>稻草床（大）</DoubleStrawBed.label>
-  <DoubleStrawBed.description>可以稍微将就着睡下、但对你的背部来说不是那么友好的床，而且也稍微有些不卫生。 【不可出售】</DoubleStrawBed.description>
-  <DoubleStrawBed_Blueprint.label>稻草床（大）(蓝图)</DoubleStrawBed_Blueprint.label>
-  <DoubleStrawBed_Blueprint_Install.label>稻草床（大）(蓝图)</DoubleStrawBed_Blueprint_Install.label>
+  <DoubleStrawBed.description>可以稍微將就著睡下、但對你的背部來說不是那麼友好的床，而且也稍微有些不衛生。 【不可出售】</DoubleStrawBed.description>
+  <DoubleStrawBed_Blueprint.label>稻草床（大）(藍圖)</DoubleStrawBed_Blueprint.label>
+  <DoubleStrawBed_Blueprint_Install.label>稻草床（大）(藍圖)</DoubleStrawBed_Blueprint_Install.label>
   <DoubleStrawBed_Frame.label>稻草床（大）(建造中)</DoubleStrawBed_Frame.label>
-  <DoubleStrawBed_Frame.description>可以稍微将就着睡下、但对你的背部来说不是那么友好的床，而且也稍微有些不卫生。 【不可出售】</DoubleStrawBed_Frame.description>
+  <DoubleStrawBed_Frame.description>可以稍微將就著睡下、但對你的背部來說不是那麼友好的床，而且也稍微有些不衛生。 【不可出售】</DoubleStrawBed_Frame.description>
 
-  <SuperiorStrawBed.label>稻草编织床</SuperiorStrawBed.label>
-  <SuperiorStrawBed.description>用处理过的稻草编织成的简单的床铺，相对于只是把稻草铺在地上要好一点。\n虽然在品质方面还是比普通的床要低上一些，不过也总比没有强，对吧？</SuperiorStrawBed.description>
-  <SuperiorStrawBed_Blueprint.label>稻草编织床 (蓝图)</SuperiorStrawBed_Blueprint.label>
-  <SuperiorStrawBed_Blueprint_Install.label>稻草编织床 (蓝图)</SuperiorStrawBed_Blueprint_Install.label>
-  <SuperiorStrawBed_Frame.label>稻草编织床 (建造中)</SuperiorStrawBed_Frame.label>
-  <SuperiorStrawBed_Frame.description>用处理过的稻草编织成的简单的床铺，相对于只是把稻草铺在地上要好一点。\n虽然在品质方面还是比普通的床要低上一些，不过也总比没有强，对吧？</SuperiorStrawBed_Frame.description>
+  <SuperiorStrawBed.label>稻草編織床</SuperiorStrawBed.label>
+  <SuperiorStrawBed.description>用處理過的稻草編織成的簡單的床鋪，相對於只是把稻草鋪在地上要好一點。\n雖然在品質方面還是比普通的床要低上一些，不過也總比沒有強，對吧？</SuperiorStrawBed.description>
+  <SuperiorStrawBed_Blueprint.label>稻草編織床 (藍圖)</SuperiorStrawBed_Blueprint.label>
+  <SuperiorStrawBed_Blueprint_Install.label>稻草編織床 (藍圖)</SuperiorStrawBed_Blueprint_Install.label>
+  <SuperiorStrawBed_Frame.label>稻草編織床 (建造中)</SuperiorStrawBed_Frame.label>
+  <SuperiorStrawBed_Frame.description>用處理過的稻草編織成的簡單的床鋪，相對於只是把稻草鋪在地上要好一點。\n雖然在品質方面還是比普通的床要低上一些，不過也總比沒有強，對吧？</SuperiorStrawBed_Frame.description>
 
-  <SuperiorDoubleStrawBed.label>稻草编织床（大）</SuperiorDoubleStrawBed.label>
-  <SuperiorDoubleStrawBed.description>用处理过的稻草编织成的简单的床铺，相对于只是把稻草铺在地上要好一点。\n虽然在品质方面还是比普通的床要低上一些，不过也总比没有强，对吧？</SuperiorDoubleStrawBed.description>
-  <SuperiorDoubleStrawBed_Blueprint.label>稻草编织床（大）(蓝图)</SuperiorDoubleStrawBed_Blueprint.label>
-  <SuperiorDoubleStrawBed_Blueprint_Install.label>稻草编织床（大）(蓝图)</SuperiorDoubleStrawBed_Blueprint_Install.label>
-  <SuperiorDoubleStrawBed_Frame.label>稻草编织床（大）(建造中)</SuperiorDoubleStrawBed_Frame.label>
-  <SuperiorDoubleStrawBed_Frame.description>用处理过的稻草编织成的简单的床铺，相对于只是把稻草铺在地上要好一点。\n虽然在品质方面还是比普通的床要低上一些，不过也总比没有强，对吧？</SuperiorDoubleStrawBed_Frame.description>
+  <SuperiorDoubleStrawBed.label>稻草編織床（大）</SuperiorDoubleStrawBed.label>
+  <SuperiorDoubleStrawBed.description>用處理過的稻草編織成的簡單的床鋪，相對於只是把稻草鋪在地上要好一點。\n雖然在品質方面還是比普通的床要低上一些，不過也總比沒有強，對吧？</SuperiorDoubleStrawBed.description>
+  <SuperiorDoubleStrawBed_Blueprint.label>稻草編織床（大）(藍圖)</SuperiorDoubleStrawBed_Blueprint.label>
+  <SuperiorDoubleStrawBed_Blueprint_Install.label>稻草編織床（大）(藍圖)</SuperiorDoubleStrawBed_Blueprint_Install.label>
+  <SuperiorDoubleStrawBed_Frame.label>稻草編織床（大）(建造中)</SuperiorDoubleStrawBed_Frame.label>
+  <SuperiorDoubleStrawBed_Frame.description>用處理過的稻草編織成的簡單的床鋪，相對於只是把稻草鋪在地上要好一點。\n雖然在品質方面還是比普通的床要低上一些，不過也總比沒有強，對吧？</SuperiorDoubleStrawBed_Frame.description>
 
-  <ZP_Ofuton.label>お布団</ZP_Ofuton.label>
-  <ZP_Ofuton.description>日本で使われている伝統的な寝具。\n布袋の中に綿や羽毛などを入れたもので敷き布団と掛け布団がある。</ZP_Ofuton.description>
-  <ZP_Ofuton_Blueprint.label>お布団 (blueprint)</ZP_Ofuton_Blueprint.label>
-  <ZP_Ofuton_Blueprint_Install.label>お布団 (blueprint)</ZP_Ofuton_Blueprint_Install.label>
-  <ZP_Ofuton_Frame.label>お布団 (building)</ZP_Ofuton_Frame.label>
-  <ZP_Ofuton_Frame.description>日本で使われている伝統的な寝具。\n布袋の中に綿や羽毛などを入れたもので敷き布団と掛け布団がある。</ZP_Ofuton_Frame.description>
+  <ZP_Ofuton.label>布團</ZP_Ofuton.label>
+  <ZP_Ofuton.description>日本的傳統寢具。\n在布袋中裝入綿軟的羽毛製作而成。\n由“掛布團”（被子）和“敷布團”（褥子）兩部分組成。</ZP_Ofuton.description>
+  <ZP_Ofuton_Blueprint.label>布團 (藍圖)</ZP_Ofuton_Blueprint.label>
+  <ZP_Ofuton_Blueprint_Install.label>布團 (藍圖))</ZP_Ofuton_Blueprint_Install.label>
+  <ZP_Ofuton_Frame.label>布團 (建造中)</ZP_Ofuton_Frame.label>
+  <ZP_Ofuton_Frame.description>日本的傳統寢具。\n在布袋中裝入綿軟的羽毛製作而成。\n由“掛布團”（被子）和“敷布團”（褥子）兩部分組成。</ZP_Ofuton_Frame.description>
 
-  <ZP_DoubleOfuton.label>2人用お布団</ZP_DoubleOfuton.label>
-  <ZP_DoubleOfuton.description>2人用の布団。日本で使われている伝統的な寝具。\n布袋の中に綿や羽毛などを入れたもので敷き布団と掛け布団がある。</ZP_DoubleOfuton.description>
-  <ZP_DoubleOfuton_Blueprint.label>2人用お布団 (blueprint)</ZP_DoubleOfuton_Blueprint.label>
-  <ZP_DoubleOfuton_Blueprint_Install.label>2人用お布団 (blueprint)</ZP_DoubleOfuton_Blueprint_Install.label>
-  <ZP_DoubleOfuton_Frame.label>2人用お布団 (building)</ZP_DoubleOfuton_Frame.label>
-  <ZP_DoubleOfuton_Frame.description>2人用の布団。日本で使われている伝統的な寝具。\n布袋の中に綿や羽毛などを入れたもので敷き布団と掛け布団がある。</ZP_DoubleOfuton_Frame.description>
+  <ZP_DoubleOfuton.label>雙人布團</ZP_DoubleOfuton.label>
+  <ZP_DoubleOfuton.description>日本的傳統寢具。\n在布袋中裝入綿軟的羽毛製作而成。\n由“掛布團”（被子）和“敷布團”（褥子）兩部分組成。</ZP_DoubleOfuton.description>
+  <ZP_DoubleOfuton_Blueprint.label>雙人布團 (藍圖)</ZP_DoubleOfuton_Blueprint.label>
+  <ZP_DoubleOfuton_Blueprint_Install.label>雙人布團 (藍圖)</ZP_DoubleOfuton_Blueprint_Install.label>
+  <ZP_DoubleOfuton_Frame.label>雙人布團 (建造中)</ZP_DoubleOfuton_Frame.label>
+  <ZP_DoubleOfuton_Frame.description>日本的傳統寢具。\n在布袋中裝入綿軟的羽毛製作而成。\n由“掛布團”（被子）和“敷布團”（褥子）兩部分組成。。</ZP_DoubleOfuton_Frame.description>
 
-  <ZPAndon.label>行灯</ZPAndon.label>
-  <ZPAndon.description>一种传统的丶相当具有东方风格的照明设备，不需要电力，但是需要燃料。除了照明以外，还能为附近的床铺带来些许的舒适度奖励。\n\n“行灯”指的是“夜行时照明用的灯”，亦称“灯笼”，乃是古时灯具的一种，早在西元八世纪，当时处於唐朝时期的中国和处於平安时代的日本，就有使用行灯的记载。</ZPAndon.description>
-  <ZPAndon_Blueprint.label>行灯 ((蓝图)</ZPAndon_Blueprint.label>
-  <ZPAndon_Blueprint_Install.label>行灯 (蓝图)</ZPAndon_Blueprint_Install.label>
-  <ZPAndon_Frame.label>行灯 (建造中)</ZPAndon_Frame.label>
-  <ZPAndon_Frame.description>一种传统的丶相当具有东方风格的照明设备，不需要电力，但是需要燃料。除了照明以外，还能为附近的床铺带来些许的舒适度奖励。\n\n“行灯”指的是“夜行时照明用的灯”，亦称“灯笼”，乃是古时灯具的一种，早在西元八世纪，当时处於唐朝时期的中国和处於平安时代的日本，就有使用行灯的记载。</ZPAndon_Frame.description>
+  <ZPAndon.label>行燈</ZPAndon.label>
+  <ZPAndon.description>一種傳統的、相當具有東方風格的照明設備，不需要電力，但是需要燃料。除了照明以外，還能為附近的床鋪帶來些許的舒適度獎勵。\n\n“行燈”指的是“夜行時照明用的燈”，亦稱“燈籠”，乃是古時燈具的一種，早在西元八世紀，當時處於唐朝時期的中國和處於平安時代的日本，就有使用行燈的記載。</ZPAndon.description>
+  <ZPAndon_Blueprint.label>行燈 ((藍圖)</ZPAndon_Blueprint.label>
+  <ZPAndon_Blueprint_Install.label>行燈 (藍圖)</ZPAndon_Blueprint_Install.label>
+  <ZPAndon_Frame.label>行燈 (建造中)</ZPAndon_Frame.label>
+  <ZPAndon_Frame.description>一種傳統的、相當具有東方風格的照明設備，不需要電力，但是需要燃料。除了照明以外，還能為附近的床鋪帶來些許的舒適度獎勵。\n\n“行燈”指的是“夜行時照明用的燈”，亦稱“燈籠”，乃是古時燈具的一種，早在西元八世紀，當時處於唐朝時期的中國和處於平安時代的日本，就有使用行燈的記載。</ZPAndon_Frame.description>
 
-  <AnimalStrawBedSmall.label>动物稻草床铺(小)</AnimalStrawBedSmall.label>
-  <AnimalStrawBedSmall.description>给动物用的小型稻草床铺。\n【不可出售】\n适合小型动物，例如鸡和兔子使用。</AnimalStrawBedSmall.description>
-  <AnimalStrawBedSmall_Blueprint.label>动物稻草床铺(小) (蓝图)</AnimalStrawBedSmall_Blueprint.label>
-  <AnimalStrawBedSmall_Blueprint_Install.label>动物稻草床铺(小) (蓝图)</AnimalStrawBedSmall_Blueprint_Install.label>
-  <AnimalStrawBedSmall_Frame.label>动物稻草床铺(小) (建造中)</AnimalStrawBedSmall_Frame.label>
-  <AnimalStrawBedSmall_Frame.description>给动物用的小型稻草床铺。\n【不可出售】\n适合小型动物，例如鸡和兔子使用。</AnimalStrawBedSmall_Frame.description>
+  <AnimalStrawBedSmall.label>動物稻草床鋪(小)</AnimalStrawBedSmall.label>
+  <AnimalStrawBedSmall.description>給動物用的小型稻草床鋪。\n【不可出售】\n適合小型動物，例如雞和兔子使用。</AnimalStrawBedSmall.description>
+  <AnimalStrawBedSmall_Blueprint.label>動物稻草床鋪(小) (藍圖)</AnimalStrawBedSmall_Blueprint.label>
+  <AnimalStrawBedSmall_Blueprint_Install.label>動物稻草床鋪(小) (藍圖)</AnimalStrawBedSmall_Blueprint_Install.label>
+  <AnimalStrawBedSmall_Frame.label>動物稻草床鋪(小) (建造中)</AnimalStrawBedSmall_Frame.label>
+  <AnimalStrawBedSmall_Frame.description>給動物用的小型稻草床鋪。\n【不可出售】\n適合小型動物，例如雞和兔子使用。</AnimalStrawBedSmall_Frame.description>
 
-  <AnimalStrawBed.label>动物稻草床铺</AnimalStrawBed.label>
-  <AnimalStrawBed.description>给动物用的稻草床铺。可供中型动物，比如说从狗狗到牦牛一类的使用。【不可出售】</AnimalStrawBed.description>
-  <AnimalStrawBed_Blueprint.label>动物稻草床铺 (蓝图)</AnimalStrawBed_Blueprint.label>
-  <AnimalStrawBed_Blueprint_Install.label>动物稻草床铺 (蓝图)</AnimalStrawBed_Blueprint_Install.label>
-  <AnimalStrawBed_Frame.label>动物稻草床铺 (建造中)</AnimalStrawBed_Frame.label>
-  <AnimalStrawBed_Frame.description>给动物用的稻草床铺。\n【不可出售】\n适合中型动物，比如说从狗狗到牦牛一类的使用。</AnimalStrawBed_Frame.description>
+  <AnimalStrawBed.label>動物稻草床鋪</AnimalStrawBed.label>
+  <AnimalStrawBed.description>給動物用的稻草床鋪。可供中型動物，比如說從狗狗到氂牛一類的使用。【不可出售】</AnimalStrawBed.description>
+  <AnimalStrawBed_Blueprint.label>動物稻草床鋪 (藍圖)</AnimalStrawBed_Blueprint.label>
+  <AnimalStrawBed_Blueprint_Install.label>動物稻草床鋪 (藍圖)</AnimalStrawBed_Blueprint_Install.label>
+  <AnimalStrawBed_Frame.label>動物稻草床鋪 (建造中)</AnimalStrawBed_Frame.label>
+  <AnimalStrawBed_Frame.description>給動物用的稻草床鋪。\n【不可出售】\n適合中型動物，比如說從狗狗到氂牛一類的使用。</AnimalStrawBed_Frame.description>
 
-  <AnimalStrawBedBig.label>动物稻草床铺(大)</AnimalStrawBedBig.label>
-  <AnimalStrawBedBig.description>给敲击兽、大象一类的大型动物准备的稻草床。【不可出售】</AnimalStrawBedBig.description>
-  <AnimalStrawBedBig_Blueprint.label>动物稻草床铺(大) (蓝图)</AnimalStrawBedBig_Blueprint.label>
-  <AnimalStrawBedBig_Blueprint_Install.label>动物稻草床铺(大) (蓝图)</AnimalStrawBedBig_Blueprint_Install.label>
-  <AnimalStrawBedBig_Frame.label>动物稻草床铺(大) (建造中)</AnimalStrawBedBig_Frame.label>
-  <AnimalStrawBedBig_Frame.description>给动物用的大型稻草床铺。\n【不可出售】\n适合给敲击兽、大象一类的大型动物使用。</AnimalStrawBedBig_Frame.description>
+  <AnimalStrawBedBig.label>動物稻草床鋪(大)</AnimalStrawBedBig.label>
+  <AnimalStrawBedBig.description>給獨角獸、大像一類的大型動物准備的稻草床。【不可出售】</AnimalStrawBedBig.description>
+  <AnimalStrawBedBig_Blueprint.label>動物稻草床鋪(大) (藍圖)</AnimalStrawBedBig_Blueprint.label>
+  <AnimalStrawBedBig_Blueprint_Install.label>動物稻草床鋪(大) (藍圖)</AnimalStrawBedBig_Blueprint_Install.label>
+  <AnimalStrawBedBig_Frame.label>動物稻草床鋪(大) (建造中)</AnimalStrawBedBig_Frame.label>
+  <AnimalStrawBedBig_Frame.description>給動物用的大型稻草床鋪。\n【不可出售】\n適合給獨角獸、大像一類的大型動物使用。</AnimalStrawBedBig_Frame.description>
 
   <GroundSit.label>座位</GroundSit.label>
-  <GroundSit.description>设定一个殖民者可以坐下的位置，例如在草席或垫子周围。 </GroundSit.description>
-  <GroundSit_Blueprint.label>座位 (蓝图)</GroundSit_Blueprint.label>
+  <GroundSit.description>設定一個殖民者可以坐下的位置，例如在草席或墊子周圍。 </GroundSit.description>
+  <GroundSit_Blueprint.label>座位 (藍圖)</GroundSit_Blueprint.label>
   <GroundSit_Frame.label>座位 (建造中)</GroundSit_Frame.label>
-  <GroundSit_Frame.description>设定一个殖民者可以坐下的位置，例如在草席或垫子周围。</GroundSit_Frame.description>
+  <GroundSit_Frame.description>設定一個殖民者可以坐下的位置，例如在草席或墊子周圍。</GroundSit_Frame.description>
 
   <ZPWaraZabuton.label>筵</ZPWaraZabuton.label>
-  <ZPWaraZabuton.description>藁で編んだ簡素な座席。\n床に座る際にお尻や脚の負担を軽減するための敷物です。性能はスツールと同等です。</ZPWaraZabuton.description>
-  <ZPWaraZabuton_Blueprint.label>筵 (blueprint)</ZPWaraZabuton_Blueprint.label>
-  <ZPWaraZabuton_Blueprint_Install.label>筵 (blueprint)</ZPWaraZabuton_Blueprint_Install.label>
-  <ZPWaraZabuton_Frame.label>筵 (building)</ZPWaraZabuton_Frame.label>
-  <ZPWaraZabuton_Frame.description>藁で編んだ簡素な座席。\n床に座る際にお尻や脚の負担を軽減するための敷物です。性能はスツールと同等です。</ZPWaraZabuton_Frame.description>
+  <ZPWaraZabuton.description>稻草編織而成的樸素的坐席。\n鋪在地板上，坐著的時候可以減輕腿腳負擔。作用等同椅子。</ZPWaraZabuton.description>
+  <ZPWaraZabuton_Blueprint.label>筵 (藍圖)</ZPWaraZabuton_Blueprint.label>
+  <ZPWaraZabuton_Blueprint_Install.label>筵 (藍圖)</ZPWaraZabuton_Blueprint_Install.label>
+  <ZPWaraZabuton_Frame.label>筵 (建造中)</ZPWaraZabuton_Frame.label>
+  <ZPWaraZabuton_Frame.description>稻草編織而成的樸素的坐席。\n鋪在地板上，坐著的時候可以減輕腿腳負擔。作用等同椅子。</ZPWaraZabuton_Frame.description>
 
-  <ZPZabuton.label>座布団</ZPZabuton.label>
-  <ZPZabuton.description>クッションの一種。\n畳や床の上に座る際にお尻や脚の負担を軽減するための布団です。性能はダインイングチェアと同等です。\nLost Forestの作者様より借用許可を頂きました。</ZPZabuton.description>
-  <ZPZabuton_Blueprint.label>座布団 (blueprint)</ZPZabuton_Blueprint.label>
-  <ZPZabuton_Blueprint_Install.label>座布団 (blueprint)</ZPZabuton_Blueprint_Install.label>
-  <ZPZabuton_Frame.label>座布団 (building)</ZPZabuton_Frame.label>
-  <ZPZabuton_Frame.description>クッションの一種。\n畳や床の上に座る際にお尻や脚の負担を軽減するための布団です。性能はダインイングチェアと同等です。\nLost Forestの作者様より借用許可を頂きました。</ZPZabuton_Frame.description>
+  <ZPZabuton.label>座布團</ZPZabuton.label>
+  <ZPZabuton.description>一種和式坐墊。\n放在榻榻米或地板上，以減輕腿腳負擔。作用等同餐椅。\n非常感謝Lost Forest的作者許可借用。</ZPZabuton.description>
+  <ZPZabuton_Blueprint.label>座布團 (藍圖)</ZPZabuton_Blueprint.label>
+  <ZPZabuton_Blueprint_Install.label>座布團 (藍圖)</ZPZabuton_Blueprint_Install.label>
+  <ZPZabuton_Frame.label>座布團 (建造中)</ZPZabuton_Frame.label>
+  <ZPZabuton_Frame.description>一種和式坐墊。\n放在榻榻米或地板上，以減輕腿腳負擔。作用等同餐椅。\n非常感謝Lost Forest的作者許可借用。</ZPZabuton_Frame.description>
 
-  <ZPZabuton1st.label>座布団(赤)</ZPZabuton1st.label>
-  <ZPZabuton1st.description>クッションの一種。\n畳や床の上に座る際にお尻や脚の負担を軽減するための布団です。性能はダインイングチェアと同等です。\nLost Forestの作者様より借用許可を頂きました。</ZPZabuton1st.description>
-  <ZPZabuton1st_Blueprint.label>座布団(赤) (blueprint)</ZPZabuton1st_Blueprint.label>
-  <ZPZabuton1st_Blueprint_Install.label>座布団(赤) (blueprint)</ZPZabuton1st_Blueprint_Install.label>
-  <ZPZabuton1st_Frame.label>座布団(赤) (building)</ZPZabuton1st_Frame.label>
-  <ZPZabuton1st_Frame.description>クッションの一種。\n畳や床の上に座る際にお尻や脚の負担を軽減するための布団です。性能はダインイングチェアと同等です。\nLost Forestの作者様より借用許可を頂きました。</ZPZabuton1st_Frame.description>
+  <ZPZabuton1st.label>座布團(紅)</ZPZabuton1st.label>
+  <ZPZabuton1st.description>一種和式坐墊。\n放在榻榻米或地板上，以減輕腿腳負擔。作用等同餐椅。\n非常感謝Lost Forest的作者許可借用。</ZPZabuton1st.description>
+  <ZPZabuton1st_Blueprint.label>座布團(紅) (藍圖)</ZPZabuton1st_Blueprint.label>
+  <ZPZabuton1st_Blueprint_Install.label>座布團(紅) (藍圖)</ZPZabuton1st_Blueprint_Install.label>
+  <ZPZabuton1st_Frame.label>座布團(紅) (建造中)</ZPZabuton1st_Frame.label>
+  <ZPZabuton1st_Frame.description>一種和式坐墊。\n放在榻榻米或地板上，以減輕腿腳負擔。作用等同餐椅。\n非常感謝Lost Forest的作者許可借用。</ZPZabuton1st_Frame.description>
 
-  <ZPZabuton2nd.label>座布団(青)</ZPZabuton2nd.label>
-  <ZPZabuton2nd.description>クッションの一種。\n畳や床の上に座る際にお尻や脚の負担を軽減するための布団です。性能はダインイングチェアと同等です。\nLost Forestの作者様より借用許可を頂きました。</ZPZabuton2nd.description>
-  <ZPZabuton2nd_Blueprint.label>座布団(青) (blueprint)</ZPZabuton2nd_Blueprint.label>
-  <ZPZabuton2nd_Blueprint_Install.label>座布団(青) (blueprint)</ZPZabuton2nd_Blueprint_Install.label>
-  <ZPZabuton2nd_Frame.label>座布団(青) (building)</ZPZabuton2nd_Frame.label>
-  <ZPZabuton2nd_Frame.description>クッションの一種。\n畳や床の上に座る際にお尻や脚の負担を軽減するための布団です。性能はダインイングチェアと同等です。\nLost Forestの作者様より借用許可を頂きました。</ZPZabuton2nd_Frame.description>
+  <ZPZabuton2nd.label>座布團(藍)</ZPZabuton2nd.label>
+  <ZPZabuton2nd.description>一種和式坐墊。\n放在榻榻米或地板上，以減輕腿腳負擔。作用等同餐椅。\n非常感謝Lost Forest的作者許可借用。</ZPZabuton2nd.description>
+  <ZPZabuton2nd_Blueprint.label>座布團(藍) (藍圖)</ZPZabuton2nd_Blueprint.label>
+  <ZPZabuton2nd_Blueprint_Install.label>座布團(藍) (藍圖)</ZPZabuton2nd_Blueprint_Install.label>
+  <ZPZabuton2nd_Frame.label>座布團(藍) (建造中)</ZPZabuton2nd_Frame.label>
+  <ZPZabuton2nd_Frame.description>一種和式坐墊。\n放在榻榻米或地板上，以減輕腿腳負擔。作用等同餐椅。\n非常感謝Lost Forest的作者許可借用。</ZPZabuton2nd_Frame.description>
 
-  <ZPZabuton3rd.label>座布団(紫)</ZPZabuton3rd.label>
-  <ZPZabuton3rd.description>クッションの一種。\n畳や床の上に座る際にお尻や脚の負担を軽減するための布団です。性能はダインイングチェアと同等です。\nLost Forestの作者様より借用許可を頂きました。</ZPZabuton3rd.description>
-  <ZPZabuton3rd_Blueprint.label>座布団(紫) (blueprint)</ZPZabuton3rd_Blueprint.label>
-  <ZPZabuton3rd_Blueprint_Install.label>座布団(紫) (blueprint)</ZPZabuton3rd_Blueprint_Install.label>
-  <ZPZabuton3rd_Frame.label>座布団(紫) (building)</ZPZabuton3rd_Frame.label>
-  <ZPZabuton3rd_Frame.description>クッションの一種。\n畳や床の上に座る際にお尻や脚の負担を軽減するための布団です。性能はダインイングチェアと同等です。\nLost Forestの作者様より借用許可を頂きました。</ZPZabuton3rd_Frame.description>
+  <ZPZabuton3rd.label>座布團(紫)</ZPZabuton3rd.label>
+  <ZPZabuton3rd.description>一種和式坐墊。\n放在榻榻米或地板上，以減輕腿腳負擔。作用等同餐椅。\n非常感謝Lost Forest的作者許可借用。</ZPZabuton3rd.description>
+  <ZPZabuton3rd_Blueprint.label>座布團(紫) (藍圖)</ZPZabuton3rd_Blueprint.label>
+  <ZPZabuton3rd_Blueprint_Install.label>座布團(紫) (藍圖)</ZPZabuton3rd_Blueprint_Install.label>
+  <ZPZabuton3rd_Frame.label>座布團(紫) (建造中)</ZPZabuton3rd_Frame.label>
+  <ZPZabuton3rd_Frame.description>一種和式坐墊。\n放在榻榻米或地板上，以減輕腿腳負擔。作用等同餐椅。\n非常感謝Lost Forest的作者許可借用。</ZPZabuton3rd_Frame.description>
 
-  <ZP_Tyabudai.label>ちゃぶ台</ZP_Tyabudai.label>
-  <ZP_Tyabudai.description>イスを向き合うように配置すると、ここで食事を摂るようになります。\nLost Forestの作者様より借用許可を頂きました。</ZP_Tyabudai.description>
-  <ZP_Tyabudai_Blueprint.label>ちゃぶ台 (blueprint)</ZP_Tyabudai_Blueprint.label>
-  <ZP_Tyabudai_Blueprint_Install.label>ちゃぶ台 (blueprint)</ZP_Tyabudai_Blueprint_Install.label>
-  <ZP_Tyabudai_Frame.label>ちゃぶ台 (building)</ZP_Tyabudai_Frame.label>
-  <ZP_Tyabudai_Frame.description>イスを向き合うように配置すると、ここで食事を摂るようになります。\nLost Forestの作者様より借用許可を頂きました。</ZP_Tyabudai_Frame.description>
+  <ZP_Tyabudai.label>卓袱台</ZP_Tyabudai.label>
+  <ZP_Tyabudai.description>放在椅子旁邊，用來吃飯的桌子。\n非常感謝Lost Forest的作者許可借用。</ZP_Tyabudai.description>
+  <ZP_Tyabudai_Blueprint.label>卓袱台 (藍圖)</ZP_Tyabudai_Blueprint.label>
+  <ZP_Tyabudai_Blueprint_Install.label>卓袱台 (藍圖)</ZP_Tyabudai_Blueprint_Install.label>
+  <ZP_Tyabudai_Frame.label>卓袱台 (建造中)</ZP_Tyabudai_Frame.label>
+  <ZP_Tyabudai_Frame.description>放在椅子旁邊，用來吃飯的桌子。\n非常感謝Lost Forest的作者許可借用。</ZP_Tyabudai_Frame.description>
 
 
   <!-- 茣蓙(ござ) -->
 
   <R_Goza_large.label>草席(大)</R_Goza_large.label>
-  <R_Goza_large.description>游戏中相当于桌子的一张大草席。你不能随意移动它，但你可以拆除它来取回部分材料。</R_Goza_large.description>
-  <R_Goza_large_Blueprint.label>草席(大) (蓝图)</R_Goza_large_Blueprint.label>
+  <R_Goza_large.description>游戲中相當於桌子的一張大草席。你不能隨意移動它，但你可以拆除它來取回部分材料。</R_Goza_large.description>
+  <R_Goza_large_Blueprint.label>草席(大) (藍圖)</R_Goza_large_Blueprint.label>
   <R_Goza_large_Frame.label>草席(大) (建造中)</R_Goza_large_Frame.label>
-  <R_Goza_large_Frame.description>游戏中相当于桌子的一张草席。你不能随意移动它，但你可以拆除它来取回部分材料。</R_Goza_large_Frame.description>
+  <R_Goza_large_Frame.description>游戲中相當於桌子的一張草席。你不能隨意移動它，但你可以拆除它來取回部分材料。</R_Goza_large_Frame.description>
 
   <R_Goza.label>草席</R_Goza.label>
-  <R_Goza.description>游戏中相当于桌子的一张草席。你不能随意移动它，但你可以拆除它来取回部分材料。</R_Goza.description>
-  <R_Goza_Blueprint.label>草席 (蓝图)</R_Goza_Blueprint.label>
+  <R_Goza.description>游戲中相當於桌子的一張草席。你不能隨意移動它，但你可以拆除它來取回部分材料。</R_Goza.description>
+  <R_Goza_Blueprint.label>草席 (藍圖)</R_Goza_Blueprint.label>
   <R_Goza_Frame.label>草席 (建造中)</R_Goza_Frame.label>
-  <R_Goza_Frame.description>游戏中相当于桌子的一张草席。你不能随意移动它，但你可以拆除它来取回部分材料。</R_Goza_Frame.description>
+  <R_Goza_Frame.description>游戲中相當於桌子的一張草席。你不能隨意移動它，但你可以拆除它來取回部分材料。</R_Goza_Frame.description>
 
 
   <!-- レジャーシート -->
 
-  <PicnicSheet_large.label>野餐垫(大)</PicnicSheet_large.label>
-  <PicnicSheet_large.description>在游戏中相当于桌子的一张大野餐垫。你不能随意移动它，但你可以拆除它来取回部分材料。</PicnicSheet_large.description>
-  <PicnicSheet_large_Blueprint.label>野餐垫(大) (蓝图)</PicnicSheet_large_Blueprint.label>
-  <PicnicSheet_large_Frame.label>野餐垫(大) (建造中)</PicnicSheet_large_Frame.label>
-  <PicnicSheet_large_Frame.description>在游戏中相当于桌子的一张大野餐垫。你不能随意移动它，但你可以拆除它来取回部分材料。</PicnicSheet_large_Frame.description>
+  <PicnicSheet_large.label>野餐墊(大)</PicnicSheet_large.label>
+  <PicnicSheet_large.description>在游戲中相當於桌子的一張大野餐墊。你不能隨意移動它，但你可以拆除它來取回部分材料。</PicnicSheet_large.description>
+  <PicnicSheet_large_Blueprint.label>野餐墊(大) (藍圖)</PicnicSheet_large_Blueprint.label>
+  <PicnicSheet_large_Frame.label>野餐墊(大) (建造中)</PicnicSheet_large_Frame.label>
+  <PicnicSheet_large_Frame.description>在游戲中相當於桌子的一張大野餐墊。你不能隨意移動它，但你可以拆除它來取回部分材料。</PicnicSheet_large_Frame.description>
 
-  <PicnicSheet.label>野餐垫</PicnicSheet.label>
-  <PicnicSheet.description>在游戏中相当于桌子的一张野餐用的垫子。你不能随意移动它，但是你可以拆除它来取回部分材料。</PicnicSheet.description>
-  <PicnicSheet_Blueprint.label>野餐垫 (蓝图)</PicnicSheet_Blueprint.label>
-  <PicnicSheet_Frame.label>野餐垫 (建造中)</PicnicSheet_Frame.label>
-  <PicnicSheet_Frame.description>在游戏中相当于桌子的一张野餐用的垫子。你不能随意移动它，但是你可以拆除它来取回部分材料。</PicnicSheet_Frame.description>
+  <PicnicSheet.label>野餐墊</PicnicSheet.label>
+  <PicnicSheet.description>在游戲中相當於桌子的一張野餐用的墊子。你不能隨意移動它，但是你可以拆除它來取回部分材料。</PicnicSheet.description>
+  <PicnicSheet_Blueprint.label>野餐墊 (藍圖)</PicnicSheet_Blueprint.label>
+  <PicnicSheet_Frame.label>野餐墊 (建造中)</PicnicSheet_Frame.label>
+  <PicnicSheet_Frame.description>在游戲中相當於桌子的一張野餐用的墊子。你不能隨意移動它，但是你可以拆除它來取回部分材料。</PicnicSheet_Frame.description>
 
-  <ZP_Tuitate.label>衝立</ZP_Tuitate.label>
-  <ZP_Tuitate.description>撤去できる目隠し用の壁。部屋を一時的に区切ったり、奥の部屋を見せないように目隠しにも使われる。光は遮らないのでレイアウトには困りません。</ZP_Tuitate.description>
-  <ZP_Tuitate_Blueprint.label>衝立 (blueprint)</ZP_Tuitate_Blueprint.label>
-  <ZP_Tuitate_Blueprint_Install.label>衝立 (blueprint)</ZP_Tuitate_Blueprint_Install.label>
-  <ZP_Tuitate_Frame.label>衝立 (building)</ZP_Tuitate_Frame.label>
-  <ZP_Tuitate_Frame.description>撤去できる目隠し用の壁。部屋を一時的に区切ったり、奥の部屋を見せないように目隠しにも使われる。光は遮らないのでレイアウトには困りません。</ZP_Tuitate_Frame.description>
+  <ZP_Tuitate.label>屏風</ZP_Tuitate.label>
+  <ZP_Tuitate.description>可撤去的遮蔽屏障。可用作臨時分割屋子，也可遮蔽裡屋的物品。不會擋光，也不會擾亂房間格局。</ZP_Tuitate.description>
+  <ZP_Tuitate_Blueprint.label>屏風 (藍圖)</ZP_Tuitate_Blueprint.label>
+  <ZP_Tuitate_Blueprint_Install.label>屏風 (藍圖)</ZP_Tuitate_Blueprint_Install.label>
+  <ZP_Tuitate_Frame.label>屏風 (建造中)</ZP_Tuitate_Frame.label>
+  <ZP_Tuitate_Frame.description>可撤去的遮蔽屏障。可用作臨時分割屋子，也可遮蔽裡屋的物品。不會擋光，也不會擾亂房間格局。</ZP_Tuitate_Frame.description>
 
-  <ZP_Tuitate2nd.label>衝立</ZP_Tuitate2nd.label>
-  <ZP_Tuitate2nd.description>撤去できる目隠し用の壁。部屋を一時的に区切ったり、奥の部屋を見せないように目隠しにも使われる。光は遮らないのでレイアウトには困りません。</ZP_Tuitate2nd.description>
-  <ZP_Tuitate2nd_Blueprint.label>衝立 (blueprint)</ZP_Tuitate2nd_Blueprint.label>
-  <ZP_Tuitate2nd_Blueprint_Install.label>衝立 (blueprint)</ZP_Tuitate2nd_Blueprint_Install.label>
-  <ZP_Tuitate2nd_Frame.label>衝立 (building)</ZP_Tuitate2nd_Frame.label>
-  <ZP_Tuitate2nd_Frame.description>撤去できる目隠し用の壁。部屋を一時的に区切ったり、奥の部屋を見せないように目隠しにも使われる。光は遮らないのでレイアウトには困りません。</ZP_Tuitate2nd_Frame.description>
+  <ZP_Tuitate2nd.label>屏風</ZP_Tuitate2nd.label>
+  <ZP_Tuitate2nd.description>可撤去的遮蔽屏障。可用作臨時分割屋子，也可遮蔽裡屋的物品。不會擋光，也不會擾亂房間格局。</ZP_Tuitate2nd.description>
+  <ZP_Tuitate2nd_Blueprint.label>屏風 (藍圖)</ZP_Tuitate2nd_Blueprint.label>
+  <ZP_Tuitate2nd_Blueprint_Install.label>屏風 (藍圖)</ZP_Tuitate2nd_Blueprint_Install.label>
+  <ZP_Tuitate2nd_Frame.label>屏風 (建造中)</ZP_Tuitate2nd_Frame.label>
+  <ZP_Tuitate2nd_Frame.description>可撤去的遮蔽屏障。可用作臨時分割屋子，也可遮蔽裡屋的物品。不會擋光，也不會擾亂房間格局。</ZP_Tuitate2nd_Frame.description>
 
 
 </LanguageData>

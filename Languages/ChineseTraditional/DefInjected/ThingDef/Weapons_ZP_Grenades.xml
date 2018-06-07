@@ -4,7 +4,7 @@
   <!-- Molotov cocktail -->
 
   <Weapon_GrenadeHorokudama.label>焙烙玉</Weapon_GrenadeHorokudama.label>
-  <Weapon_GrenadeHorokudama.description>一种填充了火药的陶罐状物体、上面有导火用的绳子，是通过圆形摆动利用离心力投掷、以杀伤敌兵为主要目的的武器，在爆炸的同时会引燃附近的易燃物体结构，其作用类似于现代的烧夷弹。</Weapon_GrenadeHorokudama.description>
+  <Weapon_GrenadeHorokudama.description>一種填充了火藥的陶罐狀物體、上面有導火用的繩子，是通過圓形擺動利用離心力投擲、以殺傷敵兵為主要目的的武器，在爆炸的同時會引燃附近的易燃物體結構，其作用類似於現代的燒夷彈。</Weapon_GrenadeHorokudama.description>
   <Weapon_GrenadeHorokudama.verbs.0.label>焙烙玉</Weapon_GrenadeHorokudama.verbs.0.label>
 
   <Proj_GrenadeHorokudama.label>焙烙玉</Proj_GrenadeHorokudama.label>

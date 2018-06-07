@@ -1,15 +1,15 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <ThreshingHusk.label>脱殻</ThreshingHusk.label>
-  <ThreshingHusk.description>脱壳是将大米的可食用部份从附著的外壳及稻秆上剥离的过程。</ThreshingHusk.description>
-  <ThreshingHusk.labelShort>脱殻</ThreshingHusk.labelShort>
-  <ThreshingHusk.pawnLabel>脱殻</ThreshingHusk.pawnLabel>
-  <ThreshingHusk.gerundLabel>脱殻</ThreshingHusk.gerundLabel>
-  <ThreshingHusk.verb>脱殻</ThreshingHusk.verb>
+  <ThreshingHusk.label>脫殻</ThreshingHusk.label>
+  <ThreshingHusk.description>脫殼是將大米的可食用部份從附著的外殼及稻稈上剝離的過程。</ThreshingHusk.description>
+  <ThreshingHusk.labelShort>脫殻</ThreshingHusk.labelShort>
+  <ThreshingHusk.pawnLabel>脫殻</ThreshingHusk.pawnLabel>
+  <ThreshingHusk.gerundLabel>脫殻</ThreshingHusk.gerundLabel>
+  <ThreshingHusk.verb>脫殻</ThreshingHusk.verb>
 
   <RiceProcessing.label>精米</RiceProcessing.label>
-  <RiceProcessing.description>精米是对大米进行精细切削并且去糠的过程。</RiceProcessing.description>
+  <RiceProcessing.description>精米是對大米進行精細切削並且去糠的過程。</RiceProcessing.description>
   <RiceProcessing.labelShort>精米</RiceProcessing.labelShort>
   <RiceProcessing.pawnLabel>精米</RiceProcessing.pawnLabel>
   <RiceProcessing.gerundLabel>精米</RiceProcessing.gerundLabel>

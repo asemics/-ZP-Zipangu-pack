@@ -14,13 +14,13 @@
 
   <!-- 籾摺り臼　籾米⇒もち米 -->
 
-  <MakeRiceStoneSlurryGRice10.label>籾米(もち米)をもち米にする(10)</MakeRiceStoneSlurryGRice10.label>
-  <MakeRiceStoneSlurryGRice10.description>臼で籾を外してもち米と籾殻にわける。</MakeRiceStoneSlurryGRice10.description>
-  <MakeRiceStoneSlurryGRice10.jobString>籾摺りをする</MakeRiceStoneSlurryGRice10.jobString>
+  <MakeRiceStoneSlurryGRice10.label>籾米(糯米)⇒糯米(x10)</MakeRiceStoneSlurryGRice10.label>
+  <MakeRiceStoneSlurryGRice10.description>將籾米分離為糯米和谷殼。</MakeRiceStoneSlurryGRice10.description>
+  <MakeRiceStoneSlurryGRice10.jobString>正在將籾米去殼。</MakeRiceStoneSlurryGRice10.jobString>
 
-  <MakeRiceStoneSlurryGRice50.label>籾米(もち米)をもち米にする(50)</MakeRiceStoneSlurryGRice50.label>
-  <MakeRiceStoneSlurryGRice50.description>臼で籾を外してもち米と籾殻にわける。</MakeRiceStoneSlurryGRice50.description>
-  <MakeRiceStoneSlurryGRice50.jobString>籾摺りをする</MakeRiceStoneSlurryGRice50.jobString>
+  <MakeRiceStoneSlurryGRice50.label>籾米(糯米)⇒糯米(x50)</MakeRiceStoneSlurryGRice50.label>
+  <MakeRiceStoneSlurryGRice50.description>將籾米分離為糯米和谷殼。</MakeRiceStoneSlurryGRice50.description>
+  <MakeRiceStoneSlurryGRice50.jobString>正在將籾米去殼。</MakeRiceStoneSlurryGRice50.jobString>
 
 
   <!-- 籾摺り臼　籾米⇒玄米 -->
@@ -33,31 +33,32 @@
   <MakeRiceStoneSlurryRice50_2.description>將籾米研磨分離出糙米和谷殼。\n謹慎地處理可以獲得少量的白米。</MakeRiceStoneSlurryRice50_2.description>
   <MakeRiceStoneSlurryRice50_2.jobString>正在將籾米去殼。</MakeRiceStoneSlurryRice50_2.jobString>
 
-  <ZP_MakeFlour10.label>穀物粉を作る(10)</ZP_MakeFlour10.label>
-  <ZP_MakeFlour10.description>穀物をひいて粉にする。</ZP_MakeFlour10.description>
-  <ZP_MakeFlour10.jobString>穀物粉を作る。</ZP_MakeFlour10.jobString>
+  <ZP_MakeFlour10.label>製作谷物粉(x10)</ZP_MakeFlour10.label>
+  <ZP_MakeFlour10.description>將谷物打成粉。</ZP_MakeFlour10.description>
+  <ZP_MakeFlour10.jobString>製作谷物粉。</ZP_MakeFlour10.jobString>
 
-  <ZP_MakeFlour50.label>穀物粉を作る(50)</ZP_MakeFlour50.label>
-  <ZP_MakeFlour50.description>穀物をひいて粉にする。</ZP_MakeFlour50.description>
-  <ZP_MakeFlour50.jobString>穀物粉を作る。</ZP_MakeFlour50.jobString>
+  <ZP_MakeFlour50.label>製作谷物粉(x50)</ZP_MakeFlour50.label>
+  <ZP_MakeFlour50.description>將谷物打成粉。</ZP_MakeFlour50.description>
+  <ZP_MakeFlour50.jobString>製作谷物粉。</ZP_MakeFlour50.jobString>
 
-  <ZP_MakeSoymilk10.label>豆乳(10)</ZP_MakeSoymilk10.label>
-  <ZP_MakeSoymilk10.description>Press beans into milk.</ZP_MakeSoymilk10.description>
-  <ZP_MakeSoymilk10.jobString>Pressing beans.</ZP_MakeSoymilk10.jobString>
+  <ZP_MakeSoymilk10.label>豆漿(x10)</ZP_MakeSoymilk10.label>
+  <ZP_MakeSoymilk10.description>將大豆磨漿。</ZP_MakeSoymilk10.description>
+  <ZP_MakeSoymilk10.jobString>磨豆漿中。</ZP_MakeSoymilk10.jobString>
 
-  <ZP_MakeSoymilk50.label>豆乳(50)</ZP_MakeSoymilk50.label>
-  <ZP_MakeSoymilk50.description>Press beans into milk.</ZP_MakeSoymilk50.description>
-  <ZP_MakeSoymilk50.jobString>Pressing beans.</ZP_MakeSoymilk50.jobString>
+  <ZP_MakeSoymilk50.label>豆漿(x50)</ZP_MakeSoymilk50.label>
+  <ZP_MakeSoymilk50.description>將大豆磨漿</ZP_MakeSoymilk50.description>
+  <ZP_MakeSoymilk50.jobString>磨豆漿中。</ZP_MakeSoymilk50.jobString>
 
-  <ZP_MakeKonnyaku10.label>こんにゃくを作る(10)</ZP_MakeKonnyaku10.label>
-  <ZP_MakeKonnyaku10.description>蒸した里芋をを磨ってから石灰水と混ぜ型にいれて固める。</ZP_MakeKonnyaku10.description>
-  <ZP_MakeKonnyaku10.jobString>こんにゃくを作る。</ZP_MakeKonnyaku10.jobString>
+  <ZP_MakeKonnyaku10.label>製作蒟蒻(x10)</ZP_MakeKonnyaku10.label>
+  <ZP_MakeKonnyaku10.description>將芋頭磨碎，與石灰水混合固定成型。</ZP_MakeKonnyaku10.description>
+  <ZP_MakeKonnyaku10.jobString>製作蒟蒻。</ZP_MakeKonnyaku10.jobString>
 
-  <ZP_MakeKonnyaku50.label>こんにゃくを作る(50)</ZP_MakeKonnyaku50.label>
-  <ZP_MakeKonnyaku50.description>蒸した里芋をを磨ってから石灰水と混ぜ型にいれて固める。</ZP_MakeKonnyaku50.description>
-  <ZP_MakeKonnyaku50.jobString>こんにゃくを作る。</ZP_MakeKonnyaku50.jobString>
+  <ZP_MakeKonnyaku50.label>製作蒟蒻(x50)</ZP_MakeKonnyaku50.label>
+  <ZP_MakeKonnyaku50.description>將芋頭磨碎，與石灰水混合固定成型。</ZP_MakeKonnyaku50.description>
+  <ZP_MakeKonnyaku50.jobString>製作蒟蒻。</ZP_MakeKonnyaku50.jobString>
 
 
+  <!-- 籾摺り臼　籾米⇒糯米 -->
   <!-- 籾摺り臼　米(籾)⇒玄米 -->
 
 </LanguageData>
