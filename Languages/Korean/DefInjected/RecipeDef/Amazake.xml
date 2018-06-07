@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <MakeAmazake.label>Amazake(10)</MakeAmazake.label>
-  <MakeAmazake.description>Make Amazake with rice as raw material.</MakeAmazake.description>
-  <MakeAmazake.jobString>Making amazake.</MakeAmazake.jobString>
+  <MakeAmazake.label>아마자케(10)</MakeAmazake.label>
+  <MakeAmazake.description>쌀을 이용해 감주를 만듭니다.</MakeAmazake.description>
+  <MakeAmazake.jobString>아마자케 제조</MakeAmazake.jobString>
 
 
 </LanguageData>
