@@ -3,11 +3,11 @@
 
   <!-- Molotov cocktail -->
 
-  <Weapon_GrenadeHorokudama.label>Horokudama</Weapon_GrenadeHorokudama.label>
-  <Weapon_GrenadeHorokudama.description>An incendiary bomb used in Japan during the Warring States Period.</Weapon_GrenadeHorokudama.description>
-  <Weapon_GrenadeHorokudama.verbs.0.label>Horokudama</Weapon_GrenadeHorokudama.verbs.0.label>
+  <Weapon_GrenadeHorokudama.label>배락옥</Weapon_GrenadeHorokudama.label>
+  <Weapon_GrenadeHorokudama.description>전국 시대 일본에서 사용되던 소이수류탄. 소형 질그릇에 화약을 채우고 투척합니다.</Weapon_GrenadeHorokudama.description>
+  <Weapon_GrenadeHorokudama.verbs.0.label>배락옥</Weapon_GrenadeHorokudama.verbs.0.label>
 
-  <Proj_GrenadeHorokudama.label>Horokudama</Proj_GrenadeHorokudama.label>
+  <Proj_GrenadeHorokudama.label>배락옥</Proj_GrenadeHorokudama.label>
 
 
 </LanguageData>
