@@ -1,20 +1,20 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <ZP_PrantJapaneseRadish.label>大根</ZP_PrantJapaneseRadish.label>
-  <ZP_PrantJapaneseRadish.description>生育期間が短くたくさん収穫できるが大きい大根なので保存場所に困る。</ZP_PrantJapaneseRadish.description>
+  <ZP_PrantJapaneseRadish.label>무</ZP_PrantJapaneseRadish.label>
+  <ZP_PrantJapaneseRadish.description>성장 기간이 짧은 무. 크기가 커서 보관 장소에 많이 넣지 못합니다.</ZP_PrantJapaneseRadish.description>
 
-  <ZP_PrantGreenOnion.label>長ネギ</ZP_PrantGreenOnion.label>
-  <ZP_PrantGreenOnion.description>生育期間が長く収穫量も少ないが耐寒性が高いので枯れにくい。</ZP_PrantGreenOnion.description>
+  <ZP_PrantGreenOnion.label>대파</ZP_PrantGreenOnion.label>
+  <ZP_PrantGreenOnion.description>성장 기간이 길고 수확량도 적지만, 추위에 내성이 높아 잘 안죽습니다.</ZP_PrantGreenOnion.description>
 
-  <ZP_PrantTaro.label>里芋</ZP_PrantTaro.label>
-  <ZP_PrantTaro.description>生育期間が長く収穫量も多い。コンニャクを作る際の素材になる。</ZP_PrantTaro.description>
+  <ZP_PrantTaro.label>토란</ZP_PrantTaro.label>
+  <ZP_PrantTaro.description>성장 기간이 길고 수확량도 많습니다. 곤약을 만들때 사용됩니다.</ZP_PrantTaro.description>
 
-  <ZP_PrantSpice.label>香辛料</ZP_PrantSpice.label>
-  <ZP_PrantSpice.description></ZP_PrantSpice.description>
+  <ZP_PrantSpice.label>향신료</ZP_PrantSpice.label>
+  <ZP_PrantSpice.description>여러가지 음식의 식재료로써 필수적으로 쓰이는 향신료입니다.</ZP_PrantSpice.description>
 
-  <ZP_PlantMandarinOrange.label>みかんの木</ZP_PlantMandarinOrange.label>
-  <ZP_PlantMandarinOrange.description>みかんの木。最初は木が成長するまで遅いが1度実ると次の収穫までがはやくなる。</ZP_PlantMandarinOrange.description>
+  <ZP_PlantMandarinOrange.label>귤 나무</ZP_PlantMandarinOrange.label>
+  <ZP_PlantMandarinOrange.description>귤 나무. 나무가 성숙하게 성장하기까지 기간이 길지만, 그 이후로 매번 귤을 수확하는 기간이 짧습니다.</ZP_PlantMandarinOrange.description>
 
 
 </LanguageData>
