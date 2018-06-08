@@ -1,92 +1,92 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <BR_Gohan.label>밥(현미)</BR_Gohan.label>
+  <BR_Gohan.label>현미 밥</BR_Gohan.label>
   <BR_Gohan.description>반찬을 원한다고 말하지 말고 쌀 본연의 맛을 즐기자!!</BR_Gohan.description>
 
   <WR_Gohan.label>밥</WR_Gohan.label>
   <WR_Gohan.description>백미를 차분히 즐기기 위해 밥공기에 퍼진 최고의 한 그릇.</WR_Gohan.description>
 
-  <BR_TKG.label>현미 달걀간장밥</BR_TKG.label>
+  <BR_TKG.label>현미 간장 계란밥</BR_TKG.label>
   <BR_TKG.description>밥만으로도 맛있는데 거기에 생계란을 얹은 악마의 일품.</BR_TKG.description>
 
-  <WR_TKG.label>달걀간장밥</WR_TKG.label>
+  <WR_TKG.label>간장 계란밥</WR_TKG.label>
   <WR_TKG.description>밥만으로도 맛있는데 거기에 생계란을 얹은 악마의 일품.</WR_TKG.description>
 
-  <BR_Gyudon.label>고기덮밥(현미)</BR_Gyudon.label>
+  <BR_Gyudon.label>현미 고기 덮밥</BR_Gyudon.label>
   <BR_Gyudon.description>밥의 위에 듬뿍 고기를 쌓아올린 현미덮밥.</BR_Gyudon.description>
 
-  <WR_Gyudon.label>고기덮밥</WR_Gyudon.label>
+  <WR_Gyudon.label>고기 덮밥</WR_Gyudon.label>
   <WR_Gyudon.description>밥의 위에 듬뿍 고기를 쌓아올린 백미덮밥.</WR_Gyudon.description>
 
-  <BR_Onigiri.label>주먹밥(현미)</BR_Onigiri.label>
+  <BR_Onigiri.label>현미 주먹밥</BR_Onigiri.label>
   <BR_Onigiri.description>어디서든 먹을 수 있는 소금맛 현미주먹밥.</BR_Onigiri.description>
 
   <WR_Onigiri.label>주먹밥</WR_Onigiri.label>
   <WR_Onigiri.description>어디서든 먹을 수 있는 소금맛 백미주먹밥.</WR_Onigiri.description>
 
-  <BR_Bento.label>일장기 도시락(현미)</BR_Bento.label>
-  <BR_Bento.description>어디서든 먹을 수 있는 현미 일장기 도시락.</BR_Bento.description>
+  <BR_Bento.label>현미 히노마루 벤또</BR_Bento.label>
+  <BR_Bento.description>어디서든 먹을 수 있는 일장기 도시락. 현미로 채운 도시락 중앙에 우메보시를 하나 얹어 일장기 모양을 만든다 하여 일장기 도시락으로 불립니다.</BR_Bento.description>
 
   <WR_Bento.label>일장기 도시락</WR_Bento.label>
-  <WR_Bento.description>어디서든 먹을 수 있는 백미 일장기 도시락.</WR_Bento.description>
+  <WR_Bento.description>어디서든 먹을 수 있는 일장기 도시락. 백미로 채운 도시락 중앙에 우메보시를 하나 얹어 일장기 모양을 만든다 하여 일장기 도시락으로 불립니다.</WR_Bento.description>
 
-  <BR_Jubako.label>찬합(현미)</BR_Jubako.label>
-  <BR_Jubako.description>어디서든 먹을 수 있는 현미 호화스러운 도시락.</BR_Jubako.description>
+  <BR_Jubako.label>현미 찬합</BR_Jubako.label>
+  <BR_Jubako.description>어디서든 먹을 수 있는 현미로 만든 호화스러운 도시락.</BR_Jubako.description>
 
   <WR_Jubako.label>찬합</WR_Jubako.label>
-  <WR_Jubako.description>어디서든 먹을 수 있는 현미 호화스러운 도시락.</WR_Jubako.description>
+  <WR_Jubako.description>어디서든 먹을 수 있는 백미로 만든 호화스러운 도시락.</WR_Jubako.description>
 
   <WR_JPCurryRice.label>카레라이스</WR_JPCurryRice.label>
   <WR_JPCurryRice.description>어떤 나라에서는 먹는 방법이나 식재를 무엇으로 할까로 전쟁이 일어날 정도로、모두가 사랑하지 않고서는 못배기는 매력의 카레라이스.</WR_JPCurryRice.description>
 
-  <Tukudani.label>Tsukudani of insects</Tukudani.label>
-  <Tukudani.description>Food that boiled insect meat that should normally be thrown away sweetly with sugar and Soy sauce.</Tukudani.description>
+  <Tukudani.label>벌레 조림</Tukudani.label>
+  <Tukudani.description>설탕과 간장으로 달콤 짭짤하게 조린 벌레 고기입니다. 중요한 단백질 공급원이죠.</Tukudani.description>
 
-  <ZP_WRSushi.label>Sushi</ZP_WRSushi.label>
-  <ZP_WRSushi.description>Traditional Japanese cuisine with fresh fish fillet on top of vinegared rice.</ZP_WRSushi.description>
+  <ZP_WRSushi.label>생선 초밥</ZP_WRSushi.label>
+  <ZP_WRSushi.description>초밥 위에 신선한 생선 토막을 얹은 전통적인 일본 요리.</ZP_WRSushi.description>
 
-  <ZP_Sasimi.label>Sashimi</ZP_Sasimi.label>
-  <ZP_Sasimi.description>Cut the fresh raw fish in a size easy to eat and assorted on the dish.</ZP_Sasimi.description>
+  <ZP_Sasimi.label>회</ZP_Sasimi.label>
+  <ZP_Sasimi.description>한입에 먹기좋은 크기로 잘라놓은 신선한 생선입니다. 아주 훌륭한 단백질 공급원입니다.</ZP_Sasimi.description>
 
-  <ZP_SaltGrilledFish.label>Salt-grilled fish</ZP_SaltGrilledFish.label>
-  <ZP_SaltGrilledFish.description>Salted fish was skewered and baked with direct flame. A dish that you can enjoy the taste of baked fish.</ZP_SaltGrilledFish.description>
+  <ZP_SaltGrilledFish.label>소금 생선 구이</ZP_SaltGrilledFish.label>
+  <ZP_SaltGrilledFish.description>소금을 묻힌 생선을 꼬챙이에 꿰다 불에 직접 구운 것. 구운 생선의 맛을 즐길 수 있는게 일품입니다.</ZP_SaltGrilledFish.description>
 
-  <ZP_SteamedFish.label>Boiled fish</ZP_SteamedFish.label>
-  <ZP_SteamedFish.description>Food boiled lightly and then seasoned with seasoning and boiled fish.</ZP_SteamedFish.description>
+  <ZP_SteamedFish.label>생선 조림</ZP_SteamedFish.label>
+  <ZP_SteamedFish.description>생선을 가볍게 삶은 후에 조미료로 간하고 졸인 음식입니다.</ZP_SteamedFish.description>
 
-  <GR_Takikomi.label>炊き込みご飯</GR_Takikomi.label>
-  <GR_Takikomi.description>もち米と具を一緒に炊き込んで作るご飯。</GR_Takikomi.description>
+  <GR_Takikomi.label>모둠솥밥</GR_Takikomi.label>
+  <GR_Takikomi.description>찹쌀과 채소류, 그리고 육류를 함께 솥에 쪄낸 요리입니다. </GR_Takikomi.description>
 
-  <ZP_Tendon.label>天丼</ZP_Tendon.label>
-  <ZP_Tendon.description>白飯の上に天ぷらをのせたどんぶり。揚げたてサクサクの天ぷらは食欲をそそります。</ZP_Tendon.description>
+  <ZP_Tendon.label>튀김 덮밥</ZP_Tendon.label>
+  <ZP_Tendon.description>백반 위에 튀김을 얹은 덮밥. 바삭바삭한 튀김이 식욕을 돋웁니다.</ZP_Tendon.description>
 
-  <ZP_Udon.label>うどん</ZP_Udon.label>
-  <ZP_Udon.description>穀物粉を練って長く伸ばした白い麺。もちもちとした食感とツルっとしたのどこしが特徴の麺。</ZP_Udon.description>
+  <ZP_Udon.label>우동</ZP_Udon.label>
+  <ZP_Udon.description>국수 반죽을 짜고 길게 늘어뜨린 하얀 면. 쫀득쫀득한 식감과 덩굴 같은 모양이 특징인 면입니다.</ZP_Udon.description>
 
-  <ZP_Ramen.label>ラーメン</ZP_Ramen.label>
-  <ZP_Ramen.description>穀物粉を練って長く伸ばした細い黄色い麺。中華スープに様々な具材を食みあわせた麺料理。</ZP_Ramen.description>
+  <ZP_Ramen.label>라멘</ZP_Ramen.label>
+  <ZP_Ramen.description>오랜기간 우려낸 국에 일본의 전통적인 면과 여러 재료들을 넣은 국수 요리입니다.</ZP_Ramen.description>
 
-  <ZP_Tyannko.label>ちゃんこ鍋</ZP_Tyannko.label>
-  <ZP_Tyannko.description>具沢山の野菜や肉を沢山入れて煮込んだ鍋。栄養を沢山とれるので元気になれる。</ZP_Tyannko.description>
+  <ZP_Tyannko.label>장코나베</ZP_Tyannko.label>
+  <ZP_Tyannko.description>건더기로 많은 야채와 고기를 넣어 끓인 찌개. 영양이 듬뿍 들어가있어 건강에 좋습니다.</ZP_Tyannko.description>
 
-  <ZP_Okonomiyaki.label>お好み焼き</ZP_Okonomiyaki.label>
-  <ZP_Okonomiyaki.description>水に溶いた穀物粉を生地に野菜と肉を材料に鉄板で焼く日本の庶民的料理。</ZP_Okonomiyaki.description>
+  <ZP_Okonomiyaki.label>오코노미야키</ZP_Okonomiyaki.label>
+  <ZP_Okonomiyaki.description>물에 곡물 가루를 섞어 만든 반죽에 야채와 고기를 재료로 넣고 섞은뒤, 철판에 구워 먹는 일본의 서민적인 요리입니다.</ZP_Okonomiyaki.description>
 
-  <ZP_Korokke.label>コロッケ</ZP_Korokke.label>
-  <ZP_Korokke.description>ジャガイモを潰してペーストにし衣をつけた揚げ物料理。どこでも食べれる。</ZP_Korokke.description>
+  <ZP_Korokke.label>고로케</ZP_Korokke.label>
+  <ZP_Korokke.description>감자를 으깨어 반죽을 만들고 튀김옷을 입힌뒤 튀긴 요리. 어디서든 먹을 수 있습니다.</ZP_Korokke.description>
 
-  <ZP_Oden.label>おでん</ZP_Oden.label>
-  <ZP_Oden.description>鰹節とコンブでとった出汁にコンニャク、大根、ちくわを長時間煮込んだ煮込み料理。</ZP_Oden.description>
+  <ZP_Oden.label>오뎅</ZP_Oden.label>
+  <ZP_Oden.description>가쓰오 부시와 다시마를 넣고 끓인 국물에 곤약, 무, 치쿠와 및 어묵을 장시간 끓인 찜 요리.</ZP_Oden.description>
 
-  <ZP_aRice.label>アルファ米</ZP_aRice.label>
-  <ZP_aRice.description>非常用食品。いつでもお米が食べられるように乾燥させたもの。食べる時は水かお湯で戻せば美味しいご飯ができる。</ZP_aRice.description>
+  <ZP_aRice.label>알파미</ZP_aRice.label>
+  <ZP_aRice.description>비상 식품. 언제든지 쌀을 먹을 수 있도록 건조시킨 것. 따뜻한 물을 붓고 기다리면 맛있는 밥이 됩니다.</ZP_aRice.description>
 
-  <ZP_Hardtack.label>乾パン</ZP_Hardtack.label>
-  <ZP_Hardtack.description>非常用食品。長期保存のために固く焼き上げたビスケットの一種。</ZP_Hardtack.description>
+  <ZP_Hardtack.label>건빵</ZP_Hardtack.label>
+  <ZP_Hardtack.description>비상 식품. 장기 보존을 위해 굳게 구운 비스킷의 일종. 너무 많이 입에 넣고 먹으면 입안이 건조해지기 때문에 물을 꼭 함께 마셔야합니다.</ZP_Hardtack.description>
 
-  <ZP_Timaki.label>ちまき</ZP_Timaki.label>
-  <ZP_Timaki.description>非常用食品。もち米を植物の葉に包み蒸したもの。事前に灰汁でもち米を煮込む事で保存性を高めてる。</ZP_Timaki.description>
+  <ZP_Timaki.label>치마키</ZP_Timaki.label>
+  <ZP_Timaki.description>비상 식품. 찹쌀을 대나무 잎에 싸고 잿물에 삶아서 저장성을 높인 보존 식품입니다. 찹쌀의 찐득함이 남아있고 매우 맛있습니다.</ZP_Timaki.description>
 
 
 </LanguageData>
