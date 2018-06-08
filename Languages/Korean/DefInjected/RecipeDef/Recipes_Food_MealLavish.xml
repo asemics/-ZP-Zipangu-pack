@@ -10,9 +10,9 @@
 
   <!-- 豪華な食事　寿司 -->
 
-  <CookWRSushi8.label>초밥(8)</CookWRSushi8.label>
-  <CookWRSushi8.description>밥위에 생선 회를 얹은 초밥을 요리합니다.</CookWRSushi8.description>
-  <CookWRSushi8.jobString>초밥 요리</CookWRSushi8.jobString>
+  <CookWRSushi8.label>생선 초밥(8)</CookWRSushi8.label>
+  <CookWRSushi8.description>밥 위에 생선 회를 얹은 초밥을 요리합니다.</CookWRSushi8.description>
+  <CookWRSushi8.jobString>생선 초밥 요리</CookWRSushi8.jobString>
 
   <CookRamen4.label>라멘(4)</CookRamen4.label>
   <CookRamen4.description>일본식 라멘을 4그릇 요리합니다.</CookRamen4.description>
