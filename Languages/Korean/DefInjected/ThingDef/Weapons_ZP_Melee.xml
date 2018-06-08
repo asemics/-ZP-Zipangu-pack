@@ -3,74 +3,73 @@
 
   <!-- 十手 Base クラブ -->
 
-  <MeleeWeapon_Jitte.label>Jitte</MeleeWeapon_Jitte.label>
-  <MeleeWeapon_Jitte.description>Capture tool transmitted to Japan from long ago. You can prevent enemy attacks.</MeleeWeapon_Jitte.description>
+  <MeleeWeapon_Jitte.label>십수</MeleeWeapon_Jitte.label>
+  <MeleeWeapon_Jitte.description>옛날부터 이용해온 체포 도구. 적의 공격을 막을 수 있습니다.</MeleeWeapon_Jitte.description>
   <MeleeWeapon_Jitte.tools.0.label>handle</MeleeWeapon_Jitte.tools.0.label>
   <MeleeWeapon_Jitte.tools.1.label>head</MeleeWeapon_Jitte.tools.1.label>
 
-  <MeleeWeapon_Marohoshi.label>Marohoshi</MeleeWeapon_Marohoshi.label>
-  <MeleeWeapon_Marohoshi.description>A catching tool that made it easier to prevent enemy attacks by improving Jitte.</MeleeWeapon_Marohoshi.description>
+  <MeleeWeapon_Marohoshi.label>마로호시</MeleeWeapon_Marohoshi.label>
+  <MeleeWeapon_Marohoshi.description>십수를 전투용으로 개조한 도구. 적을 공격하는데 효율적입니다.</MeleeWeapon_Marohoshi.description>
   <MeleeWeapon_Marohoshi.tools.0.label>handle</MeleeWeapon_Marohoshi.tools.0.label>
   <MeleeWeapon_Marohoshi.tools.1.label>head</MeleeWeapon_Marohoshi.tools.1.label>
 
-  <MeleeWeapon_Sasumata.label>Sasumata</MeleeWeapon_Sasumata.label>
-  <MeleeWeapon_Sasumata.description>
-    Capture tool to contain the opponent's movement. The opponent can check but can not deal with the Long-distance opponent.</MeleeWeapon_Sasumata.description>
+  <MeleeWeapon_Sasumata.label>자차</MeleeWeapon_Sasumata.label>
+  <MeleeWeapon_Sasumata.description>상대의 움직임을 봉쇄하기 위한 체포 도구. 근접한 상대를 견제하는데에 유용하지만 원거리의 상대를 상대하기에는 부적합합니다.</MeleeWeapon_Sasumata.description>
   <MeleeWeapon_Sasumata.tools.0.label>handle</MeleeWeapon_Sasumata.tools.0.label>
   <MeleeWeapon_Sasumata.tools.1.label>head</MeleeWeapon_Sasumata.tools.1.label>
 
 
   <!-- 脇差 Base グラディウス -->
 
-  <MeleeWeapon_Wakizasi.label>Wakizashi</MeleeWeapon_Wakizasi.label>
-  <MeleeWeapon_Wakizasi.description>It is a short sword handed down in the East.It is used as a spare weapon for when the main weapon is broken.</MeleeWeapon_Wakizasi.description>
-  <MeleeWeapon_Wakizasi.tools.0.label>Poke</MeleeWeapon_Wakizasi.tools.0.label>
-  <MeleeWeapon_Wakizasi.tools.1.label>Swing</MeleeWeapon_Wakizasi.tools.1.label>
-  <MeleeWeapon_Wakizasi.tools.2.label>Swing down</MeleeWeapon_Wakizasi.tools.2.label>
+  <MeleeWeapon_Wakizasi.label>와키자시</MeleeWeapon_Wakizasi.label>
+  <MeleeWeapon_Wakizasi.description>동양에 전해지는 단도입니다. 주 무기를 사용하지 못할 때 예비의 무기로 사용됩니다.</MeleeWeapon_Wakizasi.description>
+  <MeleeWeapon_Wakizasi.tools.0.label>찌르기</MeleeWeapon_Wakizasi.tools.0.label>
+  <MeleeWeapon_Wakizasi.tools.1.label>휘두르기</MeleeWeapon_Wakizasi.tools.1.label>
+  <MeleeWeapon_Wakizasi.tools.2.label>내리찍기</MeleeWeapon_Wakizasi.tools.2.label>
 
 
   <!-- 刀 Base ロングソード -->
 
-  <MeleeWeapon_KATANA.label>Katana Blade</MeleeWeapon_KATANA.label>
-  <MeleeWeapon_KATANA.description>It is a sword handed down in the East. Compared with Longsword, it takes many time and effort to make it, but it has high power.</MeleeWeapon_KATANA.description>
-  <MeleeWeapon_KATANA.tools.0.label>Poke</MeleeWeapon_KATANA.tools.0.label>
-  <MeleeWeapon_KATANA.tools.1.label>Swing</MeleeWeapon_KATANA.tools.1.label>
-  <MeleeWeapon_KATANA.tools.2.label>Swing down</MeleeWeapon_KATANA.tools.2.label>
+  <MeleeWeapon_KATANA.label>일본도</MeleeWeapon_KATANA.label>
+  <MeleeWeapon_KATANA.description>일본의 전통적인 도검입니다. 만드는데 재료와 시간이 걸리지만 위력은 뛰어납니다.</MeleeWeapon_KATANA.description>
+  <MeleeWeapon_KATANA.tools.0.label>찌르기</MeleeWeapon_KATANA.tools.0.label>
+  <MeleeWeapon_KATANA.tools.1.label>휘두르기</MeleeWeapon_KATANA.tools.1.label>
+  <MeleeWeapon_KATANA.tools.2.label>내리찍기</MeleeWeapon_KATANA.tools.2.label>
 
 
   <!-- 大太刀 Base 刀 -->
 
-  <ZP_Odachi.label>Odachi Blade</ZP_Odachi.label>
-  <ZP_Odachi.description>A large sword made for further improvement of power.</ZP_Odachi.description>
-  <ZP_Odachi.tools.0.label>Poke</ZP_Odachi.tools.0.label>
-  <ZP_Odachi.tools.1.label>Swing</ZP_Odachi.tools.1.label>
-  <ZP_Odachi.tools.2.label>Swing down</ZP_Odachi.tools.2.label>
+  <ZP_Odachi.label>대태도</ZP_Odachi.label>
+  <ZP_Odachi.description>매우 장대한 검으로 성인 남성의 키를 훨씬 웃돌기도 하며 등에 메고 다니는 검입니다. 위력은 어마어마합니다.</ZP_Odachi.description>
+  <ZP_Odachi.tools.0.label>찌르기</ZP_Odachi.tools.0.label>
+  <ZP_Odachi.tools.1.label>휘두르기</ZP_Odachi.tools.1.label>
+  <ZP_Odachi.tools.2.label>내리찍기</ZP_Odachi.tools.2.label>
 
 
   <!-- 長槍 Base スピア -->
 
-  <ZP_LongSpear.label>Nagayari Spear</ZP_LongSpear.label>
-  <ZP_LongSpear.description>A weapon with a long reach. Because the reach is long, you can attack from the outside of the opponent's confrontation in the case of proximity battle.</ZP_LongSpear.description>
-  <ZP_LongSpear.tools.0.label>Strike</ZP_LongSpear.tools.0.label>
-  <ZP_LongSpear.tools.1.label>Poke</ZP_LongSpear.tools.1.label>
+  <ZP_LongSpear.label>장창</ZP_LongSpear.label>
+  <ZP_LongSpear.description>장병무기. 리치가 길어서 근접 전투 때는 상대방의 공격 범위 밖에서 공격할 수 있습다.</ZP_LongSpear.description>
+  <ZP_LongSpear.tools.0.label>타격</ZP_LongSpear.tools.0.label>
+  <ZP_LongSpear.tools.1.label>찌르기</ZP_LongSpear.tools.1.label>
 
 
   <!-- 十文字槍 Base スピア -->
 
-  <ZP_JumonjiSpear.label>Jumonji Spear</ZP_JumonjiSpear.label>
-  <ZP_JumonjiSpear.description>A weapon with a long reach.It makes the spear tip cross and makes it hard to avoid when piercing. It also has applications such as hooking and scraping.</ZP_JumonjiSpear.description>
-  <ZP_JumonjiSpear.tools.0.label>Slash</ZP_JumonjiSpear.tools.0.label>
-  <ZP_JumonjiSpear.tools.1.label>Strike</ZP_JumonjiSpear.tools.1.label>
-  <ZP_JumonjiSpear.tools.2.label>Poke</ZP_JumonjiSpear.tools.2.label>
+  <ZP_JumonjiSpear.label>십문자창</ZP_JumonjiSpear.label>
+  <ZP_JumonjiSpear.description>장병무기. 창 끝이 십자 모양을 하고있어 피하기 어렵고, 찌르고 빼는 도중에 다시 한번 벨 수 있기에 치명적인 무기입니다. </ZP_JumonjiSpear.description>
+  <ZP_JumonjiSpear.tools.0.label>베어넘기기</ZP_JumonjiSpear.tools.0.label>
+  <ZP_JumonjiSpear.tools.1.label>타격</ZP_JumonjiSpear.tools.1.label>
+  <ZP_JumonjiSpear.tools.2.label>찌르기</ZP_JumonjiSpear.tools.2.label>
 
 
   <!-- 長槍 Base スピア -->
 
-  <ZP_Naginata.label>Naginata</ZP_Naginata.label>
-  <ZP_Naginata.description>A long stick attached to a sword and improved. It looks like a glaive and has a very long reach</ZP_Naginata.description>
-  <ZP_Naginata.tools.0.label>Poke</ZP_Naginata.tools.0.label>
-  <ZP_Naginata.tools.1.label>Swing</ZP_Naginata.tools.1.label>
-  <ZP_Naginata.tools.2.label>Swing down</ZP_Naginata.tools.2.label>
+  <ZP_Naginata.label>나기나타</ZP_Naginata.label>
+  <ZP_Naginata.description>장병무기. 크게 벨 수 있도록 일본도 칼날을 장대에 부착한 장도입니다.</ZP_Naginata.description>
+  <ZP_Naginata.tools.0.label>찌르기</ZP_Naginata.tools.0.label>
+  <ZP_Naginata.tools.1.label>휘두르기</ZP_Naginata.tools.1.label>
+  <ZP_Naginata.tools.2.label>내리찍기</ZP_Naginata.tools.2.label>
 
 
 </LanguageData>
