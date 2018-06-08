@@ -191,20 +191,20 @@
   <Make_Kunai_3Ranged.jobString>쿠나이 제작하기(3회용).</Make_Kunai_3Ranged.jobString>
 
   <Make_Bow_JPstyleGreat.label>화궁 제작</Make_Bow_JPstyleGreat.label>
-  <Make_Bow_JPstyleGreat.description>나무와 대나무를 겹친 일본의 장궁을 제작합니다.</Make_Bow_JPstyleGreat.description>
+  <Make_Bow_JPstyleGreat.description>대궁을 개조해 보다 멀리 쏠 수 있게 만든 일본의 장궁을 제작합니다.</Make_Bow_JPstyleGreat.description>
   <Make_Bow_JPstyleGreat.jobString>화궁 제작하기</Make_Bow_JPstyleGreat.jobString>
 
-  <Make_Bow_JPstyleGreat_Fire.label>화궁(불화살) 제작</Make_Bow_JPstyleGreat_Fire.label>
-  <Make_Bow_JPstyleGreat_Fire.description>화약이 들은 천을 감싼 화살과 함께 화궁을 제작합니다.</Make_Bow_JPstyleGreat_Fire.description>
-  <Make_Bow_JPstyleGreat_Fire.jobString>화궁(불화살) 제작하기</Make_Bow_JPstyleGreat_Fire.jobString>
+  <Make_Bow_JPstyleGreat_Fire.label>화궁(火) 제작</Make_Bow_JPstyleGreat_Fire.label>
+  <Make_Bow_JPstyleGreat_Fire.description>대궁을 개조해 보다 멀리 쏠 수 있게 만든 일본의 장궁을 화약을 감은 화살들과 함께 제작합니다.</Make_Bow_JPstyleGreat_Fire.description>
+  <Make_Bow_JPstyleGreat_Fire.jobString>화궁(火) 제작하기</Make_Bow_JPstyleGreat_Fire.jobString>
 
-  <Make_Bow_JPstyleGreat_Poison.label>화궁(독화살) 제작</Make_Bow_JPstyleGreat_Poison.label>
-  <Make_Bow_JPstyleGreat_Poison.description>독약이 들은 통과 함께 화궁을 제작합니다.</Make_Bow_JPstyleGreat_Poison.description>
-  <Make_Bow_JPstyleGreat_Poison.jobString>화궁(독화살) 제작하기</Make_Bow_JPstyleGreat_Poison.jobString>
+  <Make_Bow_JPstyleGreat_Poison.label>사궁 제작</Make_Bow_JPstyleGreat_Poison.label>
+  <Make_Bow_JPstyleGreat_Poison.description>대궁을 개조해 보다 멀리 쏠 수 있게 만든 일본의 장궁을 독을 묻힌 화살들과 함께 제작합니다.</Make_Bow_JPstyleGreat_Poison.description>
+  <Make_Bow_JPstyleGreat_Poison.jobString>사궁 제작하기</Make_Bow_JPstyleGreat_Poison.jobString>
 
-  <Make_Gun_Tanegasima.label>종자도 화승총 제작</Make_Gun_Tanegasima.label>
-  <Make_Gun_Tanegasima.description>종자도에서 처음 고안된 화승총을 제작합니다.</Make_Gun_Tanegasima.description>
-  <Make_Gun_Tanegasima.jobString>종자도 화승총 제작하기</Make_Gun_Tanegasima.jobString>
+  <Make_Gun_Tanegasima.label>종자도총 제작</Make_Gun_Tanegasima.label>
+  <Make_Gun_Tanegasima.description>머스킷 총을 개조해서 만든 화승총을 제작합니다.</Make_Gun_Tanegasima.description>
+  <Make_Gun_Tanegasima.jobString>종자도총 제작하기</Make_Gun_Tanegasima.jobString>
 
 
 </LanguageData>
