@@ -170,11 +170,11 @@
   <Make_ZP_Odachi.description>서양의 투핸디드 소드와 비슷한 거대한 일본도를 제작합니다.</Make_ZP_Odachi.description>
   <Make_ZP_Odachi.jobString>대태도 제작하기</Make_ZP_Odachi.jobString>
 
-  <Make_ZP_LongSpear.label>스야리 제작</Make_ZP_LongSpear.label>
+  <Make_ZP_LongSpear.label>장창 제작</Make_ZP_LongSpear.label>
   <Make_ZP_LongSpear.description>가장 기본적인 형태의 창을 제작합니다.</Make_ZP_LongSpear.description>
-  <Make_ZP_LongSpear.jobString>스야리 제작하기</Make_ZP_LongSpear.jobString>
+  <Make_ZP_LongSpear.jobString>장창 제작하기</Make_ZP_LongSpear.jobString>
 
-  <Make_ZP_JumonjiSpear.label>쥬몬지야리 제작</Make_ZP_JumonjiSpear.label>
+  <Make_ZP_JumonjiSpear.label>십문자창 제작</Make_ZP_JumonjiSpear.label>
   <Make_ZP_JumonjiSpear.description>돌기가 좌우대칭으로 달려 십자가 모양을 한 창을 제작합니다.</Make_ZP_JumonjiSpear.description>
   <Make_ZP_JumonjiSpear.jobString>쥬몬지야리 제작하기</Make_ZP_JumonjiSpear.jobString>
 
