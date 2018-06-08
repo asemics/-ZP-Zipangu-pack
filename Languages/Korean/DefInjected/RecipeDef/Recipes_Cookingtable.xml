@@ -3,39 +3,39 @@
 
   <!-- 味付け肉 -->
 
-  <MakeR_SeasonedMeat5.label>장조림(5)</MakeR_SeasonedMeat5.label>
-  <MakeR_SeasonedMeat5.description>조미료로 구린내를 없애 영양소와 보존성을 조금 높인 장조림을 만듭니다.</MakeR_SeasonedMeat5.description>
-  <MakeR_SeasonedMeat5.jobString>장조림 요리</MakeR_SeasonedMeat5.jobString>
+  <MakeR_SeasonedMeat5.label>양념된 고기(5)</MakeR_SeasonedMeat5.label>
+  <MakeR_SeasonedMeat5.description>조미료로 고기의 구린내를 없애고 영양소와 보존성을 조금 높인 양념된 고기를 만듭니다.</MakeR_SeasonedMeat5.description>
+  <MakeR_SeasonedMeat5.jobString>양념된 고기 제조</MakeR_SeasonedMeat5.jobString>
 
-  <MakeR_SeasonedMeat20.label>장조림(20)</MakeR_SeasonedMeat20.label>
-  <MakeR_SeasonedMeat20.description>조미료로 구린내를 없애 영양소와 보존성을 조금 높인 장조림을 만듭니다.</MakeR_SeasonedMeat20.description>
-  <MakeR_SeasonedMeat20.jobString>장조림 요리</MakeR_SeasonedMeat20.jobString>
+  <MakeR_SeasonedMeat20.label>양념된 고기(20)</MakeR_SeasonedMeat20.label>
+  <MakeR_SeasonedMeat20.description>조미료로 고기의 구린내를 없애고 영양소와 보존성을 조금 높인 양념된 고기를 만듭니다.</MakeR_SeasonedMeat20.description>
+  <MakeR_SeasonedMeat20.jobString>양념된 고기 제조</MakeR_SeasonedMeat20.jobString>
 
-  <MakeR_SeasonedMeat50.label>장조림(50)</MakeR_SeasonedMeat50.label>
-  <MakeR_SeasonedMeat50.description>조미료로 구린내를 없애 영양소와 보존성을 조금 높인 장조림을 만듭니다.</MakeR_SeasonedMeat50.description>
-  <MakeR_SeasonedMeat50.jobString>장조림 요리</MakeR_SeasonedMeat50.jobString>
+  <MakeR_SeasonedMeat50.label>양념된 고기(50)</MakeR_SeasonedMeat50.label>
+  <MakeR_SeasonedMeat50.description>조미료로 고기의 구린내를 없애고 영양소와 보존성을 조금 높인 양념 고기를 만듭니다.</MakeR_SeasonedMeat50.description>
+  <MakeR_SeasonedMeat50.jobString>양념된 고기 제조</MakeR_SeasonedMeat50.jobString>
 
 
   <!-- 凍り餅 -->
 
-  <CookFreezeMochi10.label>말린 떡(10)</CookFreezeMochi10.label>
-  <CookFreezeMochi10.description>얼린 떡을 물에 담궜다 빼낸 뒤에 찬바람에 노출시켜 건조시킵니다.</CookFreezeMochi10.description>
-  <CookFreezeMochi10.jobString>말린 떡 요리</CookFreezeMochi10.jobString>
+  <CookFreezeMochi10.label>코오리모찌(10)</CookFreezeMochi10.label>
+  <CookFreezeMochi10.description>떡을 아주 추운날 밖에서 찬바람에 노출시켜 얼리고 건조시킵니다.</CookFreezeMochi10.description>
+  <CookFreezeMochi10.jobString>코오리모찌 제조</CookFreezeMochi10.jobString>
 
 
   <!-- 削除予定 -->
 
-  <CookFreezeMochi20.label>말린 떡(20)</CookFreezeMochi20.label>
-  <CookFreezeMochi20.description>얼린 떡을 물에 담궜다 빼낸 뒤에 찬바람에 노출시켜 건조시킵니다.</CookFreezeMochi20.description>
-  <CookFreezeMochi20.jobString>말린 떡 요리</CookFreezeMochi20.jobString>
+  <CookFreezeMochi20.label>코오리모찌(20)</CookFreezeMochi20.label>
+  <CookFreezeMochi20.description>떡을 아주 추운날 밖에서 찬바람에 노출시켜 얼리고 건조시킵니다.</CookFreezeMochi20.description>
+  <CookFreezeMochi20.jobString>코오리모찌 제조</CookFreezeMochi20.jobString>
 
-  <CookFreezeMochi50.label>말린 떡(50)</CookFreezeMochi50.label>
-  <CookFreezeMochi50.description>얼린 떡을 물에 담궜다 빼낸 뒤에 찬바람에 노출시켜 건조시킵니다.</CookFreezeMochi50.description>
-  <CookFreezeMochi50.jobString>말린 떡 요리</CookFreezeMochi50.jobString>
-
-  <CookFreezeMochi100.label>말린 떡(100)</CookFreezeMochi100.label>
-  <CookFreezeMochi100.description>얼린 떡을 물에 담궜다 빼낸 뒤에 찬바람에 노출시켜 건조시킵니다.</CookFreezeMochi100.description>
-  <CookFreezeMochi100.jobString>말린 떡 요리</CookFreezeMochi100.jobString>
+  <CookFreezeMochi50.label>코오리모찌(50)</CookFreezeMochi50.label>
+  <CookFreezeMochi50.description>떡을 아주 추운날 밖에서 찬바람에 노출시켜 얼리고 건조시킵니다.</CookFreezeMochi50.description>
+  <CookFreezeMochi50.jobString>코오리모찌 제조</CookFreezeMochi50.jobString>
+  
+  <CookFreezeMochi100.label>코오리모찌(100)</CookFreezeMochi100.label>
+  <CookFreezeMochi100.description>떡을 아주 추운날 밖에서 찬바람에 노출시켜 얼리고 건조시킵니다.</CookFreezeMochi100.description>
+  <CookFreezeMochi100.jobString>코오리모찌 제조</CookFreezeMochi100.jobString>
 
 
   <!-- たんぽ -->
