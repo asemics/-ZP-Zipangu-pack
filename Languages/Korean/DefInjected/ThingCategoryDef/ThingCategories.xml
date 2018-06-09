@@ -3,49 +3,46 @@
 
   <Tawara.label>가마니</Tawara.label>
   <ZP_Seasoning.label>조미료</ZP_Seasoning.label>
-  <ZP_Grain.label>Grain</ZP_Grain.label>
-  <AnimalFeed.label>Animal Feed</AnimalFeed.label>
-  <ZP_FoodMeals.label>Japanese food</ZP_FoodMeals.label>
-  <ZPLuxury.label>嗜好品</ZPLuxury.label>
+  <ZP_Grain.label>곡물</ZP_Grain.label>
+  <AnimalFeed.label>동물 사료</AnimalFeed.label>
+  <ZP_FoodMeals.label>일식</ZP_FoodMeals.label>
+  <ZPLuxury.label>사치품</ZPLuxury.label>
 
 
   <!-- Weapon -->
 
-  <ZipanguWeapon.label>Japanese weapon</ZipanguWeapon.label>
-  <ZipanguWeaponRanged.label>Japanese weapon</ZipanguWeaponRanged.label>
+  <ZipanguWeapon.label>일본 무기</ZipanguWeapon.label>
+  <ZipanguWeaponRanged.label>일본 무기</ZipanguWeaponRanged.label>
 
 
   <!-- Headgear -->
 
-  <ZipanguHeadgear.label>Japanese headgear</ZipanguHeadgear.label>
+  <ZipanguHeadgear.label>일본 머리 장비</ZipanguHeadgear.label>
 
 
   <!-- Body -->
 
-  <Bodygear.label>Bodygear</Bodygear.label>
-  <BodyOnSkin.label>OnSkin</BodyOnSkin.label>
-  <BodyArmour.label>Armour</BodyArmour.label>
-  <Outergear.label>Outergear</Outergear.label>
-  <VanillaBodygear.label>Vanilla bodygear</VanillaBodygear.label>
+  <Bodygear.label>일본 장비</Bodygear.label>
+  <BodyOnSkin.label>일본 속옷</BodyOnSkin.label>
+  <BodyArmour.label>일본 갑옷</BodyArmour.label>
+  <Outergear.label>일본 외투</Outergear.label>
+  <VanillaBodygear.label>일반 장비</VanillaBodygear.label>
 
 
   <!-- Hand -->
 
-  <Handgear.label>Handgear</Handgear.label>
+  <Handgear.label>일본 장갑</Handgear.label>
 
 
   <!-- Foot -->
 
-  <Footgear.label>Footgear</Footgear.label>
+  <Footgear.label>일본 신발</Footgear.label>
 
 
   <!-- Acessories -->
 
-  <Accessories.label>Accessories</Accessories.label>
-  <Zipangu.label>Zipangu</Zipangu.label>
+  <Accessories.label>액세서리</Accessories.label>
+  <Zipangu.label>지팡구</Zipangu.label>
 
-
-  <!--<ZP_Protein.label>Protein</ZP_Protein.label>-->
-  <!--<ZP_Rice.label>쌀</ZP_Rice.label>-->
 
 </LanguageData>
