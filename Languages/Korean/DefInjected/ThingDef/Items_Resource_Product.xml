@@ -3,8 +3,8 @@
 
   <!-- 燃料 -->
 
-  <Momigalite.label>왕겨연료</Momigalite.label>
-  <Momigalite.description>왕겨를 연료용으로 가공한 것.</Momigalite.description>
+  <Momigalite.label>왕겨탄</Momigalite.label>
+  <Momigalite.description>왕겨를 특수공법으로 가공하여 장작과 같은 연료용으로 가공한 것.</Momigalite.description>
 
   <FuelStraw.label>연료용 짚</FuelStraw.label>
   <FuelStraw.description>짚을 연료용으로 가공한 것.</FuelStraw.description>
@@ -13,19 +13,19 @@
   <!-- 米俵 -->
 
   <StrawRiceBag_RawRice.label>가마니(쌀)</StrawRiceBag_RawRice.label>
-  <StrawRiceBag_RawRice.description>쌀(생)을 대량으로 보존 시킬 수 있다. 또、특산품으로써 팔린다.</StrawRiceBag_RawRice.description>
+  <StrawRiceBag_RawRice.description>생쌀을 보존시킬 수 있습니다. 또한, 특산품으로써 팔립니다.</StrawRiceBag_RawRice.description>
 
   <StrawRiceBag_RiceMomi.label>가마니(벼)</StrawRiceBag_RiceMomi.label>
-  <StrawRiceBag_RiceMomi.description>쌀(벼)를 보존시킬 수 있다. 또、특산품으로써 팔린다.</StrawRiceBag_RiceMomi.description>
+  <StrawRiceBag_RiceMomi.description>벼를 보존시킬 수 있습니다. 또한, 특산품으로써 팔립니다.</StrawRiceBag_RiceMomi.description>
 
   <StrawRiceBag_BrownRice.label>가마니(현미)</StrawRiceBag_BrownRice.label>
-  <StrawRiceBag_BrownRice.description>현미를 보존시킬 수 있다、또、특산품으로써 팔린다.</StrawRiceBag_BrownRice.description>
+  <StrawRiceBag_BrownRice.description>현미를 보존시킬 수 있습니다. 또한, 특산품으로써 팔립니다.</StrawRiceBag_BrownRice.description>
 
-  <StrawRiceBag_GlutinousRice.label>米俵(もち米)</StrawRiceBag_GlutinousRice.label>
-  <StrawRiceBag_GlutinousRice.description>もち米を保管できる。また、特産品として高く売れる。</StrawRiceBag_GlutinousRice.description>
+  <StrawRiceBag_GlutinousRice.label>가마니(찹쌀)</StrawRiceBag_GlutinousRice.label>
+  <StrawRiceBag_GlutinousRice.description>찹쌀을 보존시킬 수 있습니다. 또한, 특산품으로써 팔립니다.</StrawRiceBag_GlutinousRice.description>
 
   <StrawRiceBag_WhiteRice.label>가마니(백미)</StrawRiceBag_WhiteRice.label>
-  <StrawRiceBag_WhiteRice.description>현미를 보존시킬 수 있다、또、특산품으로써 팔린다.</StrawRiceBag_WhiteRice.description>
+  <StrawRiceBag_WhiteRice.description>백미를 보존시킬 수 있습니다. 또한, 특산품으로써 팔립니다.</StrawRiceBag_WhiteRice.description>
 
 
   <!-- 肥料 -->
@@ -33,29 +33,29 @@
   <R_Compost.label>퇴비</R_Compost.label>
   <R_Compost.description>논 제작시에 사용되는 비료.</R_Compost.description>
 
-  <ZP_Earthworm.label>Earthworm</ZP_Earthworm.label>
-  <ZP_Earthworm.description>This is necessary for fish food and soil improvement.</ZP_Earthworm.description>
+  <ZP_Earthworm.label>지렁이</ZP_Earthworm.label>
+  <ZP_Earthworm.description>물고기 사료로 쓰이기도 하며 토양을 개량하는데 필수입니다.</ZP_Earthworm.description>
 
-  <ZP_Mud.label>Mud</ZP_Mud.label>
-  <ZP_Mud.description>This is necessary for soil improvement.</ZP_Mud.description>
+  <ZP_Mud.label>진흙</ZP_Mud.label>
+  <ZP_Mud.description>토양을 개량하는데 필수입니다.</ZP_Mud.description>
 
 
   <!-- 飼料 -->
 
   <Manger.label>여물</Manger.label>
-  <Manger.description>가축용사료(고영양소)</Manger.description>
+  <Manger.description>고영양소의 가축 전용 사료입니다.</Manger.description>
 
-  <PetFood.label>Pet Food</PetFood.label>
-  <PetFood.description>Pet food perfect for livestock feed.</PetFood.description>
+  <PetFood.label>애완동물 사료</PetFood.label>
+  <PetFood.description>애완동물 및 가축들이 먹기에 완벽한 사료입니다.</PetFood.description>
 
-  <ZP_FishFood.label>Fish food</ZP_FishFood.label>
-  <ZP_FishFood.description>Food of fish made by mixing rice bran and potatoes with water.\n Animals can eat this too.</ZP_FishFood.description>
+  <ZP_FishFood.label>물고기 사료</ZP_FishFood.label>
+  <ZP_FishFood.description>쌀겨와 감자를 물로 반죽해서 만든 생선의 떡밥 미끼./n동물들도 먹을 수 있습니다.</ZP_FishFood.description>
 
-  <TatamiStraw.label>Building straw</TatamiStraw.label>
-  <TatamiStraw.description>Processed straw for building materials.</TatamiStraw.description>
+  <TatamiStraw.label>건축용 짚</TatamiStraw.label>
+  <TatamiStraw.description>짚을 건축용으로 가공한 것입니다.</TatamiStraw.description>
 
-  <TatamiG.label>Tatami(1quire)</TatamiG.label>
-  <TatamiG.description>Tatami of 1 quire size.</TatamiG.description>
+  <TatamiG.label>다다미(1매)</TatamiG.label>
+  <TatamiG.description>1매분 크기의 다다미. 다다미를 고집하는 사람들을 위한 입니다.</TatamiG.description>
 
 
 </LanguageData>
