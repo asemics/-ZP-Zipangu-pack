@@ -25,10 +25,10 @@
   <R_MisoBarrel.description>된장을 한꺼번에 많이 만들기위해 제조한 된장 통입니다.</R_MisoBarrel.description>
 
   <R_Miso.label>된장</R_Miso.label>
-  <R_Miso.description>요리에 쓰여지는 된장.</R_Miso.description>
+  <R_Miso.description>각종 요리에 쓰이는 된장입니다.</R_Miso.description>
 
   <ZP_Spice.label>향신료</ZP_Spice.label>
-  <ZP_Spice.description>각종 요리에 사용되는 조미료.</ZP_Spice.description>
+  <ZP_Spice.description>각종 요리의 양념으로 쓰입니다. 라면과 카레 등을 만들 때 필요합니다.</ZP_Spice.description>
 
 
 </LanguageData>
