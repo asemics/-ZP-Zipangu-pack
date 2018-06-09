@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <RBCeramic.label>RB ceramics</RBCeramic.label>
-  <RBCeramic.description>It is a RB ceramics which was thermally processed after crushing and compressing a by-product bag. It is lightweight and has high strength and it does not burn. It can be used for a wide range of applications such as construction, machine tools, weapons and so on.</RBCeramic.description>
-  <RBCeramic.stuffProps.stuffAdjective>RB ceramics</RBCeramic.stuffProps.stuffAdjective>
+  <RBCeramic.label>RB 세라믹</RBCeramic.label>
+  <RBCeramic.description>부산물 봉지를 분쇄, 압축해서 가열가공한 세라믹입니다. 경량에 강도가 높고, 타지않아서 건축, 공작 기계, 무기 등 넓은 용도로 쓰입니다.</RBCeramic.description>
+  <RBCeramic.stuffProps.stuffAdjective>RB 세라믹</RBCeramic.stuffProps.stuffAdjective>
 
 
 </LanguageData>
