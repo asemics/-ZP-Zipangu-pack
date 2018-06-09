@@ -1,14 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <ZPJunmaiSake.label>Junmai</ZPJunmaiSake.label>
-  <ZPJunmaiSake.description>Sake(Japanese alchole) made only with white rice.\nAlcohol featuring the original taste of rice.</ZPJunmaiSake.description>
-  <ZPJunmaiSake.tools.1.label>neck</ZPJunmaiSake.tools.1.label>
+  <ZPJunmaiSake.label>준마이</ZPJunmaiSake.label>
+  <ZPJunmaiSake.description>백미만으로 빚은 청주입니다./n쌀 본래의 맛이 특징적인 술입니다.</ZPJunmaiSake.description>
+  <ZPJunmaiSake.tools.1.label>목</ZPJunmaiSake.tools.1.label>
   <ZPJunmaiSake.ingestible.ingestCommandString>Drink {0}</ZPJunmaiSake.ingestible.ingestCommandString>
   <ZPJunmaiSake.ingestible.ingestReportString>Drinking {0}.</ZPJunmaiSake.ingestible.ingestReportString>
 
-  <R_JunmaiSakeBarrel.label>Junmai barrel</R_JunmaiSakeBarrel.label>
-  <R_JunmaiSakeBarrel.description>a barrel of Junmai</R_JunmaiSakeBarrel.description>
+  <R_JunmaiSakeBarrel.label>준마이 술통</R_JunmaiSakeBarrel.label>
+  <R_JunmaiSakeBarrel.description>준마이를 담은 술통입니다.</R_JunmaiSakeBarrel.description>
 
 
 </LanguageData>
