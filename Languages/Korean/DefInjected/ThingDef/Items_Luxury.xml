@@ -3,35 +3,35 @@
 
   <!-- Luxury -->
 
-  <R_PuffedRice.label>튀긴 곡물 과자</R_PuffedRice.label>
-  <R_PuffedRice.description>쌀에 압력을 가한 후에 한 번에 개방된 힘에 의해 부풀어진、바삭바삭한 식감의 막과자이다.</R_PuffedRice.description>
+  <R_PuffedRice.label>뻥튀기</R_PuffedRice.label>
+  <R_PuffedRice.description>쌀에 압력을 가한 후에 한 번에 개방된 힘에 의해 부풀어진 바삭바삭한 식감의 막과자입니다.</R_PuffedRice.description>
 
-  <ZP_RiceCracker.label>煎餅</ZP_RiceCracker.label>
-  <ZP_RiceCracker.description>とても歯ごたえのあるお菓子。醤油、味噌等で好きな味付けを楽しもう。</ZP_RiceCracker.description>
+  <ZP_RiceCracker.label>전병</ZP_RiceCracker.label>
+  <ZP_RiceCracker.description>아주 맛있는 과자. 간장, 된장 등 좋아하는 맛으로 입안이 즐겁습니다.</ZP_RiceCracker.description>
 
-  <ZP_Okoshi.label>おこし</ZP_Okoshi.label>
-  <ZP_Okoshi.description>米を熱して干した後に米飴で固めた和菓子。戦国時代は「身を起こし 家を起こし 国を起こす」縁起の良いお菓子として広く人々に親しまれていた。</ZP_Okoshi.description>
+  <ZP_Okoshi.label>쌀과자</ZP_Okoshi.label>
+  <ZP_Okoshi.description>쌀을 달구어 말린 후에 쌀엿으로 굳힌 과자입니다. 전국 시대에서는 "몸을 일으키다 (미오오코시) 집안을 일으키다 (이에오 오코시) 나라를 세우다 (쿠니오 오코스)" 라는 말장난으로 재수 좋은 과자로써 많은 사람들에게 사랑받았습니다.</ZP_Okoshi.description>
 
-  <ZP_Kasutera.label>ベビーカステラ</ZP_Kasutera.label>
-  <ZP_Kasutera.description>縁日の定番お菓子。素朴なカステラのような味で、何個も口に入れてしまうほど美味しい。</ZP_Kasutera.description>
+  <ZP_Kasutera.label>베이비 카스텔라</ZP_Kasutera.label>
+  <ZP_Kasutera.description>잿날의 단골 과자중 하나. 소박한 카스텔라 같은 맛으로, 몇개도 입에 넣어 버릴 정도로 맛있습니다.</ZP_Kasutera.description>
 
-  <ZP_Kompeito.label>金平糖</ZP_Kompeito.label>
-  <ZP_Kompeito.description>戦国時代にポルトガルから日本に伝来したお菓子。カラフルな見た目と優しい甘さが入植者を癒してくれる。</ZP_Kompeito.description>
+  <ZP_Kompeito.label>별사탕</ZP_Kompeito.label>
+  <ZP_Kompeito.description>전국 시대에 포르투갈에서 일본으로 수출된 과자. 화려한 외관과 부드러운 달콤함이 입안을 채웁니다.</ZP_Kompeito.description>
 
-  <ZP_CottonCandy.label>わたあめ</ZP_CottonCandy.label>
-  <ZP_CottonCandy.description>縁日の定番お菓子。ふわふわした食感と甘さを楽しむ事ができる。\n時間が経つと萎んで固くなってしまうのではやめに食べよう。</ZP_CottonCandy.description>
+  <ZP_CottonCandy.label>솜사탕</ZP_CottonCandy.label>
+  <ZP_CottonCandy.description>잿날의 단골 과자중 하나. 둥실둥실한 식감과 달콤함을 즐길 수 있습니다./n시간이 지나면 시들고 굳어 버려서 먹지않게 됩니다.</ZP_CottonCandy.description>
 
-  <ZP_BoiledEdamame.label>塩茹で枝豆</ZP_BoiledEdamame.label>
-  <ZP_BoiledEdamame.description>枝豆を塩茹でした日本の定番おつまみ。暑い日に冷えたビールのお供にすることが多い。</ZP_BoiledEdamame.description>
+  <ZP_BoiledEdamame.label>소금에 데친 삶은 풋콩</ZP_BoiledEdamame.label>
+  <ZP_BoiledEdamame.description>풋콩을 소금에 데치고 삶은 일본의 기본 안주. 더운 날에 차가운 맥주와 함께하면 최고입니다.</ZP_BoiledEdamame.description>
 
-  <ZP_Yakitori.label>焼き鳥</ZP_Yakitori.label>
-  <ZP_Yakitori.description>肉を一口大に切った後に串に刺して焼いた日本の定番おつまみ。味は塩かタレを選べます。</ZP_Yakitori.description>
+  <ZP_Yakitori.label>꼬치구이</ZP_Yakitori.label>
+  <ZP_Yakitori.description>고기를 한입 크기로 자른 후에 꼬챙이에 꿰어 구운 일본의 기본 안주. 맛은 소금이나 양념중 하나를 선택할 수 있습니다.</ZP_Yakitori.description>
 
-  <ZP_Hiyayakko.label>冷奴</ZP_Hiyayakko.label>
-  <ZP_Hiyayakko.description>豆腐に薬味をのせ醤油をかけたシンプルな料理。酒の肴やおかずに1品足したい時に便利。</ZP_Hiyayakko.description>
+  <ZP_Hiyayakko.label>냉두부</ZP_Hiyayakko.label>
+  <ZP_Hiyayakko.description>두부에 고명을 얹고 간장을 얹은 단순한 요리. 술 안주나 반찬에 1품 더하고 싶을 때 편리합니다.</ZP_Hiyayakko.description>
 
-  <ZP_Misotanpo.label>みそたんぽ</ZP_Misotanpo.label>
-  <ZP_Misotanpo.description>焼いたたんぽに味噌をつけたもの。秋田県の郷土料理。</ZP_Misotanpo.description>
+  <ZP_Misotanpo.label>미소탄포</ZP_Misotanpo.label>
+  <ZP_Misotanpo.description>기리탄포에 된장을 바른 것입니다. 아키타현 향토 요리입니다.</ZP_Misotanpo.description>
 
 
 </LanguageData>
