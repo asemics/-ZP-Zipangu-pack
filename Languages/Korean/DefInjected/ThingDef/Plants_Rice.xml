@@ -2,13 +2,13 @@
 <LanguageData>
 
   <Rise_Prant.label>벼(쌀)</Rise_Prant.label>
-  <Rise_Prant.description>밭에서 기를 수 있는 쌀.\n백미를 먹을 때 까지의 시간은 힘들겠지만 애정을 갖고 기른 쌀은 의식주등 여러가지의 일에 활용된다. 연구가 진행되면 품종개량도 가능하다 우수한 곡물.</Rise_Prant.description>
+  <Rise_Prant.description>밭에서 기를 수 있는 쌀.\n백미를 먹을 때 까지의 시간은 오래걸리지만 애정을 갖고 기른 쌀은 의식주등 여러가지의 일에 활용됩니다. 연구가 진행되면 품종개량도 가능한 우수한 곡물입니다.</Rise_Prant.description>
 
   <UplandRice.label>밭벼(쌀)</UplandRice.label>
-  <UplandRice.description>밭에서 기를 수 있는 쌀.\n수확 속도를 중시하고 수확량은 조금만 증가시킨 품종.</UplandRice.description>
+  <UplandRice.description>밭에서 기를 수 있는 쌀.\n수확 속도를 중시하고 수확량은 조금만 증가시킨 품종입니다.</UplandRice.description>
 
-  <GlutinousRicePlant.label>もち米</GlutinousRicePlant.label>
-  <GlutinousRicePlant.description>畑と水田で育成できる米。凍り餅の原材料。\nもちもちとした食感を追求した品種。</GlutinousRicePlant.description>
+  <GlutinousRicePlant.label>찹쌀</GlutinousRicePlant.label>
+  <GlutinousRicePlant.description>밭과 논에서 기를 수 있는 쌀. 코오리모찌의 주재료입니다.\n쫀득쫀득한 식감을 추구한 품종입니다.</GlutinousRicePlant.description>
 
   <WetlandRice.label>논벼(쌀)</WetlandRice.label>
   <WetlandRice.description>논에서 기를 수 있는 쌀.\n벼 이삭에 대량의 쌀을 여물게 하기 위해 개량했지만, 성장속도가 희생된 품종.</WetlandRice.description>
