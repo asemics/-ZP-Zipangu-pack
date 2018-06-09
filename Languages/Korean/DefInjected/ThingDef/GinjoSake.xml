@@ -1,14 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <ZPGinjoSake.label>Ginjo</ZPGinjoSake.label>
-  <ZPGinjoSake.description>Sake(Japanese alchole) made by brewing alcohol made from white rice and grain.\nAlcohol featuring a great smell and refreshing taste.</ZPGinjoSake.description>
+  <ZPGinjoSake.label>긴조</ZPGinjoSake.label>
+  <ZPGinjoSake.description>백미와 곡물로 만든 양조 알코올을 음미하며 양조하여 제조한 청주./n화려한 향과 상쾌한 맛이 특징인 술입니다.</ZPGinjoSake.description>
   <ZPGinjoSake.tools.1.label>neck</ZPGinjoSake.tools.1.label>
   <ZPGinjoSake.ingestible.ingestCommandString>Drink {0}</ZPGinjoSake.ingestible.ingestCommandString>
   <ZPGinjoSake.ingestible.ingestReportString>Drinking {0}.</ZPGinjoSake.ingestible.ingestReportString>
 
-  <R_GinjoSakeBarrel.label>Ginjo barrel</R_GinjoSakeBarrel.label>
-  <R_GinjoSakeBarrel.description>a barrel of Ginjo.</R_GinjoSakeBarrel.description>
+  <R_GinjoSakeBarrel.label>긴조 술통</R_GinjoSakeBarrel.label>
+  <R_GinjoSakeBarrel.description>긴조를 빚어 담근 술통입니다.</R_GinjoSakeBarrel.description>
 
 
 </LanguageData>
