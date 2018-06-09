@@ -2,16 +2,16 @@
 <LanguageData>
 
   <Inaho.label>벼 이삭</Inaho.label>
-  <Inaho.description>백미를 맛있게 먹기 위한 5가지 조항\n１,【탈곡】벼 이삭을 탈곡시켜 쌀(벼)와 짚으로 나눈다.\n２,【조미(糙米)】쌀(벼가 붙은)을 조미하여 현미와 왕겨로 나눈다\n３,【정미】현미를 정미기에 넣고 백미와 쌀겨로 나눈다\n４,【조리】맛있게 조리한다\n５,【식사】대지의 은총에 감사하며 잘 먹겠습니다!!</Inaho.description>
+  <Inaho.description>백미를 맛있게 먹기 위한 5가지 조항: \n１,【탈곡】벼 이삭을 탈곡시켜 쌀(벼) 짚으로 나눕니다.\n２,【조미(糙米)】쌀(벼가 붙은)을 조미하여 현미와 왕겨로 나눕니다\n３,【정미】현미를 정미기에 넣고 백미와 쌀겨로 나눕니다\n４,【조리】맛있게 조리합니다.\n５,【식사】대지의 은총에 감사하며 잘 먹겠습니다!!</Inaho.description>
 
-  <Inaho_Mochi.label>稲穂(もち米)</Inaho_Mochi.label>
-  <Inaho_Mochi.description>もち米を美味しく食べるための五箇条\n１、【脱穀】稲穂を脱穀して米(籾)と藁にわける\n２、【籾摺り】米(籾付き)を籾摺りして玄米と籾殻にわける\n３、【精米】玄米を精米機にかけて白米と米ぬかにわける\n４、【調理】美味しく調理をする\n５、【食事】大地の恵みに感謝していただきます!!</Inaho_Mochi.description>
+  <Inaho_Mochi.label>벼 이삭(찹쌀)</Inaho_Mochi.label>
+  <Inaho_Mochi.description>찹쌀을 맛있게 먹기 위한 5가지 조항: \n１,【탈곡】벼 이삭을 탈곡시켜 쌀(벼)과 짚으로 나눕니다.\n２,【조미(糙米)】쌀(벼가 붙은)을 조미하여 현미와 왕겨로 나눕니다\n３,【정미】현미를 정미기에 넣고 찹쌀과 쌀겨로 나눕니다\n４,【조리】맛있게 조리합니다.\n５,【식사】대지의 은총에 감사하며 잘 먹겠습니다!!</Inaho_Mochi.description>
 
   <RiceMomi.label>쌀(벼)</RiceMomi.label>
-  <RiceMomi.description>벼가 붙은 쌀. 이대로 먹는 것은 불가능하기에 탈곡정미를 하자!!\n탈곡하는 것으로 현미와 부산물인 짚을 얻을 수 있다.</RiceMomi.description>
+  <RiceMomi.description>벼가 붙은 쌀. 이대로 먹는 것은 불가능하기에 탈곡정미를 합시다!!\n탈곡하는 것으로 현미와 부산물인 짚을 얻을 수 있습니다.</RiceMomi.description>
 
-  <RiceMomi_Mochi.label>籾米(もち米)</RiceMomi_Mochi.label>
-  <RiceMomi_Mochi.description>籾付きのもち米。このまま食べることは出来ないので脱穀精米しよう!!\n脱穀することで玄米と副産物である藁を手に入れることができる。</RiceMomi_Mochi.description>
+  <RiceMomi_Mochi.label>찹쌀(벼)</RiceMomi_Mochi.label>
+  <RiceMomi_Mochi.description>벼가 붙은 찹쌀. 이대로 먹는 것은 불가능하기에 탈곡정미를 합시다!! /n탈곡기로 찹쌀과 부산물인 짚을 얻을 수 있습니다.</RiceMomi_Mochi.description>
 
   <BrownRice.label>현미</BrownRice.label>
   <BrownRice.description>탈곡시켜 쌀로부터 벼를 분리시킨 것으로 영양가가 높은 현미를 먹는 것이 가능하다.</BrownRice.description>
@@ -19,20 +19,20 @@
   <WhiteRice.label>백미</WhiteRice.label>
   <WhiteRice.description>정성스럽게 탈곡정미한 쌀.\n정미한 과정에서 영양소를 깎아 버리지만 맛은 뛰어나게 좋아진다.</WhiteRice.description>
 
-  <GlutinousRice.label>もち米</GlutinousRice.label>
-  <GlutinousRice.description>もちもちとした食感のお米。凍り餅の原料となる。</GlutinousRice.description>
+  <GlutinousRice.label>찹쌀</GlutinousRice.label>
+  <GlutinousRice.description>쫀득쫀득한 식감의 쌀. 코오리모찌를 만드는 주 재료입니다.</GlutinousRice.description>
 
   <Straw.label>짚</Straw.label>
-  <Straw.description>탈곡 시킬 때의 부산물.\n동물의 사료, 비료, 연료 또는 공예품 등의 여러가지 면에서 활약한다.</Straw.description>
+  <Straw.description>탈곡 시킬 때의 부산물.\n동물의 사료, 비료, 연료 또는 공예품 등의 여러가지 면에서 활약합니다.</Straw.description>
 
   <Chaff.label>왕겨</Chaff.label>
-  <Chaff.description>조미(糙米)할 때의 부산물.\n사용처로써 비료, 연료, 동물의 사료(저영양)로써 쓰인다.</Chaff.description>
+  <Chaff.description>조미(糙米)할 때의 부산물.\n사용처로써 비료, 연료, 동물의 사료(저영양)로써 쓰입니다.</Chaff.description>
 
   <RiceBran.label>쌀겨</RiceBran.label>
-  <RiceBran.description>현미를 정미할 때의 부산물.\n사용처로써 비료, 동물의 사료(저영양)의 재료로 쓰인다.</RiceBran.description>
+  <RiceBran.description>현미를 정미할 때의 부산물.\n사용처로써 비료, 동물의 사료(저영양)의 재료로 쓰입니다.</RiceBran.description>
 
-  <RiceByproduct.label>By-Products bag</RiceByproduct.label>
-  <RiceByproduct.description>A bag full of by-products of rice. It can be processed into compost and animal feed\nAlso, you can sort to Rice bran or Outher hull at the Rice crafting spot.</RiceByproduct.description>
+  <RiceByproduct.label>부산물 자루</RiceByproduct.label>
+  <RiceByproduct.description>쌀의 부산물이 담겨있는 자루. 퇴비나 동물 사료로써 가공할 수 있습니다./n또한, 농작물 가공실에서 쌀겨와 왕겨로 분리할 수 있습니다.</RiceByproduct.description>
 
 
 </LanguageData>
