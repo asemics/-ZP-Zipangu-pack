@@ -1,17 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <ZP_RawJapaneseRadish.label>大根</ZP_RawJapaneseRadish.label>
-  <ZP_RawJapaneseRadish.description>生の大根</ZP_RawJapaneseRadish.description>
+  <ZP_RawJapaneseRadish.label>무</ZP_RawJapaneseRadish.label>
+  <ZP_RawJapaneseRadish.description>생 무입니다. 그냥 먹으면 아삭아삭합니다.</ZP_RawJapaneseRadish.description>
 
-  <ZP_RawTaro.label>里芋</ZP_RawTaro.label>
-  <ZP_RawTaro.description>生の里芋。コンニャク芋の代わりにもなる。</ZP_RawTaro.description>
+  <ZP_RawTaro.label>토란</ZP_RawTaro.label>
+  <ZP_RawTaro.description>생 토란. 곤약 감자 대신으로도 쓰입니다.</ZP_RawTaro.description>
 
-  <ZP_RawGreenOnion.label>長ネギ</ZP_RawGreenOnion.label>
-  <ZP_RawGreenOnion.description>生の長ネギ。</ZP_RawGreenOnion.description>
+  <ZP_RawGreenOnion.label>대파</ZP_RawGreenOnion.label>
+  <ZP_RawGreenOnion.description>생 대파. 그냥 먹으면 맵기만 합니다.</ZP_RawGreenOnion.description>
 
-  <ZP_MandarinOrange.label>みかん</ZP_MandarinOrange.label>
-  <ZP_MandarinOrange.description>甘酸っぱくて美味しいみかん。</ZP_MandarinOrange.description>
+  <ZP_MandarinOrange.label>귤</ZP_MandarinOrange.label>
+  <ZP_MandarinOrange.description>먹기 편리하고 달콤 새콤한 맛있는 귤입니다.</ZP_MandarinOrange.description>
 
 
 </LanguageData>
