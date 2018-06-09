@@ -1,14 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <ZP_Fish.label>Fish</ZP_Fish.label>
-  <ZP_Fish.description>Fish raised in aquaculture net. Mysterious fish whose taste changes according to cooking method.</ZP_Fish.description>
+  <ZP_Fish.label>생선</ZP_Fish.label>
+  <ZP_Fish.description>활어조에서 자란 물고기. 영양이 풍부하며 좋은 단백질의 공급원입니다.</ZP_Fish.description>
 
-  <ZP_SoyBeen.label>SoyBeen</ZP_SoyBeen.label>
-  <ZP_SoyBeen.description>When cooking soybeans it can be treated as meat. Raw materials for miso and soy sauce.</ZP_SoyBeen.description>
+  <ZP_SoyBeen.label>대두</ZP_SoyBeen.label>
+  <ZP_SoyBeen.description>고기의 대체품으로 이용이 가능한 맛있는 콩. 보존성이 높으며 된장과 간장의 주 재료로 쓰입니다.</ZP_SoyBeen.description>
 
-  <ZP_Edamame.label>Edamame</ZP_Edamame.label>
-  <ZP_Edamame.description>Although preservation and nutritional value are low, it is convenient as a substitute for meat because it grows fast.</ZP_Edamame.description>
+  <ZP_Edamame.label>풋콩</ZP_Edamame.label>
+  <ZP_Edamame.description>대두가 성숙되지 않은 상태에서 수확한 콩. 보존성과 영양가는 낮지만, 그대신 수확 기간이 짧고 고기의 대체품으로 편리합니다. </ZP_Edamame.description>
 
 
 </LanguageData>
