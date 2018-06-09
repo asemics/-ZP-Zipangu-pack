@@ -3,26 +3,26 @@
 
   <!-- 大盾　Base 土嚢 -->
 
-  <ZP_KaiShield.label>Kaitate</ZP_KaiShield.label>
-  <ZP_KaiShield.description>An installation type shield that can prevent shooting.\nIt is an inexpensive shield with a high coverage rate and made by a quick construction, but it needs to be careful as the durability burns considerably low.</ZP_KaiShield.description>
-  <ZP_KaiShield_Blueprint.label>Kaitate(blueprint)</ZP_KaiShield_Blueprint.label>
-  <ZP_KaiShield_Frame.label>Kaitete(building)</ZP_KaiShield_Frame.label>
-  <ZP_KaiShield_Frame.description>An installation type shield that can prevent shooting.\nIt is an inexpensive shield with a high coverage rate and made by a quick construction, but it needs to be careful as the durability burns considerably low.</ZP_KaiShield_Frame.description>
+  <ZP_KaiShield.label>카키타테</ZP_KaiShield.label>
+  <ZP_KaiShield.description>총격을 막을 수 있는 설치형 방패./n커버율이 매우 높은 급조로 만든 값싼 방패이며, 내구도가 꽤 낮고 타기 쉬우므로 주의.</ZP_KaiShield.description>
+  <ZP_KaiShield_Blueprint.label>>카키타테 (도면)</ZP_KaiShield_Blueprint.label>
+  <ZP_KaiShield_Frame.label>>카키타테 (건설 중)</ZP_KaiShield_Frame.label>
+  <ZP_KaiShield_Frame.description>총격을 막을 수 있는 설치형 방패./n커버율이 매우 높은 급조로 만든 값싼 방패이며, 내구도가 꽤 낮고 타기 쉬우므로 주의.</ZP_KaiShield_Frame.description>
 
 
   <!-- 火計用藁　Base 土嚢 -->
 
-  <ZP_StrawLump.label>Straw mass</ZP_StrawLump.label>
-  <ZP_StrawLump.description>Flammable straw clumps. By arranging and burning, it is possible to create a wall of fire. Since it deals with fire, you must be careful in operation.</ZP_StrawLump.description>
-  <ZP_StrawLump_Blueprint.label>Straw mass(blueprint)</ZP_StrawLump_Blueprint.label>
-  <ZP_StrawLump_Frame.label>Straw mass(building)</ZP_StrawLump_Frame.label>
-  <ZP_StrawLump_Frame.description>Flammable straw clumps. By arranging and burning, it is possible to create a wall of fire. Since it deals with fire, you must be careful in operation.</ZP_StrawLump_Frame.description>
+  <ZP_StrawLump.label>짚 더미</ZP_StrawLump.label>
+  <ZP_StrawLump.description>타기 쉬운 짚 더미. 나란히 배치한뒤 점화하면 불의 벽을 만들어 낼 수 있습니다. 불을 취급하므로 운용시 주의가 필요합니다.</ZP_StrawLump.description>
+  <ZP_StrawLump_Blueprint.label>짚 더미 (도면)</ZP_StrawLump_Blueprint.label>
+  <ZP_StrawLump_Frame.label>짚 더미 (건설 중)</ZP_StrawLump_Frame.label>
+  <ZP_StrawLump_Frame.description>타기 쉬운 짚 더미. 나란히 배치한뒤 점화하면 불의 벽을 만들어 낼 수 있습니다. 불을 취급하므로 운용시 주의가 필요합니다.</ZP_StrawLump_Frame.description>
 
-  <ZP_StrawLump_Gunpowder.label>Gunpowder in Straw mass</ZP_StrawLump_Gunpowder.label>
-  <ZP_StrawLump_Gunpowder.description>A mass of straw containing explosives. It can be exploded by burning. Since it deals with fire, you must be careful in operation.</ZP_StrawLump_Gunpowder.description>
-  <ZP_StrawLump_Gunpowder_Blueprint.label>Gunpowder in Straw mass(blueprint)</ZP_StrawLump_Gunpowder_Blueprint.label>
-  <ZP_StrawLump_Gunpowder_Frame.label>Gunpowder in Straw mass(building)</ZP_StrawLump_Gunpowder_Frame.label>
-  <ZP_StrawLump_Gunpowder_Frame.description>A mass of straw containing explosives. It can be exploded by burning. Since it deals with fire, you must be careful in operation.</ZP_StrawLump_Gunpowder_Frame.description>
+  <ZP_StrawLump_Gunpowder.label>화약 짚 더미</ZP_StrawLump_Gunpowder.label>
+  <ZP_StrawLump_Gunpowder.description>화약이 섞여있는 짚 더미. 점화하면 폭발합니다./n불을 취급하므로 운용시 주의가 필요합니다. ※주: 놓는 방법에 의해 습격 난이도가 많이 저하됩니다.</ZP_StrawLump_Gunpowder.description>
+  <ZP_StrawLump_Gunpowder_Blueprint.label>화약 짚 더미 (도면)</ZP_StrawLump_Gunpowder_Blueprint.label>
+  <ZP_StrawLump_Gunpowder_Frame.label>화약 짚 더미 (건설 중)</ZP_StrawLump_Gunpowder_Frame.label>
+  <ZP_StrawLump_Gunpowder_Frame.description>화약이 섞여있는 짚 더미. 점화하면 폭발합니다./n불을 취급하므로 운용시 주의가 필요합니다. ※주: 놓는 방법에 의해 습격 난이도가 많이 저하됩니다.</ZP_StrawLump_Gunpowder_Frame.description>
 
 
 </LanguageData>
