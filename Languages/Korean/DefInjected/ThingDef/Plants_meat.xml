@@ -1,14 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <ZP_AquacultureFish.label>Farmed fish</ZP_AquacultureFish.label>
-  <ZP_AquacultureFish.description>You can harvest fish with a long growing season but very nutritious value.</ZP_AquacultureFish.description>
+  <ZP_AquacultureFish.label>양식어</ZP_AquacultureFish.label>
+  <ZP_AquacultureFish.description>성장 기간이 길지만 매우 영양가 높은 생선을 수확할 수 있습니다.</ZP_AquacultureFish.description>
 
-  <ZP_PlantSoy.label>Soybeans</ZP_PlantSoy.label>
-  <ZP_PlantSoy.description>The Soybeans which is the meat of the field. Growth is slow, but it grows even on lean land so it is useful.</ZP_PlantSoy.description>
+  <ZP_PlantSoy.label>대두</ZP_PlantSoy.label>
+  <ZP_PlantSoy.description>식물의 고기라고도 불리는 대두를 심을 수 있습니다. 성장은 느리지만, 메마른 땅에서도 자라서 많이들 애용합니다.</ZP_PlantSoy.description>
 
-  <ZP_PlantEdamame.label>Edamame</ZP_PlantEdamame.label>
-  <ZP_PlantEdamame.description>The Edamame(Immune Soybeans) Growth is fast but nutritional value is low. It grows even in a thin land so it is useful.</ZP_PlantEdamame.description>
+  <ZP_PlantEdamame.label>풋콩</ZP_PlantEdamame.label>
+  <ZP_PlantEdamame.description>식물의 고기라고도 불리는 대두를 성숙되기 전에 수확하는 콩. 그로 인해 수확 하기까지의 시간이 짧지만 영양가가 낮습니다. 메마른 땅에서도 자라서 많이들 애용합니다.</ZP_PlantEdamame.description>
 
 
 </LanguageData>
