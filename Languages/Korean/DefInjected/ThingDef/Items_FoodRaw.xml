@@ -1,41 +1,41 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <R_SeasonedMeat.label>장조림</R_SeasonedMeat.label>
-  <R_SeasonedMeat.description>조미료로 고기의 구린내를 지워 보존성을 조금 높인 고기.\n생으로도 먹을 수 있고, 조리에도 쓰인다.</R_SeasonedMeat.description>
+  <R_SeasonedMeat.label>양념된 고기</R_SeasonedMeat.label>
+  <R_SeasonedMeat.description>조미료로 고기의 구린내를 없애고 영양소와 보존성을 조금 높인 양념된 고기.\n생으로도 먹을 수 있고, 조리에도 쓰입니다.</R_SeasonedMeat.description>
 
-  <R_FreezeMochi.label>말린 떡</R_FreezeMochi.label>
-  <R_FreezeMochi.description>떡을 물에 담구어 얼린 것을,찬바람에 노출시켜 건조된 보존식.\n생으로도 먹을 수 있고, 조리에도 쓰인다.</R_FreezeMochi.description>
+  <R_FreezeMochi.label>코오리모찌</R_FreezeMochi.label>
+  <R_FreezeMochi.description>떡을 아주 추운날 밖에서 찬바람에 노출시켜 얼리고 건조시킨 보존식.\n생으로도 먹을 수 있고, 조리에도 쓰입니다.</R_FreezeMochi.description>
 
-  <ZP_RiceBranPickled.label>Nukaduke</ZP_RiceBranPickled.label>
-  <ZP_RiceBranPickled.description>A preserved meal made vegetables in Nuka(rice bran).\nYou can eat raw this, and make for cooking.</ZP_RiceBranPickled.description>
+  <ZP_RiceBranPickled.label>누카즈케</ZP_RiceBranPickled.label>
+  <ZP_RiceBranPickled.description>누카도코(쌀겨에 소금과 물을 섞어 통에 담은 것)에 야채를 절여놓은 음식입니다.\n생으로도 먹을 수 있고, 조리에도 쓰입니다.</ZP_RiceBranPickled.description>
 
-  <ZP_DriedFish.label>Dried fish</ZP_DriedFish.label>
-  <ZP_DriedFish.description>A preserved food dried to keep raw fish from decaying.\nYou can eat raw this, and make for cooking.</ZP_DriedFish.description>
+  <ZP_DriedFish.label>말린 생선</ZP_DriedFish.label>
+  <ZP_DriedFish.description>생선을 말려서 보존성을 높인 음식입니다.\n생으로도 먹을 수 있고, 조리에도 쓰입니다.</ZP_DriedFish.description>
 
-  <ZP_FermentedSoybeans.label>Natto</ZP_FermentedSoybeans.label>
-  <ZP_FermentedSoybeans.description>Fermented Japanese food fermented Soybean with Bacillus Natto. \nYou can eat raw this, and make for cooking.</ZP_FermentedSoybeans.description>
+  <ZP_FermentedSoybeans.label>낫토</ZP_FermentedSoybeans.label>
+  <ZP_FermentedSoybeans.description>대두를 낫토균으로 발효시킨 일본의 발효식품.\n생으로도 먹을 수 있고, 조리에도 쓰입니다.</ZP_FermentedSoybeans.description>
 
-  <Rawtofu.label>豆腐</Rawtofu.label>
-  <Rawtofu.description>タンパク質が豊富な大豆の加工食品。肉の代用品としても使える。\n生でも食べれて、調理にも使える。</Rawtofu.description>
+  <Rawtofu.label>두부</Rawtofu.label>
+  <Rawtofu.description>단백질이 풍부한 콩의 가공 식품. 고기 대용으로 쓸 수도 있습니다.\n생으로도 먹을 수 있고, 조리에도 쓰입니다.</Rawtofu.description>
 
-  <ZP_Soymilk.label>豆乳</ZP_Soymilk.label>
-  <ZP_Soymilk.description>豆を搾って作った飲料。ミルクの代用品にもなる。\n生でも飲めて、調理にも使える。</ZP_Soymilk.description>
+  <ZP_Soymilk.label>두유</ZP_Soymilk.label>
+  <ZP_Soymilk.description>콩을 짜고 만든 음료. 우유의 대용품으로 사용이 가능해, 우유를 못마시는 사람들이 애용합니다.\n생으로도 먹을 수 있고, 조리에도 쓰입니다.</ZP_Soymilk.description>
 
-  <Flour.label>穀物粉</Flour.label>
-  <Flour.description>穀物をひいた粉。</Flour.description>
+  <Flour.label>밀가루</Flour.label>
+  <Flour.description>밀을 빻은 가루. 면류의 주 재료입니다.</Flour.description>
 
-  <ZP_Konnyaku.label>こんにゃく</ZP_Konnyaku.label>
-  <ZP_Konnyaku.description>里芋から作った加工食品。\n生でも食べれて、調理にも使える。</ZP_Konnyaku.description>
+  <ZP_Konnyaku.label>곤약</ZP_Konnyaku.label>
+  <ZP_Konnyaku.description>토란으로 만든 가공식품./n생으로도 먹을 수 있고, 조리에도 쓰입니다.</ZP_Konnyaku.description>
 
-  <ZP_Tikuwa.label>ちくわ</ZP_Tikuwa.label>
-  <ZP_Tikuwa.description>魚から作った加工食品。肉の代用品としても使える。\n生でも食べれて、調理にも使える。</ZP_Tikuwa.description>
+  <ZP_Tikuwa.label>치쿠와</ZP_Tikuwa.label>
+  <ZP_Tikuwa.description>생선으로 만든 가공식품. 고기 대용으로 쓸 수 있습니다.\n생으로도 먹을 수 있고, 조리에도 쓰입니다.</ZP_Tikuwa.description>
 
-  <ZP_Tanpo.label>たんぽ</ZP_Tanpo.label>
-  <ZP_Tanpo.description>つぶしたお米を棒に巻きつけて焼いたもの。棒から外して切ったものを「きりたんぽ」という。\n生でも食べれて、調理にも使える。</ZP_Tanpo.description>
+  <ZP_Tanpo.label>기리탄포</ZP_Tanpo.label>
+  <ZP_Tanpo.description>으깬 쌀을 막대기에 싸서 구운 것. 막대에서 벗겨내고 자른 것을 "기리탄포"라고 알려졌습니다.\n생으로도 먹을 수 있고, 조리에도 쓰입니다.</ZP_Tanpo.description>
 
-  <ZP_FishFillet.label>魚の切り身</ZP_FishFillet.label>
-  <ZP_FishFillet.description>料理に使いやすいようにさばいた魚の切り身。\n生でも食べれて、調理にも使える。</ZP_FishFillet.description>
+  <ZP_FishFillet.label>생선 토막</ZP_FishFillet.label>
+  <ZP_FishFillet.description>요리에 사용하기 쉽게 처리한 생선 토막입니다.\n생으로도 먹을 수 있고, 조리에도 쓰입니다.</ZP_FishFillet.description>
 
 
 </LanguageData>
