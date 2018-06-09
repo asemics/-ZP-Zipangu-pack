@@ -3,19 +3,19 @@
 
   <!-- 畳 -->
 
-  <Tatami_1Green.label>1Tatami(Green)</Tatami_1Green.label>
-  <Tatami_1Green.description>Tatami of 1 quire size.Tatami has a function to purify air and adjust humidity.Also flame retardancy is very good so it will not burn even if a fire occurs.</Tatami_1Green.description>
-  <Tatami_1Green_Blueprint.label>1Tatami(Green) (blueprint)</Tatami_1Green_Blueprint.label>
-  <Tatami_1Green_Blueprint_Install.label>Tatami(Green) (blueprint)</Tatami_1Green_Blueprint_Install.label>
-  <Tatami_1Green_Frame.label>Tatami(Green) (building)</Tatami_1Green_Frame.label>
-  <Tatami_1Green_Frame.description>Tatami of 1 quire size.Tatami has a function to purify air and adjust humidity.Also flame retardancy is very good so it will not burn even if a fire occurs.</Tatami_1Green_Frame.description>
+  <Tatami_1Green.label>다다미(녹)</Tatami_1Green.label>
+  <Tatami_1Green.description>1매분 크기의 다다미. 다다미는 공기를 정화하며 습도를 조정하는 기능을 가지고 있습니다./n또한 난연성도 매우 뛰어나서 화재가 일어나도 타지 않습니다.</Tatami_1Green.description>
+  <Tatami_1Green_Blueprint.label>다다미 (녹) (도면)</Tatami_1Green_Blueprint.label>
+  <Tatami_1Green_Blueprint_Install.label>다다미(녹) (도면)</Tatami_1Green_Blueprint_Install.label>
+  <Tatami_1Green_Frame.label다다미(녹) (건설 중)</Tatami_1Green_Frame.label>
+  <Tatami_1Green_Frame.description>1매분 크기의 다다미. 다다미는 공기를 정화하며 습도를 조정하는 기능을 가지고 있습니다./n또한 난연성도 매우 뛰어나서 화재가 일어나도 타지 않습니다.</Tatami_1Green_Frame.description>
 
-  <Tatami_1Yellow.label>1Tatami(Yellow)</Tatami_1Yellow.label>
-  <Tatami_1Yellow.description>Tatami of 1 quire size.Tatami has a function to purify air and adjust humidity.Also flame retardancy is very good so it will not burn even if a fire occurs.</Tatami_1Yellow.description>
-  <Tatami_1Yellow_Blueprint.label>1Tatami(Yellow) (blueprint)</Tatami_1Yellow_Blueprint.label>
-  <Tatami_1Yellow_Blueprint_Install.label>1Tatami(Yellow) (blueprint)</Tatami_1Yellow_Blueprint_Install.label>
-  <Tatami_1Yellow_Frame.label>1Tatami(Yellow) (building)</Tatami_1Yellow_Frame.label>
-  <Tatami_1Yellow_Frame.description>Tatami of 1 quire size.Tatami has a function to purify air and adjust humidity.Also flame retardancy is very good so it will not burn even if a fire occurs.</Tatami_1Yellow_Frame.description>
+  <Tatami_1Yellow.label>다다미(황)</Tatami_1Yellow.label>
+  <Tatami_1Yellow.description>1매분 크기의 다다미. 다다미는 공기를 정화하며 습도를 조정하는 기능을 가지고 있습니다./n또한 난연성도 매우 뛰어나서 화재가 일어나도 타지 않습니다.</Tatami_1Yellow.description>
+  <Tatami_1Yellow_Blueprint.label>다다미(황) (도면)</Tatami_1Yellow_Blueprint.label>
+  <Tatami_1Yellow_Blueprint_Install.label>다다미 (황) (도면)</Tatami_1Yellow_Blueprint_Install.label>
+  <Tatami_1Yellow_Frame.label>다다미(황) (건설 중)</Tatami_1Yellow_Frame.label>
+  <Tatami_1Yellow_Frame.description>1매분 크기의 다다미. 다다미는 공기를 정화하며 습도를 조정하는 기능을 가지고 있습니다./n또한 난연성도 매우 뛰어나서 화재가 일어나도 타지 않습니다.</Tatami_1Yellow_Frame.description>
 
 
 </LanguageData>
