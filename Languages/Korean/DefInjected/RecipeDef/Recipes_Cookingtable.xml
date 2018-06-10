@@ -5,120 +5,120 @@
 
   <MakeR_SeasonedMeat5.label>양념된 고기(5)</MakeR_SeasonedMeat5.label>
   <MakeR_SeasonedMeat5.description>조미료로 고기의 구린내를 없애고 영양소와 보존성을 조금 높인 양념된 고기를 만듭니다.</MakeR_SeasonedMeat5.description>
-  <MakeR_SeasonedMeat5.jobString>양념된 고기 제조</MakeR_SeasonedMeat5.jobString>
+  <MakeR_SeasonedMeat5.jobString>양념된 고기 제조중</MakeR_SeasonedMeat5.jobString>
 
   <MakeR_SeasonedMeat20.label>양념된 고기(20)</MakeR_SeasonedMeat20.label>
   <MakeR_SeasonedMeat20.description>조미료로 고기의 구린내를 없애고 영양소와 보존성을 조금 높인 양념된 고기를 만듭니다.</MakeR_SeasonedMeat20.description>
-  <MakeR_SeasonedMeat20.jobString>양념된 고기 제조</MakeR_SeasonedMeat20.jobString>
+  <MakeR_SeasonedMeat20.jobString>양념된 고기 제조중</MakeR_SeasonedMeat20.jobString>
 
   <MakeR_SeasonedMeat50.label>양념된 고기(50)</MakeR_SeasonedMeat50.label>
   <MakeR_SeasonedMeat50.description>조미료로 고기의 구린내를 없애고 영양소와 보존성을 조금 높인 양념 고기를 만듭니다.</MakeR_SeasonedMeat50.description>
-  <MakeR_SeasonedMeat50.jobString>양념된 고기 제조</MakeR_SeasonedMeat50.jobString>
+  <MakeR_SeasonedMeat50.jobString>양념된 고기 제조중</MakeR_SeasonedMeat50.jobString>
 
 
   <!-- 凍り餅 -->
 
   <CookFreezeMochi10.label>코오리모찌(10)</CookFreezeMochi10.label>
   <CookFreezeMochi10.description>떡을 아주 추운날 밖에서 찬바람에 노출시켜 얼리고 건조시킵니다.</CookFreezeMochi10.description>
-  <CookFreezeMochi10.jobString>코오리모찌 제조</CookFreezeMochi10.jobString>
+  <CookFreezeMochi10.jobString>코오리모찌 제조중</CookFreezeMochi10.jobString>
 
 
   <!-- 削除予定 -->
 
   <CookFreezeMochi20.label>코오리모찌(20)</CookFreezeMochi20.label>
   <CookFreezeMochi20.description>떡을 아주 추운날 밖에서 찬바람에 노출시켜 얼리고 건조시킵니다.</CookFreezeMochi20.description>
-  <CookFreezeMochi20.jobString>코오리모찌 제조</CookFreezeMochi20.jobString>
+  <CookFreezeMochi20.jobString>코오리모찌 제조중</CookFreezeMochi20.jobString>
 
   <CookFreezeMochi50.label>코오리모찌(50)</CookFreezeMochi50.label>
   <CookFreezeMochi50.description>떡을 아주 추운날 밖에서 찬바람에 노출시켜 얼리고 건조시킵니다.</CookFreezeMochi50.description>
-  <CookFreezeMochi50.jobString>코오리모찌 제조</CookFreezeMochi50.jobString>
+  <CookFreezeMochi50.jobString>코오리모찌 제조중</CookFreezeMochi50.jobString>
   
   <CookFreezeMochi100.label>코오리모찌(100)</CookFreezeMochi100.label>
   <CookFreezeMochi100.description>떡을 아주 추운날 밖에서 찬바람에 노출시켜 얼리고 건조시킵니다.</CookFreezeMochi100.description>
-  <CookFreezeMochi100.jobString>코오리모찌 제조</CookFreezeMochi100.jobString>
+  <CookFreezeMochi100.jobString>코오리모찌 제조중</CookFreezeMochi100.jobString>
 
 
   <!-- たんぽ -->
 
   <CookTanpo10.label>기리탄포(10)</CookTanpo10.label>
   <CookTanpo10.description>반정도 으깬 밥을 나무막대기에 원통형으로 붙인뒤 구워먹는 일본음식입니다.</CookTanpo10.description>
-  <CookTanpo10.jobString>기리탄포 요리</CookTanpo10.jobString>
+  <CookTanpo10.jobString>기리탄포 요리중</CookTanpo10.jobString>
 
   <CookTanpo50.label>기리탄포(50)</CookTanpo50.label>
   <CookTanpo50.description>반정도 으깬 밥을 나무막대기에 원통형으로 붙인뒤 구워먹는 일본음식입니다.</CookTanpo50.description>
-  <CookTanpo50.jobString>기리탄포 요리</CookTanpo50.jobString>
+  <CookTanpo50.jobString>기리탄포 요리중</CookTanpo50.jobString>
 
 
   <!-- ぬか漬け -->
 
   <CookRiceBranPickled10.label>누카즈케(10)</CookRiceBranPickled10.label>
   <CookRiceBranPickled10.description>누카도코(쌀겨에 소금과 물을 섞어 통에 담은 것)에 야채를 절여놓은 음식입니다.</CookRiceBranPickled10.description>
-  <CookRiceBranPickled10.jobString>누카즈케 요리</CookRiceBranPickled10.jobString>
+  <CookRiceBranPickled10.jobString>누카즈케 요리중</CookRiceBranPickled10.jobString>
 
 
   <!-- 削除予定 -->
 
   <CookRiceBranPickled20.label>누카즈케(20)</CookRiceBranPickled20.label>
   <CookRiceBranPickled20.description>누카도코(쌀겨에 소금과 물을 섞어 통에 담은 것)에 야채를 절여놓은 음식입니다.</CookRiceBranPickled20.description>
-  <CookRiceBranPickled20.jobString>누카즈케 요리</CookRiceBranPickled20.jobString>
+  <CookRiceBranPickled20.jobString>누카즈케 요리중</CookRiceBranPickled20.jobString>
 
   <CookRiceBranPickled50.label>누카즈케(50)</CookRiceBranPickled50.label>
   <CookRiceBranPickled50.description>누카도코(쌀겨에 소금과 물을 섞어 통에 담은 것)에 야채를 절여놓은 음식입니다.</CookRiceBranPickled50.description>
-  <CookRiceBranPickled50.jobString>누카즈케 요리</CookRiceBranPickled50.jobString>
+  <CookRiceBranPickled50.jobString>누카즈케 요리중</CookRiceBranPickled50.jobString>
 
 
   <!-- 納豆 -->
 
   <CookFermentedSoybeans10.label>낫토(10)</CookFermentedSoybeans10.label>
   <CookFermentedSoybeans10.description>콩을 삶은 다음 볏짚 더미에 싸서 발효시키는 음식입니다.</CookFermentedSoybeans10.description>
-  <CookFermentedSoybeans10.jobString>낫토 요리</CookFermentedSoybeans10.jobString>
+  <CookFermentedSoybeans10.jobString>낫토 요리중</CookFermentedSoybeans10.jobString>
 
 
   <!-- 削除予定 -->
 
   <CookFermentedSoybeans20.label>낫토(20)</CookFermentedSoybeans20.label>
   <CookFermentedSoybeans20.description>콩을 삶은 다음 볏짚 더미에 싸서 발효시키는 음식입니다.</CookFermentedSoybeans20.description>
-  <CookFermentedSoybeans20.jobString>낫토 요리</CookFermentedSoybeans20.jobString>
+  <CookFermentedSoybeans20.jobString>낫토 요리중</CookFermentedSoybeans20.jobString>
 
   <CookFermentedSoybeans50.label>낫토(50)</CookFermentedSoybeans50.label>
   <CookFermentedSoybeans50.description>콩을 삶은 다음 볏짚 더미에 싸서 발효시키는 음식입니다.</CookFermentedSoybeans50.description>
-  <CookFermentedSoybeans50.jobString>낫토 요리</CookFermentedSoybeans50.jobString>
+  <CookFermentedSoybeans50.jobString>낫토 요리중</CookFermentedSoybeans50.jobString>
 
   <CookDriedFish10.label>말린 생선(10)</CookDriedFish10.label>
   <CookDriedFish10.description>생선을 말려서 오래 보존할 수 있게 합니다.</CookDriedFish10.description>
-  <CookDriedFish10.jobString>생선 말리기<CookDriedFish10.jobString>
+  <CookDriedFish10.jobString>생선을 말리는중</CookDriedFish10.jobString>
 
   <CookDriedFish20.label>말린 생선(20)</CookDriedFish20.label>
   <CookDriedFish20.description>생선을 말려서 오래 보존할 수 있게 합니다.</CookDriedFish20.description>
-  <CookDriedFish20.jobString>생선 말리기</CookDriedFish20.jobString>
+  <CookDriedFish20.jobString>생선을 말리는중</CookDriedFish20.jobString>
 
   <CookDriedFish50.label>말린 생선(50)</CookDriedFish50.label>
   <CookDriedFish50.description>생선을 말려서 오래 보존할 수 있게 합니다.</CookDriedFish50.description>
-  <CookDriedFish50.jobString>생선 말리기</CookDriedFish50.jobString>
+  <CookDriedFish50.jobString>생선을 말리는중</CookDriedFish50.jobString>
 
   <CookTikuwa5.label>치쿠와(10)</CookTikuwa5.label>
   <CookTikuwa5.description>어육을 다져 으깬 것을 대나무 등의 봉에 붙여서 굽거나 찐 음식입니다.</CookTikuwa5.description>
-  <CookTikuwa5.jobString>치쿠와 요리</CookTikuwa5.jobString>
+  <CookTikuwa5.jobString>치쿠와 요리중</CookTikuwa5.jobString>
 
   <CookTikuwa10.label>치쿠와(50)</CookTikuwa10.label>
   <CookTikuwa10.description>어육을 다져 으깬 것을 대나무 등의 봉에 붙여서 굽거나 찐 음식입니다.</CookTikuwa10.description>
-  <CookTikuwa10.jobString>치쿠와 요리/CookTikuwa10.jobString>
+  <CookTikuwa10.jobString>치쿠와 요리중</CookTikuwa10.jobString>
 
   <CookFishFillet.label>생선 토막(10)</CookFishFillet.label>
   <CookFishFillet.description>생선을 먹기 좋은 크기로 토막낸 음식입니다.</CookFishFillet.description>
-  <CookFishFillet.jobString>생선 토막내기</CookFishFillet.jobString>
+  <CookFishFillet.jobString>생선 토막내는중</CookFishFillet.jobString>
 
   <CookFishFillet10.label>생선 토막(50)</CookFishFillet10.label>
   <CookFishFillet10.description>생선을 먹기 좋은 크기로 토막낸 음식입니다.</CookFishFillet10.description>
-  <CookFishFillet10.jobString>생선 토막내기</CookFishFillet10.jobString>
+  <CookFishFillet10.jobString>생선 토막내는중</CookFishFillet10.jobString>
 
   <ZP_CookTofu10.label>두부(10)</ZP_CookTofu10.label>
   <ZP_CookTofu10.description>두유를 응고시켜 만든 두부입니다.</ZP_CookTofu10.description>
-  <ZP_CookTofu10.jobString>두부 요리</ZP_CookTofu10.jobString>
+  <ZP_CookTofu10.jobString>두부 요리중</ZP_CookTofu10.jobString>
 
   <ZP_CookTofu50.label>두부(50)</ZP_CookTofu50.label>
   <ZP_CookTofu50.description>두유를 응고시켜 만든 두부입니다.</ZP_CookTofu50.description>
-  <ZP_CookTofu50.jobString>두부 </ZP_CookTofu50.jobString>
+  <ZP_CookTofu50.jobString>두부 요리중</ZP_CookTofu50.jobString>
 
 
 </LanguageData>
