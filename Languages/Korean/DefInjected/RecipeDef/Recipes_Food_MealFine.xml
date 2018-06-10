@@ -5,70 +5,70 @@
 
   <CookBRTKG1.label>현미 간장 계란밥</CookBRTKG1.label>
   <CookBRTKG1.description>현미로 된 밥에 간장과 계란을 뿌린 요리를 만듭니다.</CookBRTKG1.description>
-  <CookBRTKG1.jobString>현미 간장 계란밥 요리</CookBRTKG1.jobString>
+  <CookBRTKG1.jobString>현미 간장 계란밥 요리중</CookBRTKG1.jobString>
 
   <CookBRTKG4.label>현미 간장 계란밥(4)</CookBRTKG4.label>
   <CookBRTKG4.description>현미로 된 밥에 간장과 계란을 뿌린 요리를 4개 만듭니다.</CookBRTKG4.description>
-  <CookBRTKG4.jobString>현미 간장 계란밥 요리</CookBRTKG4.jobString>
+  <CookBRTKG4.jobString>현미 간장 계란밥 요리중</CookBRTKG4.jobString>
 
   <CookWRTKG1.label>간장 계란밥</CookWRTKG1.label>
   <CookWRTKG1.description>흰 쌀밥에 간장과 계란을 뿌린 요리를 만듭니다.</CookWRTKG1.description>
-  <CookWRTKG1.jobString>간장 계란밥 요리</CookWRTKG1.jobString>
+  <CookWRTKG1.jobString>간장 계란밥 요리중</CookWRTKG1.jobString>
 
   <CookWRTKG4.label>간장 계란밥(4)</CookWRTKG4.label>
   <CookWRTKG4.description>흰 쌀밥에 간장과 계란을 뿌린 요리를 4개 만듭니다.</CookWRTKG4.description>
-  <CookWRTKG4.jobString>간장 계란밥 요리</CookWRTKG4.jobString>
+  <CookWRTKG4.jobString>간장 계란밥 요리중</CookWRTKG4.jobString>
 
 
   <!-- 手の込んだ食事　肉丼 -->
 
   <CookBRGyudon1.label>현미 고기 덮밥</CookBRGyudon1.label>
   <CookBRGyudon1.description>현미로 지은 쌀에 고기를 얹은 덮밥을 만듭니다.</CookBRGyudon1.description>
-  <CookBRGyudon1.jobString>현미 고기 덮밥 요리</CookBRGyudon1.jobString>
+  <CookBRGyudon1.jobString>현미 고기 덮밥 요리중</CookBRGyudon1.jobString>
 
   <CookBRGyudon4.label>현미 고기 덮밥(4)</CookBRGyudon4.label>
   <CookBRGyudon4.description>현미로 지은 쌀에 고기를 얹은 덮밥을 4개 만듭니다.</CookBRGyudon4.description>
-  <CookBRGyudon4.jobString>현미 고기 덮밥 요리</CookBRGyudon4.jobString>
+  <CookBRGyudon4.jobString>현미 고기 덮밥 요리중</CookBRGyudon4.jobString>
 
   <CookWRGyudon1.label>고기 덮밥</CookWRGyudon1.label>
   <CookWRGyudon1.description>흰쌀밥에 고기를 얹은 덮밥을 만듭니다.</CookWRGyudon1.description>
-  <CookWRGyudon1.jobString>고기 덮밥 요리</CookWRGyudon1.jobString>
+  <CookWRGyudon1.jobString>고기 덮밥 요리중</CookWRGyudon1.jobString>
 
   <CookWRGyudon4.label>고기 덮밥(4)</CookWRGyudon4.label>
   <CookWRGyudon4.description>흰쌀밥에 고기를 얹은 덮밥을 4개 만듭니다.</CookWRGyudon4.description>
-  <CookWRGyudon4.jobString>고기 덮밥 요리</CookWRGyudon4.jobString>
+  <CookWRGyudon4.jobString>고기 덮밥 요리중</CookWRGyudon4.jobString>
 
   <CookSasimi8.label>회(4)</CookSasimi8.label>
   <CookSasimi8.description>4마리의 생선으로 회를 뜹니다.</CookSasimi8.description>
-  <CookSasimi8.jobString>회 뜨기</CookSasimi8.jobString>
+  <CookSasimi8.jobString>회 뜨는중</CookSasimi8.jobString>
 
   <CookSaltGrilledFish8.label>소금 생선 구이(4)</CookSaltGrilledFish8.label>
   <CookSaltGrilledFish8.description>소금을 친 구운 생선을 요리합니다.</CookSaltGrilledFish8.description>
-  <CookSaltGrilledFish8.jobString>소금 생선 구이 요리</CookSaltGrilledFish8.jobString>
+  <CookSaltGrilledFish8.jobString>소금 생선 구이 요리중</CookSaltGrilledFish8.jobString>
 
   <CookSteamedFish8.label>생선 조림(4)</CookSteamedFish8.label>
   <CookSteamedFish8.description>생선 조림을 요리합니다.</CookSteamedFish8.description>
-  <CookSteamedFish8.jobString>생선 조림 요리</CookSteamedFish8.jobString>
+  <CookSteamedFish8.jobString>생선 조림 요리중</CookSteamedFish8.jobString>
 
   <CookGRTakikomi4.label>모둠솥밥(4)</CookGRTakikomi4.label>
   <CookGRTakikomi4.description>찹쌀과 채소류, 그리고 육류를 함께 솥에 찌는 요리를 만듭니다.</CookGRTakikomi4.description>
-  <CookGRTakikomi4.jobString>모둠솥밥 요리</CookGRTakikomi4.jobString>
+  <CookGRTakikomi4.jobString>모둠솥밥 요리중</CookGRTakikomi4.jobString>
 
   <CookTendon4.label>튀김 덮밥(4)</CookTendon4.label>
   <CookTendon4.description>새우튀김을 메인으로, 각종 튀김을 넣은 덮밥을 4인분 요리합니다.</CookTendon4.description>
-  <CookTendon4.jobString>튀김 덮밥 요리</CookTendon4.jobString>
+  <CookTendon4.jobString>튀김 덮밥 요리중</CookTendon4.jobString>
 
   <CookOkonomiyaki4.label>오코노미야키(4)</CookOkonomiyaki4.label>
   <CookOkonomiyaki4.description>오코노미야키를 4인분 요리합니다.</CookOkonomiyaki4.description>
-  <CookOkonomiyaki4.jobString>오코노미야키 요리</CookOkonomiyaki4.jobString>
+  <CookOkonomiyaki4.jobString>오코노미야키 요리중</CookOkonomiyaki4.jobString>
 
   <CookUdon4.label>우동(4)</CookUdon4.label>
   <CookUdon4.description>우동을 4개 요리합니다.</CookUdon4.description>
-  <CookUdon4.jobString>우동 요리</CookUdon4.jobString>
+  <CookUdon4.jobString>우동 요리중</CookUdon4.jobString>
 
   <CookOden8.label>오뎅(8)</CookOden8.label>
   <CookOden8.description>오뎅을 8개 요리합니다.</CookOden8.description>
-  <CookOden8.jobString>오뎅 요리</CookOden8.jobString>
+  <CookOden8.jobString>오뎅 요리중</CookOden8.jobString>
 
 
 </LanguageData>
