@@ -3,43 +3,43 @@
 
   <CookPuffedRice5.label>뻥튀기(2)</CookPuffedRice5.label>
   <CookPuffedRice5.description>쌀에 압력을 가한 후에 한 번에 해방한 것에 의해 부풀리게 합니다.</CookPuffedRice5.description>
-  <CookPuffedRice5.jobString>뻥튀기 요리</CookPuffedRice5.jobString>
+  <CookPuffedRice5.jobString>뻥튀기 제작중</CookPuffedRice5.jobString>
 
   <CookRiceCracker.label>전병(2)</CookRiceCracker.label>
   <CookRiceCracker.description>일본의 전통적인 과자인 전병을 2개 만듭니다.</CookRiceCracker.description>
-  <CookRiceCracker.jobString>전병 요리</CookRiceCracker.jobString>
+  <CookRiceCracker.jobString>전병 요리중</CookRiceCracker.jobString>
 
   <CookOkoshi.label>쌀과자(2)</CookOkoshi.label>
   <CookOkoshi.description>쌀을 가공하고 쌀엿으로 굳힌 과자를 2개 만듭니다.</CookOkoshi.description>
-  <CookOkoshi.jobString>쌀과자 요리</CookOkoshi.jobString>
+  <CookOkoshi.jobString>쌀과자 요리중</CookOkoshi.jobString>
 
   <CookKasutera.label>베이비 카스텔라(2)</CookKasutera.label>
   <CookKasutera.description>한 입에 넣어 먹기 편한 카스텔라를 2개 만듭니다.</CookKasutera.description>
-  <CookKasutera.jobString>베이비 카스텔라 제빵</CookKasutera.jobString>
+  <CookKasutera.jobString>베이비 카스텔라 제빵중</CookKasutera.jobString>
 
   <CookKompeito.label>별사탕(2)</CookKompeito.label>
   <CookKompeito.description>달고 맛있는 별사탕을 두개 만듭니다.</CookKompeito.description>
-  <CookKompeito.jobString>별사탕 제조</CookKompeito.jobString>
+  <CookKompeito.jobString>별사탕 제조중</CookKompeito.jobString>
 
   <CookCottonCandy.label>솜사탕(2)</CookCottonCandy.label>
   <CookCottonCandy.description>솜사탕을 2개 만듭니다.</CookCottonCandy.description>
-  <CookCottonCandy.jobString>솜사탕 제조</CookCottonCandy.jobString>
+  <CookCottonCandy.jobString>솜사탕 제조중</CookCottonCandy.jobString>
 
   <CookBoiledEdamame.label>소금을 친 삶은 풋콩(2)</CookBoiledEdamame.label>
   <CookBoiledEdamame.description>소금을 친 삶은 풋콩을 2개 만듭니다.</CookBoiledEdamame.description>
-  <CookBoiledEdamame.jobString>소금을 친 삶은 풋콩 요리</CookBoiledEdamame.jobString>
+  <CookBoiledEdamame.jobString>소금을 친 삶은 풋콩 요리중</CookBoiledEdamame.jobString>
 
   <CookYakitori.label>꼬치구이(2)</CookYakitori.label>
   <CookYakitori.description>양념이 된 고기와 파를 꼬챙이에 꿰어 굽는 꼬치 구이를 2개 만듭니다.</CookYakitori.description>
-  <CookYakitori.jobString>꼬치구이 요리</CookYakitori.jobString>
+  <CookYakitori.jobString>꼬치구이 요리중</CookYakitori.jobString>
 
   <CookHiyayakko.label>냉두부(2)</CookHiyayakko.label>
   <CookHiyayakko.description>고명을 얹고 간장을 친 두부 요리를 2개 만듭니다.</CookHiyayakko.description>
-  <CookHiyayakko.jobString>냉두부 요리</CookHiyayakko.jobString>
+  <CookHiyayakko.jobString>냉두부 요리중</CookHiyayakko.jobString>
 
   <CookMisotanpo.label>미소탄포(2)</CookMisotanpo.label>
   <CookMisotanpo.description>미소탄포를 2개 만듭니다.</CookMisotanpo.description>
-  <CookMisotanpo.jobString>미소탄포 </CookMisotanpo.jobString>
+  <CookMisotanpo.jobString>미소탄포 요리중</CookMisotanpo.jobString>
 
 
 </LanguageData>
