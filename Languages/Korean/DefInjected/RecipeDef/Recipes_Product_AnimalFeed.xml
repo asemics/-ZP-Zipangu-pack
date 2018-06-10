@@ -3,38 +3,38 @@
 
   <!-- 飼い葉作成 -->
 
-  <MakeR_Manger10.label>Manger(10)</MakeR_Manger10.label>
-  <MakeR_Manger10.description>Mix straw with rice bran and grain to make a manger.</MakeR_Manger10.description>
-  <MakeR_Manger10.jobString>Mixing</MakeR_Manger10.jobString>
+  <MakeR_Manger10.label>여물(10)</MakeR_Manger10.label>
+  <MakeR_Manger10.description>쌀겨나 곡물과 짚을 섞어 가축용 여물을 만듭니다.</MakeR_Manger10.description>
+  <MakeR_Manger10.jobString>여물을 섞는중</MakeR_Manger10.jobString>
 
 
   <!-- 削除予定 -->
 
-  <MakeR_Manger20.label>Manger(20)</MakeR_Manger20.label>
-  <MakeR_Manger20.description>Mix straw with rice bran and grain to make a manger.</MakeR_Manger20.description>
-  <MakeR_Manger20.jobString>Mixing</MakeR_Manger20.jobString>
+  <MakeR_Manger20.label>여물(20)</MakeR_Manger20.label>
+  <MakeR_Manger20.description>쌀겨나 곡물과 짚을 섞어 가축용 여물을 만듭니다.</MakeR_Manger20.description>
+  <MakeR_Manger20.jobString>여물을 섞는중</MakeR_Manger20.jobString>
 
-  <MakeR_Manger30.label>Manger(30)</MakeR_Manger30.label>
-  <MakeR_Manger30.description>Mix straw with rice bran and grain to make a manger.</MakeR_Manger30.description>
-  <MakeR_Manger30.jobString>Mixing</MakeR_Manger30.jobString>
+  <MakeR_Manger30.label>여물(30)</MakeR_Manger30.label>
+  <MakeR_Manger30.description>쌀겨나 곡물과 짚을 섞어 가축용 여물을 만듭니다.</MakeR_Manger30.description>
+  <MakeR_Manger30.jobString>여물을 섞는중</MakeR_Manger30.jobString>
 
 
   <!-- ペットフード作成 -->
 
-  <MakeR_PetFood150.label>Pet food(150)</MakeR_PetFood150.label>
-  <MakeR_PetFood150.description>Mix kibble and outher hull  (rice bran) and increase pet food.</MakeR_PetFood150.description>
-  <MakeR_PetFood150.jobString>Mixing</MakeR_PetFood150.jobString>
+  <MakeR_PetFood150.label>애완동물 사료(150)</MakeR_PetFood150.label>
+  <MakeR_PetFood150.description>동물용 사료와 쌀겨 및 왕겨를 섞어 보다 고품질의 사료를 만듭니다.</MakeR_PetFood150.description>
+  <MakeR_PetFood150.jobString>애완동물 사료 제조중</MakeR_PetFood150.jobString>
 
-  <MakeR_FishFood150.label>Fish food(150)</MakeR_FishFood150.label>
-  <MakeR_FishFood150.description>Make rice bran and crushed potatoes kneaded with water.</MakeR_FishFood150.description>
-  <MakeR_FishFood150.jobString>Naking Fish food</MakeR_FishFood150.jobString>
+  <MakeR_FishFood150.label>물고기 사료(150)</MakeR_FishFood150.label>
+  <MakeR_FishFood150.description>물에 감자를 으깬것과 쌀겨를 섞어 물고기 사료를 제조합니다.</MakeR_FishFood150.description>
+  <MakeR_FishFood150.jobString>물고기 사료 제조중</MakeR_FishFood150.jobString>
 
 
   <!-- ミミズ採取 -->
 
-  <ZP_CollectEarthworms.label>Capture earthworms</ZP_CollectEarthworms.label>
-  <ZP_CollectEarthworms.description>Capture earthworms that will improve soil and feed for fish.</ZP_CollectEarthworms.description>
-  <ZP_CollectEarthworms.jobString>Capturing earthworms</ZP_CollectEarthworms.jobString>
+  <ZP_CollectEarthworms.label>지렁이 채집</ZP_CollectEarthworms.label>
+  <ZP_CollectEarthworms.description>물고기 먹이와 토양 개발에 이용되는 지렁이를 채집합니다.</ZP_CollectEarthworms.description>
+  <ZP_CollectEarthworms.jobString>지렁이 채집중</ZP_CollectEarthworms.jobString>
 
 
 </LanguageData>
