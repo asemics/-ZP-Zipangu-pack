@@ -5,11 +5,11 @@
 
   <CookBROnigiri4.label>현미 주먹밥(4)</CookBROnigiri4.label>
   <CookBROnigiri4.description>현미 밥과 김으로 주먹밥을 4개 만듭니다.</CookBROnigiri4.description>
-  <CookBROnigiri4.jobString>현미 주먹밥 준비</CookBROnigiri4.jobString>
+  <CookBROnigiri4.jobString>현미 주먹밥 준비중</CookBROnigiri4.jobString>
 
   <CookWROnigiri4.label>주먹밥(4)</CookWROnigiri4.label>
   <CookWROnigiri4.description>밥과 김으로 주먹밥을 4개 만듭니다.</CookWROnigiri4.description>
-  <CookWROnigiri4.jobString>주먹밥 준비</CookWROnigiri4.jobString>
+  <CookWROnigiri4.jobString>주먹밥 준비중</CookWROnigiri4.jobString>
 
 
 </LanguageData>
