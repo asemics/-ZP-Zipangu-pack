@@ -5,11 +5,11 @@
 
   <CookBRBento4.label>현미 히노마루 벤또(4)</CookBRBento4.label>
   <CookBRBento4.description>현미밥으로 채운 도시락 정 중앙에 일장기와 같은모양으로 우메보시를 놓은 만드는 도시락을 4개 만듭니다.</CookBRBento4.description>
-  <CookBRBento4.jobString>현미 히노마루 벤또 준비</CookBRBento4.jobString>
+  <CookBRBento4.jobString>현미 히노마루 벤또 준비중</CookBRBento4.jobString>
 
   <CookWRBento4.label>히노마루 벤또(4)</CookWRBento4.label>
   <CookWRBento4.description>밥으로 채운 도시락 정 중앙에 일장기와 같은모양으로 우메보시를 놓은 만드는 도시락을 4개 만듭니다.</CookWRBento4.description>
-  <CookWRBento4.jobString>히노마루 벤또 준비</CookWRBento4.jobString>
+  <CookWRBento4.jobString>히노마루 벤또 준비중</CookWRBento4.jobString>
 
 
 </LanguageData>
