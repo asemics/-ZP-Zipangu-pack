@@ -2,53 +2,53 @@
 <LanguageData>
 
   <Messtin.label>반합</Messtin.label>
-  <Messtin.description>밥을 짓거나 간단한 조리를 할때에 쓰인다.\n최저급의 설비밖에 없기 때문에 조리속도가 30%저하한다.</Messtin.description>
-  <Messtin_Blueprint.label>반합(blueprint)</Messtin_Blueprint.label>
-  <Messtin_Blueprint_Install.label>반합 (blueprint)</Messtin_Blueprint_Install.label>
-  <Messtin_Frame.label>반합 (building)</Messtin_Frame.label>
-  <Messtin_Frame.description>밥을 짓거나 간단한 조리를 할때에 쓰인다.\n최저급의 설비밖에 없기 때문에 조리속도가 30%저하한다.</Messtin_Frame.description>
+  <Messtin.description>밥을 짓거나 간단한 조리를 할때에 쓰입니다.\n최저급의 설비밖에 없기 때문에 조리속도가 30%저하합니다.</Messtin.description>
+  <Messtin_Blueprint.label>반합 (도면)</Messtin_Blueprint.label>
+  <Messtin_Blueprint_Install.label>반합 (도면)</Messtin_Blueprint_Install.label>
+  <Messtin_Frame.label>반합 (건설 중)</Messtin_Frame.label>
+  <Messtin_Frame.description>밥을 짓거나 간단한 조리를 할때에 쓰입니다.\n최저급의 설비밖에 없기 때문에 조리속도가 30%저하합니다.</Messtin_Frame.description>
 
-  <IronPot.label>가마</IronPot.label>
-  <IronPot.description>밥을 짓거나 국을 만들 때에 편리한 조리대.</IronPot.description>
-  <IronPot_Blueprint.label>가마 (blueprint)</IronPot_Blueprint.label>
-  <IronPot_Blueprint_Install.label>가마 (blueprint)</IronPot_Blueprint_Install.label>
-  <IronPot_Frame.label>가마 (building)</IronPot_Frame.label>
-  <IronPot_Frame.description>밥을 짓거나 국을 만들 때에 편리한 조리대.</IronPot_Frame.description>
+  <IronPot.label>가마솥</IronPot.label>
+  <IronPot.description>밥을 짓거나 국을 만들 때에 편리한 조리대입니다.</IronPot.description>
+  <IronPot_Blueprint.label>가마솥 (도면)</IronPot_Blueprint.label>
+  <IronPot_Blueprint_Install.label>가마솥 (도면)</IronPot_Blueprint_Install.label>
+  <IronPot_Frame.label>가마솥 (건설 중)</IronPot_Frame.label>
+  <IronPot_Frame.description>밥을 짓거나 국을 만들 때에 편리한 조리대입니다.</IronPot_Frame.description>
 
   <RiceCooker.label>취반기</RiceCooker.label>
-  <RiceCooker.description>밥을 짓거나 국을 만들때에 편리한 조리대.\n최신초리기구가 갖추어져 조리속도가 30%상승한다.</RiceCooker.description>
-  <RiceCooker_Blueprint.label>취반기 (blueprint)</RiceCooker_Blueprint.label>
-  <RiceCooker_Blueprint_Install.label>취반기 (blueprint)</RiceCooker_Blueprint_Install.label>
-  <RiceCooker_Frame.label>취반기 (building)</RiceCooker_Frame.label>
-  <RiceCooker_Frame.description>밥을 짓거나 국을 만들때에 편리한 조리대.\n최신초리기구가 갖추어져 조리속도가 30%상승한다.</RiceCooker_Frame.description>
+  <RiceCooker.description>밥을 짓거나 국을 만들때에 편리한 조리대.\n최신 조리 기구가 갖추어져 조리 속도가 30%상승합니다.</RiceCooker.description>
+  <RiceCooker_Blueprint.label>취반기 (도면)</RiceCooker_Blueprint.label>
+  <RiceCooker_Blueprint_Install.label>취반기 (도면)</RiceCooker_Blueprint_Install.label>
+  <RiceCooker_Frame.label>취반기 (건설 중)</RiceCooker_Frame.label>
+  <RiceCooker_Frame.description>밥을 짓거나 국을 만들때에 편리한 조리대.\n최신 조리 기구가 갖추어져 조리 속도가 30%상승합니다.</RiceCooker_Frame.description>
 
-  <ZPIrori.label>囲炉裏</ZPIrori.label>
-  <ZPIrori.description>日本家屋に設けられる炉の一種で、床の一部を四角に切り抜いて火をたく場所。主に暖房と調理が目的だが人々の集いの場所でもありリラクゼーションをもたらしてくれる。</ZPIrori.description>
-  <ZPIrori_Blueprint.label>囲炉裏 (blueprint)</ZPIrori_Blueprint.label>
-  <ZPIrori_Blueprint_Install.label>囲炉裏 (blueprint)</ZPIrori_Blueprint_Install.label>
-  <ZPIrori_Frame.label>囲炉裏 (building)</ZPIrori_Frame.label>
-  <ZPIrori_Frame.description>日本家屋に設けられる炉の一種で、床の一部を四角に切り抜いて火をたく場所。主に暖房と調理が目的だが人々の集いの場所でもありリラクゼーションをもたらしてくれる。</ZPIrori_Frame.description>
+  <ZPIrori.label>화덕</ZPIrori.label>
+  <ZPIrori.description>일본 가옥에 설치되는 화덕의 일종으로, 바닥의 일부를 정사각형으로 잘라서 불을 피우는 곳입니다. 주로 난방과 조리가 목적이지만 사람들의 모임 장소로도 쓰이며 쉼터가 되기도 합니다.</ZPIrori.description>
+  <ZPIrori_Blueprint.label>화덕 (도면)</ZPIrori_Blueprint.label>
+  <ZPIrori_Blueprint_Install.label>화덕 (도면)</ZPIrori_Blueprint_Install.label>
+  <ZPIrori_Frame.label>화덕 (건설 중)</ZPIrori_Frame.label>
+  <ZPIrori_Frame.description>일본 가옥에 설치되는 화덕의 일종으로, 바닥의 일부를 정사각형으로 잘라서 불을 피우는 곳입니다. 주로 난방과 조리가 목적이지만 사람들의 모임 장소로도 쓰이며 쉼터가 되기도 합니다.</ZPIrori_Frame.description>
 
-  <CookingTable.label>Cooking table</CookingTable.label>
-  <CookingTable.description>Cooking table for preparing.\nSpecializing in seasoning and food processing.</CookingTable.description>
-  <CookingTable_Blueprint.label>Cooking table(blueprint)</CookingTable_Blueprint.label>
-  <CookingTable_Blueprint_Install.label>Cooking table(blueprint)</CookingTable_Blueprint_Install.label>
-  <CookingTable_Frame.label>Cooking table(building)</CookingTable_Frame.label>
-  <CookingTable_Frame.description>Cooking table for preparing.\nSpecializing in seasoning and food processing.</CookingTable_Frame.description>
+  <CookingTable.label>조리대</CookingTable.label>
+  <CookingTable.description>사전 준비용 조리대./n조미료 제조 및 식자재 가공 등을 할 수 있습니다.</CookingTable.description>
+  <CookingTable_Blueprint.label>조리대 (도면)</CookingTable_Blueprint.label>
+  <CookingTable_Blueprint_Install.label>조리대 (도면)</CookingTable_Blueprint_Install.label>
+  <CookingTable_Frame.label>조리대 (건설 중)</CookingTable_Frame.label>
+  <CookingTable_Frame.description>사전 준비용 조리대./n조미료 제조 및 식자재 가공 등을 할 수 있습니다.</CookingTable_Frame.description>
 
-  <PestleAndMortar.label>Kineusu</PestleAndMortar.label>
-  <PestleAndMortar.description>Kine(Pestle) and Usu(mortar) for making mochi. You can make mochi in large quantities.</PestleAndMortar.description>
-  <PestleAndMortar_Blueprint.label>Kineusu(blueprint)</PestleAndMortar_Blueprint.label>
-  <PestleAndMortar_Blueprint_Install.label>Kineusu (blueprint)</PestleAndMortar_Blueprint_Install.label>
-  <PestleAndMortar_Frame.label>Kineusu(building)</PestleAndMortar_Frame.label>
-  <PestleAndMortar_Frame.description>Kine(Pestle) and Usu(mortar) for making mochi. You can make mochi in large quantities.</PestleAndMortar_Frame.description>
+  <PestleAndMortar.label>저구</PestleAndMortar.label>
+  <PestleAndMortar.description>절굿공이와 절구. 떡을 대량으로 만들 수 있습니다.</PestleAndMortar.description>
+  <PestleAndMortar_Blueprint.label>저구 (도면)</PestleAndMortar_Blueprint.label>
+  <PestleAndMortar_Blueprint_Install.label>저구 (도면)</PestleAndMortar_Blueprint_Install.label>
+  <PestleAndMortar_Frame.label>저구 (건설 중)</PestleAndMortar_Frame.label>
+  <PestleAndMortar_Frame.description>절굿공이와 절구. 떡을 대량으로 만들 수 있습니다.</PestleAndMortar_Frame.description>
 
-  <Nukadoko.label>Nukadoko</Nukadoko.label>
-  <Nukadoko.description>A large bottle that can make a large amount of Nukaduke(rice bran pickles) that are preserved foods.</Nukadoko.description>
-  <Nukadoko_Blueprint.label>Nukadoko(blueprint)</Nukadoko_Blueprint.label>
-  <Nukadoko_Blueprint_Install.label>Nukadoko(blueprint)</Nukadoko_Blueprint_Install.label>
-  <Nukadoko_Frame.label>Nukadoko(building)</Nukadoko_Frame.label>
-  <Nukadoko_Frame.description>A large bottle that can make a large amount of Nukaduke(rice bran pickles) that are preserved foods.</Nukadoko_Frame.description>
+  <Nukadoko.label>절임 장독대</Nukadoko.label>
+  <Nukadoko.description>보존식인 장아찌를 대량으로 만들기 위한 큰 항아리.</Nukadoko.description>
+  <Nukadoko_Blueprint.label>절임 장독대 (도면)</Nukadoko_Blueprint.label>
+  <Nukadoko_Blueprint_Install.label>절임 장독대 (도면)</Nukadoko_Blueprint_Install.label>
+  <Nukadoko_Frame.label>절임 장독대 (건설 중)</Nukadoko_Frame.label>
+  <Nukadoko_Frame.description>보존식인 장아찌를 대량으로 만들기 위한 큰 항아리.</Nukadoko_Frame.description>
 
 
 </LanguageData>
