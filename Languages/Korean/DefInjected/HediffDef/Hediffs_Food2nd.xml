@@ -1,27 +1,25 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <HedBadBreath.label>口臭</HedBadBreath.label>
-  <HedFull.label>満腹で体が重い・・・</HedFull.label>
+  <HedBadBreath.label>구취</HedBadBreath.label>
+  <HedFull.label>포만감으로 몸이 무겁다...</HedFull.label>
 
-  <HedDHA.label>DHAパワー</HedDHA.label>
-  <HedDHA.stages.0.label>魚を食べた</HedDHA.stages.0.label>
+  <HedDHA.label>생선 파워</HedDHA.label>
+  <HedDHA.stages.0.label>생선을 먹었어.</HedDHA.stages.0.label>
 
-  <HedMuscle.label>カンフーファイター</HedMuscle.label>
-  <HedKungFuFighter.label>カンフーファイター</HedKungFuFighter.label>
-  <HedAppetite.label>食欲増進Ⅰ</HedAppetite.label>
-  <HedAppetite2nd.label>食欲増進Ⅱ</HedAppetite2nd.label>
-  <HedFickle.label>シェフの気まぐれ</HedFickle.label>
-  <HedFickle2nd.label>シェフの気まぐれⅡ</HedFickle2nd.label>
-  <HedFickle3rd.label>シェフの気まぐれⅢ</HedFickle3rd.label>
-  <HedFickle4th.label>シェフの気まぐれⅣ</HedFickle4th.label>
-  <HedFickle5th.label>シェフの気まぐれⅤ</HedFickle5th.label>
-  <HedFickle6th.label>シェフの気まぐれⅥ</HedFickle6th.label>
-  <HedFickle7th.label>シェフの気まぐれⅦ</HedFickle7th.label>
-  <HedFickle8th.label>シェフの気まぐれⅧ</HedFickle8th.label>
-  <HedFickle9th.label>シェフの気まぐれⅨ</HedFickle9th.label>
+  <HedMuscle.label>근육은 정의!!</HedMuscle.label>
+  <HedKungFuFighter.label>쿵푸 파이터</HedKungFuFighter.label>
+  <HedAppetite.label>식욕 증진Ⅰ</HedAppetite.label>
+  <HedAppetite2nd.label>식욕 증진Ⅱ</HedAppetite2nd.label>
+  <HedFickle.label>요리사의 변덕</HedFickle.label>
+  <HedFickle2nd.label>요리사의 변덕Ⅱ</HedFickle2nd.label>
+  <HedFickle3rd.label>요리사의 변덕Ⅲ</HedFickle3rd.label>
+  <HedFickle4th.label>요리사의 변덕Ⅳ</HedFickle4th.label>
+  <HedFickle5th.label>요리사의 변덕Ⅴ</HedFickle5th.label>
+  <HedFickle6th.label>요리사의 변덕Ⅵ</HedFickle6th.label>
+  <HedFickle7th.label>요리사의 변덕Ⅶ</HedFickle7th.label>
+  <HedFickle8th.label>요리사의 변덕Ⅷ</HedFickle8th.label>
+  <HedFickle9th.label>요리사의 변덕Ⅸ</HedFickle9th.label>
 
-
-  <!--[Duplicated] <HedMuscle.label>ナイスマッスル!!</HedMuscle.label>-->
 
 </LanguageData>
