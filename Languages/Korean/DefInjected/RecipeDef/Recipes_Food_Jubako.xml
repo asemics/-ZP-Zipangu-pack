@@ -4,12 +4,12 @@
   <!-- 豪華な食事　重箱 -->
 
   <CookBRJubako4.label>현미 찬합(4)</CookBRJubako4.label>
-  <CookBRJubako4.description>찬합을 4개 만든다</CookBRJubako4.description>
-  <CookBRJubako4.jobString>찬합을 만든다</CookBRJubako4.jobString>
+  <CookBRJubako4.description>현미로 만든 찬합을 4개 만듭니다.</CookBRJubako4.description>
+  <CookBRJubako4.jobString>현미 찬합 요리</CookBRJubako4.jobString>
 
   <CookWRJubako4.label>찬합(4)</CookWRJubako4.label>
-  <CookWRJubako4.description>찬합을 4개 만든다</CookWRJubako4.description>
-  <CookWRJubako4.jobString>찬합을 만든다</CookWRJubako4.jobString>
+  <CookWRJubako4.description>백미로 만든 찬합을 4개 만듭니다.</CookWRJubako4.description>
+  <CookWRJubako4.jobString>찬합 </CookWRJubako4.jobString>
 
 
 </LanguageData>
