@@ -3,94 +3,94 @@
 
   <!-- 肥料作成 -->
 
-  <MakeTatamiStraw18.label>Building straw(18)</MakeTatamiStraw18.label>
-  <MakeTatamiStraw18.description>make straw for Building.</MakeTatamiStraw18.description>
-  <MakeTatamiStraw18.jobString>making Building straw</MakeTatamiStraw18.jobString>
+  <MakeTatamiStraw18.label>건축용 짚(18)</MakeTatamiStraw18.label>
+  <MakeTatamiStraw18.description>짚을 건축용으로 가공합니다.</MakeTatamiStraw18.description>
+  <MakeTatamiStraw18.jobString>건축용 짚 제조중</MakeTatamiStraw18.jobString>
 
-  <MakeTatamiStraw30.label>Building straw(30)</MakeTatamiStraw30.label>
-  <MakeTatamiStraw30.description>make straw for Building.</MakeTatamiStraw30.description>
-  <MakeTatamiStraw30.jobString>making Building straw</MakeTatamiStraw30.jobString>
+  <MakeTatamiStraw30.label>건축용 짚(30)</MakeTatamiStraw30.label>
+  <MakeTatamiStraw30.description>짚을 건축용으로 가공합니다.</MakeTatamiStraw30.description>
+  <MakeTatamiStraw30.jobString>건축용 짚 제조중</MakeTatamiStraw30.jobString>
 
-  <MakeTatamiStraw60.label>Building straw(60)</MakeTatamiStraw60.label>
-  <MakeTatamiStraw60.description>make straw for Building.</MakeTatamiStraw60.description>
-  <MakeTatamiStraw60.jobString>making Building straw</MakeTatamiStraw60.jobString>
+  <MakeTatamiStraw60.label>건축용 짚(60)</MakeTatamiStraw60.label>
+  <MakeTatamiStraw60.description>짚을 건축용으로 가공합니다.</MakeTatamiStraw60.description>
+  <MakeTatamiStraw60.jobString>건축용 짚 제조중</MakeTatamiStraw60.jobString>
 
-  <MakeTatamiG.label>Tatami (1 quire)</MakeTatamiG.label>
-  <MakeTatamiG.description>Make a tatami in Building straw</MakeTatamiG.description>
-  <MakeTatamiG.jobString>Make tatami</MakeTatamiG.jobString>
+  <MakeTatamiG.label>다다미 (1매)</MakeTatamiG.label>
+  <MakeTatamiG.description>건축용 짚을 가공하여 다다미를 만듭니다.</MakeTatamiG.description>
+  <MakeTatamiG.jobString>다다미 제조중</MakeTatamiG.jobString>
 
   <MakeR_Compost10.label>퇴비(10)</MakeR_Compost10.label>
-  <MakeR_Compost10.description>짚과 쌀겨를 섞어서 발효시킨 비료로 가공한다.</MakeR_Compost10.description>
-  <MakeR_Compost10.jobString>퇴비를 만든다</MakeR_Compost10.jobString>
+  <MakeR_Compost10.description>짚과 쌀겨를 섞어서 발효시킨 비료로 가공합니다.</MakeR_Compost10.description>
+  <MakeR_Compost10.jobString>퇴비 제조중</MakeR_Compost10.jobString>
 
   <MakeR_Compost50.label>퇴비(50)</MakeR_Compost50.label>
-  <MakeR_Compost50.description>짚과 쌀겨를 섞어서 발효시킨 비료로 가공한다.</MakeR_Compost50.description>
-  <MakeR_Compost50.jobString>퇴비를 만든다</MakeR_Compost50.jobString>
+  <MakeR_Compost50.description>짚과 쌀겨를 섞어서 발효시킨 비료로 가공합니다.</MakeR_Compost50.description>
+  <MakeR_Compost50.jobString>퇴비 제조중</MakeR_Compost50.jobString>
 
   <MakeR_Compost100.label>퇴비(100)</MakeR_Compost100.label>
-  <MakeR_Compost100.description>짚과 쌀겨를 섞어서 발효시킨 비료로 가공한다.</MakeR_Compost100.description>
-  <MakeR_Compost100.jobString>퇴비를 만든다</MakeR_Compost100.jobString>
+  <MakeR_Compost100.description>짚과 쌀겨를 섞어서 발효시킨 비료로 가공합니다.</MakeR_Compost100.description>
+  <MakeR_Compost100.jobString>퇴비 제조중</MakeR_Compost100.jobString>
 
 
   <!-- 燃料作成 -->
 
-  <MakeMomigalite10.label>왕겨연료(10)</MakeMomigalite10.label>
-  <MakeMomigalite10.description>왕겨를 연료로 가공한다</MakeMomigalite10.description>
-  <MakeMomigalite10.jobString>왕겨연료를 만든다</MakeMomigalite10.jobString>
+  <MakeMomigalite10.label>왕겨탄(10)</MakeMomigalite10.label>
+  <MakeMomigalite10.description>왕겨를 특수공법으로 가공하여 장작과 같은 연료용으로 가공합니다.</MakeMomigalite10.description>
+  <MakeMomigalite10.jobString>왕겨탄 제조중</MakeMomigalite10.jobString>
 
-  <MakeMomigalite50.label>왕겨연료(50)</MakeMomigalite50.label>
-  <MakeMomigalite50.description>왕겨를 연료로 가공한다</MakeMomigalite50.description>
-  <MakeMomigalite50.jobString>왕겨연료를 만든다</MakeMomigalite50.jobString>
+  <MakeMomigalite50.label>왕겨탄(50)</MakeMomigalite50.label>
+  <MakeMomigalite50.description>왕겨를 특수공법으로 가공하여 장작과 같은 연료용으로 가공합니다.</MakeMomigalite50.description>
+  <MakeMomigalite50.jobString>왕겨탄 제조중</MakeMomigalite50.jobString>
 
-  <MakeMomigalite100.label>왕겨연료(100)</MakeMomigalite100.label>
-  <MakeMomigalite100.description>왕겨를 연료로 가공한다</MakeMomigalite100.description>
-  <MakeMomigalite100.jobString>왕겨연료를 만든다</MakeMomigalite100.jobString>
+  <MakeMomigalite100.label>왕겨탄(100)</MakeMomigalite100.label>
+  <MakeMomigalite100.description>왕겨를 특수공법으로 가공하여 장작과 같은 연료용으로 가공합니다.</MakeMomigalite100.description>
+  <MakeMomigalite100.jobString>왕겨탄 제조중</MakeMomigalite100.jobString>
 
   <MakeFuelStraw10.label>연료용 짚(10)</MakeFuelStraw10.label>
-  <MakeFuelStraw10.description>짚을 연료로 가공한다</MakeFuelStraw10.description>
-  <MakeFuelStraw10.jobString>연료용 짚을 만든다</MakeFuelStraw10.jobString>
+  <MakeFuelStraw10.description>짚을 연료로 가공합니다.</MakeFuelStraw10.description>
+  <MakeFuelStraw10.jobString>연료용 짚 제조중</MakeFuelStraw10.jobString>
 
   <MakeFuelStraw50.label>연료용 짚(50)</MakeFuelStraw50.label>
-  <MakeFuelStraw50.description>짚을 연료로 가공한다</MakeFuelStraw50.description>
-  <MakeFuelStraw50.jobString>연료용 짚을 만든다</MakeFuelStraw50.jobString>
+  <MakeFuelStraw50.description>짚을 연료로 가공합니다.</MakeFuelStraw50.description>
+  <MakeFuelStraw50.jobString>연료용 짚 제조중</MakeFuelStraw50.jobString>
 
   <MakeFuelStraw100.label>연료용 짚을 만든다(100)</MakeFuelStraw100.label>
-  <MakeFuelStraw100.description>짚을 연료로 가공한다</MakeFuelStraw100.description>
-  <MakeFuelStraw100.jobString>연료용 짚을 만든다</MakeFuelStraw100.jobString>
+  <MakeFuelStraw100.description>짚을 연료로 가공합니다.</MakeFuelStraw100.description>
+  <MakeFuelStraw100.jobString>연료용 짚 제조중</MakeFuelStraw100.jobString>
 
 
   <!-- 泥収集 -->
 
-  <ZP_CollectMud.label>gather mud</ZP_CollectMud.label>
-  <ZP_CollectMud.description>Gather mud for soil improvement.</ZP_CollectMud.description>
-  <ZP_CollectMud.jobString>Gathering</ZP_CollectMud.jobString>
+  <ZP_CollectMud.label>진흙 채집</ZP_CollectMud.label>
+  <ZP_CollectMud.description>토양 개발을 위한 진흙을 채집합니다.</ZP_CollectMud.description>
+  <ZP_CollectMud.jobString>채집중</ZP_CollectMud.jobString>
 
 
   <!-- 副産物袋 -->
 
-  <MakeRiceByproduct.label>make a by-product bag(100)</MakeRiceByproduct.label>
-  <MakeRiceByproduct.description>Make a by-product bag.</MakeRiceByproduct.description>
-  <MakeRiceByproduct.jobString>Making a by-product bag</MakeRiceByproduct.jobString>
+  <MakeRiceByproduct.label>부산물 자루(100)</MakeRiceByproduct.label>
+  <MakeRiceByproduct.description>부산물 자루를 만듭니다.</MakeRiceByproduct.description>
+  <MakeRiceByproduct.jobString>부산물 자루 제조중</MakeRiceByproduct.jobString>
 
-  <TakeRiceByproduct_RC.label>take rice bran and Outher hull from a by-product bag</TakeRiceByproduct_RC.label>
-  <TakeRiceByproduct_RC.description>Take rice bran and Outher hull from a by-product bag</TakeRiceByproduct_RC.description>
-  <TakeRiceByproduct_RC.jobString>Taking</TakeRiceByproduct_RC.jobString>
+  <TakeRiceByproduct_RC.label>부산물 자루 해체 (쌀겨 및 왕겨)</TakeRiceByproduct_RC.label>
+  <TakeRiceByproduct_RC.description>부산물 자루에서 쌀겨와 왕겨를 꺼냅니다.</TakeRiceByproduct_RC.description>
+  <TakeRiceByproduct_RC.jobString>부산물 자루 해체중</TakeRiceByproduct_RC.jobString>
 
-  <TakeRiceByproduct_R.label>take rice bran from a by-product bag</TakeRiceByproduct_R.label>
-  <TakeRiceByproduct_R.description>Take rice bran from a by-product bag\n CAUTION:Outher hull will be erased.</TakeRiceByproduct_R.description>
-  <TakeRiceByproduct_R.jobString>Taking</TakeRiceByproduct_R.jobString>
+  <TakeRiceByproduct_R.label>부산물 자루 해체 (쌀겨)</TakeRiceByproduct_R.label>
+  <TakeRiceByproduct_R.description>부산물 자루에서 쌀겨를 꺼냅니다.\n 주의:왕겨는 제거됩니다.</TakeRiceByproduct_R.description>
+  <TakeRiceByproduct_R.jobString>부산물 자루 해체중</TakeRiceByproduct_R.jobString>
 
-  <TakeRiceByproduct_C.label>take Outher hull from a by-product bag</TakeRiceByproduct_C.label>
-  <TakeRiceByproduct_C.description>Take Outher hull from a by-product bag\nCAUTION:rice bran will be erased.</TakeRiceByproduct_C.description>
-  <TakeRiceByproduct_C.jobString>Taking</TakeRiceByproduct_C.jobString>
+  <TakeRiceByproduct_C.label>부산물 자루 해체 (왕겨)</TakeRiceByproduct_C.label>
+  <TakeRiceByproduct_C.description>부산물 자루에서 왕겨를 꺼냅니다.\n주의:쌀겨는 제거됩니다.</TakeRiceByproduct_C.description>
+  <TakeRiceByproduct_C.jobString>부산물 자루 해체중</TakeRiceByproduct_C.jobString>
 
-  <MakeChemfuelFromRice.label>make chemfuel from rice by-product bag and straw.</MakeChemfuelFromRice.label>
-  <MakeChemfuelFromRice.description>Make a batch of chemfuel by gasifying rice byproduct and straw.</MakeChemfuelFromRice.description>
-  <MakeChemfuelFromRice.jobString>Refining chemfuel from wood.</MakeChemfuelFromRice.jobString>
+  <MakeChemfuelFromRice.label>화학연료 정제 (짚, 부산물 자루)</MakeChemfuelFromRice.label>
+  <MakeChemfuelFromRice.description>부산물 자루와 짚을 가공하여 화학연료로 정제합니다.</MakeChemfuelFromRice.description>
+  <MakeChemfuelFromRice.jobString>화학연료 정제중</MakeChemfuelFromRice.jobString>
 
-  <MakeRBCeramic.label>RB ceramics(10)</MakeRBCeramic.label>
-  <MakeRBCeramic.description>After crushing and compressing the by-product bag, heat is applied and it is molded.</MakeRBCeramic.description>
-  <MakeRBCeramic.jobString>making RB Ceramics</MakeRBCeramic.jobString>
+  <MakeRBCeramic.label>RB 세라믹(10)</MakeRBCeramic.label>
+  <MakeRBCeramic.description>부산물 자루를 분쇄 압축후, 가열하여 RB 세라믹을 제조합니다.</MakeRBCeramic.description>
+  <MakeRBCeramic.jobString>RB 세라믹 제조중</MakeRBCeramic.jobString>
 
 
 </LanguageData>
