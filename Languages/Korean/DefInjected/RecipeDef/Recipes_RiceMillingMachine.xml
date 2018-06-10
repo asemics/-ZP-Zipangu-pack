@@ -3,87 +3,87 @@
 
   <!-- 精米機　籾米⇒白米 -->
 
-  <MakeRiceMillingMachineRice200N.label>N:쌀(벼)를 백미로 만든다(200)</MakeRiceMillingMachineRice200N.label>
-  <MakeRiceMillingMachineRice200N.description>Make Momi a white rice.The by-products are crushed and disappear.</MakeRiceMillingMachineRice200N.description>
-  <MakeRiceMillingMachineRice200N.jobString>정미중</MakeRiceMillingMachineRice200N.jobString>
+  <MakeRiceMillingMachineRice200N.label>N:벼를 백미로 정미(200)</MakeRiceMillingMachineRice200N.label>
+  <MakeRiceMillingMachineRice200N.description>벼를 백미로 만듭니다. 부산물들은 분쇄되어 소멸합니다.</MakeRiceMillingMachineRice200N.description>
+  <MakeRiceMillingMachineRice200N.jobString>벼 정미중</MakeRiceMillingMachineRice200N.jobString>
 
-  <MakeRiceMillingMachineGRice200N.label>N:籾米(もち米)をもち米にする(200)</MakeRiceMillingMachineGRice200N.label>
-  <MakeRiceMillingMachineGRice200N.description>籾米(もち米)をもち米にする。副産物は粉砕して消滅させる。</MakeRiceMillingMachineGRice200N.description>
-  <MakeRiceMillingMachineGRice200N.jobString>籾摺り中</MakeRiceMillingMachineGRice200N.jobString>
+  <MakeRiceMillingMachineGRice200N.label>N:벼를 찹쌀로 정미(200)</MakeRiceMillingMachineGRice200N.label>
+  <MakeRiceMillingMachineGRice200N.description>벼를 찹쌀로 만듭니다. 부산물들은 분쇄되어 소멸합니다.</MakeRiceMillingMachineGRice200N.description>
+  <MakeRiceMillingMachineGRice200N.jobString>벼 정미중</MakeRiceMillingMachineGRice200N.jobString>
 
-  <MakeRiceMillingMachineBRice200N.label>N:籾米を玄米にする(200)</MakeRiceMillingMachineBRice200N.label>
-  <MakeRiceMillingMachineBRice200N.description>籾米を玄米にする。副産物は粉砕して消滅させる。</MakeRiceMillingMachineBRice200N.description>
-  <MakeRiceMillingMachineBRice200N.jobString>精米中</MakeRiceMillingMachineBRice200N.jobString>
+  <MakeRiceMillingMachineBRice200N.label>N:벼를 현미로 정미(200)</MakeRiceMillingMachineBRice200N.label>
+  <MakeRiceMillingMachineBRice200N.description>벼를 현미로 정제합니다. 부산물들은 분쇄되어 소멸합니다.</MakeRiceMillingMachineBRice200N.description>
+  <MakeRiceMillingMachineBRice200N.jobString>벼 정미중</MakeRiceMillingMachineBRice200N.jobString>
 
-  <MakeRiceMillingMachineRice10.label>쌀(벼)를 백미로 만든다(10)</MakeRiceMillingMachineRice10.label>
-  <MakeRiceMillingMachineRice10.description>쌀(벼)를 정미해서 백미、왕겨、쌀겨로 나눈다.</MakeRiceMillingMachineRice10.description>
-  <MakeRiceMillingMachineRice10.jobString>정미중</MakeRiceMillingMachineRice10.jobString>
+  <MakeRiceMillingMachineRice10.label>벼를 백미로 정미(10)</MakeRiceMillingMachineRice10.label>
+  <MakeRiceMillingMachineRice10.description>벼를 정미하여 백미, 왕겨, 쌀겨로 나눕니다.</MakeRiceMillingMachineRice10.description>
+  <MakeRiceMillingMachineRice10.jobString>벼 정미중</MakeRiceMillingMachineRice10.jobString>
 
-  <MakeRiceMillingMachineRice50.label>쌀(벼)를 백미로 만든다(50)</MakeRiceMillingMachineRice50.label>
-  <MakeRiceMillingMachineRice50.description>쌀(벼)를 정미해서 백미、왕겨、쌀겨로 나눈다.</MakeRiceMillingMachineRice50.description>
-  <MakeRiceMillingMachineRice50.jobString>정미중</MakeRiceMillingMachineRice50.jobString>
+  <MakeRiceMillingMachineRice50.label>벼를 백미로 정미(50)</MakeRiceMillingMachineRice50.label>
+  <MakeRiceMillingMachineRice50.description>벼를 정미하여 백미, 왕겨, 쌀겨로 나눕니다.</MakeRiceMillingMachineRice50.description>
+  <MakeRiceMillingMachineRice50.jobString>벼 정미중</MakeRiceMillingMachineRice50.jobString>
 
-  <MakeRiceMillingMachineRice100.label>쌀(벼)를 백미로 만든다(100)</MakeRiceMillingMachineRice100.label>
-  <MakeRiceMillingMachineRice100.description>쌀(벼)를 정미해서 백미、왕겨、쌀겨로 나눈다.</MakeRiceMillingMachineRice100.description>
-  <MakeRiceMillingMachineRice100.jobString>정미중</MakeRiceMillingMachineRice100.jobString>
+  <MakeRiceMillingMachineRice100.label>벼를 백미로 정미(100)</MakeRiceMillingMachineRice100.label>
+  <MakeRiceMillingMachineRice100.description>벼를 정미하여 백미, 왕겨, 쌀겨로 나눕니다.</MakeRiceMillingMachineRice100.description>
+  <MakeRiceMillingMachineRice100.jobString>벼 정미중</MakeRiceMillingMachineRice100.jobString>
 
-  <MakeRiceMillingMachineRice200.label>쌀(벼)를 백미로 만든다(200)</MakeRiceMillingMachineRice200.label>
-  <MakeRiceMillingMachineRice200.description>쌀(벼)를 정미해서 백미、왕겨、쌀겨로 나눈다.</MakeRiceMillingMachineRice200.description>
-  <MakeRiceMillingMachineRice200.jobString>정미중</MakeRiceMillingMachineRice200.jobString>
+  <MakeRiceMillingMachineRice200.label>벼를 백미로 정미(200)</MakeRiceMillingMachineRice200.label>
+  <MakeRiceMillingMachineRice200.description>벼를 정미하여 백미, 왕겨, 쌀겨로 나눕니다.</MakeRiceMillingMachineRice200.description>
+  <MakeRiceMillingMachineRice200.jobString>벼 정미중</MakeRiceMillingMachineRice200.jobString>
 
 
   <!-- 精米機　米(籾)⇒玄米 -->
 
-  <MakeRiceMillingMachineRice10_4.label>籾米(もち米)をもち米にする(10)</MakeRiceMillingMachineRice10_4.label>
-  <MakeRiceMillingMachineRice10_4.description>籾を外してもち米と籾殻にわける。</MakeRiceMillingMachineRice10_4.description>
-  <MakeRiceMillingMachineRice10_4.jobString>籾摺り中</MakeRiceMillingMachineRice10_4.jobString>
+  <MakeRiceMillingMachineRice10_4.label>벼를 찹쌀로 정미(10)</MakeRiceMillingMachineRice10_4.label>
+  <MakeRiceMillingMachineRice10_4.description>벼를 정미하여 찹쌀과 왕겨로 나눕니다.</MakeRiceMillingMachineRice10_4.description>
+  <MakeRiceMillingMachineRice10_4.jobString>벼 정미중</MakeRiceMillingMachineRice10_4.jobString>
 
-  <MakeRiceMillingMachineRice50_4.label>籾米(もち米)をもち米にする(50)</MakeRiceMillingMachineRice50_4.label>
-  <MakeRiceMillingMachineRice50_4.description>籾を外してもち米と籾殻にわける。</MakeRiceMillingMachineRice50_4.description>
-  <MakeRiceMillingMachineRice50_4.jobString>籾摺り中</MakeRiceMillingMachineRice50_4.jobString>
+  <MakeRiceMillingMachineRice50_4.label>벼를 찹쌀로 정미(50)</MakeRiceMillingMachineRice50_4.label>
+  <MakeRiceMillingMachineRice50_4.description>벼를 정미하여 찹쌀과 왕겨로 나눕니다.</MakeRiceMillingMachineRice50_4.description>
+  <MakeRiceMillingMachineRice50_4.jobString>벼 정미중</MakeRiceMillingMachineRice50_4.jobString>
 
-  <MakeRiceMillingMachineRice100_4.label>籾米(もち米)をもち米にする(100)</MakeRiceMillingMachineRice100_4.label>
-  <MakeRiceMillingMachineRice100_4.description>籾を外してもち米と籾殻にわける。</MakeRiceMillingMachineRice100_4.description>
-  <MakeRiceMillingMachineRice100_4.jobString>籾摺り中</MakeRiceMillingMachineRice100_4.jobString>
+  <MakeRiceMillingMachineRice100_4.label>벼를 찹쌀로 정미(100)</MakeRiceMillingMachineRice100_4.label>
+  <MakeRiceMillingMachineRice100_4.description>벼를 정미하여 찹쌀과 왕겨로 나눕니다.</MakeRiceMillingMachineRice100_4.description>
+  <MakeRiceMillingMachineRice100_4.jobString>벼 정미중</MakeRiceMillingMachineRice100_4.jobString>
 
-  <MakeRiceMillingMachineRice200_4.label>籾米(もち米)をもち米にする(200)</MakeRiceMillingMachineRice200_4.label>
-  <MakeRiceMillingMachineRice200_4.description>籾を外してもち米と籾殻にわける。</MakeRiceMillingMachineRice200_4.description>
-  <MakeRiceMillingMachineRice200_4.jobString>籾摺り中</MakeRiceMillingMachineRice200_4.jobString>
+  <MakeRiceMillingMachineRice200_4.label>벼를 찹쌀로 정미(200)</MakeRiceMillingMachineRice200_4.label>
+  <MakeRiceMillingMachineRice200_4.description>벼를 정미하여 찹쌀과 왕겨로 나눕니다.</MakeRiceMillingMachineRice200_4.description>
+  <MakeRiceMillingMachineRice200_4.jobString>벼 정미중</MakeRiceMillingMachineRice200_4.jobString>
 
-  <MakeRiceMillingMachineRice10_2.label>쌀(벼)를 현미로 만든다(10)</MakeRiceMillingMachineRice10_2.label>
-  <MakeRiceMillingMachineRice10_2.description>벼를 벗겨서 현미와 왕겨로 나눈다.</MakeRiceMillingMachineRice10_2.description>
-  <MakeRiceMillingMachineRice10_2.jobString>벼 벗기는 중</MakeRiceMillingMachineRice10_2.jobString>
+  <MakeRiceMillingMachineRice10_2.label>벼를 현미로 정미(10)</MakeRiceMillingMachineRice10_2.label>
+  <MakeRiceMillingMachineRice10_2.description>벼를 정미하여 현미와 왕겨로 나눕니다.</MakeRiceMillingMachineRice10_2.description>
+  <MakeRiceMillingMachineRice10_2.jobString>벼 정미중</MakeRiceMillingMachineRice10_2.jobString>
 
-  <MakeRiceMillingMachineRice50_2.label>쌀(벼)를 현미로 만든다(50)</MakeRiceMillingMachineRice50_2.label>
-  <MakeRiceMillingMachineRice50_2.description>벼를 벗겨서 현미와 왕겨로 나눈다.</MakeRiceMillingMachineRice50_2.description>
-  <MakeRiceMillingMachineRice50_2.jobString>벼 벗기는 중</MakeRiceMillingMachineRice50_2.jobString>
+  <MakeRiceMillingMachineRice50_2.label>벼를 현미로 정미(50)</MakeRiceMillingMachineRice50_2.label>
+  <MakeRiceMillingMachineRice50_2.description>벼를 정미하여 현미와 왕겨로 나눕니다.</MakeRiceMillingMachineRice50_2.description>
+  <MakeRiceMillingMachineRice50_2.jobString>벼 정미중</MakeRiceMillingMachineRice50_2.jobString>
 
-  <MakeRiceMillingMachineRice100_2.label>쌀(벼)를 현미로 만든다(100)</MakeRiceMillingMachineRice100_2.label>
-  <MakeRiceMillingMachineRice100_2.description>벼를 벗겨서 현미와 왕겨로 나눈다.</MakeRiceMillingMachineRice100_2.description>
-  <MakeRiceMillingMachineRice100_2.jobString>벼 벗기는 중</MakeRiceMillingMachineRice100_2.jobString>
+  <MakeRiceMillingMachineRice100_2.label>벼를 현미로 정미(100)</MakeRiceMillingMachineRice100_2.label>
+  <MakeRiceMillingMachineRice100_2.description>벼를 정미하여 현미와 왕겨로 나눕니다.</MakeRiceMillingMachineRice100_2.description>
+  <MakeRiceMillingMachineRice100_2.jobString>벼 정미중</MakeRiceMillingMachineRice100_2.jobString>
 
-  <MakeRiceMillingMachineRice200_2.label>쌀(벼)를 현미로 만든다(200)</MakeRiceMillingMachineRice200_2.label>
-  <MakeRiceMillingMachineRice200_2.description>벼를 벗겨서 현미와 왕겨로 나눈다.</MakeRiceMillingMachineRice200_2.description>
-  <MakeRiceMillingMachineRice200_2.jobString>벼 벗기는 중</MakeRiceMillingMachineRice200_2.jobString>
+  <MakeRiceMillingMachineRice200_2.label>벼를 현미로 정미(200)</MakeRiceMillingMachineRice200_2.label>
+  <MakeRiceMillingMachineRice200_2.description>벼를 정미하여 현미와 왕겨로 나눕니다.</MakeRiceMillingMachineRice200_2.description>
+  <MakeRiceMillingMachineRice200_2.jobString>벼 정미중</MakeRiceMillingMachineRice200_2.jobString>
 
 
   <!-- 精米機　玄米⇒白米 -->
 
-  <MakeRiceMillingMachineRice10_3.label>현미를 백미로 만든다(10)</MakeRiceMillingMachineRice10_3.label>
-  <MakeRiceMillingMachineRice10_3.description>정미하는 것으로 백미와 쌀겨로 나눈다.</MakeRiceMillingMachineRice10_3.description>
-  <MakeRiceMillingMachineRice10_3.jobString>정미중</MakeRiceMillingMachineRice10_3.jobString>
+  <MakeRiceMillingMachineRice10_3.label>현미를 백미 정미(10)</MakeRiceMillingMachineRice10_3.label>
+  <MakeRiceMillingMachineRice10_3.description>정미하는 것으로 백미와 쌀겨로 나눕니다.</MakeRiceMillingMachineRice10_3.description>
+  <MakeRiceMillingMachineRice10_3.jobString>쌀 정미중</MakeRiceMillingMachineRice10_3.jobString>
 
-  <MakeRiceMillingMachineRice50_3.label>현미를 백미로 만든다(50)</MakeRiceMillingMachineRice50_3.label>
-  <MakeRiceMillingMachineRice50_3.description>정미하는 것으로 백미와 쌀겨로 나눈다.</MakeRiceMillingMachineRice50_3.description>
-  <MakeRiceMillingMachineRice50_3.jobString>정미중</MakeRiceMillingMachineRice50_3.jobString>
+  <MakeRiceMillingMachineRice50_3.label>현미를 백미 정미(50)</MakeRiceMillingMachineRice50_3.label>
+  <MakeRiceMillingMachineRice50_3.description>정미하는 것으로 백미와 쌀겨로 나눕니다.</MakeRiceMillingMachineRice50_3.description>
+  <MakeRiceMillingMachineRice50_3.jobString>쌀 정미중</MakeRiceMillingMachineRice50_3.jobString>
 
-  <MakeRiceMillingMachineRice100_3.label>현미를 백미로 만든다(100)</MakeRiceMillingMachineRice100_3.label>
-  <MakeRiceMillingMachineRice100_3.description>정미하는 것으로 백미와 쌀겨로 나눈다.</MakeRiceMillingMachineRice100_3.description>
-  <MakeRiceMillingMachineRice100_3.jobString>정미중</MakeRiceMillingMachineRice100_3.jobString>
+  <MakeRiceMillingMachineRice100_3.label>현미를 백미 정미(100)</MakeRiceMillingMachineRice100_3.label>
+  <MakeRiceMillingMachineRice100_3.description>정미하는 것으로 백미와 쌀겨로 나눕니다.</MakeRiceMillingMachineRice100_3.description>
+  <MakeRiceMillingMachineRice100_3.jobString>쌀 정미중</MakeRiceMillingMachineRice100_3.jobString>
 
-  <MakeRiceMillingMachineRice200_3.label>현미를 백미로 만든다(200)</MakeRiceMillingMachineRice200_3.label>
-  <MakeRiceMillingMachineRice200_3.description>정미하는 것으로 백미와 쌀겨로 나눈다.</MakeRiceMillingMachineRice200_3.description>
-  <MakeRiceMillingMachineRice200_3.jobString>정미중</MakeRiceMillingMachineRice200_3.jobString>
+  <MakeRiceMillingMachineRice200_3.label>현미를 백미 정미(200)</MakeRiceMillingMachineRice200_3.label>
+  <MakeRiceMillingMachineRice200_3.description>정미하는 것으로 백미와 쌀겨로 나눕니다.</MakeRiceMillingMachineRice200_3.description>
+  <MakeRiceMillingMachineRice200_3.jobString>쌀 정미중</MakeRiceMillingMachineRice200_3.jobString>
 
 
   <!-- 정미기　쌀(벼)⇒백미 -->
