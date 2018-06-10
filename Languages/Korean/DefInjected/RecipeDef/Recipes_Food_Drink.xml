@@ -3,11 +3,11 @@
 
   <CookMisosiru.label>미소 된장국(2)</CookMisosiru.label>
   <CookMisosiru.description>된장을 녹인 국물에 좋아하는 식재료를 넣고 끓입니다.</CookMisosiru.description>
-  <CookMisosiru.jobString>미소 된장국 준비</CookMisosiru.jobString>
+  <CookMisosiru.jobString>미소 된장국 준비중</CookMisosiru.jobString>
 
   <CookSoyMilkShake.label>두유 쉐이크(2)</CookSoyMilkShake.label>
   <CookSoyMilkShake.description>두유에 과일을 넣어 섞어만든 건강 음료를 만듭니다.</CookSoyMilkShake.description>
-  <CookSoyMilkShake.jobString>두유 쉐이크 준비</CookSoyMilkShake.jobString>
+  <CookSoyMilkShake.jobString>두유 쉐이크 준비중</CookSoyMilkShake.jobString>
 
 
 </LanguageData>
