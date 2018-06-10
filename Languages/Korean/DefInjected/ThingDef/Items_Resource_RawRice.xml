@@ -2,16 +2,16 @@
 <LanguageData>
 
   <Inaho.label>벼 이삭</Inaho.label>
-  <Inaho.description>백미를 맛있게 먹기 위한 5가지 조항: \n１,【탈곡】벼 이삭을 탈곡시켜 쌀(벼) 짚으로 나눕니다.\n２,【조미(糙米)】쌀(벼가 붙은)을 조미하여 현미와 왕겨로 나눕니다\n３,【정미】현미를 정미기에 넣고 백미와 쌀겨로 나눕니다\n４,【조리】맛있게 조리합니다.\n５,【식사】대지의 은총에 감사하며 잘 먹겠습니다!!</Inaho.description>
+  <Inaho.description>백미를 맛있게 먹기 위한 5가지 조항: \n１,【탈곡】벼 이삭을 탈곡시켜 쌀(벼) 짚으로 나눕니다.\n２,【조미(糙米)】쌀(벼가 붙은)을 조미하여 현미와 왕겨로 나눕니다.\n３,【정미】현미를 정미기에 넣고 백미와 쌀겨로 나눕니다\n４,【조리】맛있게 조리합니다.\n５,【식사】대지의 은총에 감사하며 잘 먹겠습니다!!</Inaho.description>
 
   <Inaho_Mochi.label>벼 이삭(찹쌀)</Inaho_Mochi.label>
-  <Inaho_Mochi.description>찹쌀을 맛있게 먹기 위한 5가지 조항: \n１,【탈곡】벼 이삭을 탈곡시켜 쌀(벼)과 짚으로 나눕니다.\n２,【조미(糙米)】쌀(벼가 붙은)을 조미하여 현미와 왕겨로 나눕니다\n３,【정미】현미를 정미기에 넣고 찹쌀과 쌀겨로 나눕니다\n４,【조리】맛있게 조리합니다.\n５,【식사】대지의 은총에 감사하며 잘 먹겠습니다!!</Inaho_Mochi.description>
+  <Inaho_Mochi.description>찹쌀을 맛있게 먹기 위한 5가지 조항: \n１,【탈곡】벼 이삭을 탈곡시켜 쌀(벼)과 짚으로 나눕니다.\n２,【조미(糙米)】쌀(벼가 붙은)을 조미하여 현미와 왕겨로 나눕니다.\n３,【정미】현미를 정미기에 넣고 찹쌀과 쌀겨로 나눕니다\n４,【조리】맛있게 조리합니다.\n５,【식사】대지의 은총에 감사하며 잘 먹겠습니다!!</Inaho_Mochi.description>
 
   <RiceMomi.label>쌀(벼)</RiceMomi.label>
   <RiceMomi.description>벼가 붙은 쌀. 이대로 먹는 것은 불가능하기에 탈곡정미를 합시다!!\n탈곡하는 것으로 현미와 부산물인 짚을 얻을 수 있습니다.</RiceMomi.description>
 
   <RiceMomi_Mochi.label>찹쌀(벼)</RiceMomi_Mochi.label>
-  <RiceMomi_Mochi.description>벼가 붙은 찹쌀. 이대로 먹는 것은 불가능하기에 탈곡정미를 합시다!! /n탈곡기로 찹쌀과 부산물인 짚을 얻을 수 있습니다.</RiceMomi_Mochi.description>
+  <RiceMomi_Mochi.description>벼가 붙은 찹쌀. 이대로 먹는 것은 불가능하기에 탈곡정미를 합시다!! \n탈곡기로 찹쌀과 부산물인 짚을 얻을 수 있습니다.</RiceMomi_Mochi.description>
 
   <BrownRice.label>현미</BrownRice.label>
   <BrownRice.description>탈곡시켜 쌀로부터 벼를 분리시킨 것으로 영양가가 높은 현미를 먹는 것이 가능하다.</BrownRice.description>
