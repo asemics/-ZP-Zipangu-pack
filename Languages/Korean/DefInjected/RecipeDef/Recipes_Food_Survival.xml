@@ -5,15 +5,15 @@
 
   <CookMealSurvival_1st.label>알파미(4)</CookMealSurvival_1st.label>
   <CookMealSurvival_1st.description>알파미로 만든 비상식량을 4개 만듭니다.</CookMealSurvival_1st.description>
-  <CookMealSurvival_1st.jobString>알파미 요리</CookMealSurvival_1st.jobString>
+  <CookMealSurvival_1st.jobString>알파미 요리중</CookMealSurvival_1st.jobString>
 
   <CookMealSurvival_2nd.label>건빵(4)</CookMealSurvival_2nd.label>
   <CookMealSurvival_2nd.description>건빵을 4개 만듭니다.</CookMealSurvival_2nd.description>
-  <CookMealSurvival_2nd.jobString>건빵 요리</CookMealSurvival_2nd.jobString>
+  <CookMealSurvival_2nd.jobString>건빵 요리중</CookMealSurvival_2nd.jobString>
 
   <CookMealSurvival_3rd.label>치마키(4)</CookMealSurvival_3rd.label>
   <CookMealSurvival_3rd.description>대나무 잎으로 찹쌀을 싼 뒤 잿물에 삶는 보존식을 만듭니다.</CookMealSurvival_3rd.description>
-  <CookMealSurvival_3rd.jobString>치마키 요리</CookMealSurvival_3rd.jobString>
+  <CookMealSurvival_3rd.jobString>치마키 요리중</CookMealSurvival_3rd.jobString>
 
 
 </LanguageData>
