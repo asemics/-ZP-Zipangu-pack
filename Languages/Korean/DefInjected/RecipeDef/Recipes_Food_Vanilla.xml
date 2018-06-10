@@ -3,7 +3,7 @@
 
   <Cook5MealSimple.label>간단한 음식(5)</Cook5MealSimple.label>
   <Cook5MealSimple.description>한 가지 재료로 만든 간단하고 쉬운 요리를 5개씩 요리합니다.</Cook5MealSimple.description>
-  <Cook5MealSimple.jobString>간단한 음식 요리</Cook5MealSimple.jobString>
+  <Cook5MealSimple.jobString>간단한 음식 요리중</Cook5MealSimple.jobString>
 
   <!--[Core] <CookMealFine.label>좋은 식사 준비</CookMealFine.label>-->
   <!--[Core] <CookMealFine.description>야채나 과일과 고기를 사용해 만든 다소 복잡한 요리입니다.</CookMealFine.description>-->
@@ -11,7 +11,7 @@
 
   <Cook5MealFine.label>좋은 식사(5)</Cook5MealFine.label>
   <Cook5MealFine.description>야채나 과일과 고기를 사용해 만든 다소 복잡한 요리를 5개씩 요리합니다.</Cook5MealFine.description>
-  <Cook5MealFine.jobString>좋은 식사 요리</Cook5MealFine.jobString>
+  <Cook5MealFine.jobString>좋은 식사 요리중</Cook5MealFine.jobString>
 
   <!--[Core] <CookMealLavish.label>호화로운 식사 준비</CookMealLavish.label>-->
   <!--[Core] <CookMealLavish.description>육류와 식물성 재료를 사용해 매우 복잡하게 조리한 요리입니다. 사용하는 식재료의 대부분이 낭비됩니다.</CookMealLavish.description>-->
@@ -19,7 +19,7 @@
 
   <Cook5MealLavish.label>호화로운 식사(5)</Cook5MealLavish.label>
   <Cook5MealLavish.description>육류와 식물성 재료를 사용해 매우 복잡하게 조리한 요리를 5개씩 요리합니다. 사용하는 식재료의 대부분이 낭비됩니다.</Cook5MealLavish.description>
-  <Cook5MealLavish.jobString>호화로운 식사 요리</Cook5MealLavish.jobString>
+  <Cook5MealLavish.jobString>호화로운 식사 요리중</Cook5MealLavish.jobString>
 
   <!--[Core] <CookMealSurvival.label>보존 식량 제작</CookMealSurvival.label>-->
   <!--[Core] <CookMealSurvival.description>육류와 식물성 재료를 사용해 포장된 보존 식량을 만듭니다. 사용하는 식재료의 대부분이 낭비됩니다.</CookMealSurvival.description>-->
@@ -27,7 +27,7 @@
 
   <Cook5MealSurvival.label>보존 식량(5)</Cook5MealSurvival.label>
   <Cook5MealSurvival.description>육류와 식물성 재료를 사용해 포장된 보존 식량을 5개씩 만듭니다. 사용하는 식재료의 대부분이 낭비됩니다.</Cook5MealSurvival.description>
-  <Cook5MealSurvival.jobString>보존 식량 제작</Cook5MealSurvival.jobString>
+  <Cook5MealSurvival.jobString>보존 식량 제작중</Cook5MealSurvival.jobString>
 
   <!--[Core] <MakeKibble.label>동물사료 준비</MakeKibble.label>-->
   <!--[Core] <MakeKibble.description>생고기와 채소를 섞어 사료를 만듭니다.</MakeKibble.description>-->
@@ -35,7 +35,7 @@
 
   <Make6Kibble.label>동물 사료(300)</Make6Kibble.label>
   <Make6Kibble.description>생고기와 식물성 재료를 섞어 사료를 만듭니다.</Make6Kibble.description>
-  <Make6Kibble.jobString>동물 사료 제작</Make6Kibble.jobString>
+  <Make6Kibble.jobString>동물 사료 제작중</Make6Kibble.jobString>
 
   <!--[Core] <MakePemmican.label>페미컨 만들기</MakePemmican.label>-->
   <!--[Core] <MakePemmican.description>식물성, 동물성 재료를 섞어 만든 보존 식품입니다. 맛은 뛰어나지 않지만 냉장 없이도 1년 이상 멀쩡합니다.</MakePemmican.description>-->
@@ -43,7 +43,7 @@
 
   <Make9Pemmican.label>페미컨(10)</Make9Pemmican.label>
   <Make9Pemmican.description>식물성, 동물성 재료를 섞어 만든 보존 식품입니다. 맛은 뛰어나지 않지만 냉장 없이도 1년 이상 멀쩡합니다.</Make9Pemmican.description>
-  <Make9Pemmican.jobString>페미컨 제작</Make9Pemmican.jobString>
+  <Make9Pemmican.jobString>페미컨 제작중</Make9Pemmican.jobString>
 
 
 </LanguageData>
