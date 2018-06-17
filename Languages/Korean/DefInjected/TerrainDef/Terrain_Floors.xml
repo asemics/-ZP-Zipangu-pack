@@ -14,16 +14,16 @@
   <!-- 土壌 -->
 
   <ZP_Soil.label>토양</ZP_Soil.label>
-  <ZP_Soil.description>【거름기: 100%】/n농업이 가능한 토양으로 개발합니다./n모래, 얼음, 자갈, 거친 석재, 매끄러운 석재 위에 덮을 수 있습니다.</ZP_Soil.description>
+  <ZP_Soil.description>【거름기: 100%】\n농업이 가능한 토양으로 개발합니다.\n모래, 얼음, 자갈, 거친 석재, 매끄러운 석재 위에 덮을 수 있습니다.</ZP_Soil.description>
 
   <ZP_SoilRich.label>기름진 토양</ZP_SoilRich.label>
-  <ZP_SoilRich.description>【거름기: 140%】/n농업이 가능한 토양을 비옥도가 높은 기름진 땅으로 개발합니다.</ZP_SoilRich.description>
+  <ZP_SoilRich.description>【거름기: 140%】\n농업이 가능한 토양을 비옥도가 높은 기름진 땅으로 개발합니다.</ZP_SoilRich.description>
 
   <ZP_Mud.label>진흙</ZP_Mud.label>
   <ZP_Mud.description>논을 건설하기 위해 진흙으로 개발합니다.</ZP_Mud.description>
 
   <ZP_LandfillSoil.label>매립 토양</ZP_LandfillSoil.label>
-  <ZP_LandfillSoil.description>【거름기: 50%】/n이동에 나쁜 토양을 메웁니다./n진흙, 늪, 얕은 물, 연안류를 매립합니다.</ZP_LandfillSoil.description>
+  <ZP_LandfillSoil.description>【거름기: 50%】\n이동에 나쁜 토양을 메웁니다.\n진흙, 늪, 얕은 물, 연안류를 매립합니다.</ZP_LandfillSoil.description>
 
 
 </LanguageData>
