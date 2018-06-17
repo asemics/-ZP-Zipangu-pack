@@ -2,10 +2,10 @@
 <LanguageData>
 
   <Tatami_Green.label>다다미(녹)</Tatami_Green.label>
-  <Tatami_Green.description>짚으로 만들어진 바닥재. 다다미는 공기를 정화하고, 온도를 조절하는 기능을 갖고 있다.\n또, 불연소성능도 상당히 뛰어나기에 화재가 일어나도 타지 않는다.</Tatami_Green.description>
+  <Tatami_Green.description>짚으로 만들어진 바닥재. 다다미는 공기를 정화하고, 온도를 조절하는 기능을 갖고 있습니다.\n또, 불연소성능도 상당히 뛰어나기에 화재가 일어나도 타지 않습니다.</Tatami_Green.description>
 
   <Tatami_Yellow.label>다다미(황)</Tatami_Yellow.label>
-  <Tatami_Yellow.description>짚으로 만들어진 바닥재. 다다미는 공기를 정화하고, 온도를 조절하는 기능을 갖고 있다.\n또, 불연소성능도 상당히 뛰어나기에 화재가 일어나도 타지 않는다.</Tatami_Yellow.description>
+  <Tatami_Yellow.description>짚으로 만들어진 바닥재. 다다미는 공기를 정화하고, 온도를 조절하는 기능을 갖고 있습니다.\n또, 불연소성능도 상당히 뛰어나기에 화재가 일어나도 타지 않습니다.</Tatami_Yellow.description>
 
   <RBCeramicTile.label>RB 세라믹 타일</RBCeramicTile.label>
   <RBCeramicTile.description>표면이 매끈매끈하고 청결성을 유지하기 쉽지만, 향균 타일보다는 떨어집니다.</RBCeramicTile.description>
@@ -14,16 +14,16 @@
   <!-- 土壌 -->
 
   <ZP_Soil.label>토양</ZP_Soil.label>
-  <ZP_Soil.description>【거름기: 100%】/n농업이 가능한 토양으로 개발합니다./n모래, 얼음, 자갈, 거친 석재, 매끄러운 석재 위에 덮을 수 있습니다.</ZP_Soil.description>
+  <ZP_Soil.description>【거름기: 100%】\n농업이 가능한 토양으로 개발합니다.\n모래, 얼음, 자갈, 거친 석재, 매끄러운 석재 위에 덮을 수 있습니다.</ZP_Soil.description>
 
   <ZP_SoilRich.label>기름진 토양</ZP_SoilRich.label>
-  <ZP_SoilRich.description>【거름기: 140%】/n농업이 가능한 토양을 비옥도가 높은 기름진 땅으로 개발합니다.</ZP_SoilRich.description>
+  <ZP_SoilRich.description>【거름기: 140%】\n농업이 가능한 토양을 비옥도가 높은 기름진 땅으로 개발합니다.</ZP_SoilRich.description>
 
   <ZP_Mud.label>진흙</ZP_Mud.label>
   <ZP_Mud.description>논을 건설하기 위해 진흙으로 개발합니다.</ZP_Mud.description>
 
   <ZP_LandfillSoil.label>매립 토양</ZP_LandfillSoil.label>
-  <ZP_LandfillSoil.description>【거름기: 50%】/n이동에 나쁜 토양을 메웁니다./n진흙, 늪, 얕은 물, 연안류를 매립합니다.</ZP_LandfillSoil.description>
+  <ZP_LandfillSoil.description>【거름기: 50%】\n이동에 나쁜 토양을 메웁니다.\n진흙, 늪, 얕은 물, 연안류를 매립합니다.</ZP_LandfillSoil.description>
 
 
 </LanguageData>
