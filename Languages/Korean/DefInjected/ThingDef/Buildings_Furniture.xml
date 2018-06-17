@@ -2,18 +2,18 @@
 <LanguageData>
 
   <StrawBed.label>짚 더미</StrawBed.label>
-  <StrawBed.description>【매각불가】/n잠자리는 최악이지만 없는것 보다는 나은 잠자리.</StrawBed.description>
+  <StrawBed.description>【매각불가】\n잠자리는 최악이지만 없는것 보다는 나은 잠자리.</StrawBed.description>
   <StrawBed_Blueprint.label>짚 더미(도면)</StrawBed_Blueprint.label>
   <StrawBed_Blueprint_Install.label>짚 더미(도면)</StrawBed_Blueprint_Install.label>
   <StrawBed_Frame.label>짚 더미(건설 중)</StrawBed_Frame.label>
-  <StrawBed_Frame.description>【매각불가】/n잠자리는 최악이지만 없는것 보다는 나은 잠자리.</StrawBed_Frame.description>
+  <StrawBed_Frame.description>【매각불가】\n잠자리는 최악이지만 없는것 보다는 나은 잠자리.</StrawBed_Frame.description>
 
   <DoubleStrawBed.label>큰 짚 더미</DoubleStrawBed.label>
-  <DoubleStrawBed.description>【매각불가】/n잠자리는 최악이지만 없는것 보다는 나은 잠자리.</DoubleStrawBed.description>
+  <DoubleStrawBed.description>【매각불가】\n잠자리는 최악이지만 없는것 보다는 나은 잠자리.</DoubleStrawBed.description>
   <DoubleStrawBed_Blueprint.label>큰 짚 더미대(도면)</DoubleStrawBed_Blueprint.label>
   <DoubleStrawBed_Blueprint_Install.label>더블 짚 침대(도면)</DoubleStrawBed_Blueprint_Install.label>
   <DoubleStrawBed_Frame.label>큰 짚 더미(건설 중)</DoubleStrawBed_Frame.label>
-  <DoubleStrawBed_Frame.description>【매각불가】/n잠자리는 최악이지만 없는것 보다는 나은 잠자리.(Not available for sale)</DoubleStrawBed_Frame.description>
+  <DoubleStrawBed_Frame.description>【매각불가】\n잠자리는 최악이지만 없는것 보다는 나은 잠자리.(Not available for sale)</DoubleStrawBed_Frame.description>
 
   <SuperiorStrawBed.label>짚 침대</SuperiorStrawBed.label>
   <SuperiorStrawBed.description>짚을 이용하여 좀 더 침대같이 만든 짚 침대.\n 그래도 통상의 침대보다 질은 조금 떨어진다.</SuperiorStrawBed.description>
@@ -78,39 +78,39 @@
   <GroundSit_Frame.description>맨바닥에 앉는 것이 가능하기에 피크닉용 돗자리와 함께 쓰인다.</GroundSit_Frame.description>
 
   <ZPWaraZabuton.label>짚 방석</ZPWaraZabuton.label>
-  <ZPWaraZabuton.description>짚으로 엮은 간소한 좌석./n바닥에 앉을 때 엉덩이나 다리의 부담을 덜어주는 깔개입니다. 성능은 의자와 동등합니다.</ZPWaraZabuton.description>
+  <ZPWaraZabuton.description>짚으로 엮은 간소한 좌석.\n바닥에 앉을 때 엉덩이나 다리의 부담을 덜어주는 깔개입니다. 성능은 의자와 동등합니다.</ZPWaraZabuton.description>
   <ZPWaraZabuton_Blueprint.label>짚 방석 (도면)</ZPWaraZabuton_Blueprint.label>
   <ZPWaraZabuton_Blueprint_Install.label>짚 방석 (도면)</ZPWaraZabuton_Blueprint_Install.label>
   <ZPWaraZabuton_Frame.label>짚 방석 (건설 중)</ZPWaraZabuton_Frame.label>
-  <ZPWaraZabuton_Frame.description>짚으로 엮은 간소한 좌석./n바닥에 앉을 때 엉덩이나 다리의 부담을 덜어주는 깔개입니다. 성능은 의자와 동등합니다.</ZPWaraZabuton_Frame.description>
+  <ZPWaraZabuton_Frame.description>짚으로 엮은 간소한 좌석.\n바닥에 앉을 때 엉덩이나 다리의 부담을 덜어주는 깔개입니다. 성능은 의자와 동등합니다.</ZPWaraZabuton_Frame.description>
 
   <ZPZabuton.label>방석</ZPZabuton.label>
-  <ZPZabuton.description>쿠션의 일종./n다다미나 바닥 위에 앉을 때 엉덩이나 다리의 부담을 덜어주는 부드러운 방석입니다. 성능은 식탁 의자와 동등합니다.</ZPZabuton.description>
-  <ZPZabuton_Blueprint.label>座布団 (blueprint)</ZPZabuton_Blueprint.label>
-  <ZPZabuton_Blueprint_Install.label>座布団 (blueprint)</ZPZabuton_Blueprint_Install.label>
-  <ZPZabuton_Frame.label>座布団 (building)</ZPZabuton_Frame.label>
-  <ZPZabuton_Frame.description>쿠션의 일종./n다다미나 바닥 위에 앉을 때 엉덩이나 다리의 부담을 덜어주는 부드러운 방석입니다. 성능은 식탁 의자와 동등합니다.</ZPZabuton_Frame.description>
+  <ZPZabuton.description>쿠션의 일종.\n다다미나 바닥 위에 앉을 때 엉덩이나 다리의 부담을 덜어주는 부드러운 방석입니다. 성능은 식탁 의자와 동등합니다.</ZPZabuton.description>
+  <ZPZabuton_Blueprint.label>방석 (도면)</ZPZabuton_Blueprint.label>
+  <ZPZabuton_Blueprint_Install.label>방석 (도면)</ZPZabuton_Blueprint_Install.label>
+  <ZPZabuton_Frame.label>방석 (건설 중)</ZPZabuton_Frame.label>
+  <ZPZabuton_Frame.description>쿠션의 일종.\n다다미나 바닥 위에 앉을 때 엉덩이나 다리의 부담을 덜어주는 부드러운 방석입니다. 성능은 식탁 의자와 동등합니다.</ZPZabuton_Frame.description>
 
   <ZPZabuton1st.label>방석 (적)</ZPZabuton1st.label>
-  <ZPZabuton1st.description>쿠션의 일종./n다다미나 바닥 위에 앉을 때 엉덩이나 다리의 부담을 덜어주는 부드러운 방석입니다. 성능은 식탁 의자와 동등합니다.</ZPZabuton1st.description>
+  <ZPZabuton1st.description>쿠션의 일종.\n다다미나 바닥 위에 앉을 때 엉덩이나 다리의 부담을 덜어주는 부드러운 방석입니다. 성능은 식탁 의자와 동등합니다.</ZPZabuton1st.description>
   <ZPZabuton1st_Blueprint.label>방석 (적) (도면)</ZPZabuton1st_Blueprint.label>
   <ZPZabuton1st_Blueprint_Install.label>방석(적) (도면)</ZPZabuton1st_Blueprint_Install.label>
   <ZPZabuton1st_Frame.label>방석 (적) (건설 중)</ZPZabuton1st_Frame.label>
-  <ZPZabuton1st_Frame.description>쿠션의 일종./n다다미나 바닥 위에 앉을 때 엉덩이나 다리의 부담을 덜어주는 부드러운 방석입니다. 성능은 식탁 의자와 동등합니다.</ZPZabuton1st_Frame.description>
+  <ZPZabuton1st_Frame.description>쿠션의 일종.\n다다미나 바닥 위에 앉을 때 엉덩이나 다리의 부담을 덜어주는 부드러운 방석입니다. 성능은 식탁 의자와 동등합니다.</ZPZabuton1st_Frame.description>
 
   <ZPZabuton2nd.label>방석 (청)</ZPZabuton2nd.label>
-  <ZPZabuton2nd.description>쿠션의 일종./n다다미나 바닥 위에 앉을 때 엉덩이나 다리의 부담을 덜어주는 부드러운 방석입니다. 성능은 식탁 의자와 동등합니다.</ZPZabuton2nd.description>
+  <ZPZabuton2nd.description>쿠션의 일종.\n다다미나 바닥 위에 앉을 때 엉덩이나 다리의 부담을 덜어주는 부드러운 방석입니다. 성능은 식탁 의자와 동등합니다.</ZPZabuton2nd.description>
   <ZPZabuton2nd_Blueprint.label>방석 (청) (도면)</ZPZabuton2nd_Blueprint.label>
   <ZPZabuton2nd_Blueprint_Install.label>방석(청) (도면)</ZPZabuton2nd_Blueprint_Install.label>
   <ZPZabuton2nd_Frame.label>방석 (청) (건설 중)</ZPZabuton2nd_Frame.label>
-  <ZPZabuton2nd_Frame.description>쿠션의 일종./n다다미나 바닥 위에 앉을 때 엉덩이나 다리의 부담을 덜어주는 부드러운 방석입니다. 성능은 식탁 의자와 동등합니다.</ZPZabuton2nd_Frame.description>
+  <ZPZabuton2nd_Frame.description>쿠션의 일종.\n다다미나 바닥 위에 앉을 때 엉덩이나 다리의 부담을 덜어주는 부드러운 방석입니다. 성능은 식탁 의자와 동등합니다.</ZPZabuton2nd_Frame.description>
 
   <ZPZabuton3rd.label>방석 (자)</ZPZabuton3rd.label>
-  <ZPZabuton3rd.description>쿠션의 일종./n다다미나 바닥 위에 앉을 때 엉덩이나 다리의 부담을 덜어주는 부드러운 방석입니다. 성능은 식탁 의자와 동등합니다.</ZPZabuton3rd.description>
+  <ZPZabuton3rd.description>쿠션의 일종.\n다다미나 바닥 위에 앉을 때 엉덩이나 다리의 부담을 덜어주는 부드러운 방석입니다. 성능은 식탁 의자와 동등합니다.</ZPZabuton3rd.description>
   <ZPZabuton3rd_Blueprint.label>방석 (자) (도면)</ZPZabuton3rd_Blueprint.label>
   <ZPZabuton3rd_Blueprint_Install.label>방석(자) (도면)</ZPZabuton3rd_Blueprint_Install.label>
   <ZPZabuton3rd_Frame.label>방석 (자) (건설 중)</ZPZabuton3rd_Frame.label>
-  <ZPZabuton3rd_Frame.description>쿠션의 일종./n다다미나 바닥 위에 앉을 때 엉덩이나 다리의 부담을 덜어주는 부드러운 방석입니다. 성능은 식탁 의자와 동등합니다.</ZPZabuton3rd_Frame.description>
+  <ZPZabuton3rd_Frame.description>쿠션의 일종.\n다다미나 바닥 위에 앉을 때 엉덩이나 다리의 부담을 덜어주는 부드러운 방석입니다. 성능은 식탁 의자와 동등합니다.</ZPZabuton3rd_Frame.description>
 
   <ZP_Tyabudai.label>밥상</ZP_Tyabudai.label>
   <ZP_Tyabudai.description>일본의 전통적인 식탁입니다. 이곳에서 밥을 먹으며 바닥에 방석을 깔고 앉아 먹기 좋게 다리가 짧습니다.</ZP_Tyabudai.description>
