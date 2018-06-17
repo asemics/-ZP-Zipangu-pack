@@ -4,88 +4,88 @@
   <!-- 米関係 y=0 -->
 
   <ReUplandRice.label>밭벼</ReUplandRice.label>
-  <ReUplandRice.description>벼의 생산성을 올리기 위해서 품종개량하여 밭벼를 산출해냈다.</ReUplandRice.description>
+  <ReUplandRice.description>벼의 생산성을 올리기 위해, 밭을 가꾸어 심는 기술을 연구합니다.</ReUplandRice.description>
 
   <ReWetlandRice.label>논</ReWetlandRice.label>
-  <ReWetlandRice.description>한층 더 풍요를 부르기 위하여 논벼와 논의 개발을 한다.</ReWetlandRice.description>
+  <ReWetlandRice.description>한층 더 벼의 생산량을 높이기 위해, 논밭의 기능과 기술을 연구합니다.</ReWetlandRice.description>
 
-  <ReGlutinousRice.label>もち米</ReGlutinousRice.label>
-  <ReGlutinousRice.description>もちもちとした食感のお米に品種改良をする。\n解放⇒もち米(要：栽培ｽｷﾙ 4),杵臼,もち米レシピ7種類</ReGlutinousRice.description>
+  <ReGlutinousRice.label>찹쌀</ReGlutinousRice.label>
+  <ReGlutinousRice.description>쫀득쫀득한 식감의 쌀을 만들기 위한 품종 개량을 합니다.\n찹쌀(재배 기술:4), 저구 및 찹쌀 요리법 7종류를 개방합니다.</ReGlutinousRice.description>
 
-  <ReThreshingRiceMillingMachine.label>All-purpose rice processing machine</ReThreshingRiceMillingMachine.label>
-  <ReThreshingRiceMillingMachine.description>Learn how to make Agricultural tools to consume Inaho and convert it to White rice.</ReThreshingRiceMillingMachine.description>
+  <ReThreshingRiceMillingMachine.label>복합식 탈곡정미기</ReThreshingRiceMillingMachine.label>
+  <ReThreshingRiceMillingMachine.description>탈곡부터 정미까지 한번에 처리해주는 최신형 복합식 탈곡정미기의 건설법을 연구합니다.</ReThreshingRiceMillingMachine.description>
 
 
   <!-- 栽培関係 y=1 -->
 
-  <ReAquacultureFish.label>Farm fish net</ReAquacultureFish.label>
-  <ReAquacultureFish.description>Learn how to farm fish. The farming period is very long, but you can harvest very nutritious fish.\nCAUTION:To grow, light, appropriate temperature control and feed(fish food, earthworm, insect meat) is necessary.\nUnlock -&gt; Farming fish(Necessary: Growing skill 10), Farm fish net (3x3)</ReAquacultureFish.description>
+  <ReAquacultureFish.label>양식망</ReAquacultureFish.label>
+  <ReAquacultureFish.description>양식망의 건설법을 연구합니다. 양식어가 자라는데까지 오래걸리지만, 매우 영양가 높은 생선을 채집할 수 있습니다.\n※주의: 양식어가 자라기위해서는 빛과 적당한 온도, 그리고 사료 (물고기 사료, 곤충 고기 등)이 필요합니다.\n양식망(3x3)과 양식어 키우기(농사 레벨: 10)를 개방합니다.</ReAquacultureFish.description>
 
-  <ReAquacultureNet.label>Large Farm fish net</ReAquacultureNet.label>
-  <ReAquacultureNet.description>Learn how to make a large Farm fish net so that many fish can be farmed.\nUnlock -&gt; Large Farm fish net(4x5)</ReAquacultureNet.description>
+  <ReAquacultureNet.label>대형 양식망</ReAquacultureNet.label>
+  <ReAquacultureNet.description>대형 양식망의 건설법을 연구합니다.\n양식망(4x5)의 건설법을 개방합니다.</ReAquacultureNet.description>
 
-  <ReFloatingSunLamp.label>Floating solar light(need fuel)</ReFloatingSunLamp.label>
-  <ReFloatingSunLamp.description>Learn how to build a floating solar light (need fuel) even in poor footing.\nUnlock -&gt; Floating solar light(need fuel)</ReFloatingSunLamp.description>
+  <ReFloatingSunLamp.label>부유식 태양등 (연료)</ReFloatingSunLamp.label>
+  <ReFloatingSunLamp.description>연료로 켜지는 부유식 태양등의 제조법을 연구합니다.\n농사 탭의 부유식 태양등(연료)의 건설법이 개방됩니다.</ReFloatingSunLamp.description>
 
-  <ReBeans.label>Soybeans</ReBeans.label>
-  <ReBeans.description>Learn how to grow Soybeans and Edamame(immature Soybeans).\nUnlock -&gt; Soybeans(Necessary: Growing skill 4),Edamame(Necessary: Growing skill 4)</ReBeans.description>
+  <ReBeans.label>대두</ReBeans.label>
+  <ReBeans.description>풋콩과 대두의 농사법을 연구합니다. \n대두(농사 레벨:4)와 풋콩(농사레벨:4)를 개방합니다.</ReBeans.description>
 
 
   <!-- 土壌開発 y=2 -->
 
-  <ReZPSoil.label>Soil</ReZPSoil.label>
-  <ReZPSoil.description>Reserch agriculturally possible soil.\nSoil will be placed on sand, ice, gravel, rough stone, smooth stone.\nUnlock -&gt; Soil(Fertility:100%)</ReZPSoil.description>
+  <ReZPSoil.label>토양</ReZPSoil.label>
+  <ReZPSoil.description>토양의 개발법을 연구합니다.\n토양은 모래, 얼음, 자갈, 거친 석재, 매끄러운 석재 위에 덮을 수 있습니다.\n토양【거름기: 100%】 개발법 개방.</ReZPSoil.description>
 
-  <ReZPSoilRich.label>Fertile Soil</ReZPSoilRich.label>
-  <ReZPSoilRich.description>Improve agriculturally possible soil to Rich Soil.\nUnlock -&gt; Fertile Soil(Fertility:140%)</ReZPSoilRich.description>
+  <ReZPSoilRich.label>기름진 토양</ReZPSoilRich.label>
+  <ReZPSoilRich.description>기름진 토양의 개발법을 연구합니다.\n기름진 토양【거름기: 140%】 개발법 개방.</ReZPSoilRich.description>
 
-  <ReZPMud.label>Mud</ReZPMud.label>
-  <ReZPMud.description>Reserch Mud for paddy fields.\nUnlock -&gt; Mud,Mud gathering spot</ReZPMud.description>
+  <ReZPMud.label>진흙</ReZPMud.label>
+  <ReZPMud.description>논을 건설하기 위한 진흙의 개발법을 연구합니다.\n진흙과 진흙 채집장을 개방합니다.</ReZPMud.description>
 
-  <ReZPLandfillSoil.label>Reclaimed soil</ReZPLandfillSoil.label>
-  <ReZPLandfillSoil.description>Fill the ground with poor footing.\nUnlock -&gt; Reclaimed soil</ReZPLandfillSoil.description>
+  <ReZPLandfillSoil.label>매립 토양</ReZPLandfillSoil.label>
+  <ReZPLandfillSoil.description>이동에 나쁜 토양으로 물, 늪, 혹은 진흙을 메웁니다.\n매립 토양【거름기: 50%】의 개발법을 개방합니다.</ReZPLandfillSoil.description>
 
-  <ReScarecrow.label>Scarecrow of fertility</ReScarecrow.label>
-  <ReScarecrow.description>Learn how to make the scarecrow accept the blessing of fertile God.\nAs long as there is an offering(fuel), Up 30% fertility of the soil within 9 squares.\nCAUTION:Paddy fields and hydroponics growers will not accept blessing.</ReScarecrow.description>
+  <ReScarecrow.label>풍요의 허수아비</ReScarecrow.label>
+  <ReScarecrow.description>허수아비의 제조법과 풍요의 여신에게 공물을 바치는 풍습을 연구합니다.\n공물이 존재하는한 직경 9칸으로 거름기가 30% 상승합니다.\n※주의: 논과 수경 재배기에는 효과가 없습니다.</ReScarecrow.description>
 
 
   <!-- 食料関係 y=3 -->
 
-  <ReSeasoning.label>Seasoning</ReSeasoning.label>
-  <ReSeasoning.description>Learn how to make seasonings that will enrich your diet.\nUnlock -&gt; Rice syrup, Rice vineger, Soy souce, Miso</ReSeasoning.description>
+  <ReSeasoning.label>조미료</ReSeasoning.label>
+  <ReSeasoning.description>조미료들의 가공법에 대해 연구합니다.\n된장, 간장, 쌀엿, 그리고 식초를 개방합니다.</ReSeasoning.description>
 
-  <RePreservedFood.label>Preserved meals</RePreservedFood.label>
-  <RePreservedFood.description>Learn how to make preserved meals to preserve food for a long time.\nUnlock -&gt; Nukaduke, Dried fish, Natto, Nuka pot</RePreservedFood.description>
+  <RePreservedFood.label>보존 식량</RePreservedFood.label>
+  <RePreservedFood.description>음식이 장기 보관이 가능하도록 가공하는 방법을 연구합니다.\n누카츠케, 말린 생선, 낫토, 절임 장독대, 그리고 가공 식품 요리법 9종류를 개방합니다.</RePreservedFood.description>
 
-  <ReZPLuxury.label>嗜好品</ReZPLuxury.label>
-  <ReZPLuxury.description>嗜好品の作り方を学ぶ。\n解放⇒飲み物レシピ2種,嗜好品レシピ7種</ReZPLuxury.description>
+  <ReZPLuxury.label>사치품</ReZPLuxury.label>
+  <ReZPLuxury.description>사치품목에 대해 연구합니다.\n음료 레시피 2종, 사치품 레시피 7종을 개방합니다.</ReZPLuxury.description>
 
 
   <!-- 家具 y=4 -->
 
-  <ReZPFurniture.label>Japanese style furniture</ReZPFurniture.label>
-  <ReZPFurniture.description>Learn how to build Japanese style furniture to improve the living environment.\nUnlock -&gt; Straw-woven bed, Uchiwa, Hibachi</ReZPFurniture.description>
+  <ReZPFurniture.label>일본식 가구</ReZPFurniture.label>
+  <ReZPFurniture.description>주거 환경을 좋게 하는 일본식 가구의 제조법을 연구합니다.\n짚 침대, 부채, 화로, 그리고 칸막이를 개방합니다.</ReZPFurniture.description>
 
-  <ReZPFurniture2nd.label>和風家具Ⅱ</ReZPFurniture2nd.label>
-  <ReZPFurniture2nd.description>住環境をよくする和風家具Ⅱの建て方を学ぶ。\n解放⇒布団,囲炉裏,炬燵,座布団</ReZPFurniture2nd.description>
+  <ReZPFurniture2nd.label>일본식 가구Ⅱ</ReZPFurniture2nd.label>
+  <ReZPFurniture2nd.description>보다 발달된 일본식 가구의 제조법을 연구합니다.\n이불, 화덕, 각로, 그리고 방석을 개방합니다.</ReZPFurniture2nd.description>
 
 
   <!-- 装備関係 y=5 -->
 
-  <BlacksmithApprentice.label>Blacksmith Apprentice</BlacksmithApprentice.label>
-  <BlacksmithApprentice.description>You can master the techniques of making NagayariSpears, Sasumata, JapaneseLongbow, MuneateArmor, Ninja clothes, Samurai clothes.</BlacksmithApprentice.description>
+  <BlacksmithApprentice.label>견습 대장장이</BlacksmithApprentice.label>
+  <BlacksmithApprentice.description>사무라이 옷, 닌자 옷, 가슴 보호 갑옷, 머리띠, 일본도, 장창, 와키자시 및 화궁의 제작 기술을 습득할 수 있습니다.</BlacksmithApprentice.description>
 
-  <BlacksmithArtisan.label>Blacksmith Artisan</BlacksmithArtisan.label>
-  <BlacksmithArtisan.description>You can master the techniques of making AsigaruArmor, JingasaHelmet, JumonjiSpear, OdachiBlade, JapaneseLongbow(poison).</BlacksmithArtisan.description>
+  <BlacksmithArtisan.label>숙련 대장장이</BlacksmithArtisan.label>
+  <BlacksmithArtisan.description>아시가루의 갑옷, 진가사, 대태도 및 사궁의 제작 기술을 습득할 수 있습니다.</BlacksmithArtisan.description>
 
-  <BlacksmithMaster.label>Blacksmith Master</BlacksmithMaster.label>
-  <BlacksmithMaster.description>You can master the techniques of making SyogunArmor, SyogunHelmet, JapaneseLongbow(fire).</BlacksmithMaster.description>
+  <BlacksmithMaster.label>장인 대장장이</BlacksmithMaster.label>
+  <BlacksmithMaster.description>쇼군 갑옷, 쇼군 투구, 십문자창 및 화궁(火)의 제작 기술을 습득할 수 있습니다.</BlacksmithMaster.description>
 
-  <BlacksmithTanegasima.label>Blacksmith Tanegasima</BlacksmithTanegasima.label>
-  <BlacksmithTanegasima.description>You can master the techniques of making TanegasimaGun.</BlacksmithTanegasima.description>
+  <BlacksmithTanegasima.label>화승총 장인</BlacksmithTanegasima.label>
+  <BlacksmithTanegasima.description>종자도총의 제조법을 연구합니다.</BlacksmithTanegasima.description>
 
-  <ReDefenseBase.label>Defense system</ReDefenseBase.label>
-  <ReDefenseBase.description>Learn how to build a defense position.\nunlock -&gt; Kaidate, Straw mass, Gunpowder in Straw mass</ReDefenseBase.description>
+  <ReDefenseBase.label>방어 시스템</ReDefenseBase.label>
+  <ReDefenseBase.description>방어에 쓰이는 여러 설치물을 연구합니다. \n카키타테, 점화용 짚 더미, 화약이 섞인 짚더미를 개방합니다.</ReDefenseBase.description>
 
 
 </LanguageData>
