@@ -73,7 +73,7 @@
   <!-- 装備関係 y=5 -->
 
   <BlacksmithApprentice.label>견습 대장장이</BlacksmithApprentice.label>
-  <BlacksmithApprentice.description>사무라이 옷, 닌자 옷, 가슴 보호 갑옷, 머리띠, 일본도, 장창, 와키자시 및 화궁의 제작 기술을 습득할 수 있습니다.</BlacksmithApprentice.description>
+  <BlacksmithApprentice.description>사무라이 옷, 닌자 옷, 가슴 보호 갑옷, 하치가네, 일본도, 장창, 와키자시 및 화궁의 제작 기술을 습득할 수 있습니다.</BlacksmithApprentice.description>
 
   <BlacksmithArtisan.label>숙련 대장장이</BlacksmithArtisan.label>
   <BlacksmithArtisan.description>아시가루의 갑옷, 진가사, 대태도 및 사궁의 제작 기술을 습득할 수 있습니다.</BlacksmithArtisan.description>
