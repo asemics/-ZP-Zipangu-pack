@@ -162,6 +162,12 @@
   <ZP_Tuitate2nd_Blueprint_Install.label>칸막이 (도면)</ZP_Tuitate2nd_Blueprint_Install.label>
   <ZP_Tuitate2nd_Frame.label>칸막이 (건설 중)</ZP_Tuitate2nd_Frame.label>
   <ZP_Tuitate2nd_Frame.description>재배치가 가능한 벽. 방을 일시적으로 분할하거나 안쪽을 보지 못하게 막는데에도 사용됩니다. 빛은 차단하지 않습니다.</ZP_Tuitate2nd_Frame.description>
+	
+  <ZPConfectionerySaucer.label>菓子皿</ZPConfectionerySaucer.label>
+	<ZPConfectionerySaucer.description>【作業速度:10%up,研究速度係数:5%up,快適度:5%up】燃料:ジパングの嗜好品とチョコレート\n作業中に糖分を摂る事で脳が活性化し作業効率を高めることができる。</ZPConfectionerySaucer.description>
+	<ZPConfectionerySaucer_Blueprint.label>菓子皿 (blueprint)</ZPConfectionerySaucer_Blueprint.label>
+	<ZPConfectionerySaucer_Blueprint_Install.label>菓子皿 (blueprint)</ZPConfectionerySaucer_Blueprint_Install.label>
+	<ZPConfectionerySaucer_Frame.label>菓子皿 (building)</ZPConfectionerySaucer_Frame.label>
+	<ZPConfectionerySaucer_Frame.description>【作業速度:10%up,研究速度係数:5%up,快適度:5%up】燃料:ジパングの嗜好品とチョコレート\n作業中に糖分を摂る事で脳が活性化し作業効率を高めることができる。</ZPConfectionerySaucer_Frame.description></LanguageData>
 
-
-</LanguageData>
+　</LanguageData>
