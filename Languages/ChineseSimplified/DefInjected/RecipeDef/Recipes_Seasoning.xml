@@ -8,7 +8,7 @@
   <R_CookNaturalSalt.jobString>正在提取盐。</R_CookNaturalSalt.jobString>
 
   <R_CookSyrup10.label>制作米糖(x25)</R_CookSyrup10.label>
-  <R_CookSyrup10.description>通过熬煮大米来获得米糖浆</R_CookSyrup10.description>
+  <R_CookSyrup10.description>通过熬煮大米来获得米糖浆。</R_CookSyrup10.description>
   <R_CookSyrup10.jobString>正在制作米糖。</R_CookSyrup10.jobString>
 
   <R_CookVinegarBarrel.label>制作米醋桶</R_CookVinegarBarrel.label>

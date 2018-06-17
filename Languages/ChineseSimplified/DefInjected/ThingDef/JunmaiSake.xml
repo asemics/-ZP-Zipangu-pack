@@ -4,8 +4,8 @@
   <ZPJunmaiSake.label>纯米酒</ZPJunmaiSake.label>
   <ZPJunmaiSake.description>日本清酒的一种，仅以米、米曲和水为原料，不外加食用酒精。\n由于清酒酿造业受到历史上“乱世”（指第二次世界大战）的影响，给日本消费者留下了不良的印象，加上新一代日本人崇尚饮用啤酒和烈性酒，所以清酒的存在可能很快也要被湮没在尘埃之中了。</ZPJunmaiSake.description>
   <ZPJunmaiSake.tools.1.label>颈</ZPJunmaiSake.tools.1.label>
-  <ZPJunmaiSake.ingestible.ingestCommandString>饮用 {0}</ZPJunmaiSake.ingestible.ingestCommandString>
-  <ZPJunmaiSake.ingestible.ingestReportString>正在饮用 {0}.</ZPJunmaiSake.ingestible.ingestReportString>
+  <ZPJunmaiSake.ingestible.ingestCommandString>饮用{0}</ZPJunmaiSake.ingestible.ingestCommandString>
+  <ZPJunmaiSake.ingestible.ingestReportString>正在饮用{0}。</ZPJunmaiSake.ingestible.ingestReportString>
 
   <R_JunmaiSakeBarrel.label>米酒桶</R_JunmaiSakeBarrel.label>
   <R_JunmaiSakeBarrel.description>一桶可供酿制米酒的原料，就这样还不能喝。</R_JunmaiSakeBarrel.description>

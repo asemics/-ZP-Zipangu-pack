@@ -27,5 +27,8 @@
   <R_Miso.label>味噌</R_Miso.label>
   <R_Miso.description>又称面豉酱，是以黄豆为主原料，加入盐及不同的种麴发酵而成。 \n在日本，味噌是最受欢迎的调味品，它既可以做成汤品，又能与肉类烹煮成菜，还能做成火锅的汤底，既美味又健康呢。</R_Miso.description>
 
+  <ZP_Spice.label>香辛料</ZP_Spice.label>
+  <ZP_Spice.description>用于改善料理风味的、各种各样的调料。</ZP_Spice.description>
+
 
 </LanguageData>

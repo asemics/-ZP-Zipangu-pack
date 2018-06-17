@@ -22,12 +22,12 @@
   <RiceCooker_Frame.label>煮饭器 (建造中)</RiceCooker_Frame.label>
   <RiceCooker_Frame.description>一个煮饭或是煮汤都很便利的烹饪台。\n因为配置了最先进的烹饪器具，所以烹饪速度会提升30%。</RiceCooker_Frame.description>
 
-  <ZPIrori.label>囲炉裏</ZPIrori.label>
-  <ZPIrori.description>日本家屋に設けられる炉の一種。主に暖房と調理が目的だが人々の集いの場所でもありリラクゼーションをもたらしてくれる。</ZPIrori.description>
-  <ZPIrori_Blueprint.label>囲炉裏 (blueprint)</ZPIrori_Blueprint.label>
-  <ZPIrori_Blueprint_Install.label>囲炉裏 (blueprint)</ZPIrori_Blueprint_Install.label>
-  <ZPIrori_Frame.label>囲炉裏 (building)</ZPIrori_Frame.label>
-  <ZPIrori_Frame.description>日本家屋に設けられる炉の一種。主に暖房と調理が目的だが人々の集いの場所でもありリラクゼーションをもたらしてくれる。</ZPIrori_Frame.description>
+  <ZPIrori.label>围炉里</ZPIrori.label>
+  <ZPIrori.description>在日式房屋中很常见的一种围炉。将地板的一部分切开四角使其略低于地面、然后设置燃料就可以了。\n这种炉子通常都会同时设置一条固定在房顶上的绳子或链子，上面可以钩挂一个锅或者壶，因此这种炉子除了可以用来取暖以外，也是用来烹饪和聚会的不错的场所呢。</ZPIrori.description>
+  <ZPIrori_Blueprint.label>围炉里 (蓝图)</ZPIrori_Blueprint.label>
+  <ZPIrori_Blueprint_Install.label>围炉里 (蓝图)</ZPIrori_Blueprint_Install.label>
+  <ZPIrori_Frame.label>围炉里 (建造中)</ZPIrori_Frame.label>
+  <ZPIrori_Frame.description>在日式房屋中很常见的一种围炉。将地板的一部分切开四角使其略低于地面、然后设置燃料就可以了。\n这种炉子通常都会同时设置一条固定在房顶上的绳子或链子，上面可以钩挂一个锅或者壶，因此这种炉子除了可以用来取暖以外，也是用来烹饪和聚会的不错的场所呢。</ZPIrori_Frame.description>
 
   <CookingTable.label>料理台</CookingTable.label>
   <CookingTable.description>专门用于准备食材和调料的工作台。</CookingTable.description>

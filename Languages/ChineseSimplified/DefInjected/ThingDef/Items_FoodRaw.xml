@@ -2,40 +2,40 @@
 <LanguageData>
 
   <R_SeasonedMeat.label>腌制肉</R_SeasonedMeat.label>
-  <R_SeasonedMeat.description>用调料腌制过的肉，比生肉的营养稍微高一点，而且贮存时间更长。\n可以就这么吃，也可以烹调过后再吃。</R_SeasonedMeat.description>
+  <R_SeasonedMeat.description>用调料腌制过的肉，比生肉的营养要稍微高一点，而且更加耐以贮存。\n可以直接食用，或是作为食材进行烹调。</R_SeasonedMeat.description>
 
   <R_FreezeMochi.label>冻米饼</R_FreezeMochi.label>
-  <R_FreezeMochi.description>将米饼浸湿、揉制、冷冻，然后用凉风风干。这样处理过的米饼可以贮存更长时间。\n可以就这么吃，也可以烹调过后再吃。</R_FreezeMochi.description>
+  <R_FreezeMochi.description>将米饼浸湿、揉制、冷冻，然后用凉风风干。这样处理过的米饼可以贮存更长时间。\n可以直接食用，或是作为食材进行烹调。</R_FreezeMochi.description>
 
   <ZP_RiceBranPickled.label>米糠酱菜</ZP_RiceBranPickled.label>
-  <ZP_RiceBranPickled.description>一种利用米糠中乳酸菌发酵时所产生的米糠腌床（糠床）腌渍蔬菜等食材而成的一种腌制食物。糠床主要由米糠磨成的粉制成。你可以就这么吃，也可以烹调过后再吃。\n米糠腌菜主要起源于日本江户时期初期，而它的雏形早在日本平安时期就已形成。在经济发达的江户时代，米糠腌菜已经成为一般民众的主食。</ZP_RiceBranPickled.description>
+  <ZP_RiceBranPickled.description>一种利用米糠中乳酸菌发酵时所产生的米糠腌床（糠床）腌渍蔬菜等食材而成的一种腌制食物。糠床主要由米糠磨成的粉制成。\n可以直接食用，或是作为食材进行烹调。\n米糠腌菜主要起源于日本江户时期初期，而它的雏形早在日本平安时期就已形成。在经济发达的江户时代，米糠腌菜已经成为一般民众的主食。</ZP_RiceBranPickled.description>
 
   <ZP_DriedFish.label>鱼干</ZP_DriedFish.label>
-  <ZP_DriedFish.description>将新鲜鱼肉充分晒干，使它们可以贮存更长时间。\n可以就这么吃，也可以烹调过后再吃。</ZP_DriedFish.description>
+  <ZP_DriedFish.description>将新鲜鱼肉充分晒干，使它们可以贮存更长时间。\n可以直接食用，或是作为食材进行烹调。</ZP_DriedFish.description>
 
   <ZP_FermentedSoybeans.label>纳豆</ZP_FermentedSoybeans.label>
-  <ZP_FermentedSoybeans.description>由黄豆通过纳豆菌（枯草杆菌）发酵制成的豆制品，具有黏性，气味较臭但口味微甜，耐以贮存而且营养价值也很高。你可以就这么吃，也可以烹调过后再吃。\n日本古书《和漢三才圖會》(わかんさんさいずえ)记载：‘纳豆自秦汉以来开始制作。’这种食物始于中国的豆豉，日本也曾称纳豆为“豉”，平城京出土的木简中也有“豉”字出现。由于古代豆豉常在僧家寺院的纳所制造后放入瓮桶贮藏，后由禅僧从秦汉传到日本寺庙，所以纳豆首先在寺庙得到发展，是以亦称“唐纳豆”或“咸纳豆”。</ZP_FermentedSoybeans.description>
+  <ZP_FermentedSoybeans.description>由黄豆通过纳豆菌（枯草杆菌）发酵制成的豆制品，具有黏性，气味较臭但口味微甜，耐以贮存而且营养价值也很高。你可以直接食用，或是作为食材进行烹调。\n日本古籍《和漢三才圖會》(わかんさんさいずえ)记载：‘纳豆自秦汉以来开始制作。’这种食物始于中国的豆豉，日本也曾称纳豆为“豉”，平城京出土的木简中也有“豉”字出现。由于古代豆豉常在僧家寺院的纳所制造后放入瓮桶贮藏，后由禅僧从秦汉传到日本寺庙，所以纳豆首先在寺庙得到发展，因此亦被称为“唐纳豆”或“咸纳豆”。</ZP_FermentedSoybeans.description>
 
   <Rawtofu.label>豆腐</Rawtofu.label>
-  <Rawtofu.description>タンパク質が豊富な大豆の加工食品。肉の代用品としても使える。\n生でも食べれて、調理にも使える。</Rawtofu.description>
+  <Rawtofu.description>最常见的豆制品之一，水嫩饱满的样子不仅很好看，味道也不错，同时营养价值也很高，是被誉为“植物肉”的存在呢。\n可以直接食用，或是作为食材进行烹调。\n相传豆腐由中国汉朝时期的淮南王刘安发明，但直到中国宋朝时豆腐才真正成为重要的食品之一，并且渐渐传向周边的国家。不过，日本学者筱田统根据五代陶谷所著《清异录》“为青阳丞，洁己勤民，肉味不给，日市豆腐数个”，认为现代豆腐的前身应该起源于唐朝末期。而日本传统观点也认为，早在公元757年，中国唐代的鉴真和尚在东渡日本时就已经将制作豆腐的工艺传入日本，因此豆腐在很早以前也就成为日本民众的主要食物之一了。豆腐也有南北豆腐之分，主要区别在于往豆浆中加入的材料不同。南方豆腐通常使用石膏，因此凝固的豆腐水分量较高、外观和口感都较为细嫩饱满。北方豆腐更多使用卤水或酸浆，因此凝固的豆腐水分相较于南方豆腐来说要低、外观和口感也会比较干，但是味道会比较浓重。\n当然了，显然你的殖民者们比较喜欢吃南方豆腐呢。</Rawtofu.description>
 
-  <ZP_Soymilk.label>豆乳</ZP_Soymilk.label>
-  <ZP_Soymilk.description>豆を搾って作った飲料。ミルクの代用品にもなる。\n生でも飲めて、調理にも使える。</ZP_Soymilk.description>
+  <ZP_Soymilk.label>豆浆</ZP_Soymilk.label>
+  <ZP_Soymilk.description>营养价值及味道都可以和牛奶相媲美、但却是用大豆制成的不可思议的饮料，因此也被誉作是“植物奶”。\n可以直接饮用，也可以作为食材进行烹调。</ZP_Soymilk.description>
 
-  <Flour.label>穀物粉</Flour.label>
-  <Flour.description>穀物をひいた粉。</Flour.description>
+  <Flour.label>谷物粉</Flour.label>
+  <Flour.description>将谷物磨碎之后筛选出来的、可以用于烹饪的粉。</Flour.description>
 
-  <ZP_Konnyaku.label>こんにゃく</ZP_Konnyaku.label>
-  <ZP_Konnyaku.description>里芋から作った加工食品。\n生でも食べれて、調理にも使える。</ZP_Konnyaku.description>
+  <ZP_Konnyaku.label>魔芋</ZP_Konnyaku.label>
+  <ZP_Konnyaku.description>将里芋蒸熟、磨碎，然后和草木灰碱水混合制成的块状物。\n可以直接食用，或是作为食材进行烹调。\n严格来说魔芋的原材料应该是另一种名为“蒟蒻”的植物块茎，不过由于里芋的淀粉含量同样很高的缘故、因此用里芋制作这种魔芋块也不是什么特别稀奇的事情呢。</ZP_Konnyaku.description>
 
-  <ZP_Tikuwa.label>ちくわ</ZP_Tikuwa.label>
-  <ZP_Tikuwa.description>魚から作った加工食品。肉の代用品としても使える。\n生でも食べれて、調理にも使える。</ZP_Tikuwa.description>
+  <ZP_Tikuwa.label>竹轮</ZP_Tikuwa.label>
+  <ZP_Tikuwa.description>将鱼肉捣碎后加工而成的食品。\n可以直接食用，或是作为食材进行烹调。\n竹轮（ちくわ）是一种空心圆柱状的食物，多数直径2厘米、长4至6厘米，头尾浅黄色、中间棕色，有皱纹状表面，像被烧烤过一样。而根据地域、使用的鱼和制作形式的不同，竹轮的外形和味道有着各自的特征。不过终归来说都是一种将鱼肉泥、面粉、蛋白、调料混合，裹在竹签或细木枝上并以火烤或蒸食的小吃，在日式火锅和关东煮中也较为常见。</ZP_Tikuwa.description>
 
-  <ZP_Tanpo.label>たんぽ</ZP_Tanpo.label>
-  <ZP_Tanpo.description>つぶしたお米を棒に巻きつけて焼いたもの。棒から外して切ったものを「きりたんぽ」という。\n生でも食べれて、調理にも使える。</ZP_Tanpo.description>
+  <ZP_Tanpo.label>蒲英</ZP_Tanpo.label>
+  <ZP_Tanpo.description>日本秋田県的乡土料理，是一种将米捣碎后卷在竹签或细木棒上、抹上酱料烤制而成的食品。如果将米卷取下来的话，就称作“切蒲英（きりたんぽ）”。\n可以直接食用，或是作为食材进行烹调。</ZP_Tanpo.description>
 
-  <ZP_FishFillet.label>魚の切り身</ZP_FishFillet.label>
-  <ZP_FishFillet.description>料理に使いやすいようにさばいた魚の切り身。\n生でも食べれて、調理にも使える。</ZP_FishFillet.description>
+  <ZP_FishFillet.label>鱼块</ZP_FishFillet.label>
+  <ZP_FishFillet.description>将整条生鱼切成的大块鱼肉，可以用于制作更为精致的料理。\n可以直接食用，或是作为食材进行烹调。</ZP_FishFillet.description>
 
 
 </LanguageData>

@@ -8,10 +8,10 @@
   <WR_Gohan.description>不加任何配菜，就这么好好享受白米饭纯粹的美味吧。</WR_Gohan.description>
 
   <BR_TKG.label>蛋盖糙米饭</BR_TKG.label>
-  <BR_TKG.description>一碗糙米饭，上面还打了一个生蛋，看起来就很好吃的样子。\n不过有人觉得加生鸡蛋是黑暗料理般的吃法呢。</BR_TKG.description>
+  <BR_TKG.description>一碗糙米饭，上面还打了一个生蛋，看起来就很好吃的样子。\n不过也有人觉得加生鸡蛋是黑暗料理般的吃法呢。</BR_TKG.description>
 
   <WR_TKG.label>蛋盖白米饭</WR_TKG.label>
-  <WR_TKG.description>一碗米饭，上面还打了一个生蛋，看起来就很好吃的样子。\n不过有人觉得加生鸡蛋是黑暗料理般的吃法呢。</WR_TKG.description>
+  <WR_TKG.description>一碗米饭，上面还打了一个生蛋，看起来就很好吃的样子。\n不过也有人觉得加生鸡蛋是黑暗料理般的吃法呢。</WR_TKG.description>
 
   <BR_Gyudon.label>糙米肉丼</BR_Gyudon.label>
   <BR_Gyudon.description>在饭上面盖有很多肉的大碗糙米饭。\n伴随着肉和饭一起吃进肚子里的、还有满满的幸福感呢。</BR_Gyudon.description>
@@ -46,7 +46,7 @@
   <ZP_WRSushi.label>手握寿司</ZP_WRSushi.label>
   <ZP_WRSushi.description>日本特色传统美食之一。\n主要材料是用寿司醋调味过的、维持在与人体体温相近温度的米饭块，再加上海鲜、蔬菜或鸡蛋等作配料制成。这种食品味道鲜美，很受日本民众和外国游客的喜爱。</ZP_WRSushi.description>
 
-  <ZP_Sasimi.label>赤身鱼刺身</ZP_Sasimi.label>
+  <ZP_Sasimi.label>刺身</ZP_Sasimi.label>
   <ZP_Sasimi.description>日本特色传统美食之一。\n早在唐朝时期的中国就有用生鱼片款待贵客的习惯，而那时跟中国关系很好的日本当然也把这种习惯带到了自己的国家了。直到现在中国的人们早已忘记了这种美味的时候，日本的人们仍然还记得呢。</ZP_Sasimi.description>
 
   <ZP_SaltGrilledFish.label>盐烤鱼</ZP_SaltGrilledFish.label>
@@ -55,38 +55,38 @@
   <ZP_SteamedFish.label>煮鱼</ZP_SteamedFish.label>
   <ZP_SteamedFish.description>将鱼和味噌一起用合适的火候煮熟、调味再加上配菜，就成了可以放心食用的美味餐品了。</ZP_SteamedFish.description>
 
-  <GR_Takikomi.label>炊き込みご飯</GR_Takikomi.label>
-  <GR_Takikomi.description>もち米と具を一緒に炊き込んで作るご飯。</GR_Takikomi.description>
+  <GR_Takikomi.label>五目饭</GR_Takikomi.label>
+  <GR_Takikomi.description>将糯米和一些野菜、肉类一起放入锅中蒸煮而成的、即美味又健康的饭。\n“五目”指的就是五种食材，当然实际上不放那么多种也是可以的哟。</GR_Takikomi.description>
 
   <ZP_Tendon.label>天丼</ZP_Tendon.label>
-  <ZP_Tendon.description>白飯の上に天ぷらをのせたどんぶり。揚げたてサクサクの天ぷらは食欲をそそります。</ZP_Tendon.description>
+  <ZP_Tendon.description>在白米饭上面配上炸好的天妇罗，香脆的天妇罗和温软的米饭简直是绝配呢。\n天妇罗实际上不是某个具体菜肴的名称，而是对日式料理中油炸食品的总称，具体的种类则有蔬菜天妇罗、海鲜天妇罗、什锦天妇罗等，是用面粉、鸡蛋与水混合成浆状，然后将新鲜的鱼虾和时令蔬菜裹上浆放入油锅中炸成金黄色。</ZP_Tendon.description>
 
-  <ZP_Udon.label>うどん</ZP_Udon.label>
-  <ZP_Udon.description>穀物粉を練って長く伸ばした白い麺。もちもちとした食感とツルっとしたのどこしが特徴の麺。</ZP_Udon.description>
+  <ZP_Udon.label>乌冬面</ZP_Udon.label>
+  <ZP_Udon.description>乌冬面（うどん，英文为udon，在日文汉字中写作“饂饨”），又被称作乌龙面，是一种以小麦为主要原料的谷物粉制作而成的、外观呈白色的东方面食，在粗细和长度方面有特别的要求。\n乌冬面是最具日本特色的面条之一，与荞麦面、绿茶面并称日本三大面条，是日式料理店不可或缺的主角。其口感介于切面和米粉之间，口感偏软，再配上精心调制的汤料，就成了一道可口的面食。其制法是将盐和水混入面粉中制作成的白色较粗（直径4毫米～6毫米）的面条，冬天可加入热汤、夏天则可放凉食用。</ZP_Udon.description>
 
-  <ZP_Ramen.label>ラーメン</ZP_Ramen.label>
-  <ZP_Ramen.description>穀物粉を練って長く伸ばした細い黄色い麺。中華スープに様々な具材を食みあわせた麺料理。</ZP_Ramen.description>
+  <ZP_Ramen.label>拉面</ZP_Ramen.label>
+  <ZP_Ramen.description>拉面（ラーメン，英文为Ramen），是一种以小麦为主要原料的谷物粉制作而成的、外观呈金黄色的东方面食，通常由拉面师手工拉制而成，因此每一份拉面都相当重视拉面职人的技术体现和中华汤底的熬制水平呢。</ZP_Ramen.description>
 
-  <ZP_Tyannko.label>ちゃんこ鍋</ZP_Tyannko.label>
-  <ZP_Tyannko.description>具沢山の野菜や肉を沢山入れて煮込んだ鍋。栄養を沢山とれるので元気になれる。</ZP_Tyannko.description>
+  <ZP_Tyannko.label>相扑火锅</ZP_Tyannko.label>
+  <ZP_Tyannko.description>将丰富的蔬菜和大量的肉煮成的满满一锅，营养非常丰富，对于补充元气来说是非常好的选择呢。\n「相扑锅」的名称来由当然就是跟相扑有关啦，日本的相扑力士经常会用这种营养丰富的锅炖来恢复体力和增加体重。当然如果不是专门为了增加体重也是可以吃的哟，对身体虚弱的人来说相扑锅也是非常有益处的呢。</ZP_Tyannko.description>
 
-  <ZP_Okonomiyaki.label>お好み焼き</ZP_Okonomiyaki.label>
-  <ZP_Okonomiyaki.description>水に溶いた穀物粉を生地に野菜と肉を材料に鉄板で焼く日本の庶民的料理。</ZP_Okonomiyaki.description>
+  <ZP_Okonomiyaki.label>什锦煎饼</ZP_Okonomiyaki.label>
+  <ZP_Okonomiyaki.description>将谷物粉、新鲜蔬菜和肉一起在铁板上烤制而成的料理，在日本是几乎每家每户都会做的平民料理。</ZP_Okonomiyaki.description>
 
-  <ZP_Korokke.label>コロッケ</ZP_Korokke.label>
-  <ZP_Korokke.description>ジャガイモを潰してペーストにし衣をつけた揚げ物料理。どこでも食べれる。</ZP_Korokke.description>
+  <ZP_Korokke.label>可乐饼</ZP_Korokke.label>
+  <ZP_Korokke.description>将马铃薯泥包裹在肉馅的外面、然后炸成的饼状食物，方便携带，在哪里都可以食用。\n名字里面的可乐是「Koro」并不是「Cola」，跟那种人气很高的饮料实际上并没有直接关系哟。\n不过搭配可乐的话也确实很棒就是了hhhhh。</ZP_Korokke.description>
 
-  <ZP_Oden.label>おでん</ZP_Oden.label>
-  <ZP_Oden.description>鰹節とコンブでとった出汁にコンニャク、大根、ちくわを長時間煮込んだ煮込み料理。</ZP_Oden.description>
+  <ZP_Oden.label>关东煮</ZP_Oden.label>
+  <ZP_Oden.description>由柴鱼片和海带煮成的汤、在里面加入串好的魔芋、萝卜、竹轮等，烹煮一段时间后就可以吃了。</ZP_Oden.description>
 
-  <ZP_aRice.label>アルファ米</ZP_aRice.label>
-  <ZP_aRice.description>非常用食品。いつでもお米が食べられるように乾燥させたもの。食べる時は水かお湯で戻せば美味しいご飯ができる。</ZP_aRice.description>
+  <ZP_aRice.label>干燥米饭</ZP_aRice.label>
+  <ZP_aRice.description>为了非常环境而储备用的食品。将米干燥处理之后进行贮存，在需要食用时候泡在水里或者汤里、等其化开就可以食用了。</ZP_aRice.description>
 
-  <ZP_Hardtack.label>乾パン</ZP_Hardtack.label>
-  <ZP_Hardtack.description>非常用食品。長期保存のために固く焼き上げたビスケットの一種。</ZP_Hardtack.description>
+  <ZP_Hardtack.label>干面饼</ZP_Hardtack.label>
+  <ZP_Hardtack.description>为了非常环境而储备用的食品。主要原料是奶或豆浆和面粉混合、然后切成小块进行烤制，跟市面上常见的饼干成份基本相同。</ZP_Hardtack.description>
 
-  <ZP_Timaki.label>ちまき</ZP_Timaki.label>
-  <ZP_Timaki.description>非常用食品。もち米を植物の葉に包み蒸したもの。事前に灰汁でもち米を煮込む事で保存性を高めてる。</ZP_Timaki.description>
+  <ZP_Timaki.label>粽子</ZP_Timaki.label>
+  <ZP_Timaki.description>一种从中国流传过来的、可以长期储备用、原本用作祭祀用的食品，以叶子包裹糯米和馅料制成。若事先用草木灰汁煮一遍糯米（汉语称之为“卤”），就可以长期保存了。</ZP_Timaki.description>
 
 
 </LanguageData>

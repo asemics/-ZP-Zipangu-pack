@@ -3,21 +3,21 @@
 
   <!-- 手の込んだ食事　卵かけご飯 -->
 
-  <CookBRTKG1.label>制作蛋盖饭【糙米】</CookBRTKG1.label>
-  <CookBRTKG1.description>在饭上面加上一个生蛋。</CookBRTKG1.description>
-  <CookBRTKG1.jobString>在饭上加蛋。</CookBRTKG1.jobString>
+  <CookBRTKG1.label>烹饪蛋盖饭【糙米】</CookBRTKG1.label>
+  <CookBRTKG1.description>在将饭煮好的同时往上面加上酱油和一份生蛋。</CookBRTKG1.description>
+  <CookBRTKG1.jobString>正在烹饪蛋盖饭。</CookBRTKG1.jobString>
 
-  <CookBRTKG4.label>制作蛋盖饭【糙米】(x4)</CookBRTKG4.label>
-  <CookBRTKG4.description>在饭上面加上一个生蛋。</CookBRTKG4.description>
-  <CookBRTKG4.jobString>在饭上加蛋。</CookBRTKG4.jobString>
+  <CookBRTKG4.label>烹饪蛋盖饭【糙米】(x4)</CookBRTKG4.label>
+  <CookBRTKG4.description>在将饭煮好的同时往上面加上酱油和一份生蛋。</CookBRTKG4.description>
+  <CookBRTKG4.jobString>正在烹饪蛋盖饭。</CookBRTKG4.jobString>
 
-  <CookWRTKG1.label>制作蛋盖饭【白米】</CookWRTKG1.label>
-  <CookWRTKG1.description>在饭上面加上一个生蛋。</CookWRTKG1.description>
-  <CookWRTKG1.jobString>在饭上加蛋。</CookWRTKG1.jobString>
+  <CookWRTKG1.label>烹饪蛋盖饭【白米】</CookWRTKG1.label>
+  <CookWRTKG1.description>在将饭煮好的同时往上面加上酱油和一份生蛋。</CookWRTKG1.description>
+  <CookWRTKG1.jobString>正在烹饪蛋盖饭。</CookWRTKG1.jobString>
 
-  <CookWRTKG4.label>制作蛋盖饭【白米】(x4)</CookWRTKG4.label>
-  <CookWRTKG4.description>在饭上面加上一个生蛋。</CookWRTKG4.description>
-  <CookWRTKG4.jobString>在饭上加蛋。</CookWRTKG4.jobString>
+  <CookWRTKG4.label>烹饪蛋盖饭【白米】(x4)</CookWRTKG4.label>
+  <CookWRTKG4.description>在将饭煮好的同时往上面加上酱油和一份生蛋。</CookWRTKG4.description>
+  <CookWRTKG4.jobString>正在烹饪蛋盖饭。</CookWRTKG4.jobString>
 
 
   <!-- 手の込んだ食事　肉丼 -->
@@ -38,9 +38,9 @@
   <CookWRGyudon4.description>烹饪4份肉丼。</CookWRGyudon4.description>
   <CookWRGyudon4.jobString>正在烹饪肉丼。</CookWRGyudon4.jobString>
 
-  <CookSasimi8.label>制作赤身鱼刺身(x8)</CookSasimi8.label>
-  <CookSasimi8.description>制作赤身鱼刺身。</CookSasimi8.description>
-  <CookSasimi8.jobString>正在制作赤身鱼刺身。</CookSasimi8.jobString>
+  <CookSasimi8.label>烹饪赤身鱼刺身(x8)</CookSasimi8.label>
+  <CookSasimi8.description>烹饪赤身鱼刺身。</CookSasimi8.description>
+  <CookSasimi8.jobString>正在烹饪赤身鱼刺身。</CookSasimi8.jobString>
 
   <CookSaltGrilledFish8.label>盐烤鱼(x8)</CookSaltGrilledFish8.label>
   <CookSaltGrilledFish8.description>将鱼抹上盐然后串在竹签上用炭火烘焙。</CookSaltGrilledFish8.description>
@@ -50,25 +50,25 @@
   <CookSteamedFish8.description>将鱼放入汤中煮熟。</CookSteamedFish8.description>
   <CookSteamedFish8.jobString>正在煮鱼。</CookSteamedFish8.jobString>
 
-  <CookGRTakikomi4.label>炊き込みご飯(4)</CookGRTakikomi4.label>
-  <CookGRTakikomi4.description>もち米と一緒に野菜類と肉類を炊き込んで作るご飯。</CookGRTakikomi4.description>
-  <CookGRTakikomi4.jobString>炊き込みご飯を作る</CookGRTakikomi4.jobString>
+  <CookGRTakikomi4.label>烹饪五目饭(x4)</CookGRTakikomi4.label>
+  <CookGRTakikomi4.description>将糯米和一些野菜、肉类一起放入锅中蒸煮。</CookGRTakikomi4.description>
+  <CookGRTakikomi4.jobString>正在烹饪五目饭。</CookGRTakikomi4.jobString>
 
-  <CookTendon4.label>天丼(4)</CookTendon4.label>
-  <CookTendon4.description>天丼を４個作る</CookTendon4.description>
-  <CookTendon4.jobString>天丼を作る</CookTendon4.jobString>
+  <CookTendon4.label>烹饪天丼(x4)</CookTendon4.label>
+  <CookTendon4.description>烹饪4份天丼。</CookTendon4.description>
+  <CookTendon4.jobString>正在烹饪天丼。</CookTendon4.jobString>
 
-  <CookOkonomiyaki4.label>お好み焼(4)</CookOkonomiyaki4.label>
-  <CookOkonomiyaki4.description>お好み焼を４個作る</CookOkonomiyaki4.description>
-  <CookOkonomiyaki4.jobString>お好み焼を作る</CookOkonomiyaki4.jobString>
+  <CookOkonomiyaki4.label>制作什锦烧(x4)</CookOkonomiyaki4.label>
+  <CookOkonomiyaki4.description>制作4份什锦烧。</CookOkonomiyaki4.description>
+  <CookOkonomiyaki4.jobString>正在制作什锦烧。</CookOkonomiyaki4.jobString>
 
-  <CookUdon4.label>うどん(4)</CookUdon4.label>
-  <CookUdon4.description>うどんを４個作る</CookUdon4.description>
-  <CookUdon4.jobString>うどんを作る</CookUdon4.jobString>
+  <CookUdon4.label>制作乌冬面(x4)</CookUdon4.label>
+  <CookUdon4.description>制作4份乌冬面。</CookUdon4.description>
+  <CookUdon4.jobString>正在制作乌冬面。</CookUdon4.jobString>
 
-  <CookOden8.label>おでん(8)</CookOden8.label>
-  <CookOden8.description>おでんを8個作る</CookOden8.description>
-  <CookOden8.jobString>おでんを作る</CookOden8.jobString>
+  <CookOden8.label>制作关东煮(x8)</CookOden8.label>
+  <CookOden8.description>制作8份关东煮。</CookOden8.description>
+  <CookOden8.jobString>正在制作关东煮。</CookOden8.jobString>
 
 
 </LanguageData>

@@ -14,13 +14,13 @@
   <CookWRSushi8.description>制作寿司。</CookWRSushi8.description>
   <CookWRSushi8.jobString>正在制作寿司。</CookWRSushi8.jobString>
 
-  <CookRamen4.label>ラーメン(4)</CookRamen4.label>
-  <CookRamen4.description>ラーメンを4個作る</CookRamen4.description>
-  <CookRamen4.jobString>ラーメンを作る</CookRamen4.jobString>
+  <CookRamen4.label>制作拉面(x4)</CookRamen4.label>
+  <CookRamen4.description>制作4碗拉面。</CookRamen4.description>
+  <CookRamen4.jobString>正在制作拉面。</CookRamen4.jobString>
 
-  <CookTyannko4.label>ちゃんこ鍋(4)</CookTyannko4.label>
-  <CookTyannko4.description>米加工品、肉、野菜をたっぷり入れた鍋を4つ作る</CookTyannko4.description>
-  <CookTyannko4.jobString>ちゃんこ鍋を作る</CookTyannko4.jobString>
+  <CookTyannko4.label>制作相扑锅(x4)</CookTyannko4.label>
+  <CookTyannko4.description>将稻米加工品、肉类和一些野菜一起放入锅中炖煮。</CookTyannko4.description>
+  <CookTyannko4.jobString>正在制作相扑锅。</CookTyannko4.jobString>
 
 
 </LanguageData>

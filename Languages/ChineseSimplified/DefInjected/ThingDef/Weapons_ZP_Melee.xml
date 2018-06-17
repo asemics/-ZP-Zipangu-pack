@@ -4,7 +4,7 @@
   <!-- 十手 Base クラブ -->
 
   <MeleeWeapon_Jitte.label>十手</MeleeWeapon_Jitte.label>
-  <MeleeWeapon_Jitte.description>或称“铁尺”，一种源自于中国的冷兵器，在19世纪末琉球被日本吞并后，随之传入日本。是专门用以克制刀剑的武器，用于卡刃——断刃——攻喉，因此很明显，其防御力强于攻击力。\n至于“Ninja dagger（忍者匕首）”这种叫法是自《Teenage Mutant Ninja Turtles（忍者神龟）》这一系列的动画而产生的。</MeleeWeapon_Jitte.description>
+  <MeleeWeapon_Jitte.description>或称“铁尺”，一种源自于中国的冷兵器，在19世纪末琉球被日本吞并后，随之传入日本。十手是专门用以克制刀剑的武器，用于卡刃——断刃——攻喉，因此很明显，其防御力强于攻击力。\n至于“Ninja dagger（忍者匕首）”这种叫法是自《Teenage Mutant Ninja Turtles（忍者神龟）》这一系列的动画而产生的。</MeleeWeapon_Jitte.description>
   <MeleeWeapon_Jitte.tools.0.label>柄</MeleeWeapon_Jitte.tools.0.label>
   <MeleeWeapon_Jitte.tools.1.label>尖头</MeleeWeapon_Jitte.tools.1.label>
 
@@ -31,7 +31,7 @@
   <!-- 刀 Base ロングソード -->
 
   <MeleeWeapon_KATANA.label>打刀</MeleeWeapon_KATANA.label>
-  <MeleeWeapon_KATANA.description>标准尺寸的东洋武士刀。和西方的长剑相比，虽然所需的材料和工序都更多更复杂了，但是通过技艺精湛的匠人打造出来的刀拥有不可小觑的威力。</MeleeWeapon_KATANA.description>
+  <MeleeWeapon_KATANA.description>标准尺寸的东洋武士刀。和西方的长剑相比，虽然所需的材料和工序都更多更复杂了，但是斩味和硬度也都相应地提高了。通过技艺精湛的匠人打造出来的刀拥有不可小觑的威力。</MeleeWeapon_KATANA.description>
   <MeleeWeapon_KATANA.tools.0.label>刺戳</MeleeWeapon_KATANA.tools.0.label>
   <MeleeWeapon_KATANA.tools.1.label>挥砍</MeleeWeapon_KATANA.tools.1.label>
   <MeleeWeapon_KATANA.tools.2.label>纵砍</MeleeWeapon_KATANA.tools.2.label>
@@ -46,7 +46,7 @@
   <ZP_Odachi.tools.2.label>纵砍</ZP_Odachi.tools.2.label>
 
 
-  <!-- 長枪 Base スピア -->
+  <!-- 長槍 Base スピア -->
 
   <ZP_LongSpear.label>长枪</ZP_LongSpear.label>
   <ZP_LongSpear.description>一种在长柄上装有锐利尖头的兵械。俗话说一寸长一寸强，掌握了距离优势对付起敌人来应该会得心应手一点吧。</ZP_LongSpear.description>
@@ -54,16 +54,16 @@
   <ZP_LongSpear.tools.1.label>刺戳</ZP_LongSpear.tools.1.label>
 
 
-  <!-- 十文字枪 Base スピア -->
+  <!-- 十文字槍 Base スピア -->
 
   <ZP_JumonjiSpear.label>十文字枪</ZP_JumonjiSpear.label>
-  <ZP_JumonjiSpear.description>如其名是拥有十字型的枪刃的长枪，镰枪的一种。\n是一种不容易使用的好武器呢。</ZP_JumonjiSpear.description>
+  <ZP_JumonjiSpear.description>如其名是拥有十字型的枪刃的长枪，镰枪的一种。\n虽然这种兵器带有一点宗教意义，不过也确实是一种不容易使用的好武器呢。</ZP_JumonjiSpear.description>
   <ZP_JumonjiSpear.tools.0.label>猛砍</ZP_JumonjiSpear.tools.0.label>
   <ZP_JumonjiSpear.tools.1.label>击打</ZP_JumonjiSpear.tools.1.label>
   <ZP_JumonjiSpear.tools.2.label>刺戳</ZP_JumonjiSpear.tools.2.label>
 
 
-  <!-- 長枪 Base スピア -->
+  <!-- 長槍 Base スピア -->
 
   <ZP_Naginata.label>薙刀</ZP_Naginata.label>
   <ZP_Naginata.description>带有弧形刀刃的长柄武器，在很久很久以前的日本战国时代曾是战场上的主要武器。后来逐渐没落，但作为“武家女子必修之武术”而流传了下来。</ZP_Naginata.description>
@@ -71,5 +71,8 @@
   <ZP_Naginata.tools.1.label>挥砍</ZP_Naginata.tools.1.label>
   <ZP_Naginata.tools.2.label>纵砍</ZP_Naginata.tools.2.label>
 
+
+  <!-- 長枪 Base スピア -->
+  <!-- 十文字枪 Base スピア -->
 
 </LanguageData>

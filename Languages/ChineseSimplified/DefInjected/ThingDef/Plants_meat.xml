@@ -7,8 +7,8 @@
   <ZP_PlantSoy.label>大豆</ZP_PlantSoy.label>
   <ZP_PlantSoy.description>一种豆类植物，可以长出被誉有“田地里的肉”之称的大豆。生长较慢，但是因为在贫瘠的地里也可以生长，所以还是很有用的一种植物呢。</ZP_PlantSoy.description>
 
-  <ZP_PlantEdamame.label>毛豆</ZP_PlantEdamame.label>
-  <ZP_PlantEdamame.description>一种豆类植物，因为不需要等待大豆长成，所以收获时间相对较短。而且因为在贫瘠的地里也可以生长的缘故，还算是很有用的一种植物呢。</ZP_PlantEdamame.description>
+  <ZP_PlantEdamame.label>枝豆</ZP_PlantEdamame.label>
+  <ZP_PlantEdamame.description>即枝豆。一种豆类植物，因为不需要等待大豆长成，所以收获时间相对较短。而且因为在贫瘠的地里也可以生长的缘故，还算是很有用的一种植物呢。</ZP_PlantEdamame.description>
 
 
 </LanguageData>

@@ -23,12 +23,12 @@
   <!-- 簡単な食事 単品 -->
 
   <CookTsukudani.label>制作虫肉佃煮(x4)</CookTsukudani.label>
-  <CookTsukudani.description>用佃煮的方式把虫肉处理一下。</CookTsukudani.description>
-  <CookTsukudani.jobString>烹饪中。</CookTsukudani.jobString>
+  <CookTsukudani.description>用佃煮的方式将虫肉处理一下。</CookTsukudani.description>
+  <CookTsukudani.jobString>烹饪虫肉佃煮中。</CookTsukudani.jobString>
 
-  <CookKorokke4.label>コロッケ(4)</CookKorokke4.label>
-  <CookKorokke4.description>コロッケを４個作る</CookKorokke4.description>
-  <CookKorokke4.jobString>コロッケを作る</CookKorokke4.jobString>
+  <CookKorokke4.label>制作可乐饼(x4)</CookKorokke4.label>
+  <CookKorokke4.description>制作四份可乐饼。</CookKorokke4.description>
+  <CookKorokke4.jobString>正在制作可乐饼。</CookKorokke4.jobString>
 
 
 </LanguageData>

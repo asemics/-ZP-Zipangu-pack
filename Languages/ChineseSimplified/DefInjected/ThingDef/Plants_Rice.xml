@@ -2,13 +2,16 @@
 <LanguageData>
 
   <Rise_Prant.label>米稻</Rise_Prant.label>
-  <Rise_Prant.description>在田地中育成的大米。\n只要花些时间用心培育，这种作物可以满足你的衣食住行等各种需求。</Rise_Prant.description>
+  <Rise_Prant.description>想要种植大米并不容易，但只要花些时间用心培育，这种作物将可以满足你的各种需求。\n除此以外，还可以通过研究来改良它们的品质。</Rise_Prant.description>
 
   <UplandRice.label>陆稻</UplandRice.label>
-  <UplandRice.description>在田地里育成的大米，重视生长速度和产量的品种。</UplandRice.description>
+  <UplandRice.description>在田地里育成的米稻，是重视生长速度和产量的品种。</UplandRice.description>
 
-  <WetlandRice.label>水稲</WetlandRice.label>
-  <WetlandRice.description>在水田中培育的大米，为了扩大产量而进行过改良的品种。</WetlandRice.description>
+  <GlutinousRicePlant.label>糯米</GlutinousRicePlant.label>
+  <GlutinousRicePlant.description>旱地和水田都可以成长的品种，是追求软糯口感的品种。\n除此以外还可以用来制作特别的糕点和料理。</GlutinousRicePlant.description>
+
+  <WetlandRice.label>水稻</WetlandRice.label>
+  <WetlandRice.description>在水田中培育的品种，是为了扩大产量而进行过改良的品种。</WetlandRice.description>
 
 
 </LanguageData>

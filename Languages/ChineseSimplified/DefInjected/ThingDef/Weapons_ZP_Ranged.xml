@@ -43,7 +43,7 @@
   <Bullet_Tanegasima.label>火绳枪弹</Bullet_Tanegasima.label>
 
   <Gun_Tanegasima.label>种子岛</Gun_Tanegasima.label>
-  <Gun_Tanegasima.description>即火绳枪，一种从滑膛火枪演变而来的武器，是现代步枪的直接原型。\n这种武器所使用的枪弹的口径和重量是相当可观的，所以在短距离射击的情况下，它的威力足以轰掉身体的一部分。\n不过，因为总是需要随身携带火绳枪绳和打火石的缘故，就没办法跑那么快了。</Gun_Tanegasima.description>
+  <Gun_Tanegasima.description>即火绳枪，一种从滑膛火枪演变而来的武器，是现代步枪的直接原型。\n这种武器所使用的枪弹的口径和重量是相当可观的，所以在短距离射击的情况下，它的威力足以轰掉身体的一部分。\n不过，因为总是需要随身携带火绳枪绳和打火石的缘故，在行动方面就不是那么便捷了。</Gun_Tanegasima.description>
   <Gun_Tanegasima.tools.0.label>枪托</Gun_Tanegasima.tools.0.label>
   <Gun_Tanegasima.tools.1.label>枪管</Gun_Tanegasima.tools.1.label>
 

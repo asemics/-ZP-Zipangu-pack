@@ -1,21 +1,21 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Zipangu.degreeDatas.0.label>顽固的匠人</Zipangu.degreeDatas.0.label>
-  <Zipangu.degreeDatas.0.description>NAME不太关心周围的环境。 HE只想专注于自己的事情，而对于与其他人的交流之类的则丝毫不感兴趣。</Zipangu.degreeDatas.0.description>
+  <Zipangu.degreeDatas.0.label>固执的匠人</Zipangu.degreeDatas.0.label>
+  <Zipangu.degreeDatas.0.description>NAME不太关心周围的环境。 HE只想专注于自己的事情，而对于与其他人的交流什么的则丝毫不感兴趣。</Zipangu.degreeDatas.0.description>
   <Zipangu.degreeDatas.1.label>机关师</Zipangu.degreeDatas.1.label>
-  <Zipangu.degreeDatas.1.description>NAME喜欢制作那些精巧的机关，而拆装那些机械体总是能引起HE极大的兴趣。但是呢，对于拆卸机械体的爱好使得NAME对拆卸生物体就不是那么感兴趣了。</Zipangu.degreeDatas.1.description>
+  <Zipangu.degreeDatas.1.description>NAME喜欢制作那些精巧的机关，而拆卸那些先进的机械体总是能引起HE极大的兴趣。但是呢，对于拆卸机械体的爱好使得NAME对拆卸生物体就不是那么感兴趣了，因此HE不太擅长屠宰动物。</Zipangu.degreeDatas.1.description>
   <Zipangu.degreeDatas.2.label>祈祷师</Zipangu.degreeDatas.2.label>
-  <Zipangu.degreeDatas.2.description>NAME为了人与自然的和谐而每天都在祈祷着，因此HE对于其他人和动物来说都相当具有亲和力。但是因为对一些微小的细节不太注重的缘故，HE在料理方面也不太擅长的样子。</Zipangu.degreeDatas.2.description>
-  <Zipangu.degreeDatas.3.label>飞脚</Zipangu.degreeDatas.3.label>
-  <Zipangu.degreeDatas.3.description>NAME是个搬运工，以给下了订单的客人送去货物为生。因为平时都是在搬着货物跑来跑去以及跟别人交流的缘故，HE的身体素质和社交能力都不错，但是对于缝纫和锻造之类的工作就不太擅长了。</Zipangu.degreeDatas.3.description>
+  <Zipangu.degreeDatas.2.description>NAME为了人与自然的和谐而每天都在祈祷着，因此HE对于其他人和动物来说都更加具有亲和力。但是因为身居高位而不拘小节的缘故，HE在料理方面也不太擅长的样子。</Zipangu.degreeDatas.2.description>
+  <Zipangu.degreeDatas.3.label>飞腿</Zipangu.degreeDatas.3.label>
+  <Zipangu.degreeDatas.3.description>NAME是个搬运工，专门给下了订单的客人送去货物，并以此为生。因为平时都是在搬着货物跑来跑去、以及跟客人交流的缘故，HE的身体素质和社交能力都不错，但是对于缝纫和锻造之类的精细工作就不太擅长了。</Zipangu.degreeDatas.3.description>
 
   <ZiPangu.degreeDatas.0.label>百姓</ZiPangu.degreeDatas.0.label>
   <ZiPangu.degreeDatas.0.description>像NAME这种地位的人通常都是以农业为生。因为常年过着清贫的耕种生活，HE对于种植颇有心得，而且对于一些突发状况也能淡然处之。不过呢，因为平时接触农具的时间多于接触武器的缘故，HE在战斗方面不太擅长。</ZiPangu.degreeDatas.0.description>
   <ZiPangu.degreeDatas.1.label>狩人</ZiPangu.degreeDatas.1.label>
-  <ZiPangu.degreeDatas.1.description>NAME以狩猎像熊那样的大型野兽为生，对于猎物的搬运和解剖工作HE再熟悉不过了，但是因此HE对于种植方面的工作则常常感到力不从心。</ZiPangu.degreeDatas.1.description>
+  <ZiPangu.degreeDatas.1.description>NAME专门以狩猎像熊那样的大型野兽为生，对于猎物的搬运和解剖工作HE再熟悉不过了，但是因此HE对于种植方面的工作则常常会感到力不从心。</ZiPangu.degreeDatas.1.description>
   <ZiPangu.degreeDatas.2.label>武士道</ZiPangu.degreeDatas.2.label>
-  <ZiPangu.degreeDatas.2.description>NAME从很小的时候就为了能在战火纷飞的世间生存下来而努力修炼着文武两道，因此HE在这方面几乎无可比拟。然而由于一直都是养尊处优的缘故，HE对于那些低级的工作不是很擅长。</ZiPangu.degreeDatas.2.description>
+  <ZiPangu.degreeDatas.2.description>NAME从很小的时候起就为了能在战火纷飞的世间存活下来而努力修炼着文武两道。然而由于一直都是过着有下人照顾、养尊处优的生活的缘故，HE对于那些低级的工作不是很擅长。</ZiPangu.degreeDatas.2.description>
 
 
 </LanguageData>

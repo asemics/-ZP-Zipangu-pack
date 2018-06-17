@@ -16,11 +16,11 @@
   <ZP_Brazier_Frame.description>一种传统的取暖器具。\n除了取暖以外，还可以用来烤制食品哦。</ZP_Brazier_Frame.description>
 
   <ZP_Kotatu.label>炬燵</ZP_Kotatu.label>
-  <ZP_Kotatu.description>日本の伝統的な暖房器具。机の上に布団を被せその中に熱源を置く事で暖かくする。</ZP_Kotatu.description>
-  <ZP_Kotatu_Blueprint.label>炬燵 (blueprint)</ZP_Kotatu_Blueprint.label>
-  <ZP_Kotatu_Blueprint_Install.label>炬燵 (blueprint)</ZP_Kotatu_Blueprint_Install.label>
-  <ZP_Kotatu_Frame.label>炬燵 (building)</ZP_Kotatu_Frame.label>
-  <ZP_Kotatu_Frame.description>日本の伝統的な暖房器具。机の上に布団を被せその中に熱源を置く事で暖かくする。</ZP_Kotatu_Frame.description>
+  <ZP_Kotatu.description>一种具有日本特色的传统取暖器具。一张特制的正方形矮桌、上面铺上一张棉被、桌下安置一盆炭火，就可以用来取暖了。\n“炬燵（こたつ）”在中文里也被叫作“暖桌”或“被炉”，旧式的炬燵桌下有个约数十公分深的坑可以用于安置炭火，因此取暖的时候并不需要盘膝而坐，可以将下半身、甚至于全身都伸进桌下取暖。炬燵最早出现于日本的室町时代，据说起源自中国佛教僧侣带入日本的「行火」。通常在日本和中国南方一些地区的家庭都有将炬燵放在客厅里的电视机前的习惯，这样可以在冬天的时候一边取暖、一边看电视、吃饭或聊天。</ZP_Kotatu.description>
+  <ZP_Kotatu_Blueprint.label>被炉 (蓝图)</ZP_Kotatu_Blueprint.label>
+  <ZP_Kotatu_Blueprint_Install.label>被炉 (蓝图)</ZP_Kotatu_Blueprint_Install.label>
+  <ZP_Kotatu_Frame.label>炬燵 (建造中)</ZP_Kotatu_Frame.label>
+  <ZP_Kotatu_Frame.description>一种具有日本特色的传统取暖器具。一张特制的正方形矮桌、上面铺上一张棉被、桌下安置一盆炭火，就可以用来取暖了。\n“炬燵（こたつ）”在中文里也被叫作“暖桌”或“被炉”，旧式的炬燵桌下有个约数十公分深的坑可以用于安置炭火，因此取暖的时候并不需要盘膝而坐，可以将下半身、甚至于全身都伸进桌下取暖。炬燵最早出现于日本的室町时代，据说起源自中国佛教僧侣带入日本的「行火」。通常在日本和中国南方一些地区的家庭都有将炬燵放在客厅里的电视机前的习惯，这样可以在冬天的时候一边取暖、一边看电视、吃饭或聊天。</ZP_Kotatu_Frame.description>
 
 
 </LanguageData>

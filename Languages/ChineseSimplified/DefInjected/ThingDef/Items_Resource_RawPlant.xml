@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ZP_RawJapaneseRadish.label>萝卜</ZP_RawJapaneseRadish.label>
+  <ZP_RawJapaneseRadish.description>生的白萝卜，因为要大很多、而且不是橘红色的，因此绝对不会跟胡萝卜弄混。</ZP_RawJapaneseRadish.description>
+
+  <ZP_RawTaro.label>芋</ZP_RawTaro.label>
+  <ZP_RawTaro.description>生的芋头，淀粉含量很高、可以制作成魔芋块。</ZP_RawTaro.description>
+
+  <ZP_RawGreenOnion.label>葱</ZP_RawGreenOnion.label>
+  <ZP_RawGreenOnion.description>生的大葱，某位VOCALOID虚拟偶像的最爱。</ZP_RawGreenOnion.description>
+
+  <ZP_MandarinOrange.label>橘子</ZP_MandarinOrange.label>
+  <ZP_MandarinOrange.description>酸酸甜甜美味可口的橘子。</ZP_MandarinOrange.description>
+
+
+</LanguageData>

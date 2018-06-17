@@ -9,53 +9,53 @@
   <StrawBed_Frame.description>可以稍微将就着睡下、但对你的背部来说不是那么友好的床，而且也稍微有些不卫生。 【不可出售】</StrawBed_Frame.description>
 
   <DoubleStrawBed.label>稻草床（大）</DoubleStrawBed.label>
-  <DoubleStrawBed.description>可以稍微将就着睡下、但对你的背部来说不是那么友好的床，而且也稍微有些不卫生。 【不可出售】</DoubleStrawBed.description>
+  <DoubleStrawBed.description>可以稍微将就着让二人睡下、但对你的背部来说不是那么友好的床，而且也稍微有些不卫生。 【不可出售】</DoubleStrawBed.description>
   <DoubleStrawBed_Blueprint.label>稻草床（大）(蓝图)</DoubleStrawBed_Blueprint.label>
   <DoubleStrawBed_Blueprint_Install.label>稻草床（大）(蓝图)</DoubleStrawBed_Blueprint_Install.label>
   <DoubleStrawBed_Frame.label>稻草床（大）(建造中)</DoubleStrawBed_Frame.label>
-  <DoubleStrawBed_Frame.description>可以稍微将就着睡下、但对你的背部来说不是那么友好的床，而且也稍微有些不卫生。 【不可出售】</DoubleStrawBed_Frame.description>
+  <DoubleStrawBed_Frame.description>可以稍微将就着让二人睡下、但对你的背部来说不是那么友好的床，而且也稍微有些不卫生。 【不可出售】</DoubleStrawBed_Frame.description>
 
   <SuperiorStrawBed.label>稻草编织床</SuperiorStrawBed.label>
-  <SuperiorStrawBed.description>用处理过的稻草编织成的简单的床铺，相对于只是把稻草铺在地上要好一点。\n虽然在品质方面还是比普通的床要低上一些，不过也总比没有强，对吧？</SuperiorStrawBed.description>
+  <SuperiorStrawBed.description>用处理过的稻草编织成的简单的床铺，相对于只是把稻草铺在地上要好上一点。\n虽然在品质方面还是比普通的床要低上一些，不过也总比没有强，对吧？</SuperiorStrawBed.description>
   <SuperiorStrawBed_Blueprint.label>稻草编织床 (蓝图)</SuperiorStrawBed_Blueprint.label>
   <SuperiorStrawBed_Blueprint_Install.label>稻草编织床 (蓝图)</SuperiorStrawBed_Blueprint_Install.label>
   <SuperiorStrawBed_Frame.label>稻草编织床 (建造中)</SuperiorStrawBed_Frame.label>
-  <SuperiorStrawBed_Frame.description>用处理过的稻草编织成的简单的床铺，相对于只是把稻草铺在地上要好一点。\n虽然在品质方面还是比普通的床要低上一些，不过也总比没有强，对吧？</SuperiorStrawBed_Frame.description>
+  <SuperiorStrawBed_Frame.description>用处理过的稻草编织成的简单的床铺，相对于只是把稻草铺在地上要好上一点。\n虽然在品质方面还是比普通的床要低上一些，不过也总比没有强，对吧？</SuperiorStrawBed_Frame.description>
 
   <SuperiorDoubleStrawBed.label>稻草编织床（大）</SuperiorDoubleStrawBed.label>
-  <SuperiorDoubleStrawBed.description>用处理过的稻草编织成的简单的床铺，相对于只是把稻草铺在地上要好一点。\n虽然在品质方面还是比普通的床要低上一些，不过也总比没有强，对吧？</SuperiorDoubleStrawBed.description>
+  <SuperiorDoubleStrawBed.description>用处理过的稻草编织成的简单的双人床铺，相对于只是把稻草铺在地上要好上一点。\n虽然在品质方面还是比普通的床要低上一些，不过也总比没有强，对吧？</SuperiorDoubleStrawBed.description>
   <SuperiorDoubleStrawBed_Blueprint.label>稻草编织床（大）(蓝图)</SuperiorDoubleStrawBed_Blueprint.label>
   <SuperiorDoubleStrawBed_Blueprint_Install.label>稻草编织床（大）(蓝图)</SuperiorDoubleStrawBed_Blueprint_Install.label>
   <SuperiorDoubleStrawBed_Frame.label>稻草编织床（大）(建造中)</SuperiorDoubleStrawBed_Frame.label>
-  <SuperiorDoubleStrawBed_Frame.description>用处理过的稻草编织成的简单的床铺，相对于只是把稻草铺在地上要好一点。\n虽然在品质方面还是比普通的床要低上一些，不过也总比没有强，对吧？</SuperiorDoubleStrawBed_Frame.description>
+  <SuperiorDoubleStrawBed_Frame.description>用处理过的稻草编织成的简单的双人床铺，相对于只是把稻草铺在地上要好上一点。\n虽然在品质方面还是比普通的床要低上一些，不过也总比没有强，对吧？</SuperiorDoubleStrawBed_Frame.description>
 
-  <ZP_Ofuton.label>お布団</ZP_Ofuton.label>
-  <ZP_Ofuton.description>日本で使われている伝統的な寝具。\n布袋の中に綿や羽毛などを入れたもので敷き布団と掛け布団がある。</ZP_Ofuton.description>
-  <ZP_Ofuton_Blueprint.label>お布団 (blueprint)</ZP_Ofuton_Blueprint.label>
-  <ZP_Ofuton_Blueprint_Install.label>お布団 (blueprint)</ZP_Ofuton_Blueprint_Install.label>
-  <ZP_Ofuton_Frame.label>お布団 (building)</ZP_Ofuton_Frame.label>
-  <ZP_Ofuton_Frame.description>日本で使われている伝統的な寝具。\n布袋の中に綿や羽毛などを入れたもので敷き布団と掛け布団がある。</ZP_Ofuton_Frame.description>
+  <ZP_Ofuton.label>布团</ZP_Ofuton.label>
+  <ZP_Ofuton.description>在日本几乎每个家庭里都可以见到的、一种在用织物编成的口袋中填入棉花或是羽毛等柔软的材料缝制而成的传统寝具。\n一套完整的布团（お布団，Futon）由一张垫子(敷き布団 shikibuton，意思是"用以摊开的布团")和一张羽绒被(掛け布団 kakebuton，意思是“用来盖的布团”)组成，在不需要用的时候这两个部份都可以很方便地折叠在一起进行贮存，使房间可以起到作为卧室以外的其它用途。\n通常情况下布团还是铺在榻榻米上使用会比较好，因为榻榻米比大多数坚硬的地板类型（例如木材或石质）要柔软一些，不至于让睡在上面的人腰酸背痛。</ZP_Ofuton.description>
+  <ZP_Ofuton_Blueprint.label>布团 (蓝图)</ZP_Ofuton_Blueprint.label>
+  <ZP_Ofuton_Blueprint_Install.label>布团 (蓝图))</ZP_Ofuton_Blueprint_Install.label>
+  <ZP_Ofuton_Frame.label>布团 (建造中)</ZP_Ofuton_Frame.label>
+  <ZP_Ofuton_Frame.description>在日本几乎每个家庭里都可以见到的、一种在用织物编成的口袋中填入棉花或是羽毛等柔软的材料缝制而成的传统寝具。\n一套完整的布团（お布団，Futon）由一张垫子(敷き布団 shikibuton，意思是"用以摊开的布团")和一张羽绒被(掛け布団 kakebuton，意思是“用来盖的布团”)组成，在不需要用的时候这两个部份都可以很方便地折叠在一起进行贮存，使房间可以起到作为卧室以外的其它用途。\n通常情况下布团还是铺在榻榻米上使用会比较好，因为榻榻米比大多数坚硬的地板类型（例如木材或石质）要柔软一些，不至于让睡在上面的人腰酸背痛。</ZP_Ofuton_Frame.description>
 
-  <ZP_DoubleOfuton.label>2人用お布団</ZP_DoubleOfuton.label>
-  <ZP_DoubleOfuton.description>2人用の布団。日本で使われている伝統的な寝具。\n布袋の中に綿や羽毛などを入れたもので敷き布団と掛け布団がある。</ZP_DoubleOfuton.description>
-  <ZP_DoubleOfuton_Blueprint.label>2人用お布団 (blueprint)</ZP_DoubleOfuton_Blueprint.label>
-  <ZP_DoubleOfuton_Blueprint_Install.label>2人用お布団 (blueprint)</ZP_DoubleOfuton_Blueprint_Install.label>
-  <ZP_DoubleOfuton_Frame.label>2人用お布団 (building)</ZP_DoubleOfuton_Frame.label>
-  <ZP_DoubleOfuton_Frame.description>2人用の布団。日本で使われている伝統的な寝具。\n布袋の中に綿や羽毛などを入れたもので敷き布団と掛け布団がある。</ZP_DoubleOfuton_Frame.description>
+  <ZP_DoubleOfuton.label>家庭用布团</ZP_DoubleOfuton.label>
+  <ZP_DoubleOfuton.description>在日本几乎每个家庭里都可以见到的、一种在用织物编成的口袋中填入棉花或是羽毛等柔软的材料缝制而成的传统寝具。\n一套完整的布团（お布団，Futon）由一张垫子(敷き布団 shikibuton，意思是"用以摊开的布团")和一张羽绒被(掛け布団 kakebuton，意思是“用来盖的布团”)组成，在不需要用的时候这两个部份都可以很方便地折叠在一起进行贮存，使房间可以起到作为卧室以外的其它用途。\n通常情况下布团还是铺在榻榻米上使用会比较好，因为榻榻米比大多数坚硬的地板类型（例如木材或石质）要柔软一些，不至于让睡在上面的人腰酸背痛。</ZP_DoubleOfuton.description>
+  <ZP_DoubleOfuton_Blueprint.label>布团（大） (蓝图)</ZP_DoubleOfuton_Blueprint.label>
+  <ZP_DoubleOfuton_Blueprint_Install.label>布团（大） (蓝图)</ZP_DoubleOfuton_Blueprint_Install.label>
+  <ZP_DoubleOfuton_Frame.label>家庭用布团 (建造中)</ZP_DoubleOfuton_Frame.label>
+  <ZP_DoubleOfuton_Frame.description>在日本几乎每个家庭里都可以见到的、一种在用织物编成的口袋中填入棉花或是羽毛等柔软的材料缝制而成的传统寝具。\n一套完整的布团（お布団，Futon）由一张垫子(敷き布団 shikibuton，意思是"用以摊开的布团")和一张羽绒被(掛け布団 kakebuton，意思是“用来盖的布团”)组成，在不需要用的时候这两个部份都可以很方便地折叠在一起进行贮存，使房间可以起到作为卧室以外的其它用途。\n通常情况下布团还是铺在榻榻米上使用会比较好，因为榻榻米比大多数坚硬的地板类型（例如木材或石质）要柔软一些，不至于让睡在上面的人腰酸背痛。</ZP_DoubleOfuton_Frame.description>
 
   <ZPAndon.label>行灯</ZPAndon.label>
-  <ZPAndon.description>一种传统的丶相当具有东方风格的照明设备，不需要电力，但是需要燃料。除了照明以外，还能为附近的床铺带来些许的舒适度奖励。\n\n“行灯”指的是“夜行时照明用的灯”，亦称“灯笼”，乃是古时灯具的一种，早在西元八世纪，当时处於唐朝时期的中国和处於平安时代的日本，就有使用行灯的记载。</ZPAndon.description>
+  <ZPAndon.description>一种传统的丶相当具有东方风格的照明设备，不需要电力，但是需要燃料。除了照明以外，还能为附近的床铺带来些许的舒适度奖励。\n\n“行灯”指的是“夜行时照明用的灯”，亦称“灯笼”，乃是古时灯具的一种，早在西元八世纪，当时处于唐朝时期的中国和处于平安时代的日本，就有使用行灯的记载。</ZPAndon.description>
   <ZPAndon_Blueprint.label>行灯 ((蓝图)</ZPAndon_Blueprint.label>
   <ZPAndon_Blueprint_Install.label>行灯 (蓝图)</ZPAndon_Blueprint_Install.label>
   <ZPAndon_Frame.label>行灯 (建造中)</ZPAndon_Frame.label>
-  <ZPAndon_Frame.description>一种传统的丶相当具有东方风格的照明设备，不需要电力，但是需要燃料。除了照明以外，还能为附近的床铺带来些许的舒适度奖励。\n\n“行灯”指的是“夜行时照明用的灯”，亦称“灯笼”，乃是古时灯具的一种，早在西元八世纪，当时处於唐朝时期的中国和处於平安时代的日本，就有使用行灯的记载。</ZPAndon_Frame.description>
+  <ZPAndon_Frame.description>一种传统的丶相当具有东方风格的照明设备，不需要电力，但是需要燃料。除了照明以外，还能为附近的床铺带来些许的舒适度奖励。\n\n“行灯”指的是“夜行时照明用的灯”，亦称“灯笼”，乃是古时灯具的一种，早在西元八世纪，当时处于唐朝时期的中国和处于平安时代的日本，就有使用行灯的记载。</ZPAndon_Frame.description>
 
   <AnimalStrawBedSmall.label>动物稻草床铺(小)</AnimalStrawBedSmall.label>
-  <AnimalStrawBedSmall.description>给动物用的小型稻草床铺。\n【不可出售】\n适合小型动物，例如鸡和兔子使用。</AnimalStrawBedSmall.description>
+  <AnimalStrawBedSmall.description>给动物用的小型稻草床铺。\n【不可出售】\n适合小型动物，例如鸡和兔兔使用。</AnimalStrawBedSmall.description>
   <AnimalStrawBedSmall_Blueprint.label>动物稻草床铺(小) (蓝图)</AnimalStrawBedSmall_Blueprint.label>
   <AnimalStrawBedSmall_Blueprint_Install.label>动物稻草床铺(小) (蓝图)</AnimalStrawBedSmall_Blueprint_Install.label>
   <AnimalStrawBedSmall_Frame.label>动物稻草床铺(小) (建造中)</AnimalStrawBedSmall_Frame.label>
-  <AnimalStrawBedSmall_Frame.description>给动物用的小型稻草床铺。\n【不可出售】\n适合小型动物，例如鸡和兔子使用。</AnimalStrawBedSmall_Frame.description>
+  <AnimalStrawBedSmall_Frame.description>给动物用的小型稻草床铺。\n【不可出售】\n适合小型动物，例如鸡和兔兔使用。</AnimalStrawBedSmall_Frame.description>
 
   <AnimalStrawBed.label>动物稻草床铺</AnimalStrawBed.label>
   <AnimalStrawBed.description>给动物用的稻草床铺。可供中型动物，比如说从狗狗到牦牛一类的使用。【不可出售】</AnimalStrawBed.description>
@@ -77,56 +77,50 @@
   <GroundSit_Frame.label>座位 (建造中)</GroundSit_Frame.label>
   <GroundSit_Frame.description>设定一个殖民者可以坐下的位置，例如在草席或垫子周围。</GroundSit_Frame.description>
 
-  <ZPWaraZabuton.label>筵</ZPWaraZabuton.label>
-  <ZPWaraZabuton.description>藁で編んだ簡素な座席。\n床に座る際にお尻や脚の負担を軽減するための敷物です。性能はスツールと同等です。</ZPWaraZabuton.description>
-  <ZPWaraZabuton_Blueprint.label>筵 (blueprint)</ZPWaraZabuton_Blueprint.label>
-  <ZPWaraZabuton_Blueprint_Install.label>筵 (blueprint)</ZPWaraZabuton_Blueprint_Install.label>
-  <ZPWaraZabuton_Frame.label>筵 (building)</ZPWaraZabuton_Frame.label>
-  <ZPWaraZabuton_Frame.description>藁で編んだ簡素な座席。\n床に座る際にお尻や脚の負担を軽減するための敷物です。性能はスツールと同等です。</ZPWaraZabuton_Frame.description>
+  <ZPWaraZabuton.label>草座布团</ZPWaraZabuton.label>
+  <ZPWaraZabuton.description>用稻草编织成的很朴素的坐席。\n铺着坐在榻榻米或地板上的话可以放松臀部和腿部的肌肉，用处和椅子是一样的。\n草座布团在中国是称为“筵席”，中国古籍《周礼·春官·序官》中有言：“司几筵下士二人。”郑玄注：“铺陈曰筵，藉之曰席。”贾公彦疏：“设席之法，先设者皆言筵，后加者为席。”孙诒让正义：“筵长席短，筵铺陈于下，席在上，为人所坐藉。”。虽然早在汉朝时期的中国就已经有了椅子的概念，但实际上直到唐朝以后，椅子才逐渐开始推广。在这之前，人们会在地上铺上一些草席或是垫子然后坐在上面，特别是在举办酒宴聚会的时候，因此现在“筵席”在中国也是“宴席”的意思。而自从弥生时代稻米传入日本时起，用稻草来进行编织也就成了日本传统文化中不可或缺的一部分了。</ZPWaraZabuton.description>
+  <ZPWaraZabuton_Blueprint.label>草座布団 (蓝图)</ZPWaraZabuton_Blueprint.label>
+  <ZPWaraZabuton_Blueprint_Install.label>草座布団 (蓝图)</ZPWaraZabuton_Blueprint_Install.label>
+  <ZPWaraZabuton_Frame.label>草座布団 (建造中)</ZPWaraZabuton_Frame.label>
+  <ZPWaraZabuton_Frame.description>用稻草编织成的很朴素的坐席。\n铺着坐在榻榻米或地板上的话可以放松臀部和腿部的肌肉，用处和椅子是一样的。\n草座布团在中国是称为“筵席”，中国古籍《周礼·春官·序官》中有言：“司几筵下士二人。”郑玄注：“铺陈曰筵，藉之曰席。”贾公彦疏：“设席之法，先设者皆言筵，后加者为席。”孙诒让正义：“筵长席短，筵铺陈于下，席在上，为人所坐藉。”。虽然早在汉朝时期的中国就已经有了椅子的概念，但实际上直到唐朝以后，椅子才逐渐开始推广。在这之前，人们会在地上铺上一些草席或是垫子然后坐在上面，特别是在举办酒宴聚会的时候，因此现在“筵席”在中国也是“宴席”的意思。而自从弥生时代稻米传入日本时起，用稻草来进行编织也就成了日本传统文化中不可或缺的一部分了。</ZPWaraZabuton_Frame.description>
 
-  <ZPZabuton.label>座布団</ZPZabuton.label>
-  <ZPZabuton.description>クッションの一種。\n畳や床の上に座る際にお尻や脚の負担を軽減するための布団です。性能はダインイングチェアと同等です。\nLost Forestの作者様より借用許可を頂きました。</ZPZabuton.description>
-  <ZPZabuton_Blueprint.label>座布団 (blueprint)</ZPZabuton_Blueprint.label>
-  <ZPZabuton_Blueprint_Install.label>座布団 (blueprint)</ZPZabuton_Blueprint_Install.label>
-  <ZPZabuton_Frame.label>座布団 (building)</ZPZabuton_Frame.label>
-  <ZPZabuton_Frame.description>クッションの一種。\n畳や床の上に座る際にお尻や脚の負担を軽減するための布団です。性能はダインイングチェアと同等です。\nLost Forestの作者様より借用許可を頂きました。</ZPZabuton_Frame.description>
+  <ZPZabuton.label>座布团</ZPZabuton.label>
+  <ZPZabuton.description>一种日式的软坐垫。\n铺着坐在榻榻米或地板上的话可以放松臀部和腿部的肌肉，用处和椅子是一样的。</ZPZabuton.description>
+  <ZPZabuton_Blueprint.label>座布团 (蓝图)</ZPZabuton_Blueprint.label>
+  <ZPZabuton_Blueprint_Install.label>座布团 (蓝图)</ZPZabuton_Blueprint_Install.label>
+  <ZPZabuton_Frame.label>座布团 (建造中)</ZPZabuton_Frame.label>
+  <ZPZabuton_Frame.description>一种日式的软坐垫。\n铺着坐在榻榻米或地板上的话可以放松臀部和腿部的肌肉，用处和椅子是一样的。</ZPZabuton_Frame.description>
 
-  <ZPZabuton1st.label>座布団(赤)</ZPZabuton1st.label>
-  <ZPZabuton1st.description>クッションの一種。\n畳や床の上に座る際にお尻や脚の負担を軽減するための布団です。性能はダインイングチェアと同等です。\nLost Forestの作者様より借用許可を頂きました。</ZPZabuton1st.description>
-  <ZPZabuton1st_Blueprint.label>座布団(赤) (blueprint)</ZPZabuton1st_Blueprint.label>
-  <ZPZabuton1st_Blueprint_Install.label>座布団(赤) (blueprint)</ZPZabuton1st_Blueprint_Install.label>
-  <ZPZabuton1st_Frame.label>座布団(赤) (building)</ZPZabuton1st_Frame.label>
-  <ZPZabuton1st_Frame.description>クッションの一種。\n畳や床の上に座る際にお尻や脚の負担を軽減するための布団です。性能はダインイングチェアと同等です。\nLost Forestの作者様より借用許可を頂きました。</ZPZabuton1st_Frame.description>
+  <ZPZabuton1st.label>座布团(红)</ZPZabuton1st.label>
+  <ZPZabuton1st.description>一种日式的坐垫。\n铺着坐在榻榻米或地板上的话可以放松臀部和腿部的肌肉，用处和椅子是一样的。</ZPZabuton1st.description>
+  <ZPZabuton1st_Blueprint.label>座布团(红) (蓝图)</ZPZabuton1st_Blueprint.label>
+  <ZPZabuton1st_Blueprint_Install.label>座布团(红) (蓝图)</ZPZabuton1st_Blueprint_Install.label>
+  <ZPZabuton1st_Frame.label>座布团(红) (建造中)</ZPZabuton1st_Frame.label>
+  <ZPZabuton1st_Frame.description>一种日式的坐垫。\n铺着坐在榻榻米或地板上的话可以放松臀部和腿部的肌肉，用处和椅子是一样的。</ZPZabuton1st_Frame.description>
 
-  <ZPZabuton2nd.label>座布団(青)</ZPZabuton2nd.label>
-  <ZPZabuton2nd.description>クッションの一種。\n畳や床の上に座る際にお尻や脚の負担を軽減するための布団です。性能はダインイングチェアと同等です。\nLost Forestの作者様より借用許可を頂きました。</ZPZabuton2nd.description>
-  <ZPZabuton2nd_Blueprint.label>座布団(青) (blueprint)</ZPZabuton2nd_Blueprint.label>
-  <ZPZabuton2nd_Blueprint_Install.label>座布団(青) (blueprint)</ZPZabuton2nd_Blueprint_Install.label>
-  <ZPZabuton2nd_Frame.label>座布団(青) (building)</ZPZabuton2nd_Frame.label>
-  <ZPZabuton2nd_Frame.description>クッションの一種。\n畳や床の上に座る際にお尻や脚の負担を軽減するための布団です。性能はダインイングチェアと同等です。\nLost Forestの作者様より借用許可を頂きました。</ZPZabuton2nd_Frame.description>
+  <ZPZabuton2nd.label>座布团(蓝)</ZPZabuton2nd.label>
+  <ZPZabuton2nd.description>一种日式的坐垫。\n铺着坐在榻榻米或地板上的话可以放松臀部和腿部的肌肉，用处和椅子是一样的。</ZPZabuton2nd.description>
+  <ZPZabuton2nd_Blueprint.label>座布团(蓝) (蓝图)</ZPZabuton2nd_Blueprint.label>
+  <ZPZabuton2nd_Blueprint_Install.label>座布团(蓝) (蓝图)</ZPZabuton2nd_Blueprint_Install.label>
+  <ZPZabuton2nd_Frame.label>座布团(蓝) (建造中)</ZPZabuton2nd_Frame.label>
+  <ZPZabuton2nd_Frame.description>一种日式的坐垫。\n铺着坐在榻榻米或地板上的话可以放松臀部和腿部的肌肉，用处和椅子是一样的。</ZPZabuton2nd_Frame.description>
 
-  <ZPZabuton3rd.label>座布団(紫)</ZPZabuton3rd.label>
-  <ZPZabuton3rd.description>クッションの一種。\n畳や床の上に座る際にお尻や脚の負担を軽減するための布団です。性能はダインイングチェアと同等です。\nLost Forestの作者様より借用許可を頂きました。</ZPZabuton3rd.description>
-  <ZPZabuton3rd_Blueprint.label>座布団(紫) (blueprint)</ZPZabuton3rd_Blueprint.label>
-  <ZPZabuton3rd_Blueprint_Install.label>座布団(紫) (blueprint)</ZPZabuton3rd_Blueprint_Install.label>
-  <ZPZabuton3rd_Frame.label>座布団(紫) (building)</ZPZabuton3rd_Frame.label>
-  <ZPZabuton3rd_Frame.description>クッションの一種。\n畳や床の上に座る際にお尻や脚の負担を軽減するための布団です。性能はダインイングチェアと同等です。\nLost Forestの作者様より借用許可を頂きました。</ZPZabuton3rd_Frame.description>
+  <ZPZabuton3rd.label>座布团(紫)</ZPZabuton3rd.label>
+  <ZPZabuton3rd.description>一种日式的坐垫。\n铺着坐在榻榻米或地板上的话可以放松臀部和腿部的肌肉，用处和椅子是一样的。</ZPZabuton3rd.description>
+  <ZPZabuton3rd_Blueprint.label>座布团(紫) (蓝图)</ZPZabuton3rd_Blueprint.label>
+  <ZPZabuton3rd_Blueprint_Install.label>座布团(紫) (蓝图)</ZPZabuton3rd_Blueprint_Install.label>
+  <ZPZabuton3rd_Frame.label>座布团(紫) (建造中)</ZPZabuton3rd_Frame.label>
+  <ZPZabuton3rd_Frame.description>一种日式的坐垫。\n铺着坐在榻榻米或地板上的话可以放松臀部和腿部的肌肉，用处和椅子是一样的。</ZPZabuton3rd_Frame.description>
 
-  <ZP_Tyabudai.label>ちゃぶ台</ZP_Tyabudai.label>
-  <ZP_Tyabudai.description>イスを向き合うように配置すると、ここで食事を摂るようになります。\nLost Forestの作者様より借用許可を頂きました。</ZP_Tyabudai.description>
-  <ZP_Tyabudai_Blueprint.label>ちゃぶ台 (blueprint)</ZP_Tyabudai_Blueprint.label>
-  <ZP_Tyabudai_Blueprint_Install.label>ちゃぶ台 (blueprint)</ZP_Tyabudai_Blueprint_Install.label>
-  <ZP_Tyabudai_Frame.label>ちゃぶ台 (building)</ZP_Tyabudai_Frame.label>
-  <ZP_Tyabudai_Frame.description>イスを向き合うように配置すると、ここで食事を摂るようになります。\nLost Forestの作者様より借用許可を頂きました。</ZP_Tyabudai_Frame.description>
+  <ZP_Tyabudai.label>卓袱台</ZP_Tyabudai.label>
+  <ZP_Tyabudai.description>一张较矮小的桌子，相当节省空间，如果将椅子或坐垫放在旁边的话还可以用来吃饭。</ZP_Tyabudai.description>
+  <ZP_Tyabudai_Blueprint.label>卓袱台 (蓝图)</ZP_Tyabudai_Blueprint.label>
+  <ZP_Tyabudai_Blueprint_Install.label>卓袱台 (蓝图)</ZP_Tyabudai_Blueprint_Install.label>
+  <ZP_Tyabudai_Frame.label>卓袱台 (建造中)</ZP_Tyabudai_Frame.label>
+  <ZP_Tyabudai_Frame.description>放在椅子旁边，用来吃饭的桌子。\n非常感谢Lost Forest的作者许可借用。</ZP_Tyabudai_Frame.description>
 
 
   <!-- 茣蓙(ござ) -->
-
-  <R_Goza_large.label>草席(大)</R_Goza_large.label>
-  <R_Goza_large.description>游戏中相当于桌子的一张大草席。你不能随意移动它，但你可以拆除它来取回部分材料。</R_Goza_large.description>
-  <R_Goza_large_Blueprint.label>草席(大) (蓝图)</R_Goza_large_Blueprint.label>
-  <R_Goza_large_Frame.label>草席(大) (建造中)</R_Goza_large_Frame.label>
-  <R_Goza_large_Frame.description>游戏中相当于桌子的一张草席。你不能随意移动它，但你可以拆除它来取回部分材料。</R_Goza_large_Frame.description>
 
   <R_Goza.label>草席</R_Goza.label>
   <R_Goza.description>游戏中相当于桌子的一张草席。你不能随意移动它，但你可以拆除它来取回部分材料。</R_Goza.description>
@@ -134,14 +128,14 @@
   <R_Goza_Frame.label>草席 (建造中)</R_Goza_Frame.label>
   <R_Goza_Frame.description>游戏中相当于桌子的一张草席。你不能随意移动它，但你可以拆除它来取回部分材料。</R_Goza_Frame.description>
 
+  <R_Goza_large.label>草席(大)</R_Goza_large.label>
+  <R_Goza_large.description>游戏中相当于桌子的一张大草席。你不能随意移动它，但你可以拆除它来取回部分材料。</R_Goza_large.description>
+  <R_Goza_large_Blueprint.label>草席(大) (蓝图)</R_Goza_large_Blueprint.label>
+  <R_Goza_large_Frame.label>草席(大) (建造中)</R_Goza_large_Frame.label>
+  <R_Goza_large_Frame.description>游戏中相当于桌子的一张草席。你不能随意移动它，但你可以拆除它来取回部分材料。</R_Goza_large_Frame.description>
+
 
   <!-- レジャーシート -->
-
-  <PicnicSheet_large.label>野餐垫(大)</PicnicSheet_large.label>
-  <PicnicSheet_large.description>在游戏中相当于桌子的一张大野餐垫。你不能随意移动它，但你可以拆除它来取回部分材料。</PicnicSheet_large.description>
-  <PicnicSheet_large_Blueprint.label>野餐垫(大) (蓝图)</PicnicSheet_large_Blueprint.label>
-  <PicnicSheet_large_Frame.label>野餐垫(大) (建造中)</PicnicSheet_large_Frame.label>
-  <PicnicSheet_large_Frame.description>在游戏中相当于桌子的一张大野餐垫。你不能随意移动它，但你可以拆除它来取回部分材料。</PicnicSheet_large_Frame.description>
 
   <PicnicSheet.label>野餐垫</PicnicSheet.label>
   <PicnicSheet.description>在游戏中相当于桌子的一张野餐用的垫子。你不能随意移动它，但是你可以拆除它来取回部分材料。</PicnicSheet.description>
@@ -149,19 +143,32 @@
   <PicnicSheet_Frame.label>野餐垫 (建造中)</PicnicSheet_Frame.label>
   <PicnicSheet_Frame.description>在游戏中相当于桌子的一张野餐用的垫子。你不能随意移动它，但是你可以拆除它来取回部分材料。</PicnicSheet_Frame.description>
 
-  <ZP_Tuitate.label>衝立</ZP_Tuitate.label>
-  <ZP_Tuitate.description>撤去できる目隠し用の壁。部屋を一時的に区切ったり、奥の部屋を見せないように目隠しにも使われる。光は遮らないのでレイアウトには困りません。</ZP_Tuitate.description>
-  <ZP_Tuitate_Blueprint.label>衝立 (blueprint)</ZP_Tuitate_Blueprint.label>
-  <ZP_Tuitate_Blueprint_Install.label>衝立 (blueprint)</ZP_Tuitate_Blueprint_Install.label>
-  <ZP_Tuitate_Frame.label>衝立 (building)</ZP_Tuitate_Frame.label>
-  <ZP_Tuitate_Frame.description>撤去できる目隠し用の壁。部屋を一時的に区切ったり、奥の部屋を見せないように目隠しにも使われる。光は遮らないのでレイアウトには困りません。</ZP_Tuitate_Frame.description>
+  <PicnicSheet_large.label>野餐垫(大)</PicnicSheet_large.label>
+  <PicnicSheet_large.description>在游戏中相当于桌子的一张大野餐垫。你不能随意移动它，但你可以拆除它来取回部分材料。</PicnicSheet_large.description>
+  <PicnicSheet_large_Blueprint.label>野餐垫(大) (蓝图)</PicnicSheet_large_Blueprint.label>
+  <PicnicSheet_large_Frame.label>野餐垫(大) (建造中)</PicnicSheet_large_Frame.label>
+  <PicnicSheet_large_Frame.description>在游戏中相当于桌子的一张大野餐垫。你不能随意移动它，但你可以拆除它来取回部分材料。</PicnicSheet_large_Frame.description>
 
-  <ZP_Tuitate2nd.label>衝立</ZP_Tuitate2nd.label>
-  <ZP_Tuitate2nd.description>撤去できる目隠し用の壁。部屋を一時的に区切ったり、奥の部屋を見せないように目隠しにも使われる。光は遮らないのでレイアウトには困りません。</ZP_Tuitate2nd.description>
-  <ZP_Tuitate2nd_Blueprint.label>衝立 (blueprint)</ZP_Tuitate2nd_Blueprint.label>
-  <ZP_Tuitate2nd_Blueprint_Install.label>衝立 (blueprint)</ZP_Tuitate2nd_Blueprint_Install.label>
-  <ZP_Tuitate2nd_Frame.label>衝立 (building)</ZP_Tuitate2nd_Frame.label>
-  <ZP_Tuitate2nd_Frame.description>撤去できる目隠し用の壁。部屋を一時的に区切ったり、奥の部屋を見せないように目隠しにも使われる。光は遮らないのでレイアウトには困りません。</ZP_Tuitate2nd_Frame.description>
+  <ZP_Tuitate.label>冲立</ZP_Tuitate.label>
+  <ZP_Tuitate.description>一种可以很方便撤去的屏障，可以用来进行简单的临时房间隔断，也可以用以遮蔽屋内的陈列和摆设，既不会遮挡光线、也不会扰乱房间的格局。\n据说，在日本飞鸟时期从中国传入的“屏风”，就是冲立（ついたて）的最初原型。这种屏障非常便于设置和撤除，上面通常还带有一些图绘或雕塑来增强美感，因此也曾广泛应用于古代贵族和皇室的宫殿和宅邸。传统上冲立是设立在客厅使用的，但是在现代，除了设置在家庭的玄关口、庭院、厨房以外，也普遍应用于饮食店和温泉旅馆等。</ZP_Tuitate.description>
+  <ZP_Tuitate_Blueprint.label>冲立 (蓝图)</ZP_Tuitate_Blueprint.label>
+  <ZP_Tuitate_Blueprint_Install.label>冲立 (蓝图)</ZP_Tuitate_Blueprint_Install.label>
+  <ZP_Tuitate_Frame.label>冲立 (建造中)</ZP_Tuitate_Frame.label>
+  <ZP_Tuitate_Frame.description>一种可以很方便撤去的屏障，可以用来进行简单的临时房间隔断，也可以用以遮蔽屋内的陈列和摆设，既不会遮挡光线、也不会扰乱房间的格局。\n据说，在日本飞鸟时期从中国传入的“屏风”，就是冲立（ついたて）的最初原型。这种屏障非常便于设置和撤除，上面通常还带有一些图绘或雕塑来增强美感，因此也曾广泛应用于古代贵族和皇室的宫殿和宅邸。传统上冲立是设立在客厅使用的，但是在现代，除了设置在家庭的玄关口、庭院、厨房以外，也普遍应用于饮食店和温泉旅馆等。</ZP_Tuitate_Frame.description>
+
+  <ZP_Tuitate2nd.label>冲立</ZP_Tuitate2nd.label>
+  <ZP_Tuitate2nd.description>一种可以很方便撤去的屏障，可以用来进行简单的临时房间隔断，也可以用以遮蔽屋内的陈列和摆设，既不会遮挡光线、也不会扰乱房间的格局。\n据说，在日本飞鸟时期从中国传入的“屏风”，就是冲立（ついたて）的最初原型。这种屏障非常便于设置和撤除，上面通常还带有一些图绘或雕塑来增强美感，因此也曾广泛应用于古代贵族和皇室的宫殿和宅邸。传统上冲立是设立在客厅使用的，但是在现代，除了设置在家庭的玄关口、庭院、厨房以外，也普遍应用于饮食店和温泉旅馆等。</ZP_Tuitate2nd.description>
+  <ZP_Tuitate2nd_Blueprint.label>冲立 (蓝图)</ZP_Tuitate2nd_Blueprint.label>
+  <ZP_Tuitate2nd_Blueprint_Install.label>冲立 (蓝图)</ZP_Tuitate2nd_Blueprint_Install.label>
+  <ZP_Tuitate2nd_Frame.label>冲立 (建造中)</ZP_Tuitate2nd_Frame.label>
+  <ZP_Tuitate2nd_Frame.description>一种可以很方便撤去的屏障，可以用来进行简单的临时房间隔断，也可以用以遮蔽屋内的陈列和摆设，既不会遮挡光线、也不会扰乱房间的格局。\n据说，在日本飞鸟时期从中国传入的“屏风”，就是冲立（ついたて）的最初原型。这种屏障非常便于设置和撤除，上面通常还带有一些图绘或雕塑来增强美感，因此也曾广泛应用于古代贵族和皇室的宫殿和宅邸。传统上冲立是设立在客厅使用的，但是在现代，除了设置在家庭的玄关口、庭院、厨房以外，也普遍应用于饮食店和温泉旅馆等。</ZP_Tuitate2nd_Frame.description>
+
+  <ZPConfectionerySaucer.label>菓子皿</ZPConfectionerySaucer.label>
+  <ZPConfectionerySaucer.description>【作業速度:10%up,研究速度係数:5%up,快適度:5%up】燃料:ジパングの嗜好品とチョコレート\n作業中に糖分を摂る事で脳が活性化し作業効率を高めることができる。</ZPConfectionerySaucer.description>
+  <ZPConfectionerySaucer_Blueprint.label>菓子皿 (blueprint)</ZPConfectionerySaucer_Blueprint.label>
+  <ZPConfectionerySaucer_Blueprint_Install.label>菓子皿 (blueprint)</ZPConfectionerySaucer_Blueprint_Install.label>
+  <ZPConfectionerySaucer_Frame.label>菓子皿 (building)</ZPConfectionerySaucer_Frame.label>
+  <ZPConfectionerySaucer_Frame.description>【作業速度:10%up,研究速度係数:5%up,快適度:5%up】燃料:ジパングの嗜好品とチョコレート\n作業中に糖分を摂る事で脳が活性化し作業効率を高めることができる。</ZPConfectionerySaucer_Frame.description>
 
 
 </LanguageData>

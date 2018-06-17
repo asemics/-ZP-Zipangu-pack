@@ -9,8 +9,8 @@
   <ReWetlandRice.label>ZP：水稻种植技术</ReWetlandRice.label>
   <ReWetlandRice.description>通过发展水稻田技术以进一步提高大米的生产力。</ReWetlandRice.description>
 
-  <ReGlutinousRice.label>もち米</ReGlutinousRice.label>
-  <ReGlutinousRice.description>もちもちとした食感のお米に品種改良をする。\n解放⇒もち米(要：栽培ｽｷﾙ 4),杵臼,もち米レシピ7種類</ReGlutinousRice.description>
+  <ReGlutinousRice.label>ZP：糯米种植技术</ReGlutinousRice.label>
+  <ReGlutinousRice.description>通过发展稻米种植技术来掌握种植糯稻的方法。\n【解锁】糯稻(需求：种植技能4)、杵臼、7种糯米相关食谱</ReGlutinousRice.description>
 
   <ReThreshingRiceMillingMachine.label>ZP：全能型脱壳精米机械</ReThreshingRiceMillingMachine.label>
   <ReThreshingRiceMillingMachine.description>将现有的农业机械的功能合而为一进行改良，以此构建出一种可以省去大量繁琐工作的先进机械。</ReThreshingRiceMillingMachine.description>
@@ -28,7 +28,7 @@
   <ReFloatingSunLamp.description>学习构建燃料式悬浮太阳灯的方法——它们可以安放于复杂地形且不消耗电力。\n【解锁】悬浮型太阳灯（燃料）</ReFloatingSunLamp.description>
 
   <ReBeans.label>ZP：豆类种植技术</ReBeans.label>
-  <ReBeans.description>学习大豆和毛豆的种植方法。\n【解锁】大豆（需求：种植技能4）、毛豆（需求：种植技能4）</ReBeans.description>
+  <ReBeans.description>学习大豆和枝豆的种植方法。\n【解锁】大豆（需求：种植技能4）、枝豆（需求：种植技能4）</ReBeans.description>
 
 
   <!-- 土壌開発 y=2 -->
@@ -46,7 +46,7 @@
   <ReZPLandfillSoil.description>通过填埋、压实来对一些复杂的地形进行初步的改造。\n【解锁】复垦土壤</ReZPLandfillSoil.description>
 
   <ReScarecrow.label>ZP：丰穣稻草人</ReScarecrow.label>
-  <ReScarecrow.description>学习如何制作一种寄宿着丰穣之神的稻草人。\n只要有按时供奉，丰穣之神明就可以使以稻草人为中心9X9个方格内土壤肥沃度提高30%。\n【注意】稻田和水栽培盆无法受益。</ReScarecrow.description>
+  <ReScarecrow.description>学习如何制作一种寄宿着丰穣之神的稻草人。\n只要按时供奉，丰穣之神明就可以使以稻草人为中心9X9个方格内土壤肥沃度提高30%。\n【注意】稻田和水栽培盆无法受益。</ReScarecrow.description>
 
 
   <!-- 食料関係 y=3 -->
@@ -55,10 +55,10 @@
   <ReSeasoning.description>学习制作调料的方法，使原本简单的饮食变得丰富。\n【解锁】米糖、米醋、酱油、味噌</ReSeasoning.description>
 
   <RePreservedFood.label>ZP：食物贮存工艺</RePreservedFood.label>
-  <RePreservedFood.description>学习如何处理食物使它们变得耐以储存。\n【解锁】酱菜、熏鱼、纳豆、酱菜缸</RePreservedFood.description>
+  <RePreservedFood.description>学习如何处理食物使它们变得耐以贮存。\n【解锁】酱菜、熏鱼、纳豆、酱菜缸</RePreservedFood.description>
 
-  <ReZPLuxury.label>嗜好品</ReZPLuxury.label>
-  <ReZPLuxury.description>嗜好品の作り方を学ぶ。\n解放⇒飲み物レシピ2種,嗜好品レシピ7種</ReZPLuxury.description>
+  <ReZPLuxury.label>ZP：嗜好品</ReZPLuxury.label>
+  <ReZPLuxury.description>学习制作嗜好品的方法。\n【解锁】2种饮料制作、7种嗜好品制作</ReZPLuxury.description>
 
 
   <!-- 家具 y=4 -->
@@ -66,8 +66,8 @@
   <ReZPFurniture.label>ZP：和风家居</ReZPFurniture.label>
   <ReZPFurniture.description>学习如何建造及布置和风家具，以提升居住环境及质量。\n【解锁】稻草编织床、团扇、火钵</ReZPFurniture.description>
 
-  <ReZPFurniture2nd.label>和風家具Ⅱ</ReZPFurniture2nd.label>
-  <ReZPFurniture2nd.description>住環境をよくする和風家具Ⅱの建て方を学ぶ。\n解放⇒布団,囲炉裏,炬燵,座布団</ReZPFurniture2nd.description>
+  <ReZPFurniture2nd.label>ZP：和风家居Ⅱ</ReZPFurniture2nd.label>
+  <ReZPFurniture2nd.description>学习如何建造及布置II级的和风家具，以提升居住环境及质量。\n【解锁】布团、围炉里、被炉、座布团</ReZPFurniture2nd.description>
 
 
   <!-- 装備関係 y=5 -->
@@ -85,7 +85,7 @@
   <BlacksmithTanegasima.description>学习制作种子岛——一种简单而威力强大的火绳枪的方法。</BlacksmithTanegasima.description>
 
   <ReDefenseBase.label>ZP：阵地学</ReDefenseBase.label>
-  <ReDefenseBase.description>学习构筑防御阵地的方法。\n【解锁】大盾、稻草垛、火药稻草垛</ReDefenseBase.description>
+  <ReDefenseBase.description>学习构筑防御阵地的方法。\n【解锁】大盾、稻草垛、火药稻草垛。</ReDefenseBase.description>
 
 
 </LanguageData>

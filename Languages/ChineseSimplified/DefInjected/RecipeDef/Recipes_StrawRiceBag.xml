@@ -15,9 +15,9 @@
   <MakeStrawRiceBag_BrownRice.description>可以储存300单位的糙米，且可以作为农产品高价出售。\n【注意】由于密封性并不是太好，打开时会发现有存量下降的情况发生。</MakeStrawRiceBag_BrownRice.description>
   <MakeStrawRiceBag_BrownRice.jobString>正在装填米俵(糙米)。</MakeStrawRiceBag_BrownRice.jobString>
 
-  <MakeStrawRiceBag_GlutinousRice.label>米俵(もち米)を作る</MakeStrawRiceBag_GlutinousRice.label>
-  <MakeStrawRiceBag_GlutinousRice.description>もち米を300個保管できて、特産品として高く売れる。\n！！注意！！　気密性が悪いのでほどく時に中身が減ります。</MakeStrawRiceBag_GlutinousRice.description>
-  <MakeStrawRiceBag_GlutinousRice.jobString>俵に米をつめる</MakeStrawRiceBag_GlutinousRice.jobString>
+  <MakeStrawRiceBag_GlutinousRice.label>装填米俵(糯米)</MakeStrawRiceBag_GlutinousRice.label>
+  <MakeStrawRiceBag_GlutinousRice.description>可以储存300单位的糯米，且可以作为农产品高价出售。\n【注意】由于密封性并不是太好，打开时会发现有存量下降的情况发生。</MakeStrawRiceBag_GlutinousRice.description>
+  <MakeStrawRiceBag_GlutinousRice.jobString>正在装填米俵(糯米)。</MakeStrawRiceBag_GlutinousRice.jobString>
 
   <MakeStrawRiceBag_WhiteRice.label>装填米俵(白米)</MakeStrawRiceBag_WhiteRice.label>
   <MakeStrawRiceBag_WhiteRice.description>可以储存300单位的白米，且可以作为特产品以很高的价格出售。\n【注意】由于密封性并不是太好，打开时会发现有存量下降的情况发生。</MakeStrawRiceBag_WhiteRice.description>
@@ -38,9 +38,9 @@
   <UnwindStrawRiceBag_BrownRice.description>打开米俵，将里面的糙米拿出来。\n 由于密封性并不是太好，打开时会发现有存量下降的情况发生。</UnwindStrawRiceBag_BrownRice.description>
   <UnwindStrawRiceBag_BrownRice.jobString>打开米俵。</UnwindStrawRiceBag_BrownRice.jobString>
 
-  <UnwindStrawRiceBag_GlutinousRice.label>米俵(もち米)をほどく</UnwindStrawRiceBag_GlutinousRice.label>
-  <UnwindStrawRiceBag_GlutinousRice.description>米俵から中身をとりだす。\n気密性が悪いのでほどくさいに中身がこぼれて減っている。</UnwindStrawRiceBag_GlutinousRice.description>
-  <UnwindStrawRiceBag_GlutinousRice.jobString>Unwind a bales.</UnwindStrawRiceBag_GlutinousRice.jobString>
+  <UnwindStrawRiceBag_GlutinousRice.label>打开米俵(糯米)</UnwindStrawRiceBag_GlutinousRice.label>
+  <UnwindStrawRiceBag_GlutinousRice.description>打开米俵，将里面的糯米拿出来。\n 由于密封性并不是太好，打开时会发现有存量下降的情况发生。</UnwindStrawRiceBag_GlutinousRice.description>
+  <UnwindStrawRiceBag_GlutinousRice.jobString>打开米俵。</UnwindStrawRiceBag_GlutinousRice.jobString>
 
   <UnwindStrawRiceBag_WhiteRice.label>打开米俵(白米)</UnwindStrawRiceBag_WhiteRice.label>
   <UnwindStrawRiceBag_WhiteRice.description>打开米俵，将里面的白米拿出来。\n 由于密封性并不是太好，打开时会发现有存量下降的情况发生。</UnwindStrawRiceBag_WhiteRice.description>

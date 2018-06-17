@@ -9,7 +9,7 @@
   <ZP_Sugekasa.label>草笠</ZP_Sugekasa.label>
   <ZP_Sugekasa.description>用稻草编织而成的笠，是旧世的东方国家上到武士、忍者、僧侣下到浪人、商人、农民等要常常外出工作的人仕在户外必备的衣饰装备，可以用来防太阳，防雨水，甚至是防风雪。</ZP_Sugekasa.description>
 
-  <ZP_Tengai.label>天蓋笠</ZP_Tengai.label>
+  <ZP_Tengai.label>天盖笠</ZP_Tengai.label>
   <ZP_Tengai.description>用稻草编织的一种全覆盖式的头部装具，有一定的宗教含义。\n但是呢，戴着的时候脸就看不见了，所以也会让人有种毛骨悚然的感觉。</ZP_Tengai.description>
 
 
@@ -22,12 +22,12 @@
   <!-- 陣笠 Base ヘルメット -->
 
   <ZP_JingasaHelmet.label>阵笠</ZP_JingasaHelmet.label>
-  <ZP_JingasaHelmet.description>一种斗笠状的护盔，通过竹木及金属搭配制成，很有特色的日本装备。\n说到阵笠，很容易就能让人联想到战国时代的足轻啦，头戴阵笠、赤足持枪乃是足轻的经典造型。有传言说这种护盔还可以用来接水和煮食...不知道是不是真的呢。</ZP_JingasaHelmet.description>
+  <ZP_JingasaHelmet.description>一种斗笠状的护盔，通过竹木及金属搭配制成，很有特色的日本装备。\n说到阵笠，很容易就能让人联想到战国时代的足轻呢，头戴阵笠、赤足持枪乃是足轻的经典造型。有传言说这种护盔还可以用来接水和煮食...不知道是不是真的呢。</ZP_JingasaHelmet.description>
 
 
   <!-- 将軍兜 Base パワーアーマヘルメット -->
 
-  <ZP_SyougunHelmet.label>将軍兜</ZP_SyougunHelmet.label>
+  <ZP_SyougunHelmet.label>将军兜</ZP_SyougunHelmet.label>
   <ZP_SyougunHelmet.description>与将軍大铠搭配成一套，象征着武士的精神和信仰。\n日本古代的头盔称为兜。这种头盔的防御力可能不及西方的全覆盖式骑士头盔，但它的工艺精良，用于装饰的精巧附件也很多，堪称艺术品。</ZP_SyougunHelmet.description>
 
 
@@ -40,9 +40,9 @@
   <ZP_WoodenClogs.description>一种两齿木底鞋，走起来路来嘎吱作响，因为其特别的设计而适合在泥泞的路上行走。\n木屐由中国汉人发明，其名来自中古音“屐屉”，常称作木屐，使用于室外。后传入日本，在日本流行至今。</ZP_WoodenClogs.description>
 
   <ZP_IronClogs.label>铁屐</ZP_IronClogs.label>
-  <ZP_IronClogs.description>从古时候传下来、以锻炼腰腿力量为目的用铁制成的木屐。虽然因为穿着它行动不太方便，但由于毅力和锻炼的结果，能得到更多的经验。</ZP_IronClogs.description>
+  <ZP_IronClogs.description>从古时候传下来、以锻炼腰腿力量为目的用铁制成的木屐。虽然因为穿着它行动会不太方便，但由于坚忍毅力和锻炼的结果，能得到更多的经验心得。</ZP_IronClogs.description>
 
-  <ZP_TravelBag.label>行李分拣袋</ZP_TravelBag.label>
+  <ZP_TravelBag.label>行李分拣包</ZP_TravelBag.label>
   <ZP_TravelBag.description>一种日本传统的旅行用携行包。因为它可以一次容纳很多行李，所以对运输工作来说也很方便。</ZP_TravelBag.description>
 
   <ZP_Tekko.label>手甲</ZP_Tekko.label>
