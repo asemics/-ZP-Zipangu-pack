@@ -3,59 +3,59 @@
 
   <!-- 籾摺り臼　籾米⇒玄米 -->
 
-  <MakeRiceStoneSlurryRice10.label>쌀(벼)를 현미로 만든다(10)</MakeRiceStoneSlurryRice10.label>
-  <MakeRiceStoneSlurryRice10.description>절구로 벼를 빻아서 현미와 왕겨로 나눈다.</MakeRiceStoneSlurryRice10.description>
-  <MakeRiceStoneSlurryRice10.jobString>벼 빻는 중</MakeRiceStoneSlurryRice10.jobString>
+  <MakeRiceStoneSlurryRice10.label>쌀(벼)를 현미로 조미(糙米)(10)</MakeRiceStoneSlurryRice10.label>
+  <MakeRiceStoneSlurryRice10.description>맷돌로 벼를 갈아서 현미와 왕겨로 나눕니다.</MakeRiceStoneSlurryRice10.description>
+  <MakeRiceStoneSlurryRice10.jobString>벼를 가는중</MakeRiceStoneSlurryRice10.jobString>
 
-  <MakeRiceStoneSlurryRice50.label>쌀(벼)를 현미로 만든다(50)</MakeRiceStoneSlurryRice50.label>
-  <MakeRiceStoneSlurryRice50.description>절구로 벼를 빻아서 현미와 왕겨로 나눈다.</MakeRiceStoneSlurryRice50.description>
-  <MakeRiceStoneSlurryRice50.jobString>벼 빻는 중</MakeRiceStoneSlurryRice50.jobString>
+  <MakeRiceStoneSlurryRice50.label>쌀(벼)를 현미로 조미(糙米)(50)</MakeRiceStoneSlurryRice50.label>
+  <MakeRiceStoneSlurryRice50.description>맷돌로 벼를 갈아서 현미와 왕겨로 나눕니다.</MakeRiceStoneSlurryRice50.description>
+  <MakeRiceStoneSlurryRice50.jobString>벼를 가는중</MakeRiceStoneSlurryRice50.jobString>
 
 
   <!-- 籾摺り臼　籾米⇒もち米 -->
 
-  <MakeRiceStoneSlurryGRice10.label>籾米(もち米)をもち米にする(10)</MakeRiceStoneSlurryGRice10.label>
-  <MakeRiceStoneSlurryGRice10.description>臼で籾を外してもち米と籾殻にわける。</MakeRiceStoneSlurryGRice10.description>
-  <MakeRiceStoneSlurryGRice10.jobString>籾摺りをする</MakeRiceStoneSlurryGRice10.jobString>
+  <MakeRiceStoneSlurryGRice10.label>쌀(벼)를 찹쌀로 조미(糙米)(10)</MakeRiceStoneSlurryGRice10.label>
+  <MakeRiceStoneSlurryGRice10.description>맷돌로 벼를 갈아서 찹쌀과 왕겨로 나눕니다.</MakeRiceStoneSlurryGRice10.description>
+  <MakeRiceStoneSlurryGRice10.jobString>벼를 가는중</MakeRiceStoneSlurryGRice10.jobString>
 
-  <MakeRiceStoneSlurryGRice50.label>籾米(もち米)をもち米にする(50)</MakeRiceStoneSlurryGRice50.label>
-  <MakeRiceStoneSlurryGRice50.description>臼で籾を外してもち米と籾殻にわける。</MakeRiceStoneSlurryGRice50.description>
-  <MakeRiceStoneSlurryGRice50.jobString>籾摺りをする</MakeRiceStoneSlurryGRice50.jobString>
+  <MakeRiceStoneSlurryGRice50.label>쌀(벼)를 찹쌀로 조미(糙米)(50)</MakeRiceStoneSlurryGRice50.label>
+  <MakeRiceStoneSlurryGRice50.description>맷돌로 벼를 갈아서 찹쌀과 왕겨로 나눕니다.</MakeRiceStoneSlurryGRice50.description>
+  <MakeRiceStoneSlurryGRice50.jobString>벼를 가는중</MakeRiceStoneSlurryGRice50.jobString>
 
 
   <!-- 籾摺り臼　籾米⇒玄米 -->
 
-  <MakeRiceStoneSlurryRice10_1.label>丁寧に籾米を玄米にする(10)</MakeRiceStoneSlurryRice10_1.label>
-  <MakeRiceStoneSlurryRice10_1.description>臼で籾を外して玄米と籾殻にわける。\n丁寧にやる事で白米が少量獲得できる。</MakeRiceStoneSlurryRice10_1.description>
-  <MakeRiceStoneSlurryRice10_1.jobString>籾摺りをする</MakeRiceStoneSlurryRice10_1.jobString>
+  <MakeRiceStoneSlurryRice10_1.label>정중히 쌀(벼)를 현미로 조미(糙米)(10)</MakeRiceStoneSlurryRice10_1.label>
+  <MakeRiceStoneSlurryRice10_1.description>맷돌로 벼를 갈아서 현미와 왕겨로 나눕니다.\n조심스럽게 작업하여 백미를 소량으로 흭득합니다.</MakeRiceStoneSlurryRice10_1.description>
+  <MakeRiceStoneSlurryRice10_1.jobString>벼를 가는중</MakeRiceStoneSlurryRice10_1.jobString>
 
-  <MakeRiceStoneSlurryRice50_2.label>丁寧に籾米を玄米にする(50)</MakeRiceStoneSlurryRice50_2.label>
-  <MakeRiceStoneSlurryRice50_2.description>臼で籾を外して玄米と籾殻にわける。\n丁寧にやる事で白米が少量獲得できる。</MakeRiceStoneSlurryRice50_2.description>
-  <MakeRiceStoneSlurryRice50_2.jobString>籾摺りをする</MakeRiceStoneSlurryRice50_2.jobString>
+  <MakeRiceStoneSlurryRice50_2.label>정중히 쌀(벼)를 현미로 조미(糙米)(50)</MakeRiceStoneSlurryRice50_2.label>
+  <MakeRiceStoneSlurryRice50_2.description>맷돌로 벼를 갈아서 현미와 왕겨로 나눕니다.\n조심스럽게 작업하여 백미를 소량으로 흭득합니다.</MakeRiceStoneSlurryRice50_2.description>
+  <MakeRiceStoneSlurryRice50_2.jobString>벼를 가는중</MakeRiceStoneSlurryRice50_2.jobString>
 
-  <ZP_MakeFlour10.label>穀物粉を作る(10)</ZP_MakeFlour10.label>
-  <ZP_MakeFlour10.description>穀物をひいて粉にする。</ZP_MakeFlour10.description>
+  <ZP_MakeFlour10.label>밀가루 제조(10)</ZP_MakeFlour10.label>
+  <ZP_MakeFlour10.description>곡물을 빻아 밀가루를 만듭니다.</ZP_MakeFlour10.description>
   <ZP_MakeFlour10.jobString>穀物粉を作る。</ZP_MakeFlour10.jobString>
 
-  <ZP_MakeFlour50.label>穀物粉を作る(50)</ZP_MakeFlour50.label>
-  <ZP_MakeFlour50.description>穀物をひいて粉にする。</ZP_MakeFlour50.description>
-  <ZP_MakeFlour50.jobString>穀物粉を作る。</ZP_MakeFlour50.jobString>
+  <ZP_MakeFlour50.label>밀가루 제조(50)</ZP_MakeFlour50.label>
+  <ZP_MakeFlour50.description>곡물을 빻아 밀가루를 만듭니다.</ZP_MakeFlour50.description>
+  <ZP_MakeFlour50.jobString>밀가루 가공중</ZP_MakeFlour50.jobString>
 
-  <ZP_MakeSoymilk10.label>豆乳(10)</ZP_MakeSoymilk10.label>
-  <ZP_MakeSoymilk10.description>Press beans into milk.</ZP_MakeSoymilk10.description>
-  <ZP_MakeSoymilk10.jobString>Pressing beans.</ZP_MakeSoymilk10.jobString>
+  <ZP_MakeSoymilk10.label>두유 가공(10)</ZP_MakeSoymilk10.label>
+  <ZP_MakeSoymilk10.description>대두에서 두유를 추출해냅니다.</ZP_MakeSoymilk10.description>
+  <ZP_MakeSoymilk10.jobString>두유 추출중</ZP_MakeSoymilk10.jobString>
 
-  <ZP_MakeSoymilk50.label>豆乳(50)</ZP_MakeSoymilk50.label>
-  <ZP_MakeSoymilk50.description>Press beans into milk.</ZP_MakeSoymilk50.description>
-  <ZP_MakeSoymilk50.jobString>Pressing beans.</ZP_MakeSoymilk50.jobString>
+  <ZP_MakeSoymilk50.label>두유 가공(50)</ZP_MakeSoymilk50.label>
+  <ZP_MakeSoymilk50.description>대두에서 두유를 추출해냅니다.</ZP_MakeSoymilk50.description>
+  <ZP_MakeSoymilk50.jobString>두유 추출중</ZP_MakeSoymilk50.jobString>
 
-  <ZP_MakeKonnyaku10.label>こんにゃくを作る(10)</ZP_MakeKonnyaku10.label>
-  <ZP_MakeKonnyaku10.description>蒸した里芋をを磨ってから石灰水と混ぜ型にいれて固める。</ZP_MakeKonnyaku10.description>
-  <ZP_MakeKonnyaku10.jobString>こんにゃくを作る。</ZP_MakeKonnyaku10.jobString>
+  <ZP_MakeKonnyaku10.label>곤약 제조(10)</ZP_MakeKonnyaku10.label>
+  <ZP_MakeKonnyaku10.description>찐 토란을 갈고 석회수를 섞어, 틀에 넣고 굳힙니다.</ZP_MakeKonnyaku10.description>
+  <ZP_MakeKonnyaku10.jobString>곤약 제조중</ZP_MakeKonnyaku10.jobString>
 
-  <ZP_MakeKonnyaku50.label>こんにゃくを作る(50)</ZP_MakeKonnyaku50.label>
-  <ZP_MakeKonnyaku50.description>蒸した里芋をを磨ってから石灰水と混ぜ型にいれて固める。</ZP_MakeKonnyaku50.description>
-  <ZP_MakeKonnyaku50.jobString>こんにゃくを作る。</ZP_MakeKonnyaku50.jobString>
+  <ZP_MakeKonnyaku50.label>곤약 제조(50)</ZP_MakeKonnyaku50.label>
+  <ZP_MakeKonnyaku50.description>찐 토란을 갈고 석회수를 섞어, 틀에 넣고 굳힙니다.</ZP_MakeKonnyaku50.description>
+  <ZP_MakeKonnyaku50.jobString>곤약 제조중</ZP_MakeKonnyaku50.jobString>
 
 
   <!-- 벼 절구　쌀(벼)⇒현미 -->
