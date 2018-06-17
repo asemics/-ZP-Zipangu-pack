@@ -2,7 +2,7 @@
 <LanguageData>
 
   <ZPJunmaiSake.label>준마이</ZPJunmaiSake.label>
-  <ZPJunmaiSake.description>백미만으로 빚은 청주입니다./n쌀 본래의 맛이 특징적인 술입니다.</ZPJunmaiSake.description>
+  <ZPJunmaiSake.description>백미만으로 빚은 청주입니다.\n쌀 본래의 맛이 특징적인 술입니다.</ZPJunmaiSake.description>
   <ZPJunmaiSake.tools.1.label>목</ZPJunmaiSake.tools.1.label>
   <ZPJunmaiSake.ingestible.ingestCommandString>Drink {0}</ZPJunmaiSake.ingestible.ingestCommandString>
   <ZPJunmaiSake.ingestible.ingestReportString>Drinking {0}.</ZPJunmaiSake.ingestible.ingestReportString>
