@@ -88,11 +88,11 @@
   <CookDriedFish10.description>생선을 말려서 오래 보존할 수 있게 합니다.</CookDriedFish10.description>
   <CookDriedFish10.jobString>생선을 말리는중</CookDriedFish10.jobString>
 
-  <CookDriedFish20.label>말린 생선(20)</CookDriedFish20.label>
+  <CookDriedFish20.label>말린 생선(50)</CookDriedFish20.label>
   <CookDriedFish20.description>생선을 말려서 오래 보존할 수 있게 합니다.</CookDriedFish20.description>
   <CookDriedFish20.jobString>생선을 말리는중</CookDriedFish20.jobString>
 
-  <CookDriedFish50.label>말린 생선(50)</CookDriedFish50.label>
+  <CookDriedFish50.label>말린 생선(100)</CookDriedFish50.label>
   <CookDriedFish50.description>생선을 말려서 오래 보존할 수 있게 합니다.</CookDriedFish50.description>
   <CookDriedFish50.jobString>생선을 말리는중</CookDriedFish50.jobString>
 
