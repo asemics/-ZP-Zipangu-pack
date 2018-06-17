@@ -4,7 +4,7 @@
   <!-- ポン菓子ロープ -->
 
   <ZP_Ponponrat.label>퐁퐁 쥐</ZP_Ponponrat.label>
-  <ZP_Ponponrat.description>폭탄쥐의 아종. 통상의 개체보다 발이 빠르고 해체를 하면 뻥튀기가 나옵니다. /n어떤 마을에서 폭탄 쥐의 사료를 뻥튀기로 주었는데, 무심코 변이되어버렸습니다./n뻥튀기를 생성할 때 폭발력이 신체에서 생성되며, 이동 속도와 폭발력이 강화되었습니다./n무해한 동물이지만 극도의 흥분 상태가 되면 폭격 특공쥐가 되므로 주의./n일부 설치류 애호가들 사이에서 인기가 높고, 지능이 높아 훈련 범위가 넓습니다.</ZP_Ponponrat.description>
+  <ZP_Ponponrat.description>폭탄쥐의 아종. 통상의 개체보다 발이 빠르고 해체를 하면 뻥튀기가 나옵니다. \n어떤 마을에서 폭탄 쥐의 사료를 뻥튀기로 주었는데, 무심코 변이되어버렸습니다.\n뻥튀기를 생성할 때 폭발력이 신체에서 생성되며, 이동 속도와 폭발력이 강화되었습니다.\n무해한 동물이지만 극도의 흥분 상태가 되면 폭격 특공쥐가 되므로 주의.\n일부 설치류 애호가들 사이에서 인기가 높고, 지능이 높아 훈련 범위가 넓습니다.</ZP_Ponponrat.description>
   <ZP_Ponponrat.tools.0.label>왼쪽 발톱</ZP_Ponponrat.tools.0.label>
   <ZP_Ponponrat.tools.1.label>오른쪽 발톱</ZP_Ponponrat.tools.1.label>
   <ZP_Ponponrat.tools.3.label>머리</ZP_Ponponrat.tools.3.label>
