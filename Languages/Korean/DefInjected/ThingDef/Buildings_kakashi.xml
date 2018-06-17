@@ -2,11 +2,11 @@
 <LanguageData>
 
   <ZPMOD_Kakashi.label>풍요의 허수아비</ZPMOD_Kakashi.label>
-  <ZPMOD_Kakashi.description>【효과:거름기 30% 상승 및 반경 9칸】/n풍요의 신의 축복이 깃들어있는 허수아비. 주위의 작물의 성장을 촉구합니다./n공물이 있는 동안은 효과가 이어지지만 사라지면 역할을 마치고 부서집니다./n공물(연료)은 주먹밥, 삼색 경단, 시큼한 떡, 이소베모찌, 고헤이모찌 및 즌다모찌를 사용할 수 있습니다.</ZPMOD_Kakashi.description>
+  <ZPMOD_Kakashi.description>【효과:거름기 30% 상승 및 반경 9칸】\n풍요의 여신의 축복이 깃들어있는 허수아비. 주위의 작물의 성장을 촉구합니다.\n공물이 있는 동안은 효과가 이어지지만 사라지면 역할을 마치고 부서집니다.\n공물(연료)은 주먹밥, 삼색 경단, 시큼한 떡, 이소베모찌, 고헤이모찌 및 즌다모찌를 사용할 수 있습니다.\n※주의: 논과 수경 재배기에는 효과가 없습니다.</ZPMOD_Kakashi.description>
   <ZPMOD_Kakashi_Blueprint.label>풍요의 허수아비 (도면)</ZPMOD_Kakashi_Blueprint.label>
   <ZPMOD_Kakashi_Blueprint_Install.label>풍요의 허수아비 (도면)</ZPMOD_Kakashi_Blueprint_Install.label>
   <ZPMOD_Kakashi_Frame.label>풍요의 허수아비 (건설 중)</ZPMOD_Kakashi_Frame.label>
-  <ZPMOD_Kakashi_Frame.description>【효과:거름기 30% 상승 및 반경 9칸】/n풍요의 신의 축복이 깃들어있는 허수아비. 주위의 작물의 성장을 촉구합니다./n공물이 있는 동안은 효과가 이어지지만 사라지면 역할을 마치고 부서집니다./n공물(연료)은 주먹밥, 삼색 경단, 시큼한 떡, 이소베모찌, 고헤이모찌 및 즌다모찌를 사용할 수 있습니다.</ZPMOD_Kakashi_Frame.description>
+  <ZPMOD_Kakashi_Frame.description>【효과:거름기 30% 상승 및 직경 9칸】\n풍요의 여신의 축복이 깃들어있는 허수아비. 주위의 작물의 성장을 촉구합니다.\n공물이 있는 동안은 효과가 이어지지만 사라지면 역할을 마치고 부서집니다.\n공물(연료)은 주먹밥, 삼색 경단, 시큼한 떡, 이소베모찌, 고헤이모찌 및 즌다모찌를 사용할 수 있습니다.\n※주의: 논과 수경 재배기에는 효과가 없습니다.</ZPMOD_Kakashi_Frame.description>
 
 
 </LanguageData>
