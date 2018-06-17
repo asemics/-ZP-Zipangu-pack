@@ -3,10 +3,10 @@
 
   <!-- 大盾　Base 土嚢 -->
 
-  <ZP_KaiShield.label>카키타테</ZP_KaiShield.label>
+  <ZP_KaiShield.label>카이다테</ZP_KaiShield.label>
   <ZP_KaiShield.description>총격을 막을 수 있는 설치형 방패.\n커버율이 매우 높은 급조로 만든 값싼 방패이며, 내구도가 꽤 낮고 타기 쉬우므로 주의.</ZP_KaiShield.description>
-  <ZP_KaiShield_Blueprint.label>카키타테 (도면)</ZP_KaiShield_Blueprint.label>
-  <ZP_KaiShield_Frame.label>카키타테 (건설 중)</ZP_KaiShield_Frame.label>
+  <ZP_KaiShield_Blueprint.label>카이다테 (도면)</ZP_KaiShield_Blueprint.label>
+  <ZP_KaiShield_Frame.label>카이다테 (건설 중)</ZP_KaiShield_Frame.label>
   <ZP_KaiShield_Frame.description>총격을 막을 수 있는 설치형 방패.\n커버율이 매우 높은 급조로 만든 값싼 방패이며, 내구도가 꽤 낮고 타기 쉬우므로 주의.</ZP_KaiShield_Frame.description>
 
 
