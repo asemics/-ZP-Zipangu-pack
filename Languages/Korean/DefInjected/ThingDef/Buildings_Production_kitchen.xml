@@ -30,11 +30,11 @@
   <ZPIrori_Frame.description>일본 가옥에 설치되는 화덕의 일종으로, 바닥의 일부를 정사각형으로 잘라서 불을 피우는 곳입니다. 주로 난방과 조리가 목적이지만 사람들의 모임 장소로도 쓰이며 쉼터가 되기도 합니다.</ZPIrori_Frame.description>
 
   <CookingTable.label>조리대</CookingTable.label>
-  <CookingTable.description>사전 준비용 조리대./n조미료 제조 및 식자재 가공 등을 할 수 있습니다.</CookingTable.description>
+  <CookingTable.description>사전 준비용 조리대.\n조미료 제조 및 식자재 가공 등을 할 수 있습니다.</CookingTable.description>
   <CookingTable_Blueprint.label>조리대 (도면)</CookingTable_Blueprint.label>
   <CookingTable_Blueprint_Install.label>조리대 (도면)</CookingTable_Blueprint_Install.label>
   <CookingTable_Frame.label>조리대 (건설 중)</CookingTable_Frame.label>
-  <CookingTable_Frame.description>사전 준비용 조리대./n조미료 제조 및 식자재 가공 등을 할 수 있습니다.</CookingTable_Frame.description>
+  <CookingTable_Frame.description>사전 준비용 조리대.\n조미료 제조 및 식자재 가공 등을 할 수 있습니다.</CookingTable_Frame.description>
 
   <PestleAndMortar.label>저구</PestleAndMortar.label>
   <PestleAndMortar.description>절굿공이와 절구. 떡을 대량으로 만들 수 있습니다.</PestleAndMortar.description>
