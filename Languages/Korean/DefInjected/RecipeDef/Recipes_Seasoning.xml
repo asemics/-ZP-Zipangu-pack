@@ -3,37 +3,37 @@
 
   <!-- 調味料 -->
 
-  <R_CookNaturalSalt.label>천연 소금(25)</R_CookNaturalSalt.label>
-  <R_CookNaturalSalt.description>염분을 머금은 물을 바짝 졸여서 소금을 추출한다.</R_CookNaturalSalt.description>
-  <R_CookNaturalSalt.jobString>塩を抽出する。</R_CookNaturalSalt.jobString>
+  <R_CookNaturalSalt.label>천일염 제작(25)</R_CookNaturalSalt.label>
+  <R_CookNaturalSalt.description>바닷물 같은 염분을 머금은 물을 바짝 졸여서 소금을 추출합니다.</R_CookNaturalSalt.description>
+  <R_CookNaturalSalt.jobString>소금 추출중</R_CookNaturalSalt.jobString>
 
-  <R_CookSyrup10.label>쌀엿(25)</R_CookSyrup10.label>
+  <R_CookSyrup10.label>쌀엿 가공(25)</R_CookSyrup10.label>
   <R_CookSyrup10.description>쌀을 졸여서 당화시킨 쌀엿을 만든다</R_CookSyrup10.description>
-  <R_CookSyrup10.jobString>쌀엿을 만든다</R_CookSyrup10.jobString>
+  <R_CookSyrup10.jobString>쌀엿 가공중</R_CookSyrup10.jobString>
 
-  <R_CookVinegarBarrel.label>Rice vineger barrel</R_CookVinegarBarrel.label>
-  <R_CookVinegarBarrel.description>Make Rice vineger barrel which is need to make.</R_CookVinegarBarrel.description>
-  <R_CookVinegarBarrel.jobString>Making Rice vineger barrel</R_CookVinegarBarrel.jobString>
+  <R_CookVinegarBarrel.label>식초 통 제조</R_CookVinegarBarrel.label>
+  <R_CookVinegarBarrel.description>쌀로 식초를 만들기위해 통안에 넣고 제조합니다.</R_CookVinegarBarrel.description>
+  <R_CookVinegarBarrel.jobString>식초 통 제조중</R_CookVinegarBarrel.jobString>
 
-  <R_CookVinegar10.label>Rice vineger(25)</R_CookVinegar10.label>
-  <R_CookVinegar10.description>Make Rice vineger.</R_CookVinegar10.description>
-  <R_CookVinegar10.jobString>Making Rice vineger</R_CookVinegar10.jobString>
+  <R_CookVinegar10.label>식초 (25)</R_CookVinegar10.label>
+  <R_CookVinegar10.description>식초 통에서 식초를 나눠담습니다.</R_CookVinegar10.description>
+  <R_CookVinegar10.jobString>식초 담는중</R_CookVinegar10.jobString>
 
-  <R_CookSoySauceBarrel.label>Soy sauce barrel</R_CookSoySauceBarrel.label>
-  <R_CookSoySauceBarrel.description>Make Soy souce(Japanese seasoning) barrel which is need to make.</R_CookSoySauceBarrel.description>
-  <R_CookSoySauceBarrel.jobString>Making Soy souce barrel</R_CookSoySauceBarrel.jobString>
+  <R_CookSoySauceBarrel.label>간장 통 제조</R_CookSoySauceBarrel.label>
+  <R_CookSoySauceBarrel.description>간장을 만들기위해 통안에 재료를 넣고 제조합니다.</R_CookSoySauceBarrel.description>
+  <R_CookSoySauceBarrel.jobString>간장 통 제조중</R_CookSoySauceBarrel.jobString>
 
-  <R_CookSoySauce10.label>Soy sauce(25)</R_CookSoySauce10.label>
-  <R_CookSoySauce10.description>Make Soy souce(Japanese seasoning).</R_CookSoySauce10.description>
-  <R_CookSoySauce10.jobString>Making Soy souce</R_CookSoySauce10.jobString>
+  <R_CookSoySauce10.label>간장(25)</R_CookSoySauce10.label>
+  <R_CookSoySauce10.description>간장 통으로부터 간장을 나눠담습니다.</R_CookSoySauce10.description>
+  <R_CookSoySauce10.jobString>간장 담는중</R_CookSoySauce10.jobString>
 
-  <R_CookMisoBarrel.label>Miso barrel</R_CookMisoBarrel.label>
-  <R_CookMisoBarrel.description>Make Miso(Japanese seasoning) barrel which is need to make.</R_CookMisoBarrel.description>
-  <R_CookMisoBarrel.jobString>Making Miso barrel</R_CookMisoBarrel.jobString>
+  <R_CookMisoBarrel.label>된장 통 제조</R_CookMisoBarrel.label>
+  <R_CookMisoBarrel.description>된장을 만들기 위해 통안에 재료를 넣고 발효시킵니다.</R_CookMisoBarrel.description>
+  <R_CookMisoBarrel.jobString>된장 통 제조중</R_CookMisoBarrel.jobString>
 
-  <R_CookMiso10.label>Miso(25)</R_CookMiso10.label>
-  <R_CookMiso10.description>Make Miso(Japanese seasoning).</R_CookMiso10.description>
-  <R_CookMiso10.jobString>Making Miso</R_CookMiso10.jobString>
+  <R_CookMiso10.label>된장(25)</R_CookMiso10.label>
+  <R_CookMiso10.description>된장을 통으로부터 나눠담습니다.</R_CookMiso10.description>
+  <R_CookMiso10.jobString>된장 담는중</R_CookMiso10.jobString>
 
 
 </LanguageData>
