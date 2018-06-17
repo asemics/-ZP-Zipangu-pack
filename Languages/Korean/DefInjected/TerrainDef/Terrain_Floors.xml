@@ -2,10 +2,10 @@
 <LanguageData>
 
   <Tatami_Green.label>다다미(녹)</Tatami_Green.label>
-  <Tatami_Green.description>짚으로 만들어진 바닥재. 다다미는 공기를 정화하고, 온도를 조절하는 기능을 갖고 있다.\n또, 불연소성능도 상당히 뛰어나기에 화재가 일어나도 타지 않는다.</Tatami_Green.description>
+  <Tatami_Green.description>짚으로 만들어진 바닥재. 다다미는 공기를 정화하고, 온도를 조절하는 기능을 갖고 있습니다.\n또, 불연소성능도 상당히 뛰어나기에 화재가 일어나도 타지 않습니다.</Tatami_Green.description>
 
   <Tatami_Yellow.label>다다미(황)</Tatami_Yellow.label>
-  <Tatami_Yellow.description>짚으로 만들어진 바닥재. 다다미는 공기를 정화하고, 온도를 조절하는 기능을 갖고 있다.\n또, 불연소성능도 상당히 뛰어나기에 화재가 일어나도 타지 않는다.</Tatami_Yellow.description>
+  <Tatami_Yellow.description>짚으로 만들어진 바닥재. 다다미는 공기를 정화하고, 온도를 조절하는 기능을 갖고 있습니다.\n또, 불연소성능도 상당히 뛰어나기에 화재가 일어나도 타지 않습니다.</Tatami_Yellow.description>
 
   <RBCeramicTile.label>RB 세라믹 타일</RBCeramicTile.label>
   <RBCeramicTile.description>표면이 매끈매끈하고 청결성을 유지하기 쉽지만, 향균 타일보다는 떨어집니다.</RBCeramicTile.description>
