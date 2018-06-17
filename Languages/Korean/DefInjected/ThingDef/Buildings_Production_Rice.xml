@@ -2,31 +2,31 @@
 <LanguageData>
 
   <ThreshingMachine.label>탈곡기</ThreshingMachine.label>
-  <ThreshingMachine.description>【역할：탈곡】\n벼 이삭을 탈곡시켜 쌀(벼)를 생산하는 농기구.사람이 하기 때문에 효율은 안좋다.</ThreshingMachine.description>
-  <ThreshingMachine_Blueprint.label>탈곡기 (blueprint)</ThreshingMachine_Blueprint.label>
-  <ThreshingMachine_Blueprint_Install.label>탈곡기 (blueprint)</ThreshingMachine_Blueprint_Install.label>
-  <ThreshingMachine_Frame.label>탈곡기 (building)</ThreshingMachine_Frame.label>
-  <ThreshingMachine_Frame.description>【역할：탈곡】\n벼 이삭을 탈곡시켜 쌀(벼)를 생산하는 농기구. 사람이 하기 때문에 효율은 안좋다.</ThreshingMachine_Frame.description>
+  <ThreshingMachine.description>【역할：탈곡】\n벼 이삭을 탈곡시켜 쌀(벼)를 생산하는 농기구.사람이 하기 때문에 효율은 안좋습니다.</ThreshingMachine.description>
+  <ThreshingMachine_Blueprint.label>탈곡기 (도면)</ThreshingMachine_Blueprint.label>
+  <ThreshingMachine_Blueprint_Install.label>탈곡기 (도면)</ThreshingMachine_Blueprint_Install.label>
+  <ThreshingMachine_Frame.label>탈곡기 (건설중)</ThreshingMachine_Frame.label>
+  <ThreshingMachine_Frame.description>【역할：탈곡】\n벼 이삭을 탈곡시켜 쌀(벼)를 생산하는 농기구. 사람이 하기 때문에 효율은 안좋습니다.</ThreshingMachine_Frame.description>
 
-  <RiceStoneSlurry.label>절구</RiceStoneSlurry.label>
-  <RiceStoneSlurry.description>【역할：조미(糙米)】\n탈곡시키기 위한 절구.사람이 하기 때문에 효율은 안좋다.</RiceStoneSlurry.description>
-  <RiceStoneSlurry_Blueprint.label>절구 (blueprint)</RiceStoneSlurry_Blueprint.label>
-  <RiceStoneSlurry_Blueprint_Install.label>절구 (blueprint)</RiceStoneSlurry_Blueprint_Install.label>
-  <RiceStoneSlurry_Frame.label>절구 (building)</RiceStoneSlurry_Frame.label>
-  <RiceStoneSlurry_Frame.description>【역할：조미(糙米)】\n탈곡시키기 위한 절구.사람이 하기 때문에 효율은 안좋다.</RiceStoneSlurry_Frame.description>
+  <RiceStoneSlurry.label>맷돌</RiceStoneSlurry.label>
+  <RiceStoneSlurry.description>【역할：조미(糙米)】\n쌀을 갈아서 쌀(미)과 왕겨 혹은 쌀겨를 나누기 위한 맷돌입니다.사람이 하기 때문에 효율은 안좋습니다.</RiceStoneSlurry.description>
+  <RiceStoneSlurry_Blueprint.label>맷돌 (도면)</RiceStoneSlurry_Blueprint.label>
+  <RiceStoneSlurry_Blueprint_Install.label>절구 (도면)</RiceStoneSlurry_Blueprint_Install.label>
+  <RiceStoneSlurry_Frame.label>절구 (건설중)</RiceStoneSlurry_Frame.label>
+  <RiceStoneSlurry_Frame.description>【역할：조미(糙米)】\n쌀을 갈아서 쌀(미)과 왕겨 혹은 쌀겨를 나누기 위한 맷돌입니다.사람이 하기 때문에 효율은 안좋습니다.</RiceStoneSlurry_Frame.description>
 
   <RiceMillingMachine.label>정미기</RiceMillingMachine.label>
   <RiceMillingMachine.description>【역할：조미(糙米),정미】\n쌀(벼)나 현미를 가공할 때에 사용된다. 맛있는 백미를 먹고싶은 욕구만을 위하여 만들어진 기구.</RiceMillingMachine.description>
-  <RiceMillingMachine_Blueprint.label>정미기 (blueprint)</RiceMillingMachine_Blueprint.label>
-  <RiceMillingMachine_Blueprint_Install.label>정미기 (blueprint)</RiceMillingMachine_Blueprint_Install.label>
-  <RiceMillingMachine_Frame.label>정미기 (building)</RiceMillingMachine_Frame.label>
+  <RiceMillingMachine_Blueprint.label>정미기 (도면)</RiceMillingMachine_Blueprint.label>
+  <RiceMillingMachine_Blueprint_Install.label>정미기 (도면)</RiceMillingMachine_Blueprint_Install.label>
+  <RiceMillingMachine_Frame.label>정미기 (건설중)</RiceMillingMachine_Frame.label>
   <RiceMillingMachine_Frame.description>【역할：조미(糙米),정미】\n쌀(벼)나 현미를 가공할 때에 사용된다. 맛있는 백미를 먹고싶은 욕구만을 위하여 만들어진 기구.</RiceMillingMachine_Frame.description>
 
   <ThreshingRiceMillingMachine.label>복합식 탈곡정미기</ThreshingRiceMillingMachine.label>
   <ThreshingRiceMillingMachine.description>【역할：탈곡,조미(糙米),정미】\n탈곡부터 정미까지 한번에 처리해주는 최신형 복합식 탈곡정미기.</ThreshingRiceMillingMachine.description>
-  <ThreshingRiceMillingMachine_Blueprint.label>복합식 탈곡정미기 (blueprint)</ThreshingRiceMillingMachine_Blueprint.label>
-  <ThreshingRiceMillingMachine_Blueprint_Install.label>복합식 탈곡정미기 (blueprint)</ThreshingRiceMillingMachine_Blueprint_Install.label>
-  <ThreshingRiceMillingMachine_Frame.label>복합식 탈곡정미기 (building)</ThreshingRiceMillingMachine_Frame.label>
+  <ThreshingRiceMillingMachine_Blueprint.label>복합식 탈곡정미기 (도면)</ThreshingRiceMillingMachine_Blueprint.label>
+  <ThreshingRiceMillingMachine_Blueprint_Install.label>복합식 탈곡정미기 (도면)</ThreshingRiceMillingMachine_Blueprint_Install.label>
+  <ThreshingRiceMillingMachine_Frame.label>복합식 탈곡정미기 (건설중)</ThreshingRiceMillingMachine_Frame.label>
   <ThreshingRiceMillingMachine_Frame.description>【역할：탈곡,조미(糙米),정미】\n탈곡부터 정미까지 한번에 처리해주는 최신형 복합식 탈곡정미기.</ThreshingRiceMillingMachine_Frame.description>
 
 
