@@ -4,7 +4,7 @@
   <!-- 調味料 -->
 
   <R_Syrup.label>쌀엿</R_Syrup.label>
-  <R_Syrup.description>전통적인 감미료.\n\n원료인 쌀의 종류나 가공방법에 따라, 황금색부터 적동색을 비칩니다.\n\n설탕이 보급되기 전에는 일본 전국 어디서든 사용되어 왔습니다.</R_Syrup.description>
+  <R_Syrup.description>전통적인 감미료.\n원료인 쌀의 종류나 가공방법에 따라, 황금색부터 적동색을 비칩니다.\n설탕이 보급되기 전에는 일본 전국 어디서든 사용되어 왔습니다.</R_Syrup.description>
 
   <R_NaturalSalt.label>천일염</R_NaturalSalt.label>
   <R_NaturalSalt.description>염분을 머금은 물을 졸여서 만든 소금.</R_NaturalSalt.description>
