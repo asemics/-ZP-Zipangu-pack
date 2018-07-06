@@ -1,26 +1,25 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <HedMochi.label>【Speed】Mochi power</HedMochi.label>
-  <HedMochi.stages.0.label>I ate Mochi</HedMochi.stages.0.label>
+  <HedMochi.label>Speedy Mochi</HedMochi.label>
+  <HedMochi.stages.0.label>I ate some Mochi.</HedMochi.stages.0.label>
 
-  <HedMochi2.label>【Enjoy】Mochi power</HedMochi2.label>
-  <HedMochi2.stages.0.label>I ate Mochi</HedMochi2.stages.0.label>
+  <HedMochi2.label>Joyous Mochi</HedMochi2.label>
+  <HedMochi2.stages.0.label>I ate some Mochi.</HedMochi2.stages.0.label>
 
   <HedPuffedRice.label>Explosive power dwells in my body!!</HedPuffedRice.label>
-  <HedPuffedRice.stages.0.label>I ate puffed rice</HedPuffedRice.stages.0.label>
+  <HedPuffedRice.stages.0.label>I ate some Muri.</HedPuffedRice.stages.0.label>
 
   <HedFermentedFood.label>Fermented food with a smell</HedFermentedFood.label>
-  <HedFermentedFood.stages.0.label>I ate fermented food</HedFermentedFood.stages.0.label>
+  <HedFermentedFood.stages.0.label>I ate fermented food.</HedFermentedFood.stages.0.label>
 
   <HedFishFood.label>Fish power!!</HedFishFood.label>
-  <HedFishFood.stages.0.label>I ate fish a dish</HedFishFood.stages.0.label>
+  <HedFishFood.stages.0.label>Fish is good, fish is good!<./HedFishFood.stages.0.label>
 
   <HedFreshFishFood.label>Seafood Heaven!!</HedFreshFishFood.label>
-  <HedFreshFishFood.stages.0.label>I ate a seafood dish</HedFreshFishFood.stages.0.label>
+  <HedFreshFishFood.stages.0.label>Seafood best food.</HedFreshFishFood.stages.0.label>
 
   <HedNabeFood.label>I'm stuffed!!</HedNabeFood.label>
-  <HedNabeFood.stages.0.label>I can't eat anymore</HedNabeFood.stages.0.label>
-
+  <HedNabeFood.stages.0.label>I can't eat anymore. Really, I can't.</HedNabeFood.stages.0.label>
 
 </LanguageData>
