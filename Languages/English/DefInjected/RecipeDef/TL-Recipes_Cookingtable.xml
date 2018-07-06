@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 味付け肉 -->
+
+  <MakeR_SeasonedMeat5.label>Season meat (5)</MakeR_SeasonedMeat5.label>
+  <MakeR_SeasonedMeat5.description>Improve the meat's nutritional value, preservability, and even smell via seasoning.</MakeR_SeasonedMeat5.description>
+  <MakeR_SeasonedMeat5.jobString>Making seasoned meat.</MakeR_SeasonedMeat5.jobString>
+
+  <MakeR_SeasonedMeat20.label>Season meat (20)</MakeR_SeasonedMeat20.label>
+  <MakeR_SeasonedMeat20.description>Improve the meat's nutritional value, preservability, and even smell via seasoning.</MakeR_SeasonedMeat20.description>
+  <MakeR_SeasonedMeat20.jobString>Making seasoned meat.</MakeR_SeasonedMeat20.jobString>
+
+  <MakeR_SeasonedMeat50.label>Season meat (50)</MakeR_SeasonedMeat50.label>
+  <MakeR_SeasonedMeat50.description>Improve the meat's nutritional value, preservability, and even smell via seasoning.</MakeR_SeasonedMeat50.description>
+  <MakeR_SeasonedMeat50.jobString>Making seasoned meat.</MakeR_SeasonedMeat50.jobString>
+
+
+  <!-- 凍り餅 -->
+
+  <CookFreezeMochi10.label>Make Freezer Mochi (10)</CookFreezeMochi10.label>
+  <CookFreezeMochi10.description>This process creates Mochi that can be stored for a long time. This is done by soaking the Mochi before freezing it; cold air is preferable when drying it out.</CookFreezeMochi10.description>
+  <CookFreezeMochi10.jobString>Making Freezer Mochi.</CookFreezeMochi10.jobString>
+
+
+  <!-- 削除予定 -->
+
+  <CookFreezeMochi20.label>Make Freezer Mochi (20)</CookFreezeMochi20.label>
+  <CookFreezeMochi20.description>This process creates Mochi that can be stored for a long time. This is done by soaking the Mochi before freezing it; cold air is preferable when drying it out.</CookFreezeMochi20.description>
+  <CookFreezeMochi20.jobString>Making Freezer Mochi.</CookFreezeMochi20.jobString>
+
+  <CookFreezeMochi50.label>Make Freezer Mochi (50)</CookFreezeMochi50.label>
+  <CookFreezeMochi50.description>This process creates Mochi that can be stored for a long time. This is done by soaking the Mochi before freezing it; cold air is preferable when drying it out.</CookFreezeMochi50.description>
+  <CookFreezeMochi50.jobString>Making Freezer Mochi.</CookFreezeMochi50.jobString>
+
+  <CookFreezeMochi100.label>Make Freezer Mochi (100)</CookFreezeMochi100.label>
+  <CookFreezeMochi100.description>This process creates Mochi that can be stored for a long time. This is done by soaking the Mochi before freezing it; cold air is preferable when drying it out.</CookFreezeMochi100.description>
+  <CookFreezeMochi100.jobString>Making Freezer Mochi.</CookFreezeMochi100.jobString>
+
+
+  <!-- たんぽ -->
+
+  <CookTanpo10.label>Make Tanpo (10)</CookTanpo10.label>
+  <CookTanpo10.description>Rice that is crushed and then molded onto a wooden stick.</CookTanpo10.description>
+  <CookTanpo10.jobString>Making Tanpo.</CookTanpo10.jobString>
+
+  <CookTanpo50.label>Make Tanpo (50)</CookTanpo50.label>
+  <CookTanpo50.description>Rice that is crushed and then molded onto a wooden stick.</CookTanpo50.description>
+  <CookTanpo50.jobString>Making Tanpo.</CookTanpo50.jobString>
+
+
+  <!-- ぬか漬け -->
+
+  <CookRiceBranPickled10.label>Make Nukadoko (10)</CookRiceBranPickled10.label>
+  <CookRiceBranPickled10.description>Vegetables that are pickled by soaking them in fermented rice bran.</CookRiceBranPickled10.description>
+  <CookRiceBranPickled10.jobString>Making Nukadoko.</CookRiceBranPickled10.jobString>
+
+
+  <!-- 削除予定 -->
+
+  <CookRiceBranPickled20.label>Make Nukadoko (20)</CookRiceBranPickled20.label>
+  <CookRiceBranPickled20.description>Vegetables that are pickled by soaking them in fermented rice bran.</CookRiceBranPickled20.description>
+  <CookRiceBranPickled20.jobString>Making Nukadoko.</CookRiceBranPickled20.jobString>
+
+  <CookRiceBranPickled50.label>Make Nukadoko (50)</CookRiceBranPickled50.label>
+  <CookRiceBranPickled50.description>Vegetables that are pickled by soaking them in fermented rice bran.</CookRiceBranPickled50.description>
+  <CookRiceBranPickled50.jobString>Making Nukadoko.</CookRiceBranPickled50.jobString>
+
+
+  <!-- 納豆 -->
+
+  <CookFermentedSoybeans10.label>Make Natto (10)</CookFermentedSoybeans10.label>
+  <CookFermentedSoybeans10.description>A traditional Japanese dish created by wrapping fermented soybeans in straw. With those that acquire a taste for it, it is often eaten as a breakfast food.</CookFermentedSoybeans10.description>
+  <CookFermentedSoybeans10.jobString>Making Natto.</CookFermentedSoybeans10.jobString>
+
+
+  <!-- 削除予定 -->
+
+  <CookFermentedSoybeans20.label>Make Natto (20)</CookFermentedSoybeans20.label>
+  <CookFermentedSoybeans20.description>A traditional Japanese dish created by wrapping fermented soybeans in straw. With those that acquire a taste for it, it is often eaten as a breakfast food.</CookFermentedSoybeans20.description>
+  <CookFermentedSoybeans20.jobString>Making Natto.</CookFermentedSoybeans20.jobString>
+
+  <CookFermentedSoybeans50.label>Make Natto (50)</CookFermentedSoybeans50.label>
+  <CookFermentedSoybeans50.description>A traditional Japanese dish created by wrapping fermented soybeans in straw. With those that acquire a taste for it, it is often eaten as a breakfast food.</CookFermentedSoybeans50.description>
+  <CookFermentedSoybeans50.jobString>Making Natto.</CookFermentedSoybeans50.jobString>
+
+  <CookDriedFish10.label>Cook Dried fish (10)</CookDriedFish10.label>
+  <CookDriedFish10.description>A way to preserve fish.</CookDriedFish10.description>
+  <CookDriedFish10.jobString>Drying fish.</CookDriedFish10.jobString>
+
+  <CookDriedFish20.label>Cook Dried fish (20)</CookDriedFish20.label>
+  <CookDriedFish20.description>A way to preserve fish.</CookDriedFish20.description>
+  <CookDriedFish20.jobString>Drying fish.</CookDriedFish20.jobString>
+
+  <CookDriedFish50.label>Cook Dried fish (50)</CookDriedFish50.label>
+  <CookDriedFish50.description>A way to preserve fish.</CookDriedFish50.description>
+  <CookDriedFish50.jobString>Drying fish.</CookDriedFish50.jobString>
+
+  <CookTikuwa5.label>Make Chikuwa (10)</CookTikuwa5.label>
+  <CookTikuwa5.description>A jelly-like product created by shredding and mashing fish and Taro together. It's often used as an ingredient, rather than a meal itself.</CookTikuwa5.description>
+  <CookTikuwa5.jobString>Making Chikuwa.</CookTikuwa5.jobString>
+
+  <CookTikuwa10.label>Cook Chikuwa (50)</CookTikuwa10.label>
+  <CookTikuwa10.description>A jelly-like product created by shredding and mashing fish and Taro together. It's often used as an ingredient, rather than a meal itself.</CookTikuwa10.description>
+  <CookTikuwa10.jobString>Making Chikuwa.</CookTikuwa10.jobString>
+
+  <CookFishFillet.label>Make Fish fillet (10)</CookFishFillet.label>
+  <CookFishFillet.description>Prepare a fish fillet by removing the scales and cutting parallel to the spine.</CookFishFillet.description>
+  <CookFishFillet.jobString>Make Fish fillet.</CookFishFillet.jobString>
+
+  <CookFishFillet10.label>Make Fish fillet (50)</CookFishFillet10.label>
+  <CookFishFillet10.description>Prepare a fish fillet by removing the scales and cutting parallel to the spine.</CookFishFillet10.description>
+  <CookFishFillet10.jobString>Cooking Fish fillet.</CookFishFillet10.jobString>
+
+  <ZP_CookTofu10.label>Cook Tofu (10)</ZP_CookTofu10.label>
+  <ZP_CookTofu10.description>Soy milk is required for Tofu.</ZP_CookTofu10.description>
+  <ZP_CookTofu10.jobString>Cooking Tofu.</ZP_CookTofu10.jobString>
+
+  <ZP_CookTofu50.label>Cook Tofu (50)</ZP_CookTofu50.label>
+  <ZP_CookTofu50.description>Soy milk is required for Tofu.</ZP_CookTofu50.description>
+  <ZP_CookTofu50.jobString>Cooking Tofu.</ZP_CookTofu50.jobString>
+
+
+</LanguageData>
