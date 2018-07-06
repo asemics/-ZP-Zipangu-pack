@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <R_CookAlcoholBarrel.label>Make a Ginjo barrel</R_CookAlcoholBarrel.label>
+  <R_CookAlcoholBarrel.description>Make a barrel to ferment Ginjo Sake in.</R_CookAlcoholBarrel.description>
+  <R_CookAlcoholBarrel.jobString>Making a Ginjo barrel.</R_CookAlcoholBarrel.jobString>
+
+  <MakeGinjoSake.label>Make Ginjo Sake (25)</MakeGinjoSake.label>
+  <MakeGinjoSake.description>Make a batch of Ginjo Sake.</MakeGinjoSake.description>
+  <MakeGinjoSake.jobString>Unpacking barrel.</MakeGinjoSake.jobString>
+
+
+</LanguageData>
