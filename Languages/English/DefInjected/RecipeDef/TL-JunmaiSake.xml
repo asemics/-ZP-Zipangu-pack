@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <R_CookJunmaiSakeBarrel.label>Make a Junmai barrel</R_CookJunmaiSakeBarrel.label>
+  <R_CookJunmaiSakeBarrel.description>Make a barrel to ferment Junmai Sake in.</R_CookJunmaiSakeBarrel.description>
+  <R_CookJunmaiSakeBarrel.jobString>Making a Junmai barrel.</R_CookJunmaiSakeBarrel.jobString>
+
+  <MakeJunmaiSake.label>Make Junmai Sake (25)</MakeJunmaiSake.label>
+  <MakeJunmaiSake.description>Make a batch of Junmai Sake.</MakeJunmaiSake.description>
+  <MakeJunmaiSake.jobString>Unpacking barrel.</MakeJunmaiSake.jobString>
+
+
+</LanguageData>
