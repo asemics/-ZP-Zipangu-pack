@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-	<HedBadBreath.label>Bad breath</HedBadBreath.label>
-	<HedFull.label>I'm stuffed. I can't move.</HedFull.label>
-	<HedDHA.label>DHA power</HedDHA.label>
-	<HedDHA.stages.0.label>I ate fish.</HedDHA.stages.0.label>
-	<HedMuscle.label>Muscle is justice!</HedMuscle.label>
-	<HedKungFuFighter.label>Kung Fu fighter</HedKungFuFighter.label>
-	<HedAppetite.label>Increased appetiteⅠ</HedAppetite.label>
-	<HedAppetite2nd.label>Increased appetiteⅡ</HedAppetite2nd.label>
-	<HedFickle.label>Chef's whim</HedFickle.label>
-	<HedFickle2nd.label>Chef's whimⅡ</HedFickle2nd.label>
-	<HedFickle3rd.label>Chef's whimⅢ</HedFickle3rd.label>
-	<HedFickle4th.label>Chef's whimⅣ</HedFickle4th.label>
-	<HedFickle5th.label>Chef's whimⅤ</HedFickle5th.label>
-	<HedFickle6th.label>Chef's whimⅥ</HedFickle6th.label>
-	<HedFickle7th.label>Chef's whimⅦ</HedFickle7th.label>
-	<HedFickle8th.label>Chef's whimⅧ</HedFickle8th.label>
-	<HedFickle9th.label>Chef's whimⅨ</HedFickle9th.label>
+  <HedBadBreath.label>Bad breath</HedBadBreath.label>
+  <HedFull.label>I'm stuffed, I can't move, and I smell!</HedFull.label>
+  <HedDHA.label>DHA Power</HedDHA.label>
+  <HedDHA.stages.0.label>I ate fish.</HedDHA.stages.0.label>
+  <HedMuscle.label>Might is Right!</HedMuscle.label>
+  <HedKungFuFighter.label>Kung Fu Fighter</HedKungFuFighter.label>
+  <HedAppetite.label>Increased appetite Ⅰ</HedAppetite.label>
+  <HedAppetite2nd.label>Increased appetite Ⅱ</HedAppetite2nd.label>
+  <HedFickle.label>Chef's Whim Ⅰ</HedFickle.label>
+  <HedFickle2nd.label>Chef's Whim Ⅱ</HedFickle2nd.label>
+  <HedFickle3rd.label>Chef's Whim Ⅲ</HedFickle3rd.label>
+  <HedFickle4th.label>Chef's Whim Ⅳ</HedFickle4th.label>
+  <HedFickle5th.label>Chef's Whim Ⅴ</HedFickle5th.label>
+  <HedFickle6th.label>Chef's Whim Ⅵ</HedFickle6th.label>
+  <HedFickle7th.label>Chef's Whim Ⅶ</HedFickle7th.label>
+  <HedFickle8th.label>Chef's Whim Ⅷ</HedFickle8th.label>
+  <HedFickle9th.label>Chef's Whim Ⅸ</HedFickle9th.label>
 </LanguageData>
