@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 豪華な食事　重箱 -->
+
+  <CookBRJubako4.label>Prepare Brown Rice Jubako (4)</CookBRJubako4.label>
+  <CookBRJubako4.description>A traditional Japanese lacquer box, whose tiered compartments are filled with various food. Since each tier acts as a tray, no table is required!</CookBRJubako4.description>
+  <CookBRJubako4.jobString>Cooking meals for the Jubako.</CookBRJubako4.jobString>
+
+  <CookWRJubako4.label>Prepare White Rice Jubako (4)</CookWRJubako4.label>
+  <CookWRJubako4.description>A traditional Japanese lacquer box, whose tiered compartments are filled with various food. Since each tier acts as a tray, no table is required!</CookWRJubako4.description>
+  <CookWRJubako4.jobString>Cooking meals for the Jubako.</CookWRJubako4.jobString>
+
+
+</LanguageData>
