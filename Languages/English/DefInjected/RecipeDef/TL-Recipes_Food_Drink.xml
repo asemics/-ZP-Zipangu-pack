@@ -3,11 +3,11 @@
 
   <CookMisosiru.label>Cook Miso soup (2)</CookMisosiru.label>
   <CookMisosiru.description>Dissolve Miso in boiling water and add your favorite ingredients.</CookMisosiru.description>
-  <CookMisosiru.jobString>Cook Miso soup</CookMisosiru.jobString>
+  <CookMisosiru.jobString>Cook Miso soup.</CookMisosiru.jobString>
 
   <CookSoyMilkShake.label>Cook Soy milkshake (2)</CookSoyMilkShake.label>
   <CookSoyMilkShake.description>A plain, ordinary milkshake-only it's made with soy milk and not that other stuff.</CookSoyMilkShake.description>
-  <CookSoyMilkShake.jobString>Cook Soy milkshake</CookSoyMilkShake.jobString>
+  <CookSoyMilkShake.jobString>Cook Soy milkshake.</CookSoyMilkShake.jobString>
 
 
 </LanguageData>
