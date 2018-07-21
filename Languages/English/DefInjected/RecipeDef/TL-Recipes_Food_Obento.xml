@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 手の込んだ食事 日の丸弁当 -->
+
+  <CookBRBento4.label>Cook Brown Rice Bento (4)</CookBRBento4.label>
+  <CookBRBento4.description>A neatly packed meal that you can eat without a table.</CookBRBento4.description>
+  <CookBRBento4.jobString>Cooking Brown Rice Bento.</CookBRBento4.jobString>
+
+  <CookWRBento4.label>Cook White Rice Bento (4)</CookWRBento4.label>
+  <CookWRBento4.description>A neatly packed meal that you can eat without a table.</CookWRBento4.description>
+  <CookWRBento4.jobString>Cooking White Rice Bento.</CookWRBento4.jobString>
+
+
+</LanguageData>
