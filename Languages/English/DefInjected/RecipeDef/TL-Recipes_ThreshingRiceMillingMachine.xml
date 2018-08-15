@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- マルチ式脱穀精米機　稲穂⇒白米 -->
+
+  <MakeThreshingRiceMillingMachine200N.label>Thoroughly thresh Inaho into White rice (200)</MakeThreshingRiceMillingMachine200N.label>
+  <MakeThreshingRiceMillingMachine200N.description>Make Inaho into White rice. The by-product is crushed and disappears.</MakeThreshingRiceMillingMachine200N.description>
+  <MakeThreshingRiceMillingMachine200N.jobString>Threshing Inaho.</MakeThreshingRiceMillingMachine200N.jobString>
+
+  <MakeThreshingRiceMillingMachineGR200N.label>Thoroughly thresh Inaho into Glutinous rice (200)</MakeThreshingRiceMillingMachineGR200N.label>
+  <MakeThreshingRiceMillingMachineGR200N.description>Make Inaho into Glutinous rice. The by-product is crushed and disappears.</MakeThreshingRiceMillingMachineGR200N.description>
+  <MakeThreshingRiceMillingMachineGR200N.jobString>Threshing Inaho.</MakeThreshingRiceMillingMachineGR200N.jobString>
+
+  <MakeThreshingRiceMillingMachineBR200N.label>Thoroughly thresh Inaho into Brown rice (200)</MakeThreshingRiceMillingMachineBR200N.label>
+  <MakeThreshingRiceMillingMachineBR200N.description>Make Inaho into Brown rice. The by-product is crushed and disappears.</MakeThreshingRiceMillingMachineBR200N.description>
+  <MakeThreshingRiceMillingMachineBR200N.jobString>Threshing Inaho.</MakeThreshingRiceMillingMachineBR200N.jobString>
+
+  <MakeThreshingRiceMillingMachine200C.label>Cautiously thresh Inaho into White rice (200)</MakeThreshingRiceMillingMachine200C.label>
+  <MakeThreshingRiceMillingMachine200C.description>Make Inaho into White rice. The by-product bag is replaced by a small amount of chemfuel.</MakeThreshingRiceMillingMachine200C.description>
+  <MakeThreshingRiceMillingMachine200C.jobString>Threshing Inaho.</MakeThreshingRiceMillingMachine200C.jobString>
+
+  <MakeThreshingRiceMillingMachineGR200C.label>Cautiously thresh Inaho into Glutinous rice (200)</MakeThreshingRiceMillingMachineGR200C.label>
+  <MakeThreshingRiceMillingMachineGR200C.description>Make Inaho into Glutinous rice. The by-product bag is replaced by a small amount of chemfuel.</MakeThreshingRiceMillingMachineGR200C.description>
+  <MakeThreshingRiceMillingMachineGR200C.jobString>Threshing Inaho.</MakeThreshingRiceMillingMachineGR200C.jobString>
+
+  <MakeThreshingRiceMillingMachineBR200C.label>Cautiously thresh Inaho into Brown rice (200)</MakeThreshingRiceMillingMachineBR200C.label>
+  <MakeThreshingRiceMillingMachineBR200C.description>Make Inaho into Brown rice. The by-product bag is replaced by a small amount of chemfuel.</MakeThreshingRiceMillingMachineBR200C.description>
+  <MakeThreshingRiceMillingMachineBR200C.jobString>Threshing Inaho.</MakeThreshingRiceMillingMachineBR200C.jobString>
+
+  <MakeThreshingRiceMillingMachine10.label>Thresh Inaho into White rice (10)</MakeThreshingRiceMillingMachine10.label>
+  <MakeThreshingRiceMillingMachine10.description>Inaho is divided into  White rice, Straw, Outer hull, and Rice bran.</MakeThreshingRiceMillingMachine10.description>
+  <MakeThreshingRiceMillingMachine10.jobString>Threshing Inaho.</MakeThreshingRiceMillingMachine10.jobString>
+
+  <MakeThreshingRiceMillingMachine50.label>Thresh Inaho into White rice (50)</MakeThreshingRiceMillingMachine50.label>
+  <MakeThreshingRiceMillingMachine50.description>Inaho is divided into  White rice, Straw, Outer hull, and Rice bran.</MakeThreshingRiceMillingMachine50.description>
+  <MakeThreshingRiceMillingMachine50.jobString>Threshing Inaho.</MakeThreshingRiceMillingMachine50.jobString>
+
+  <MakeThreshingRiceMillingMachine100.label>Thresh Inaho into White rice (100)</MakeThreshingRiceMillingMachine100.label>
+  <MakeThreshingRiceMillingMachine100.description>Inaho is divided into  White rice, Straw, Outer hull, and Rice bran.</MakeThreshingRiceMillingMachine100.description>
+  <MakeThreshingRiceMillingMachine100.jobString>Threshing Inaho.</MakeThreshingRiceMillingMachine100.jobString>
+
+  <MakeThreshingRiceMillingMachine200.label>Thresh Inaho into White rice (200)</MakeThreshingRiceMillingMachine200.label>
+  <MakeThreshingRiceMillingMachine200.description>Inaho is divided into  White rice, Straw, Outer hull, and Rice bran.</MakeThreshingRiceMillingMachine200.description>
+  <MakeThreshingRiceMillingMachine200.jobString>Threshing Inaho.</MakeThreshingRiceMillingMachine200.jobString>
+
+
+  <!-- マルチ式脱穀精米機　稲穂⇒もち米 -->
+
+  <MakeThreshingRiceMillingMachine10_4.label>Thresh Inaho into Glutinous rice (10)</MakeThreshingRiceMillingMachine10_4.label>
+  <MakeThreshingRiceMillingMachine10_4.description>Inaho is divided into  Glutinous rice, Straw, and Outer hull.</MakeThreshingRiceMillingMachine10_4.description>
+  <MakeThreshingRiceMillingMachine10_4.jobString>Threshing Inaho.</MakeThreshingRiceMillingMachine10_4.jobString>
+
+  <MakeThreshingRiceMillingMachine50_4.label>Thresh Inaho into Glutinous rice (50)</MakeThreshingRiceMillingMachine50_4.label>
+  <MakeThreshingRiceMillingMachine50_4.description>Inaho is divided into  Glutinous rice, Straw, and Outer hull.</MakeThreshingRiceMillingMachine50_4.description>
+  <MakeThreshingRiceMillingMachine50_4.jobString>Threshing Inaho.</MakeThreshingRiceMillingMachine50_4.jobString>
+
+  <MakeThreshingRiceMillingMachine100_4.label>Thresh Inaho into Glutinous rice (100)</MakeThreshingRiceMillingMachine100_4.label>
+  <MakeThreshingRiceMillingMachine100_4.description>Inaho is divided into  Glutinous rice, Straw, and Outer hull.</MakeThreshingRiceMillingMachine100_4.description>
+  <MakeThreshingRiceMillingMachine100_4.jobString>Threshing Inaho.</MakeThreshingRiceMillingMachine100_4.jobString>
+
+  <MakeThreshingRiceMillingMachine200_4.label>Thresh Inaho into Glutinous rice (200)</MakeThreshingRiceMillingMachine200_4.label>
+  <MakeThreshingRiceMillingMachine200_4.description>Inaho is divided into  Glutinous rice, Straw, and Outer hull.</MakeThreshingRiceMillingMachine200_4.description>
+  <MakeThreshingRiceMillingMachine200_4.jobString>Threshing Inaho.</MakeThreshingRiceMillingMachine200_4.jobString>
+
+
+  <!-- マルチ式脱穀精米機　稲穂⇒玄米 -->
+
+  <MakeThreshingRiceMillingMachine10_2.label>Thresh Inaho into Brown rice (10)</MakeThreshingRiceMillingMachine10_2.label>
+  <MakeThreshingRiceMillingMachine10_2.description>Inaho is divided into Brown rice, Straw and, Outer hull.</MakeThreshingRiceMillingMachine10_2.description>
+  <MakeThreshingRiceMillingMachine10_2.jobString>Threshing Inaho.</MakeThreshingRiceMillingMachine10_2.jobString>
+
+  <MakeThreshingRiceMillingMachine50_2.label>Thresh Inaho into Brown rice (50)</MakeThreshingRiceMillingMachine50_2.label>
+  <MakeThreshingRiceMillingMachine50_2.description>Inaho is divided into Brown rice, Straw and, Outer hull.</MakeThreshingRiceMillingMachine50_2.description>
+  <MakeThreshingRiceMillingMachine50_2.jobString>Threshing Inaho.</MakeThreshingRiceMillingMachine50_2.jobString>
+
+  <MakeThreshingRiceMillingMachine100_2.label>Thresh Inaho into Brown rice (100)</MakeThreshingRiceMillingMachine100_2.label>
+  <MakeThreshingRiceMillingMachine100_2.description>Inaho is divided into Brown rice, Straw and, Outer hull.</MakeThreshingRiceMillingMachine100_2.description>
+  <MakeThreshingRiceMillingMachine100_2.jobString>Threshing Inaho.</MakeThreshingRiceMillingMachine100_2.jobString>
+
+  <MakeThreshingRiceMillingMachine200_2.label>Thresh Inaho into Brown rice (200)</MakeThreshingRiceMillingMachine200_2.label>
+  <MakeThreshingRiceMillingMachine200_2.description>Inaho is divided into Brown rice, Straw and, Outer hull.</MakeThreshingRiceMillingMachine200_2.description>
+  <MakeThreshingRiceMillingMachine200_2.jobString>Threshing Inaho.</MakeThreshingRiceMillingMachine200_2.jobString>
+
+
+  <!-- マルチ式脱穀精米機　稲穂⇒籾米 -->
+
+  <MakeThreshingRiceMillingMachine10_3.label>Thresh Inaho into Momi (10)</MakeThreshingRiceMillingMachine10_3.label>
+  <MakeThreshingRiceMillingMachine10_3.description>Inaho is divided into Momi and Straw.</MakeThreshingRiceMillingMachine10_3.description>
+  <MakeThreshingRiceMillingMachine10_3.jobString>Threshing Inaho.</MakeThreshingRiceMillingMachine10_3.jobString>
+
+  <MakeThreshingRiceMillingMachine50_3.label>Thresh Inaho into Momi (50)</MakeThreshingRiceMillingMachine50_3.label>
+  <MakeThreshingRiceMillingMachine50_3.description>Inaho is divided into Momi and Straw.</MakeThreshingRiceMillingMachine50_3.description>
+  <MakeThreshingRiceMillingMachine50_3.jobString>Threshing Inaho.</MakeThreshingRiceMillingMachine50_3.jobString>
+
+  <MakeThreshingRiceMillingMachine100_3.label>Thresh Inaho into Momi (100)</MakeThreshingRiceMillingMachine100_3.label>
+  <MakeThreshingRiceMillingMachine100_3.description>Inaho is divided into Momi and Straw.</MakeThreshingRiceMillingMachine100_3.description>
+  <MakeThreshingRiceMillingMachine100_3.jobString>Threshing Inaho.</MakeThreshingRiceMillingMachine100_3.jobString>
+
+  <MakeThreshingRiceMillingMachine200_3.label>Thresh Inaho into Momi (200)</MakeThreshingRiceMillingMachine200_3.label>
+  <MakeThreshingRiceMillingMachine200_3.description>Inaho is divided into Momi and Straw.</MakeThreshingRiceMillingMachine200_3.description>
+  <MakeThreshingRiceMillingMachine200_3.jobString>Threshing Inaho.</MakeThreshingRiceMillingMachine200_3.jobString>
+
+
+  <!-- マルチ式脱穀精米機　稲穂⇒米(籾) -->
+
+</LanguageData>
