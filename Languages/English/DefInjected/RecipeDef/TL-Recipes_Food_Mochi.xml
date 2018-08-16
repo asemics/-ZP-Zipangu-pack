@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <CookRoastedMochi5.label>Cook Grilled Mochi (5)</CookRoastedMochi5.label>
+  <CookRoastedMochi5.description>Bake the frozen Mochi.</CookRoastedMochi5.description>
+  <CookRoastedMochi5.jobString>Cooking Mochi.</CookRoastedMochi5.jobString>
+
+  <CookThreeColoredDumplings5.label>Make Dango (5)</CookThreeColoredDumplings5.label>
+  <CookThreeColoredDumplings5.description>Three color dumplings made using frozen Mochi and rice syrup.</CookThreeColoredDumplings5.description>
+  <CookThreeColoredDumplings5.jobString>Making Dango.</CookThreeColoredDumplings5.jobString>
+
+  <CookVinegarMochi5.label>Cook Vinegar Mochi (5)</CookVinegarMochi5.label>
+  <CookVinegarMochi5.description>Mochi prepared with rice vinegar.</CookVinegarMochi5.description>
+  <CookVinegarMochi5.jobString>Cooking Vinegar Mochi.</CookVinegarMochi5.jobString>
+
+  <CookIsobeMochi5.label>Cook Isobe Mochi (5)</CookIsobeMochi5.label>
+  <CookIsobeMochi5.description>Mochi prepared with soy sauce.</CookIsobeMochi5.description>
+  <CookIsobeMochi5.jobString>Cooking Isobe Mochi</CookIsobeMochi5.jobString>
+
+  <CookGoheiMochi5.label>Cook Gohei Mochi (5)</CookGoheiMochi5.label>
+  <CookGoheiMochi5.description>Mochi prepared with Miso.</CookGoheiMochi5.description>
+  <CookGoheiMochi5.jobString>Cooking Gohei Mochi.</CookGoheiMochi5.jobString>
+
+  <CookZundaMochi5.label>Cook Zunda Mochi (5)</CookZundaMochi5.label>
+  <CookZundaMochi5.description>Mochi prepared with green soybean paste.</CookZundaMochi5.description>
+  <CookZundaMochi5.jobString>Making Zunda Mochi.</CookZundaMochi5.jobString>
+
+
+</LanguageData>
