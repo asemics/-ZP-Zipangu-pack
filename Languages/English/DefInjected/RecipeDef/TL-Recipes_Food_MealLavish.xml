@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 豪華な食事　カレーライス -->
+
+  <CookWRJPCurryRice8.label>Cook Japanese Curry (4)</CookWRJPCurryRice8.label>
+  <CookWRJPCurryRice8.description>Cook one of Japan's most popular dishes.</CookWRJPCurryRice8.description>
+  <CookWRJPCurryRice8.jobString>Cooking Japanese Curry.</CookWRJPCurryRice8.jobString>
+
+
+  <!-- 豪華な食事　寿司 -->
+
+  <CookWRSushi8.label>Make Sushi (4)</CookWRSushi8.label>
+  <CookWRSushi8.description>A dish commonly revered for its simplistic elegance.</CookWRSushi8.description>
+  <CookWRSushi8.jobString>Making Sushi.</CookWRSushi8.jobString>
+
+  <CookRamen4.label>Cook Ramen (4)</CookRamen4.label>
+  <CookRamen4.description>Produce several bowls of wonderous noodles.</CookRamen4.description>
+  <CookRamen4.jobString>Cooking Ramen.</CookRamen4.jobString>
+
+  <CookTyannko4.label>Cook Chanko Nabe (4)</CookTyannko4.label>
+  <CookTyannko4.description>Create a hearty stew using rice, meat, and vegetables.</CookTyannko4.description>
+  <CookTyannko4.jobString>Cooking Chanko Nabe.</CookTyannko4.jobString>
+
+
+</LanguageData>
