@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 精米機　籾米⇒白米 -->
+
+  <MakeRiceMillingMachineRice200N.label>Thoroughly thresh Momi into White rice (200)</MakeRiceMillingMachineRice200N.label>
+  <MakeRiceMillingMachineRice200N.description>Thresh Momi into White rice. The by-products are crushed and disappear.</MakeRiceMillingMachineRice200N.description>
+  <MakeRiceMillingMachineRice200N.jobString>Threshing Momi.</MakeRiceMillingMachineRice200N.jobString>
+
+  <MakeRiceMillingMachineGRice200N.label>Thoroughly thresh Momi into Glutinous rice (200)</MakeRiceMillingMachineGRice200N.label>
+  <MakeRiceMillingMachineGRice200N.description>Thresh Momi into Glutinous rice. The by-products are crushed and disappear.</MakeRiceMillingMachineGRice200N.description>
+  <MakeRiceMillingMachineGRice200N.jobString>Threshing Momi.</MakeRiceMillingMachineGRice200N.jobString>
+
+  <MakeRiceMillingMachineBRice200N.label>Thoroughly thresh Momi into Brown rice (200)</MakeRiceMillingMachineBRice200N.label>
+  <MakeRiceMillingMachineBRice200N.description>Thresh Momi into Brown rice. The by-products are crushed and disappear.</MakeRiceMillingMachineBRice200N.description>
+  <MakeRiceMillingMachineBRice200N.jobString>Threshing Momi.</MakeRiceMillingMachineBRice200N.jobString>
+
+  <MakeRiceMillingMachineRice10.label>Thresh Momi into White rice (10)</MakeRiceMillingMachineRice10.label>
+  <MakeRiceMillingMachineRice10.description>Momi is divided into White rice, Outer hull, and Rice bran.</MakeRiceMillingMachineRice10.description>
+  <MakeRiceMillingMachineRice10.jobString>Threshing Momi.</MakeRiceMillingMachineRice10.jobString>
+
+  <MakeRiceMillingMachineRice50.label>Thresh Momi into White rice (50)</MakeRiceMillingMachineRice50.label>
+  <MakeRiceMillingMachineRice50.description>Momi is divided into White rice, Outer hull, and Rice bran.</MakeRiceMillingMachineRice50.description>
+  <MakeRiceMillingMachineRice50.jobString>Dividing</MakeRiceMillingMachineRice50.jobString>
+
+  <MakeRiceMillingMachineRice100.label>Thresh Momi into White rice (100)</MakeRiceMillingMachineRice100.label>
+  <MakeRiceMillingMachineRice100.description>Momi is divided into White rice, Outer hull, and Rice bran.</MakeRiceMillingMachineRice100.description>
+  <MakeRiceMillingMachineRice100.jobString>Threshing Momi.</MakeRiceMillingMachineRice100.jobString>
+
+  <MakeRiceMillingMachineRice200.label>Thresh Momi into White rice (200)</MakeRiceMillingMachineRice200.label>
+  <MakeRiceMillingMachineRice200.description>Momi is divided into White rice, Outer hull, and Rice bran.</MakeRiceMillingMachineRice200.description>
+  <MakeRiceMillingMachineRice200.jobString>Threshing Momi.</MakeRiceMillingMachineRice200.jobString>
+
+
+  <!-- 精米機　米(籾)⇒玄米 -->
+
+  <MakeRiceMillingMachineRice10_4.label>Thresh Momi into Glutinous rice (10)</MakeRiceMillingMachineRice10_4.label>
+  <MakeRiceMillingMachineRice10_4.description>Momi is divided into Glutinous rice and Outer hull.</MakeRiceMillingMachineRice10_4.description>
+  <MakeRiceMillingMachineRice10_4.jobString>Threshing Momi.</MakeRiceMillingMachineRice10_4.jobString>
+
+  <MakeRiceMillingMachineRice50_4.label>Thresh Momi into Glutinous rice (50)</MakeRiceMillingMachineRice50_4.label>
+  <MakeRiceMillingMachineRice50_4.description>Momi is divided into Glutinous rice and Outer hull.</MakeRiceMillingMachineRice50_4.description>
+  <MakeRiceMillingMachineRice50_4.jobString>Threshing Momi.</MakeRiceMillingMachineRice50_4.jobString>
+
+  <MakeRiceMillingMachineRice100_4.label>Thresh Momi into Glutinous rice (100)</MakeRiceMillingMachineRice100_4.label>
+  <MakeRiceMillingMachineRice100_4.description>Momi is divided into Glutinous rice and Outer hull.</MakeRiceMillingMachineRice100_4.description>
+  <MakeRiceMillingMachineRice100_4.jobString>Threshing Momi.</MakeRiceMillingMachineRice100_4.jobString>
+
+  <MakeRiceMillingMachineRice200_4.label>Thresh Momi into Glutinous rice (200)</MakeRiceMillingMachineRice200_4.label>
+  <MakeRiceMillingMachineRice200_4.description>Momi is divided into  Glutinous rice and Outer hull.</MakeRiceMillingMachineRice200_4.description>
+  <MakeRiceMillingMachineRice200_4.jobString>Threshing Momi.</MakeRiceMillingMachineRice200_4.jobString>
+
+  <MakeRiceMillingMachineRice10_2.label>Thresh Momi into Brown rice (10)</MakeRiceMillingMachineRice10_2.label>
+  <MakeRiceMillingMachineRice10_2.description>Momi is divided into Brown rice and Outer hull.</MakeRiceMillingMachineRice10_2.description>
+  <MakeRiceMillingMachineRice10_2.jobString>Threshing Momi.</MakeRiceMillingMachineRice10_2.jobString>
+
+  <MakeRiceMillingMachineRice50_2.label>Thresh Momi into Brown rice (50)</MakeRiceMillingMachineRice50_2.label>
+  <MakeRiceMillingMachineRice50_2.description>Momi is divided into Brown rice and Outer hull.</MakeRiceMillingMachineRice50_2.description>
+  <MakeRiceMillingMachineRice50_2.jobString>Threshing Momi.</MakeRiceMillingMachineRice50_2.jobString>
+
+  <MakeRiceMillingMachineRice100_2.label>Thresh Momi into Brown rice (100)</MakeRiceMillingMachineRice100_2.label>
+  <MakeRiceMillingMachineRice100_2.description>Momi is divided into Brown rice and Outer hull.</MakeRiceMillingMachineRice100_2.description>
+  <MakeRiceMillingMachineRice100_2.jobString>Threshing Momi.</MakeRiceMillingMachineRice100_2.jobString>
+
+  <MakeRiceMillingMachineRice200_2.label>Thresh Momi into Brown rice (200)</MakeRiceMillingMachineRice200_2.label>
+  <MakeRiceMillingMachineRice200_2.description>Momi is divided into Brown rice and Outer hull.</MakeRiceMillingMachineRice200_2.description>
+  <MakeRiceMillingMachineRice200_2.jobString>Threshing Momi.</MakeRiceMillingMachineRice200_2.jobString>
+
+
+  <!-- 精米機　玄米⇒白米 -->
+
+  <MakeRiceMillingMachineRice10_3.label>Polish Brown rice into White rice (10)</MakeRiceMillingMachineRice10_3.label>
+  <MakeRiceMillingMachineRice10_3.description>By rice polishing, Brown rice becomes White rice and bran.</MakeRiceMillingMachineRice10_3.description>
+  <MakeRiceMillingMachineRice10_3.jobString>Polishing.</MakeRiceMillingMachineRice10_3.jobString>
+
+  <MakeRiceMillingMachineRice50_3.label>Polish Brown rice into White rice (50)</MakeRiceMillingMachineRice50_3.label>
+  <MakeRiceMillingMachineRice50_3.description>By rice polishing, Brown rice becomes White rice and bran.</MakeRiceMillingMachineRice50_3.description>
+  <MakeRiceMillingMachineRice50_3.jobString>Polishing.</MakeRiceMillingMachineRice50_3.jobString>
+
+  <MakeRiceMillingMachineRice100_3.label>Polish Brown rice into White rice (100)</MakeRiceMillingMachineRice100_3.label>
+  <MakeRiceMillingMachineRice100_3.description>By rice polishing, Brown rice becomes White rice and bran.</MakeRiceMillingMachineRice100_3.description>
+  <MakeRiceMillingMachineRice100_3.jobString>Polishing.</MakeRiceMillingMachineRice100_3.jobString>
+
+  <MakeRiceMillingMachineRice200_3.label>Polish Brown rice into White rice (200)</MakeRiceMillingMachineRice200_3.label>
+  <MakeRiceMillingMachineRice200_3.description>By rice polishing, Brown rice becomes White rice and bran.</MakeRiceMillingMachineRice200_3.description>
+  <MakeRiceMillingMachineRice200_3.jobString>Polishing.</MakeRiceMillingMachineRice200_3.jobString>
+
+
+  <!-- 精米機　米(籾)⇒白米 -->
+
+</LanguageData>
