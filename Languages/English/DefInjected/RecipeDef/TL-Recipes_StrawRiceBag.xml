@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 米俵をつくる -->
+
+  <MakeStrawRiceBag_RawRice.label>Make a Straw rice bag (rice)</MakeStrawRiceBag_RawRice.label>
+  <MakeStrawRiceBag_RawRice.description>300 rice can be stored, and it can be sold as an agricultural product./n CAUTION: Due to frequent rips and tears in handling, some contents may spoil, leading to a decreased yield once opened.</MakeStrawRiceBag_RawRice.description>
+  <MakeStrawRiceBag_RawRice.jobString>Stuffing bag.</MakeStrawRiceBag_RawRice.jobString>
+
+  <MakeStrawRiceBag_RiceMomi.label>Make a Straw rice bag (Momi)</MakeStrawRiceBag_RiceMomi.label>
+  <MakeStrawRiceBag_RiceMomi.description>300 Momi can be stored, and it can be sold as an agricultural product./n CAUTION: Due to frequent rips and tears in handling, some contents may spoil, leading to a decreased yield once opened.</MakeStrawRiceBag_RiceMomi.description>
+  <MakeStrawRiceBag_RiceMomi.jobString>Stuffing bag.</MakeStrawRiceBag_RiceMomi.jobString>
+
+  <MakeStrawRiceBag_BrownRice.label>Make a Straw rice bag (Brown rice)</MakeStrawRiceBag_BrownRice.label>
+  <MakeStrawRiceBag_BrownRice.description>300 Brown Rice can be stored, and it can be sold as an agricultural product./n CAUTION: Due to frequent rips and tears in handling, some contents may spoil, leading to a decreased yield once opened.</MakeStrawRiceBag_BrownRice.description>
+  <MakeStrawRiceBag_BrownRice.jobString>Stuffing bag.</MakeStrawRiceBag_BrownRice.jobString>
+
+  <MakeStrawRiceBag_GlutinousRice.label>Make a Straw rice bag (Glutinous rice)</MakeStrawRiceBag_GlutinousRice.label>
+  <MakeStrawRiceBag_GlutinousRice.description>300 Glutinous rice can be stored, and it can be sold as an agricultural product./n CAUTION: Due to frequent rips and tears in handling, some contents may spoil, leading to a decreased yield once opened.</MakeStrawRiceBag_GlutinousRice.description>
+  <MakeStrawRiceBag_GlutinousRice.jobString>Stuffing bag.</MakeStrawRiceBag_GlutinousRice.jobString>
+
+  <MakeStrawRiceBag_WhiteRice.label>Make a Straw rice bag (White rice)</MakeStrawRiceBag_WhiteRice.label>
+  <MakeStrawRiceBag_WhiteRice.description>300 White rice can be stored, and it can be sold as an agricultural product./n CAUTION: Due to frequent rips and tears in handling, some contents may spoil, leading to a decreased yield once opened.</MakeStrawRiceBag_WhiteRice.description>
+  <MakeStrawRiceBag_WhiteRice.jobString>Stuffing bag.</MakeStrawRiceBag_WhiteRice.jobString>
+
+
+  <!-- 米俵をほどく -->
+
+  <UnwindStrawRiceBag_RawRice.label>Open Straw rice bag (rice)</UnwindStrawRiceBag_RawRice.label>
+  <UnwindStrawRiceBag_RawRice.description>CAUTION: Due to frequent rips and tears in handling, some contents may spoil, leading to a decreased yield once opened.</UnwindStrawRiceBag_RawRice.description>
+  <UnwindStrawRiceBag_RawRice.jobString>Tearing open bag with reckless abandon.</UnwindStrawRiceBag_RawRice.jobString>
+
+  <UnwindStrawRiceBag_RiceMomi.label>Open Straw rice bag (Momi)</UnwindStrawRiceBag_RiceMomi.label>
+  <UnwindStrawRiceBag_RiceMomi.description>CAUTION: Due to frequent rips and tears in handling, some contents may spoil, leading to a decreased yield once opened.</UnwindStrawRiceBag_RiceMomi.description>
+  <UnwindStrawRiceBag_RiceMomi.jobString>Tearing open bag with reckless abandon.</UnwindStrawRiceBag_RiceMomi.jobString>
+
+  <UnwindStrawRiceBag_BrownRice.label>Open Straw rice bag (Brown rice)</UnwindStrawRiceBag_BrownRice.label>
+  <UnwindStrawRiceBag_BrownRice.description>/CAUTION: Due to frequent rips and tears in handling, some contents may spoil, leading to a decreased yield once opened.</UnwindStrawRiceBag_BrownRice.description>
+  <UnwindStrawRiceBag_BrownRice.jobString>Tearing open bag with reckless abandon.</UnwindStrawRiceBag_BrownRice.jobString>
+
+  <UnwindStrawRiceBag_GlutinousRice.label>Open Straw rice bag (Glutinous rice)</UnwindStrawRiceBag_GlutinousRice.label>
+  <UnwindStrawRiceBag_GlutinousRice.description>CAUTION: Due to frequent rips and tears in handling, some contents may spoil, leading to a decreased yield once opened.</UnwindStrawRiceBag_GlutinousRice.description>
+  <UnwindStrawRiceBag_GlutinousRice.jobString>Tearing open bag with reckless abandon.</UnwindStrawRiceBag_GlutinousRice.jobString>
+
+  <UnwindStrawRiceBag_WhiteRice.label>Open Straw rice bag (White rice)</UnwindStrawRiceBag_WhiteRice.label>
+  <UnwindStrawRiceBag_WhiteRice.description>CAUTION: Due to frequent rips and tears in handling, some contents may spoil, leading to a decreased yield once opened.</UnwindStrawRiceBag_WhiteRice.description>
+  <UnwindStrawRiceBag_WhiteRice.jobString>Tearing open bag with reckless abandon.</UnwindStrawRiceBag_WhiteRice.jobString>
+
+
+</LanguageData>
