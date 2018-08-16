@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 簡単な食事 ご飯 -->
+
+  <CookBRGohan1.label>Cook Brown Rice Gohan</CookBRGohan1.label>
+  <CookBRGohan1.description>Take raw rice-kome-and cook it to make Gohan.</CookBRGohan1.description>
+  <CookBRGohan1.jobString>Cooking Brown Rice Gohan.</CookBRGohan1.jobString>
+
+  <CookBRGohan4.label>Cook Brown Rice Gohan (4)</CookBRGohan4.label>
+  <CookBRGohan4.description>Take raw rice-kome-and cook it to make Gohan.</CookBRGohan4.description>
+  <CookBRGohan4.jobString>Cooking Brown Rice Gohan.</CookBRGohan4.jobString>
+
+  <CookGohan1.label>Cook White Rice Gohan</CookGohan1.label>
+  <CookGohan1.description>Make Gohan, a staple food and term for "meal." When paired with Asa, Hiru, and Ban it can mean breakfast, lunch, or dinner.</CookGohan1.description>
+  <CookGohan1.jobString>Cooking White Rice Gohan.</CookGohan1.jobString>
+
+  <CookGohan4.label>Cook White Rice Gohan (4)</CookGohan4.label>
+  <CookGohan4.description>Make Gohan, a staple food and term for "meal." When paired with Asa, Hiru, and Ban it can mean breakfast, lunch, or dinner.</CookGohan4.description>
+  <CookGohan4.jobString>Cooking White Rice Gohan.</CookGohan4.jobString>
+
+
+  <!-- 簡単な食事 単品 -->
+
+  <CookTsukudani.label>Boil Tsukudani with insect meat (4)</CookTsukudani.label>
+  <CookTsukudani.description>Sweeten insect meat by boiling it with sugar and soy sauce.</CookTsukudani.description>
+  <CookTsukudani.jobString>Boiling insect meat for Tsukudani.</CookTsukudani.jobString>
+
+  <CookKorokke4.label>Cook Korokke (4)</CookKorokke4.label>
+  <CookKorokke4.description>Create Korokke, an offshoot of croquettes.</CookKorokke4.description>
+  <CookKorokke4.jobString>Cooking Korokke.</CookKorokke4.jobString>
+
+
+</LanguageData>
