@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 脱穀機　稲穂⇒米(籾) -->
+
+  <MakeThreshingMachineRice10.label>Thresh Inaho into Momi (10)</MakeThreshingMachineRice10.label>
+  <MakeThreshingMachineRice10.description>Threshing Inaho into Momi and Straw. By using this machine, threshing can be done more efficiently than usual.</MakeThreshingMachineRice10.description>
+  <MakeThreshingMachineRice10.jobString>Threshing Inaho.</MakeThreshingMachineRice10.jobString>
+
+  <MakeThreshingMachineRice50.label>Thresh Inaho into Momi (50)</MakeThreshingMachineRice50.label>
+  <MakeThreshingMachineRice50.description>Threshing Inaho into Momi and Straw. By using this machine, threshing can be done more efficiently than usual.</MakeThreshingMachineRice50.description>
+  <MakeThreshingMachineRice50.jobString>Threshing Inaho.</MakeThreshingMachineRice50.jobString>
+
+  <MakeThreshingMachineRice100.label>Thresh Inaho into Momi (100)</MakeThreshingMachineRice100.label>
+  <MakeThreshingMachineRice100.description>Threshing Inaho into Momi and Straw. By using this machine, threshing can be done more efficiently than usual.</MakeThreshingMachineRice100.description>
+  <MakeThreshingMachineRice100.jobString>Threshing Inaho.</MakeThreshingMachineRice100.jobString>
+
+  <MakeThreshingMachineRice200.label>Thresh Inaho into Momi (200)</MakeThreshingMachineRice200.label>
+  <MakeThreshingMachineRice200.description>Threshing Inaho into Momi and Straw. By using this machine, threshing can be done more efficiently than usual.</MakeThreshingMachineRice200.description>
+  <MakeThreshingMachineRice200.jobString>Threshing Inaho.</MakeThreshingMachineRice200.jobString>
+
+
+  <!-- 脱穀機　稲穂⇒籾米(もち米) -->
+
+  <MakeThreshingMachineGRice10.label>Thresh Inaho into Glutinous rice (10)</MakeThreshingMachineGRice10.label>
+  <MakeThreshingMachineGRice10.description>Threshing Inaho into Glutinous rice and Straw. By using this machine, threshing can be done more efficiently than usual.</MakeThreshingMachineGRice10.description>
+  <MakeThreshingMachineGRice10.jobString>Threshing Inaho.</MakeThreshingMachineGRice10.jobString>
+
+  <MakeThreshingMachineGRice50.label>Thresh Inaho into Glutinous rice (50)</MakeThreshingMachineGRice50.label>
+  <MakeThreshingMachineGRice50.description>Threshing Inaho into Glutinous rice and Straw. By using this machine, threshing can be done more efficiently than usual.</MakeThreshingMachineGRice50.description>
+  <MakeThreshingMachineGRice50.jobString>Threshing Inaho.</MakeThreshingMachineGRice50.jobString>
+
+  <MakeThreshingMachineGRice100.label>Thresh Inaho into Glutinous rice (100)</MakeThreshingMachineGRice100.label>
+  <MakeThreshingMachineGRice100.description>Threshing Inaho into Glutinous rice and Straw. By using this machine, threshing can be done more efficiently than usual.</MakeThreshingMachineGRice100.description>
+  <MakeThreshingMachineGRice100.jobString>Threshing Inaho.</MakeThreshingMachineGRice100.jobString>
+
+  <MakeThreshingMachineGRice200.label>Thresh Inaho into Glutinous rice (200)</MakeThreshingMachineGRice200.label>
+  <MakeThreshingMachineGRice200.description>Threshing Inaho into Glutinous rice and Straw. By using this machine, threshing can be done more efficiently than usual.</MakeThreshingMachineGRice200.description>
+  <MakeThreshingMachineGRice200.jobString>Threshing Inaho.</MakeThreshingMachineGRice200.jobString>
+
+
+</LanguageData>
