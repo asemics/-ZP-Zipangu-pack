@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 調味料 -->
+
+  <R_CookNaturalSalt.label>Make Natural salt (25)</R_CookNaturalSalt.label>
+  <R_CookNaturalSalt.description>Extract salt from water.</R_CookNaturalSalt.description>
+  <R_CookNaturalSalt.jobString>Extracting salt from water.</R_CookNaturalSalt.jobString>
+
+  <R_CookSyrup10.label>Make Rice syrup(25)</R_CookSyrup10.label>
+  <R_CookSyrup10.description>Begin by boiling rice to extract its sugar, then use that sugar to create syrup.</R_CookSyrup10.description>
+  <R_CookSyrup10.jobString>Making syrup.</R_CookSyrup10.jobString>
+
+  <R_CookVinegarBarrel.label>Make a Rice vinegar barrel</R_CookVinegarBarrel.label>
+  <R_CookVinegarBarrel.description>Combine several types of rice and allow them to ferment in a barrel; once ready, the barrel can be unpacked for rice vinegar.</R_CookVinegarBarrel.description>
+  <R_CookVinegarBarrel.jobString>Making Rice vineger barrel.</R_CookVinegarBarrel.jobString>
+
+  <R_CookVinegar10.label>Make Rice vinegar (25)</R_CookVinegar10.label>
+  <R_CookVinegar10.description>Unpack a barrel to attain rice vinegar.</R_CookVinegar10.description>
+  <R_CookVinegar10.jobString>Unpacking barrel.</R_CookVinegar10.jobString>
+
+  <R_CookSoySauceBarrel.label>Make a Soy sauce barrel</R_CookSoySauceBarrel.label>
+  <R_CookSoySauceBarrel.description>Pack soybeans into a barrel and ferment with salt; once ready, the barrel can be unpacked for soy sauce.</R_CookSoySauceBarrel.description>
+  <R_CookSoySauceBarrel.jobString>Making Soy sauce barrel.</R_CookSoySauceBarrel.jobString>
+
+  <R_CookSoySauce10.label>Make Soy sauce (25)</R_CookSoySauce10.label>
+  <R_CookSoySauce10.description>Unpack a barrel to attain soy sauce.</R_CookSoySauce10.description>
+  <R_CookSoySauce10.jobString>Unpacking barrel.</R_CookSoySauce10.jobString>
+
+  <R_CookMisoBarrel.label>Make a Miso barrel</R_CookMisoBarrel.label>
+  <R_CookMisoBarrel.description>Pack soybeans into a barrel and ferment with salt; once ready, the barrel can be unpacked for Miso.</R_CookMisoBarrel.description>
+  <R_CookMisoBarrel.jobString>Making Miso barrel.</R_CookMisoBarrel.jobString>
+
+  <R_CookMiso10.label>Make Miso (25)</R_CookMiso10.label>
+  <R_CookMiso10.description>Unpack a barrel to attain Miso.</R_CookMiso10.description>
+  <R_CookMiso10.jobString>Unpacking barrel.</R_CookMiso10.jobString>
+
+
+</LanguageData>
