@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 籾摺り臼　籾米⇒玄米 -->
+
+  <MakeRiceStoneSlurryRice10.label>Thresh Momi into Brown rice (10)</MakeRiceStoneSlurryRice10.label>
+  <MakeRiceStoneSlurryRice10.description>Momi is divided into Brown rice and Outer hull.</MakeRiceStoneSlurryRice10.description>
+  <MakeRiceStoneSlurryRice10.jobString>Threshing Momi.</MakeRiceStoneSlurryRice10.jobString>
+
+  <MakeRiceStoneSlurryRice50.label>Thresh Momi into Brown rice (50)</MakeRiceStoneSlurryRice50.label>
+  <MakeRiceStoneSlurryRice50.description>Momi is divided into Brown rice and Outer hull.</MakeRiceStoneSlurryRice50.description>
+  <MakeRiceStoneSlurryRice50.jobString>Threshing Momi.</MakeRiceStoneSlurryRice50.jobString>
+
+
+  <!-- 籾摺り臼　籾米⇒もち米 -->
+
+  <MakeRiceStoneSlurryGRice10.label>Threshing Momi into Glutinous rice (10)</MakeRiceStoneSlurryGRice10.label>
+  <MakeRiceStoneSlurryGRice10.description>Drain rice in the mortar and divide it into Glutinous rice and Outer hull.</MakeRiceStoneSlurryGRice10.description>
+  <MakeRiceStoneSlurryGRice10.jobString>Threshing Momi.</MakeRiceStoneSlurryGRice10.jobString>
+
+  <MakeRiceStoneSlurryGRice50.label>Thresh Momi into Glutinous rice (50)</MakeRiceStoneSlurryGRice50.label>
+  <MakeRiceStoneSlurryGRice50.description>Drain rice in the mortar and divide it into Glutinous rice and Outer hull.。</MakeRiceStoneSlurryGRice50.description>
+  <MakeRiceStoneSlurryGRice50.jobString>Threshing Momi.</MakeRiceStoneSlurryGRice50.jobString>
+
+
+  <!-- 籾摺り臼　籾米⇒玄米 -->
+
+  <MakeRiceStoneSlurryRice10_1.label>Separate Momi into Brown rice (10)</MakeRiceStoneSlurryRice10_1.label>
+  <MakeRiceStoneSlurryRice10_1.description>Momi is divided into Brown rice and Outer hull.\nBy doing it gently you can earn a small amount of White rice.</MakeRiceStoneSlurryRice10_1.description>
+  <MakeRiceStoneSlurryRice10_1.jobString>Separating Momi.</MakeRiceStoneSlurryRice10_1.jobString>
+
+  <MakeRiceStoneSlurryRice50_2.label>Separate Momi into Brown rice (50)</MakeRiceStoneSlurryRice50_2.label>
+  <MakeRiceStoneSlurryRice50_2.description>Momi is divided into Brown rice and Outer hull.\nBy doing it gently you can earn a small amount of White rice.</MakeRiceStoneSlurryRice50_2.description>
+  <MakeRiceStoneSlurryRice50_2.jobString>Separating Momi.</MakeRiceStoneSlurryRice50_2.jobString>
+
+  <ZP_MakeFlour10.label>Make Flour (10)</ZP_MakeFlour10.label>
+  <ZP_MakeFlour10.description>Grinding grain into flour.</ZP_MakeFlour10.description>
+  <ZP_MakeFlour10.jobString>Making Flour.</ZP_MakeFlour10.jobString>
+
+  <ZP_MakeFlour50.label>Make Flour (50)</ZP_MakeFlour50.label>
+  <ZP_MakeFlour50.description>Grinding grain into flour.</ZP_MakeFlour50.description>
+  <ZP_MakeFlour50.jobString>Making Flour.</ZP_MakeFlour50.jobString>
+
+  <ZP_MakeSoymilk10.label>Make Soymilk (10)</ZP_MakeSoymilk10.label>
+  <ZP_MakeSoymilk10.description>Press beans into milk.</ZP_MakeSoymilk10.description>
+  <ZP_MakeSoymilk10.jobString>Pressing beans.</ZP_MakeSoymilk10.jobString>
+
+  <ZP_MakeSoymilk50.label>Make Soymilk (50)</ZP_MakeSoymilk50.label>
+  <ZP_MakeSoymilk50.description>Press beans into milk.</ZP_MakeSoymilk50.description>
+  <ZP_MakeSoymilk50.jobString>Pressing beans.</ZP_MakeSoymilk50.jobString>
+
+  <ZP_MakeKonnyaku10.label>Make Konnyaku (10)</ZP_MakeKonnyaku10.label>
+  <ZP_MakeKonnyaku10.description>Prepare Taro, mix with lime water, and then pour into a mold.</ZP_MakeKonnyaku10.description>
+  <ZP_MakeKonnyaku10.jobString>Making Konnyaku.</ZP_MakeKonnyaku10.jobString>
+
+  <ZP_MakeKonnyaku50.label>Make Konnyaku (50)</ZP_MakeKonnyaku50.label>
+  <ZP_MakeKonnyaku50.description>Prepare Taro, mix with lime water, and then pour into a mold.</ZP_MakeKonnyaku50.description>
+  <ZP_MakeKonnyaku50.jobString>Making Konnyaku.</ZP_MakeKonnyaku50.jobString>
+
+
+  <!-- 籾摺り臼　米(籾)⇒玄米 -->
+
+</LanguageData>
