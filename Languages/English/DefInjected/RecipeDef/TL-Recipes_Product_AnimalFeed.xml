@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 飼い葉作成 -->
+
+  <MakeR_Manger10.label>Make Manger (10)</MakeR_Manger10.label>
+  <MakeR_Manger10.description>Mix straw with rice bran and grain to make a batch of manger.</MakeR_Manger10.description>
+  <MakeR_Manger10.jobString>Mixing straw, rice bran, and grain.</MakeR_Manger10.jobString>
+
+
+  <!-- 削除予定 -->
+
+  <MakeR_Manger20.label>Make Manger (20)</MakeR_Manger20.label>
+  <MakeR_Manger20.description>Mix straw with rice bran and grain to make a batch of manger.</MakeR_Manger20.description>
+  <MakeR_Manger20.jobString>Mixing straw, rice bran, and grain.</MakeR_Manger20.jobString>
+
+  <MakeR_Manger30.label>Make Manger (30)</MakeR_Manger30.label>
+  <MakeR_Manger30.description>Mix straw with rice bran and grain to make a batch of manger.</MakeR_Manger30.description>
+  <MakeR_Manger30.jobString>Mixing straw, rice bran, and grain.</MakeR_Manger30.jobString>
+
+
+  <!-- ペットフード作成 -->
+
+  <MakeR_PetFood150.label>Make Pet food (150)</MakeR_PetFood150.label>
+  <MakeR_PetFood150.description>Mix kibble, outer hull and rice bran to make a more effecient pet food.</MakeR_PetFood150.description>
+  <MakeR_PetFood150.jobString>Mixing kibble, outer hull, and rice bran.</MakeR_PetFood150.jobString>
+
+  <MakeR_FishFood150.label>Make Fish food (150)</MakeR_FishFood150.label>
+  <MakeR_FishFood150.description>Mix rice bran with crushed potatoes, and then add water.</MakeR_FishFood150.description>
+  <MakeR_FishFood150.jobString>Making Fish food.</MakeR_FishFood150.jobString>
+
+
+  <!-- ミミズ採取 -->
+
+  <ZP_CollectEarthworms.label>Capture earthworms</ZP_CollectEarthworms.label>
+  <ZP_CollectEarthworms.description>Capture earthworms that will improve soil and act as feed for fish.</ZP_CollectEarthworms.description>
+  <ZP_CollectEarthworms.jobString>Capturing earthworms.</ZP_CollectEarthworms.jobString>
+
+
+</LanguageData>
