@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <CookPuffedRice5.label>Cook Muri (2)</CookPuffedRice5.label>
+  <CookPuffedRice5.description>Puffed rice. The rice is inflated through high pressure and heat.</CookPuffedRice5.description>
+  <CookPuffedRice5.jobString>Boooombastic Flavor!!!</CookPuffedRice5.jobString>
+
+  <CookRiceCracker.label>Cook Senbei (2)</CookRiceCracker.label>
+  <CookRiceCracker.description>Prepare Senbei, a type of rice cracker.</CookRiceCracker.description>
+  <CookRiceCracker.jobString>Cooking Senbei.</CookRiceCracker.jobString>
+
+  <CookOkoshi.label>Cook Okoshi (2)</CookOkoshi.label>
+  <CookOkoshi.description>More eloquently known as Kaminari-okoshi, this rice-based candy bar can be flavor with syrup, soybeans, or mochi.</CookOkoshi.description>
+  <CookOkoshi.jobString>Cooking Okoshi.</CookOkoshi.jobString>
+
+  <CookKasutera.label>Bake Baby Castella (2)</CookKasutera.label>
+  <CookKasutera.description>Create several servings of Japanese sponge cake.</CookKasutera.description>
+  <CookKasutera.jobString>Baking Baby Castella.</CookKasutera.jobString>
+
+  <CookKompeito.label>Bake Kompeito (2)</CookKompeito.label>
+  <CookKompeito.description>Create a handful of sugar stars. A favorite of the Demon King.</CookKompeito.description>
+  <CookKompeito.jobString>Baking Kompeito.</CookKompeito.jobString>
+
+  <CookCottonCandy.label>Bake Cotton candy (2)</CookCottonCandy.label>
+  <CookCottonCandy.description>Make several fluffy clouds of pure sugar.</CookCottonCandy.description>
+  <CookCottonCandy.jobString>Baking Cotton candy.</CookCottonCandy.jobString>
+
+  <CookBoiledEdamame.label>Cook Boiled Edamame (2)</CookBoiledEdamame.label>
+  <CookBoiledEdamame.description>Boil soybeans and season with salt.</CookBoiledEdamame.description>
+  <CookBoiledEdamame.jobString>Boiling Edamame.</CookBoiledEdamame.jobString>
+
+  <CookYakitori.label>Cook Yakitori (2)</CookYakitori.label>
+  <CookYakitori.description>Grill seasoned meat and onions on a long skewer.く</CookYakitori.description>
+  <CookYakitori.jobString>Cooking Yakitori.</CookYakitori.jobString>
+
+  <CookHiyayakko.label>Bake Hiyayakko (2)</CookHiyayakko.label>
+  <CookHiyayakko.description>A chilled cube of tofu with various vegetable toppings.</CookHiyayakko.description>
+  <CookHiyayakko.jobString>Baking Hiyayakko.</CookHiyayakko.jobString>
+
+  <CookMisotanpo.label>Cook Kiritanpo (2)</CookMisotanpo.label>
+  <CookMisotanpo.description>Pounded rice is toasted on skewers over an open flame. Once toasted, the rice can be dipped in miso for flavor.</CookMisotanpo.description>
+  <CookMisotanpo.jobString>Cooking Kiritanpo.</CookMisotanpo.jobString>
+
+
+</LanguageData>
