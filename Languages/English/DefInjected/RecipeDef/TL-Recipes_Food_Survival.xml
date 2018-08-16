@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 非常食品 -->
+
+  <CookMealSurvival_1st.label>Cook Alpha Rice (4)</CookMealSurvival_1st.label>
+  <CookMealSurvival_1st.description>Make several emergency meals.</CookMealSurvival_1st.description>
+  <CookMealSurvival_1st.jobString>Cooking Alpha Rice.</CookMealSurvival_1st.jobString>
+
+  <CookMealSurvival_2nd.label>Cook Hardtack (4)</CookMealSurvival_2nd.label>
+  <CookMealSurvival_2nd.description>Create a simple and inexpensive kind of cracker/biscuit.</CookMealSurvival_2nd.description>
+  <CookMealSurvival_2nd.jobString>Cooking Hardtack.</CookMealSurvival_2nd.jobString>
+
+  <CookMealSurvival_3rd.label>Cook Chimaki (4)</CookMealSurvival_3rd.label>
+  <CookMealSurvival_3rd.description>Increase the shelf life of glutinous rice by simmering it, and then wrapping it in straw.</CookMealSurvival_3rd.description>
+  <CookMealSurvival_3rd.jobString>Cooking Chimaki.</CookMealSurvival_3rd.jobString>
+
+
+</LanguageData>
