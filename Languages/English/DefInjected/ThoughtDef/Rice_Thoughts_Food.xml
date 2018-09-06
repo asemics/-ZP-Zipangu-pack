@@ -3,52 +3,52 @@
 
   <!-- 簡単+0 イナゴの佃煮+1 -->
 
-  <R_AteTukudani.stages.0.label>I ate Tsukudani of insects</R_AteTukudani.stages.0.label>
-  <R_AteTukudani.stages.0.description>Parhaps I can eat these if I close eyes...?</R_AteTukudani.stages.0.description>
+  <R_AteTukudani.stages.0.label>Ate caramelized insects</R_AteTukudani.stages.0.label>
+  <R_AteTukudani.stages.0.description>Perhaps I can eat this if I close my eyes...</R_AteTukudani.stages.0.description>
 
 
   <!-- 嗜好品 -->
 
-  <AteFoodBreaktime.stages.0.label>至福の時</AteFoodBreaktime.stages.0.label>
-  <AteFoodBreaktime.stages.0.description>間食の時間だけは邪魔されたくない。</AteFoodBreaktime.stages.0.description>
+  <AteFoodBreaktime.stages.0.label>Feeling blissful</AteFoodBreaktime.stages.0.label>
+  <AteFoodBreaktime.stages.0.description>I won't let anything interupt snack time!</AteFoodBreaktime.stages.0.description>
 
 
   <!-- 簡単+0 白米 -->
 
-  <R_AteMealSimple.stages.0.label>I ate delicious white rice !!</R_AteMealSimple.stages.0.label>
-  <R_AteMealSimple.stages.0.description>I am happy by eating homemade white rice</R_AteMealSimple.stages.0.description>
+  <R_AteMealSimple.stages.0.label>Ate delicious white rice</R_AteMealSimple.stages.0.label>
+  <R_AteMealSimple.stages.0.description>I am happy from eating homemade white rice.</R_AteMealSimple.stages.0.description>
 
 
   <!-- 手の込んだ+5 -->
 
-  <R_AteMealFine.stages.0.label>I ate delicious white rice !!</R_AteMealFine.stages.0.label>
-  <R_AteMealFine.stages.0.description>I am happy by eating homemade white rice</R_AteMealFine.stages.0.description>
+  <R_AteMealFine.stages.0.label>Ate really delicious white rice</R_AteMealFine.stages.0.label>
+  <R_AteMealFine.stages.0.description>I am happy from eating fine homemade white rice.</R_AteMealFine.stages.0.description>
 
 
   <!-- 豪華+10 -->
 
-  <R_MealLavish.stages.0.label>I ate delicious white rice !!</R_MealLavish.stages.0.label>
-  <R_MealLavish.stages.0.description>I am happy by eating lavish meal made of very tasty homemade white rice</R_MealLavish.stages.0.description>
+  <R_MealLavish.stages.0.label>Ate extremely delicious white rice</R_MealLavish.stages.0.label>
+  <R_MealLavish.stages.0.description>I am happy from eating lavish homemade white rice.</R_MealLavish.stages.0.description>
 
-  <R_CurryRice.stages.0.label>Curry and rice is the best !!</R_CurryRice.stages.0.label>
-  <R_CurryRice.stages.0.description>It is too luxurious to enjoy different tastes every day if we change the ingredients or how to eat</R_CurryRice.stages.0.description>
+  <R_CurryRice.stages.0.label>Ate the best curry and rice</R_CurryRice.stages.0.label>
+  <R_CurryRice.stages.0.description>It is so luxurious enjoying different tastes every day by changing ingredients or methods.</R_CurryRice.stages.0.description>
 
 
   <!-- 調味料 -->
 
-  <R_SeasoningDebuff.stages.0.label>Let me eat meal... please...</R_SeasoningDebuff.stages.0.label>
-  <R_SeasoningDebuff.stages.0.description>Meals are seasonings only, it is too sadness...</R_SeasoningDebuff.stages.0.description>
+  <R_SeasoningDebuff.stages.0.label>Ate raw seasoning</R_SeasoningDebuff.stages.0.label>
+  <R_SeasoningDebuff.stages.0.description>Seasonings is for cooking only. Nothing can express my sadness.</R_SeasoningDebuff.stages.0.description>
 
-  <R_Syrupbuff.stages.0.label>What you steal and eat tastes of rice syrup</R_Syrupbuff.stages.0.label>
-  <R_Syrupbuff.stages.0.description>Rice syrup which licked not to be found by everyone is thrilling sweetness!!</R_Syrupbuff.stages.0.description>
+  <R_Syrupbuff.stages.0.label>Stole a taste of rice syrup</R_Syrupbuff.stages.0.label>
+  <R_Syrupbuff.stages.0.description>Licking rice syrup unseen is such thrilling sweetness!</R_Syrupbuff.stages.0.description>
 
 
   <!-- B級グルメ+3 -->
-  <!--<AteMealSimpleB.stages.0.label>I ate cheap but tasty local food !!</AteMealSimpleB.stages.0.label>-->
-  <!--<AteMealSimpleB.stages.0.description>I am happy to eat cheap but tasty local food.</AteMealSimpleB.stages.0.description>-->
+  <!--<AteMealSimpleB.stages.0.label>Ate cheap but tasty local food</AteMealSimpleB.stages.0.label>-->
+  <!--<AteMealSimpleB.stages.0.description>I am happy to enjoy cheap but tasty local food.</AteMealSimpleB.stages.0.description>-->
   <!-- B級グルメ+3 白米+4 -->
   <!--<R_AteMealSimpleB.stages.0.label>I ate cheap but tasty local food !!</R_AteMealSimpleB.stages.0.label>-->
-  <!--<R_AteMealSimpleB.stages.0.description>I am happy to eat cheap but tasty local food made from white rice.</R_AteMealSimpleB.stages.0.description>-->
+  <!--<R_AteMealSimpleB.stages.0.description>I am happy to enjoy cheap but tasty local food made with white rice.</R_AteMealSimpleB.stages.0.description>-->
   <!-- 簡単+0 白米+3 -->
   <!-- 手の込んだ+5 白米+4 -->
   <!-- 豪華+10 白米+5 -->
