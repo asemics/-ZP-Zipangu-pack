@@ -2,54 +2,54 @@
 <LanguageData>
 	<!-- 米関係 y=0 -->
 	<ReUplandRice.label>Upland rice</ReUplandRice.label>
-	<ReUplandRice.description>To improve the productivity of rice, improve variety and produce upland rice.</ReUplandRice.description>
+	<ReUplandRice.description>Improve the rice productivity. Allows sowing of upland rice.</ReUplandRice.description>
 	<ReWetlandRice.label>Semiaquatic rice</ReWetlandRice.label>
-	<ReWetlandRice.description>Develop Semiaquatic rice and Paddy fields to further increase productivity.</ReWetlandRice.description>
+	<ReWetlandRice.description>Develop semiaquatic rice and paddy fields to further improve rice productivity.</ReWetlandRice.description>
 	<ReGlutinousRice.label>Glutinous rice</ReGlutinousRice.label>
-	<ReGlutinousRice.description>もちもちとした食感のお米に品種改良をする。\n解放⇒もち米(要：栽培ｽｷﾙ 4),杵臼,もち米レシピ7種類</ReGlutinousRice.description>
+	<ReGlutinousRice.description>Sow glutinous rice, a type of sticky rice usable in a variety of food preparations. \nUnlocks: glutinous rice (min skill: 4), mortar and pestle sets, and 7 more recipes involving sticky rice.</ReGlutinousRice.description>
 	<ReThreshingRiceMillingMachine.label>All-purpose rice processing machine</ReThreshingRiceMillingMachine.label>
-	<ReThreshingRiceMillingMachine.description>Learn how to make Agricultural tools to consume Inaho and convert it to White rice.</ReThreshingRiceMillingMachine.description>
+	<ReThreshingRiceMillingMachine.description>Build agricultural tools which convert ears of rice into white or brown rice.</ReThreshingRiceMillingMachine.description>
 	<!-- 栽培関係 y=1 -->
-	<ReAquacultureFish.label>Farm fish net</ReAquacultureFish.label>
-	<ReAquacultureFish.description>Learn how to farm fish. The farming period is very long, but you can harvest very nutritious fish.\nCAUTION:To grow, light, appropriate temperature control and feed(fish food, earthworm, insect meat) is necessary.\nUnlock : Farming fish(Necessary: Growing skill 10), Farm fish net (3x3)</ReAquacultureFish.description>
-	<ReAquacultureNet.label>Large Farm fish net</ReAquacultureNet.label>
-	<ReAquacultureNet.description>Learn how to make a large Farm fish net so that many fish can be farmed.\nUnlock : Large Farm fish net(4x5)</ReAquacultureNet.description>
-	<ReFloatingSunLamp.label>Floating solar light(need fuel)</ReFloatingSunLamp.label>
-	<ReFloatingSunLamp.description>Learn how to build a floating solar light (need fuel) even in poor footing.\nUnlock : Floating solar light(need fuel)</ReFloatingSunLamp.description>
+	<ReAquacultureFish.label>Fish farming net</ReAquacultureFish.label>
+	<ReAquacultureFish.description>Learn how to farm fish. The farming period is very long, but you can produce very nutritious fish.\nTo raise fish, it is neccessary to provide light, control temperature, and food (fish food, earthworms, or insect meat).\nUnlock : Fish farming (min skill: 10), Fish farming net (3x3)</ReAquacultureFish.description>
+	<ReAquacultureNet.label>Large fish farming net</ReAquacultureNet.label>
+	<ReAquacultureNet.description>Learn how to build a larger fish farming net so that more fish can be farmed.\nUnlocks: Large Fish farming net (4x5)</ReAquacultureNet.description>
+	<ReFloatingSunLamp.label>Floating solar light (Fueled)</ReFloatingSunLamp.label>
+	<ReFloatingSunLamp.description>Build a floating solar light that needs fuel. It can be placed even in unstable terrain.\nUnlock : Floating solar light(need fuel)</ReFloatingSunLamp.description>
 	<ReBeans.label>Soybeans</ReBeans.label>
-	<ReBeans.description>Learn how to grow Soybeans and Edamame(immature Soybeans).\nUnlock : Soybeans(Necessary: Growing skill 4),Edamame(Necessary: Growing skill 4)</ReBeans.description>
+	<ReBeans.description>Sow soybeans and edamame (immature soybeans).\nUnlocks: soybeans (min skill: 4) and edamame (min skill: 4).</ReBeans.description>
 	<!-- 土壌開発 y=2 -->
 	<ReZPSoil.label>Soil</ReZPSoil.label>
-	<ReZPSoil.description>Reserch agriculturally possible soil.\nSoil will be placed on sand, ice, gravel, rough stone, smooth stone.\nUnlock : Soil(Fertility:100%)</ReZPSoil.description>
+	<ReZPSoil.description>Tilling the land to be suitable for agriculture.\nSoil can be placed on sand, ice, gravel, rough stone, or smooth stone.\nUnlocks: Soil (Fertility:100%)</ReZPSoil.description>
 	<ReZPSoilRich.label>Fertile Soil</ReZPSoilRich.label>
-	<ReZPSoilRich.description>Improve agriculturally possible soil to Rich Soil.\nUnlock : Fertile Soil(Fertility:140%)</ReZPSoilRich.description>
+	<ReZPSoilRich.description>Convert agriculturally suitable soil into highly fertile rich soil.\nUnlocks: Fertile Soil (Fertility:140%)</ReZPSoilRich.description>
 	<ReZPMud.label>Mud</ReZPMud.label>
-	<ReZPMud.description>Reserch Mud for paddy fields.\nUnlock : Mud,Mud gathering spot</ReZPMud.description>
-	<ReZPLandfillSoil.label>Reclaimed soil</ReZPLandfillSoil.label>
-	<ReZPLandfillSoil.description>Fill the ground with poor footing.\nUnlock : Reclaimed soil</ReZPLandfillSoil.description>
-	<ReScarecrow.label>Scarecrow of fertility</ReScarecrow.label>
-	<ReScarecrow.description>Learn how to make the scarecrow accept the blessing of fertile God.\nAs long as there is an offering(fuel), Up 30% fertility of the soil within 9 squares.\nCAUTION:Paddy fields and hydroponics growers will not accept blessing.</ReScarecrow.description>
+	<ReZPMud.description>Muddy the soil for use as a paddy.\nUnlocks: Mud, Mud gathering spot</ReZPMud.description>
+	<ReZPLandfillSoil.label>Land reclamation</ReZPLandfillSoil.label>
+	<ReZPLandfillSoil.description>Convert disturbed land back into its former or other productive uses.\nUnlocks: Reclaimed soil</ReZPLandfillSoil.description>
+	<ReScarecrow.label>Scarecrow of Fertility</ReScarecrow.label>
+	<ReScarecrow.description>Build a scarecrow with the blessing of the fertility gods.\nAs long as there is an offering (fuel), the fertility of the soil within 9 squares is increased by 30%.\nNote: Paddy fields and hydroponics do not benefit from the blessing.</ReScarecrow.description>
 	<!-- 食料関係 y=3 -->
 	<ReSeasoning.label>Seasoning</ReSeasoning.label>
-	<ReSeasoning.description>Learn how to make seasonings that will enrich your diet.\nUnlock : Rice syrup, Rice vineger, Soy souce, Miso</ReSeasoning.description>
+	<ReSeasoning.description>Produce seasonings that will enrich colonists' diet.\nUnlocks: rice syrup, rice vineger, soy sauce, and miso.</ReSeasoning.description>
 	<RePreservedFood.label>Preserved meals</RePreservedFood.label>
-	<RePreservedFood.description>Learn how to make preserved meals to preserve food for a long time.\nUnlock : Nukaduke, Dried fish, Natto, Nuka pot</RePreservedFood.description>
-	<ReZPLuxury.label>Luxury</ReZPLuxury.label>
-	<ReZPLuxury.description>嗜好品の作り方を学ぶ。\n解放⇒飲み物レシピ2種,嗜好品レシピ7種</ReZPLuxury.description>
+	<RePreservedFood.description>Produce preserved meals which last for a long time. Great for traveling.\nUnlocks: nukaduke, dried fish, natto, and nuka pot.</RePreservedFood.description>
+	<ReZPLuxury.label>Japanese haute cuisine</ReZPLuxury.label>
+	<ReZPLuxury.description>Produce Japanese high-level cooking.\nUnlocks: 2 varieties of drinks and 7 varieties of luxurious meals.</ReZPLuxury.description>
 	<!-- 家具 y=4 -->
-	<ReZPFurniture.label>Japanese style furniture</ReZPFurniture.label>
-	<ReZPFurniture.description>Learn how to build Japanese style furniture to improve the living environment.\nUnlock : Straw-woven bed, Uchiwa, Hibachi</ReZPFurniture.description>
-	<ReZPFurniture2nd.label>Japanese style furnitureⅡ</ReZPFurniture2nd.label>
-	<ReZPFurniture2nd.description>住環境をよくする和風家具Ⅱの建て方を学ぶ。\n解放⇒布団,囲炉裏,炬燵,座布団</ReZPFurniture2nd.description>
+	<ReZPFurniture.label>Japanese furniture Tier: 1</ReZPFurniture.label>
+	<ReZPFurniture.description>Build Japanese style furniture to improve living space.\nUnlocks: straw-woven beds, Japanese hand fans (uchiwa), and Japanese braizers (hibachi)</ReZPFurniture.description>
+	<ReZPFurniture2nd.label>Japanese furniture Tier: 2</ReZPFurniture2nd.label>
+	<ReZPFurniture2nd.description>Build more Japanese style furniture to further improve living space.\nUnlocks: futons ,Japanese hearths (irori),heated tables (kotasu),and sitting cushions (zabuton).</ReZPFurniture2nd.description>
 	<!-- 装備関係 y=5 -->
 	<BlacksmithApprentice.label>Blacksmith Apprentice</BlacksmithApprentice.label>
-	<BlacksmithApprentice.description>You can master the techniques of making NagayariSpears, Sasumata, JapaneseLongbow, MuneateArmor, Ninja clothes, Samurai clothes.</BlacksmithApprentice.description>
+	<BlacksmithApprentice.description>Craft basic-level Japanese military techonology like nagayari spears, sasumata, Japanese longbows, archery breastplates (muneate), ninja clothes, samurai clothes.</BlacksmithApprentice.description>
 	<BlacksmithArtisan.label>Blacksmith Artisan</BlacksmithArtisan.label>
-	<BlacksmithArtisan.description>You can master the techniques of making AsigaruArmor, JingasaHelmet, JumonjiSpear, OdachiBlade, JapaneseLongbow(poison).</BlacksmithArtisan.description>
+	<BlacksmithArtisan.description>Craft intermediate-level Japanese military techonology like Asigaru armor, lacquered helments (jingasa), Jumonji spears, Odachi blades, and Japanese longbows (poison).</BlacksmithArtisan.description>
 	<BlacksmithMaster.label>Blacksmith Master</BlacksmithMaster.label>
-	<BlacksmithMaster.description>You can master the techniques of making SyogunArmor, SyogunHelmet, JapaneseLongbow(fire).</BlacksmithMaster.description>
-	<BlacksmithTanegasima.label>Blacksmith Tanegasima</BlacksmithTanegasima.label>
-	<BlacksmithTanegasima.description>You can master the techniques of making TanegasimaGun.</BlacksmithTanegasima.description>
+	<BlacksmithMaster.description>Craft master-level Japanese military techonology like Shogun Armor, Shogun helmets, and Japanese longbows (fire).</BlacksmithMaster.description>
+	<BlacksmithTanegasima.label>Match-lock rifles</BlacksmithTanegasima.label>
+	<BlacksmithTanegasima.description>Craft Japanese firearms like the Japanese match-lock rifle (tanegashima).</BlacksmithTanegasima.description>
 	<ReDefenseBase.label>Defense system</ReDefenseBase.label>
-	<ReDefenseBase.description>Learn how to build a defense position.\nunlock : Kaidate, Straw mass, Gunpowder in Straw mass</ReDefenseBase.description>
+	<ReDefenseBase.description>Build a defense position.\nUnlocks: archery cover (kaidate), straw bundles, gunpowder straw bundles</ReDefenseBase.description>
 </LanguageData>
